@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/newspaperSection/newspaper_section_director_calls.po\n"
+"X-Crowdin-File-ID: 5351\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:31\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:6 #-#-# translate crowdin newspaper_section_director_calls_534a0246:
+msgid "[_martin_]  Ах, вот вы где, мистер Хоффман! Я вас обыскался"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:7 #-#-# translate crowdin newspaper_section_director_calls_7635b714:
+msgid "[_cedrick_] Эм.. Мартин, верно? Что случилось?"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:11 #-#-# translate crowdin newspaper_section_director_calls_afd60356:
+msgid "[_martin_] Госпожа Никербокер уполномочила мне отыскать вас и сообщить, что она ждет вас у себя в кабинете…"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:15 #-#-# translate crowdin newspaper_section_director_calls_517f095d:
+msgid "[_martin_] Конечно же у меня есть и более важные дела, но наш директор так не считает"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:16 #-#-# translate crowdin newspaper_section_director_calls_30390cf0:
+msgid "[_martin_] Помимо того…"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:20 #-#-# translate crowdin newspaper_section_director_calls_66591ca7:
+msgid "[_cedrick_] Хорошо, Мартин. Спасибо, что сообщил…"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:22 #-#-# translate crowdin newspaper_section_director_calls_2a669677:
+msgid "[_centered_] {size=36}Через пять минут в кабинете директора{/size}"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:26 #-#-# translate crowdin newspaper_section_director_calls_ac90e423:
+msgid "[_cedrick_] Вызывали?"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:29 #-#-# translate crowdin newspaper_section_director_calls_6e60d1b3:
+msgid "[_directris_]  Ох, вот и вы, мистер Хоффман. Присаживайтесь."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:30 #-#-# translate crowdin newspaper_section_director_calls_066b49fe:
+msgid "[_directris_]  Как вы знаете, до вас уроки истории преподавал мистер Колинз "
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:34 #-#-# translate crowdin newspaper_section_director_calls_7c1d7ef7:
+msgid "[_directris_] Но помимо этого у него были и другие обязанности, в частности, он также был куратором школьной газеты"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:35 #-#-# translate crowdin newspaper_section_director_calls_843ed9d4:
+msgid "[_cedrick_] Вы же не имеете ввиду, что и мне придется курировать школьную газету? Я в этом совсем не разбираюсь"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:39 #-#-# translate crowdin newspaper_section_director_calls_6880fb91:
+msgid "[_directris_]  Не совсем так, мистер Хоффман. В нашей школе каждый учитель обязан взять на себя как минимум один школьный клуб"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:43 #-#-# translate crowdin newspaper_section_director_calls_e510c78f:
+msgid "[_directris_] А так как мистер Колинз .. кхм.. Решил покинуть свое место работы, не предупредив нас, и вы заменяете его, будет логично если, возьметесь за клуб журналистики, который занимается школьной газетой"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:47 #-#-# translate crowdin newspaper_section_director_calls_14f3c513:
+msgid "[_directris_]  Помимо выпуска школьной газеты, этот клуб также иногда организует некоторые школьные мероприятия."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:51 #-#-# translate crowdin newspaper_section_director_calls_ec7d2767:
+msgid "[_directris_] У вас будет не так много обязанностей в этом кружке. Нужно лишь следить, чтобы некоторые его участники не наделали глупостей и не напечатали в газете то, что может повредить репутации школы и могло бы выйти за рамки приличия"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:55 #-#-# translate crowdin newspaper_section_director_calls_bb7f15a7:
+msgid "[_cedrick_] Ну, раз это необходимо, то я согласен. "
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:59 #-#-# translate crowdin newspaper_section_director_calls_8cd91680:
+msgid "[_directris_] И еще… После ухода мистера Колинза данный кружок почти опустел, там осталось лишь пару членов - это сестры Грампер. Должно быть вы уже виделись с ними. В общем, вам нужно найти новых членов для кружка, в ином случае его придется закрыть из-за нехватки участников."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:63 #-#-# translate crowdin newspaper_section_director_calls_d13bc051:
+msgid "[_directris_] А вам, скорее всего, перепадет менее перспективный кружок, состоящий из хулиганов и драчунов. Решать вам, конечно, но я бы не советовала упускать такую возможность. Чтобы вы понимали, в данный момент из-за нехватки желающих этот кружок курирует мистер Скраффингтон, наш уборщик."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:67 #-#-# translate crowdin newspaper_section_director_calls_58e9e0b3:
+msgid "[_cedrick_] Я вас понял. Постараюсь сделать все, что в моих силах…"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_director_calls.rpy:70 #-#-# translate crowdin newspaper_section_director_calls_1ea3799c:
+msgid "[_cedrick_] (Отлично! На меня снова повесили никому ненужную работу. Вот и где мне искать еще двух участников?)"
+msgstr ""
+
