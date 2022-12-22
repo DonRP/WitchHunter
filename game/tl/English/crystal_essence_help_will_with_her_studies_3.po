@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.po\n"
+"X-Crowdin-File-ID: 5561\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:4 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_228026ca:
+msgid "[_centered_] {size=37}На следующий день{/size}"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:9 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_b4e4bd4c:
+msgid "[_cedrick_] Вилл, ну как ты? Мама сказала, что тебе вчера нездоровилось"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:13 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_eded9888:
+msgid "[_will_] Я.. кхм.. я в норме, Рик, спасибо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:14 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_69562566:
+msgid "[_cedrick_] Готова продолжить подготовку?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:16 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_02169cec:
+msgid "[_will_] Я.. я не.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:20 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_9b70a837:
+msgid "[_will_] (у меня все плывет в голове.. я словно в тумане, не до конца понимаю, что вокруг происходит..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:21 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_0a0f2c8b:
+msgid "[_will_] (хочу ли я дальше заниматься учебой.. нет.. мне плевать.. н-но.. учиться с Риком.. ммм, учиться с Риком, кажется, весело..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:22 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_d8031b30:
+msgid "[_will_] (Черт, нет! Возьми себя в руки.. Тебе не нужен Рик, тебе нужно закончить школу.. Нужно быстрее закончить эту подготовку, иначе я..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:23 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_d2ce1552:
+msgid "[_will_] (Иначе я рискую стать зависимой от него, ооооохх... Да какого черта!)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:24 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_feffd31f:
+msgid "[_cedrick_] Ну что, Вилл?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:28 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_3314422c:
+msgid "[_will_] Я готова.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:29 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_38df8849:
+msgid "[_cedrick_] Хорошо, только воды принесу, так тебе точно станет лучше"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:30 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_16bf45b4:
+msgid "[_will_] Д-да, давай"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:35 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:39 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_257e7986:
+msgid "[_cedrick_] Ну что, продолжим обучение?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:43 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_f9d8d2a3:
+msgid "[_will_] Угу.. Ура, учеба, ахах.. учеба с Риком.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:47 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:48 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_aaff0257:
+msgid "[_cedrick_] (...хм, ей и вправду как будто нехорошо. Делаю ли я все правильно? Вилл как будто не здесь. Может, это такой промежуточный этап? Проверим)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:49 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_484c43d1:
+msgid "[_cedrick_] Что ж, начнем"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:53 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_cf7fe15e:
+msgid "[_cedrick_]  Османская империя, слабея, попыталась опереться на помощь Германии, при этом сохраняя нейтралитет и, в особенности, избегая конфликта с Россией"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:54 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_b16ab9db:
+msgid "[_cedrick_] Пытаясь устранить российскую угрозу, они предложили заключить тайный союз самой России"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:55 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_5956cf8d:
+msgid "[_cedrick_]  Первым, кто заговорил о возможности альянса с Российской империей, стал не кто иной, как Энвер-паша, самый рьяный сторонник союза с Германией"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:56 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_9f0c5563:
+msgid "[_cedrick_] 5 августа 1914 года Энвер обратился к российскому военному атташе в Стамбуле, генералу М. Н. Леонтьеву..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:57 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_63f81fb1:
+msgid "[_cedrick_] ...с предложением заключить российско-турецкий оборонительный союз"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:60 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_f2768d86:
+msgid "[_centered_] {size=37}ПОСЛЕ ДОЛГИХ ЗАНУДНЫХ РЕЧЕЙ{/size}"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:61 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:65 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6e8a1bae:
+msgid "[_cedrick_] (Хм, и снова эта закрытая отстраненная поза.. Что ж мне с тобой делать)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:72 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_5675802c:
+msgid "[_cedrick_] Вилл, ты выглядишь очень зажато. С тобой точно все в порядке?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:74 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_80f3d02b:
+msgid "[_will_] Я.. м, да, все хорошо, просто мне.. мне сложно себя контролировать.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:75 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_7b0d15d2:
+msgid "[_cedrick_] В каком смысле?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:78 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_1a5fb3be:
+msgid "[_will_] Ну, эм.. Не важно, просто поверь мне"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:79 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6e924b7e:
+msgid "[_cedrick_] Со мной ты можешь открыться, ты же знаешь. Просто расслабься, будь собой. Сядь так, как тебе удобно"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:80 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_ba434641:
+msgid "[_will_] Эм.. я.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:81 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_379dea17:
+msgid "[_will_] Хорошо, Рик, я попробую.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:85 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_1e14b535:
+msgid "[_cedrick_] Вот и славно. Так же удобнее, правда?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:88 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_2ef4c8bd:
+msgid "[_will_] А-агам.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:89 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_503f36bc:
+msgid "[_cedrick_] Вилл?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:92 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_736673b6:
+msgid "[_will_] Да.. Рик.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:93 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_eda8b8b2:
+msgid "[_cedrick_] (Черт, девчонка похоже совсем на грани. Я должен попробовать зайти дальше)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:94 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_40ab0bcb:
+msgid "[_cedrick_] Вилл.. А может, тебе будет удобнее, сидя у меня на коленях?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:97 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6275a51b:
+msgid "[_will_] Это.. Странно.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:98 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_afcf3568:
+msgid "[_cedrick_] Ничего странного. Я ведь встречаюсь с Сьюзан, я тебе почти как отец. У отца можно посидеть на коленях"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:99 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_a7e20fbb:
+msgid "[_will_] Да.. возможно.. ты прав"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:100 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6550b2f8:
+msgid "[_cedrick_] (Мда, то, что на нее подействовал такой хуевый аргумент, говорит о том, что девочка сейчас не в себе. Ну, мне это только на руку)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:104 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_893e0443:
+msgid "[_cedrick_] Удобно?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:105 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_eb64a1c9:
+msgid "[_will_] Ммм.. да, так удобнее.. сразу стало комфортнее.. так приятно"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:106 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_4378db30:
+msgid "[_cedrick_] Вот и хорошо.. А знаешь, от чего еще может быть приятно?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:111 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_5b0e7bad:
+msgid "[_will_] Р-рик.. Что ты.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:112 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_a8aaceb9:
+msgid "[_cedrick_] Ты явно плохо себя чувствуешь.. Я просто помогаю тебе расслабиться.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:113 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_c0699508:
+msgid "[_will_] Расслабиться.. Х-хорошо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:114 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_4f473edd:
+msgid "[_cedrick_] Да, хорошо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:119 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_9aab9961:
+msgid "[_will_] Рик.. Это.. Ааахххх... Я... Мммммвв.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:120 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6c837568:
+msgid "[_cedrick_] Так ведь становится лучше?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:124 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_273fb9ca:
+msgid "[_will_] Д-да... ммммм.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:125 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6e6c27cd:
+msgid "[_will_] Ах.. Р-рик, я..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:130 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6c5c4412:
+msgid "[_cedrick_] Вилл, как тебе не стыдно"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:133 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_18deef11:
+msgid "[_will_] Ч-что? Что не так, Рик?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:134 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_a8b80d47:
+msgid "[_cedrick_] Ты сидишь и выставляешь напоказ свою промежность, пока мы тут пытаемся подготовить тебя к итоговому экзамену"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:137 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_8b07fb41:
+msgid "[_will_] Ч-что.. я не.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:138 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6fd45417:
+msgid "[_cedrick_] Посмотри на себя, ноги кверху, бедра вместе. Ты хоть знаешь, что делают с девушками, вроде тебя, когда они встают в такую позу?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:141 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_40b3f020:
+msgid "[_will_] Я.. Я не знаю.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:142 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_2a857831:
+msgid "[_cedrick_] Давай, Вилл, теперь это часть твоего теста. Отвечай на вопрос. Что делают с девушками, которые встают в такую позу, в которую встала ты?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:145 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_a1556bb7:
+msgid "[_will_] Я не собираюсь.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:146 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_e9971f74:
+msgid "[_cedrick_] Отвечай, Вилл! Если ты в тестах негодна, может хоть в этом хороша"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:147 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_db67d3c5:
+msgid "[_will_] ...."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:148 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_c0d7ddfe:
+msgid "[_will_] Их трахают.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:149 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_ef9acee1:
+msgid "[_cedrick_] Что? Я не расслышал. Отвечай четко"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:152 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_fa226024:
+msgid "[_will_] Их трахают! Девчонок, сидящих в такой позе, обычно трахают, доволен!?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:153 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_7b949964:
+msgid "[_cedrick_] Отлично! Можешь же, когда захочешь, Вилл"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:156 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_0f278d59:
+msgid "[_will_] (Не могу поверить, что сказала это.. Как он только себе позволил..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:157 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_1c45ffc0:
+msgid "[_cedrick_] Так, а теперь вопрос - ты хочешь, чтобы и тебя трахнули?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:160 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_75a4278e:
+msgid "[_will_] Ч-что!? Рик, ты охренел!?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:161 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_e6c3fac2:
+msgid "[_cedrick_] Отвечай на вопрос так, как будто ты на тесте, Вилл. Это лишь часть тренировки, ты должна отвечать четко и ясно на любые вопросы"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:162 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_bcd124bf:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:165 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_09ff6ff0:
+msgid "[_will_] Нет. Я не хочу"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:166 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_d477c6de:
+msgid "[_cedrick_] (Так и знал.. Либо я перегнул, либо она еще не готова. В любом случае, уже нет смысла останавливаться)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:167 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_4bab7ff2:
+msgid "[_cedrick_] И так, раз ты не хочешь, чтобы тебя трахнули, значит ты хочешь просто продемонстрировать свою киску, подразнить"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:170 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_dac2cb75:
+msgid "[_will_] Что!? Рик! Это переходит все границы!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:171 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_0cc24fe6:
+msgid "[_cedrick_] Мы здесь не только правильно отвечаем на вопросы, но и учимся новому. И сейчас я научу тебя кое-чему новому, раз ты стремишься к подобному, Вилл"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:174 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_aeaf35a0:
+msgid "[_will_] Ни к чему я.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:175 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_d3f03296:
+msgid "[_cedrick_] Хочешь показать мне свою киску - упор на носки и раздвинула бедра"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:178 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_da06972c:
+msgid "[_will_] Ч-что.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:179 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_f416a775:
+msgid "[_cedrick_] Ты хочешь чему-то научиться или нет? Ты же сама ответила на вопрос. В твоей позе хотят либо переспать с кем-то, либо продемонстрировать киску"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:180 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_480095fc:
+msgid "[_cedrick_] Если это не первое, значит второе. И в таком случае ты чертовски плохо справляешься, девочка. Так что будем учить тебя новому"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:181 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_e390ab91:
+msgid "[_cedrick_] Упор на носки и раздвинула бедра, Вилл!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:184 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_bcd124bf_1:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:185 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_cd5632ba:
+msgid "[_cedrick_] Ну же, сделай это для меня"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:186 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_bcd124bf_2:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:191 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_ecc10d53:
+msgid "[_cedrick_] (Черт, давление влоб сработало, охренеть. Она явно не в себе, раз так легко послушала меня. Старая Вилл никогда бы себе не позволила подобного)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:194 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_f30882f0:
+msgid "[_will_] ..Доволен?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:195 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_64a5c856:
+msgid "[_cedrick_] А ты собой довольна? Видишь же, что хорошо получается. Все же в некоторых тестах ты оказалась хороша, Вилл"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:198 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_bcd124bf_3:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:199 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_8a30db10:
+msgid "[_will_] Спасибо, Рик.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:200 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_af0c992d:
+msgid "[_cedrick_] (Хоооо.. Она явно недовольна, но сейчас как будто не может мне отказать. Хах, а что, если я зайду еще дальше?)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:201 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_28d62eae:
+msgid "[_cedrick_] Молодец, Вилл, считай, что в ответах на тесты ты преуспела, заслужила отдых.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:202 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_2edd269a:
+msgid "[_will_] Спасиб.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:203 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_cd30f7cc:
+msgid "[_cedrick_] У меня на коленях"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:206 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_c6054320:
+msgid "[_will_] Ч-что.. Я не.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:207 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_2e011b08:
+msgid "[_cedrick_] Ох, Вилл, ты только что буквально раздвинула при мне ноги. А ведь я сказал до этого, что это говорит о желании выставить свою киску на показ"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:210 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_05a2483b:
+msgid "[_will_] Я.. я.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:211 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_ca4d1ef4:
+msgid "[_cedrick_] Можешь не признавать этого. Но признайся хотя бы в том, что после раздвигания ног, сидение у меня на коленях это сущий пустяк"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:212 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_683249b5:
+msgid "[_will_] Я.. Уф.. Да, ты прав, Рик"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:213 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_d55a9969:
+msgid "[_cedrick_] (Черт, девочка явно не здесь, у нее практически отсутствует воля, даже слишком просто, хм..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:217 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_ae8cb6f3:
+msgid "[_cedrick_] Ну вот, так то лучше. Хорошая девочка"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:218 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_8daa6c29:
+msgid "[_will_] Д-да.. спасибо, Рик.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:219 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_ebac68c2:
+msgid "[_cedrick_] Но все же, давай закрепим пройденный материал и примем изученную недавно позу"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:224 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_c661244f:
+msgid "[_will_] А-ааав.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:225 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_f9f6f60e:
+msgid "[_cedrick_] Умница, хорошо получается.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:228 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_94c00c08:
+msgid "[_will_] С-спасибо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:229 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_58aac82b:
+msgid "[_cedrick_] Хм.. а что на счет.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:234 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_c5053fe6:
+msgid "[_will_] Ааааааа..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:235 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_73a16893:
+msgid "[_cedrick_] Что такое?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:238 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_013f5dd7:
+msgid "[_will_] Т-ты.. ты там.. твоя рука.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:239 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_fd84989d:
+msgid "[_cedrick_] И что такого?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:240 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_cf581bb8:
+msgid "[_will_] Н-не трогай.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:242 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_e32f99f3:
+msgid "[_cedrick_] Ты сидишь у меня на коленях, раздвинув ноги. Я просто беру то, что мне предлагают"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:243 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_b88c7e2a:
+msgid "[_will_] Я.. я не... аааааввв.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:252 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_20514a8f:
+msgid "[_will_] Н-нет! Черт, нет! Это слишком, Рик! Убери свои руки, я не разрешала тебе вот так просто.. просто..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:256 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_17b3a44f:
+msgid "[_cedrick_] (Вот черт, видимо она пришла в себя)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:257 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_2333a8d4:
+msgid "[_will_] Просто хватит возбуждать меня, черт тебя дери!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:260 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_a75dcce1:
+msgid "[_cedrick_] (Что ж.. В любом случае все прошло куда лучше того, на что я мог изначально рассчитывать)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_help_will_with_her_studies_3.rpy:261 #-#-# translate crowdin crystal_essence_help_will_with_her_studies_3_6c62643d:
+msgid "[_cedrick_] (Фух, но я и сам не хило так напрягся. Думаю самое время сходить к Сьюзан)"
+msgstr ""
+
