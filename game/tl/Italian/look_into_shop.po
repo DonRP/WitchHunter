@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/exploreTheCity/look_into_shop.po\n"
+"X-Crowdin-File-ID: 5167\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:28\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/exploreTheCity/look_into_shop.rpy:7 #-#-# translate crowdin look_into_shop_ac547774:
+msgid "[_cedrick_] Здесь довольно много людей, и богатый ассортимент товаров.."
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_shop.rpy:8 #-#-# translate crowdin look_into_shop_07116556:
+msgid "[_cedrick_] Похоже местные любят закупаться в этом месте"
+msgstr ""
+
