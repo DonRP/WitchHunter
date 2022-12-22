@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/bookshop/imagemaplabels/bookshop_teleport.po\n"
+"X-Crowdin-File-ID: 4785\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:20\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:6 #-#-# translate crowdin bookshop_teleport_a2bc3989:
+msgid "{i}(Я не могу воспользоваться этим, так как Элион сейчас в магазине.){/i}"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:11
+msgid "Телепортироваться на Меридиан"
+msgstr ""
+
+# game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:13
+msgid "Вы действительно хотите телепортироваться на Меридиан?"
+msgstr ""
+
