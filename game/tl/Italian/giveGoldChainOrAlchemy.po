@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/giveGoldChainOrAlchemy.po\n"
+"X-Crowdin-File-ID: 5481\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:34\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:5 #-#-# translate crowdin giveGoldChainOrAlchemy_97a4e5a0:
+msgid "[_cedrick_] (Что ж, пожалуй я могу устроить ему секс с Алхими..)"
+msgstr ""
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:6 #-#-# translate crowdin giveGoldChainOrAlchemy_bdf4a062:
+msgid "[_cedrick_] Что ж, у меня есть одна женщина для тебя, пошли за мной!"
+msgstr ""
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:11 #-#-# translate crowdin giveGoldChainOrAlchemy_9ff07a41:
+msgid "[_blank_] Ты принести золотую цепь для Бланка?"
+msgstr ""
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:15 #-#-# translate crowdin giveGoldChainOrAlchemy_6c6d60b0:
+msgid "[_cedrick_] Вот, держи."
+msgstr ""
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:16 #-#-# translate crowdin giveGoldChainOrAlchemy_62f0b8d7:
+msgid "[_cedrick_] (Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
+msgstr ""
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:25 #-#-# translate crowdin giveGoldChainOrAlchemy_ff72afdb:
+msgid "[_blankChar_] Тогда приходи как добудешь"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
+msgid "Отдать алхими"
+msgstr ""
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
+msgid "Отдать цепочку"
+msgstr ""
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
+msgid "У меня ничего нет"
+msgstr ""
+
