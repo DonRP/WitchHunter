@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.po\n"
+"X-Crowdin-File-ID: 4979\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:24\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:5 #-#-# translate crowdin elyon_action_show_tongue_root_2_a2fd0945:
+msgid "[_cedrick_] Элион, будь добра, покажи мне свой язычок"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:8 #-#-# translate crowdin elyon_action_show_tongue_root_2_e321079e:
+msgid "[_elion_] Снова, Рик? Уввв, ну хорошо"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:12 #-#-# translate crowdin elyon_action_show_tongue_root_2_9d94e502:
+msgid "[_elion_] Фот так?"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:13 #-#-# translate crowdin elyon_action_show_tongue_root_2_47163562:
+msgid "[_cedrick_] Отлично, Элион, умница"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:14 #-#-# translate crowdin elyon_action_show_tongue_root_2_6bad97c1:
+msgid "[_elion_] Ф-фпафибо.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:17 #-#-# translate crowdin elyon_action_show_tongue_root_2_4d15c541:
+msgid "[_elion_] (Ммм, это все еще очень смущает, но, кажется, я начинаю понемногу привыкать)"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:18 #-#-# translate crowdin elyon_action_show_tongue_root_2_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:19 #-#-# translate crowdin elyon_action_show_tongue_root_2_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:26 #-#-# translate crowdin elyon_action_open_her_mouth_wider_2_185087fc:
+msgid "[_cedrick_] Давай я помогу тебе открыть его чуть шире"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:29 #-#-# translate crowdin elyon_action_open_her_mouth_wider_2_37aaf194:
+msgid "[_elion_] Мввв, Р-рик.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:31 #-#-# translate crowdin elyon_action_open_her_mouth_wider_2_d793c942:
+msgid "[_cedrick_] Что такое? Разве это не помогает твоей развратной натуре"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:34 #-#-# translate crowdin elyon_action_open_her_mouth_wider_2_3bd25981:
+msgid "[_elion_] Д-думаю ты праф.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:35 #-#-# translate crowdin elyon_action_open_her_mouth_wider_2_0d42f7c1:
+msgid "[_cedrick_] Ну еще бы.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:36 #-#-# translate crowdin elyon_action_open_her_mouth_wider_2_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:37 #-#-# translate crowdin elyon_action_open_her_mouth_wider_2_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:45 #-#-# translate crowdin elyon_action_show_tongue_enough_2_6ff47fb7:
+msgid "[_elion_] Аааав"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:47 #-#-# translate crowdin elyon_action_show_tongue_enough_2_bc20683e:
+msgid "[_cedrick_] Отлично справилась, Элион"
+msgstr ""
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_2.rpy:50 #-#-# translate crowdin elyon_action_show_tongue_enough_2_1c644f46:
+msgid "[_elion_] С-спасибо, Рик"
+msgstr ""
+
