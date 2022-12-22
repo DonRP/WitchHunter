@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/interface/phone/Phone.po\n"
+"X-Crowdin-File-ID: 4999\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:25\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/interface/phone/Phone.rpy:14
+msgid "Сообщения"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:14
+msgid "Контакты"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:14
+msgid "Список дел"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:14
+msgid "Статистика"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:14
+msgid "Браузер"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Любимый"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Позвонить"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Дорогой, я сегодня задержусь. Пельмени в холодильнике, целую."
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Хорошо, целую."
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Я ушла гулять с подругой, твой обед в холодильнике."
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "XXXMOTHERFUCKER2000XXX"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Привет, красавица! как насчет жаркого секса?"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Классический\\анальный. Выезд на дом или у нас в офисе?"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Анальный, на дом!"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "100 баксов час…"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Эй, шлюха, ты ахуела с такими ценами? Да я за такие деньги сниму пять телочек и они все сделают красиво!"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Ken"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Привет! Как насчет того, чтобы мой жезл любви вошел в твою шоколадную фабрику Вилли Вонки и тысячи Умпа-Лумпов ласкали его! А, сучка?)"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Хах, Кен… Ты такой извращенец)) Я сегодня допоздна на работе… давай в четверг)"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "как скажеш, детка, гатовь задницу) мой .i. уже на взводе…"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid ";* .i."
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Брайан.. мне очень плохо"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Томас"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:23
+msgid "Позвать играть в покер"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:274
+msgid "Такой контакт уже существует"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:279
+msgid "Добавлен новый контакт в телефоне:"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:287
+msgid "Такой контакт в списке телефона уже существует"
+msgstr ""
+
+# game/scripts/interface/phone/Phone.rpy:295
+msgid "Контакт в телефоне не найден"
+msgstr ""
+
