@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.po\n"
+"X-Crowdin-File-ID: 5207\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:28\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:5 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_e133d835:
+msgid "[_miranda_] Ох, привет, Седрик.. Не ждала тебя так позд.."
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:6 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_60b9d510:
+msgid "[_cedrick_] Нет времени объяснять! Миранда, снимай трусы!"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:10 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_a037b123:
+msgid "[_miranda_] Ч-что.. Ох, Седрик, какой ты ненасытный.."
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:11 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_affc6ffb:
+msgid "[_cedrick_] Быстро я сказал!!"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:13 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_d383e8f8:
+msgid "[_miranda_] Уфф, люблю, когда ты так мною командуешь"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:15 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_f085799b:
+msgid "[_centered_] {size=37}МИРАНДА СНИМАЕТ ТРУСЫ{/size}"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:18 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_ce2025c4:
+msgid "[_miranda_] Ну что, жеребец, нравится моя попка?"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:19 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_2389366a:
+msgid "[_miranda_] Наверное уже так и хочешь вцепиться в нее и как следует трахнуть меня.."
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:20 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_f191b82d:
+msgid "[_miranda_] Ну, давай же, не сдерживайся!"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:25 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_f53171e3:
+msgid "[_cedrick_] Отлично! То, что надо, я пошел!"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:29 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_d1f0303a:
+msgid "[_miranda_] Ч-что.. Н-но, как же.."
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:30 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_2748d386:
+msgid "[_cedrick_] Мало времени! Это все по поручению Фобоса!"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:34 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_25be37f2:
+msgid "[_miranda_] (Фобосу что, срочно понадобились мои трусы?.. Лучше не думать об этом..)"
+msgstr ""
+
