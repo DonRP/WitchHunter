@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.po\n"
+"X-Crowdin-File-ID: 5101\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:26\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:6 #-#-# translate crowdin visit_alchemy_in_dungeon4_f33715a6:
+msgid "[_cedrick_sprite_] Ну здравствуй"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:11 #-#-# translate crowdin visit_alchemy_in_dungeon4_7964fd57:
+msgid "[_alchemy_] Верни мне мою одежду!"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:12 #-#-# translate crowdin visit_alchemy_in_dungeon4_e6771dcb:
+msgid "[_cedrick_sprite_] Эх, Разве так следует просить у своего хозяина?"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:13 #-#-# translate crowdin visit_alchemy_in_dungeon4_87225ce4:
+msgid "[_alchemy_] Пф... Ебаный ублюдок, тебе это с рук не сойдет.."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:14 #-#-# translate crowdin visit_alchemy_in_dungeon4_400c63cd:
+msgid "[_cedrick_sprite_] Полагаю, за такие разговоры следует наказать тебя... Или твоего брата? "
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:15 #-#-# translate crowdin visit_alchemy_in_dungeon4_40c8a99c:
+msgid "Вы начинаете расстегивать ширинку, и достаете свой член"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:21 #-#-# translate crowdin visit_alchemy_in_dungeon4_fed5c31a:
+msgid "[_alchemy_]  Что ты делаешь?"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:38 #-#-# translate crowdin alcheny_on_wall_ab54dfe9:
+msgid "Алхими поварачивается к вам спиной"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:39 #-#-# translate crowdin alcheny_on_wall_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:40 #-#-# translate crowdin alcheny_on_wall_07bdde05:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:41 #-#-# translate crowdin alcheny_on_wall_0fd4d656:
+msgid "......"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:47 #-#-# translate crowdin alchemy_on_the_knees_c8987ba3:
+msgid "[_alchemy_] Я не хочу.."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:48 #-#-# translate crowdin alchemy_on_the_knees_e42d79b3:
+msgid "[_cedrick_sprite_] Живо вставай на колени, или я отрежу уши твоему ебучему брату"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:53 #-#-# translate crowdin alchemy_on_the_knees_d9882599:
+msgid "Алхими неохотно, опускается перед вами на колени, так что ее лицо оказывается напротив вашего члена"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:61 #-#-# translate crowdin alchemy_on_the_knees_77213599:
+msgid "Немного замешкавшись, Алхими, обхватывает рукой ваш член и начинает нежно поглаживать его"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:62 #-#-# translate crowdin alchemy_on_the_knees_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:63 #-#-# translate crowdin alchemy_on_the_knees_6879340b:
+msgid "[_cedrick_] Вот так... Хорошая девочка..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:64 #-#-# translate crowdin alchemy_on_the_knees_448708d9:
+msgid "[_alchemy_] ..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:68 #-#-# translate crowdin alchemy_on_the_knees_ecb61029:
+msgid "Постепенно, Алхими ускоряет темп, и начинает поглядывать на ваш вставший член"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:69 #-#-# translate crowdin alchemy_on_the_knees_28fddf41:
+msgid "[_cedrick_] Такое ощущение что тебе не в первой приходится это делать..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:70 #-#-# translate crowdin alchemy_on_the_knees_94cc06dd:
+msgid "[_cedrick_] Братик заставлял тебя играть с ним, не правда ли?"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:71 #-#-# translate crowdin alchemy_on_the_knees_0c671a81:
+msgid "[_alchemy_] ...."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:72 #-#-# translate crowdin alchemy_on_the_knees_8bacc705:
+msgid "[_alchemy_] Это не правда..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:76 #-#-# translate crowdin alchemy_on_the_knees_0d405817:
+msgid "Рука Алхими продолжает надрачивать ваш член, и вы чувствуйте нарастающие в вас возбуждение"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:80 #-#-# translate crowdin alchemy_on_the_knees_6f8bae15:
+msgid "Чувствуя что вы на пределе, она начинает дрочить его еще быстрее..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:81 #-#-# translate crowdin alchemy_on_the_knees_52b77773:
+msgid "[_alchemy_] Еще долго?? Мне делать это..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:82 #-#-# translate crowdin alchemy_on_the_knees_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:86 #-#-# translate crowdin alchemy_on_the_knees_673ed33e:
+msgid "[_cedrick_] О да.."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:87 #-#-# translate crowdin alchemy_on_the_knees_fabf588b:
+msgid "Внезапно, вы начинаете спускать на лицо и грудь Алхими"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:88 #-#-# translate crowdin alchemy_on_the_knees_2dc85d8b:
+msgid "[_cedrick_] Получай сука"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:89 #-#-# translate crowdin alchemy_on_the_knees_b72093d8:
+msgid "[_cedrick_] Да... Хорошо.."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:93 #-#-# translate crowdin alchemy_on_the_knees_a5c6ff9c:
+msgid "[_cedrick_] У тебя хорошо получается, думаю из тебя получится хорошая рабыня.."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:94 #-#-# translate crowdin alchemy_on_the_knees_51f5ca2a:
+msgid "[_alchemy_] Эм... спасибо..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:98 #-#-# translate crowdin alchemy_on_the_knees_a368cca3:
+msgid "Вытерев остатки спермы о лицо Алхими вы одеваете штаны и уходите по своим делам"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:104 #-#-# translate crowdin alchemy_on_the_knees_ec83fb42:
+msgid "Вы подносите член ко рту Алхими, но она отворачивается и член упирается ей прямо в щеку"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:105 #-#-# translate crowdin alchemy_on_the_knees_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:106 #-#-# translate crowdin alchemy_on_the_knees_1eebdcae:
+msgid "[_cedrick_] Ну давай, подумай о Брайане.. Ты же не хочешь чтоб он пострадал?"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:110 #-#-# translate crowdin alchemy_on_the_knees_ab6ae51e:
+msgid "Она берет в рот кончик вашего члена и начинает ласкать его языком"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:114 #-#-# translate crowdin alchemy_on_the_knees_1ebe76b1:
+msgid "[_cedrick_] Продолжай не надо стеснятся"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:118 #-#-# translate crowdin alchemy_on_the_knees_7191097f:
+msgid "Алхими обхватывает член губами и начинает работать ртом постепенно ускоряя темп"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:122 #-#-# translate crowdin alchemy_on_the_knees_4ad97f93:
+msgid "[_cedrick_]  О да.. Так то лучше..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:126 #-#-# translate crowdin alchemy_on_the_knees_26cd8256:
+msgid "Ваше дыхание учащяется и она понимая что вы на пределе обхватывает ваш член еще крепче своими губами..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:130 #-#-# translate crowdin alchemy_on_the_knees_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:134 #-#-# translate crowdin alchemy_on_the_knees_d84cdb84:
+msgid "А вы тем временем начинает пихать член ей в горло все глубже и глубже"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:136 #-#-# translate crowdin alchemy_on_the_knees_c6bb6695:
+msgid "[_cedrick_] ох.. да"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:140 #-#-# translate crowdin alchemy_on_the_knees_afd6333d:
+msgid "Вы держите ее голову своей рукой не давая ей отстранится, обильно кончаете ей прямо в рот"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:141 #-#-# translate crowdin alchemy_on_the_knees_516d37f4:
+msgid "Алхими не остается ничего другого кроме как проглатывать вашу сперму"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:145 #-#-# translate crowdin alchemy_on_the_knees_dfb9ec25:
+msgid "[_cedrick_] Молодец, хорошая девочка.. И помни если будешь хорошо себя вести, я не трону твоего брата"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:146 #-#-# translate crowdin alchemy_on_the_knees_b2e34729:
+msgid "Она вылизывает ваш член на чисто и вы уходите по своим делам"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:23
+msgid "Вставай на колени."
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:23
+msgid "Повернись"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:55
+msgid "Подрочи его"
+msgstr ""
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon4.rpy:55
+msgid "Отсоси мне"
+msgstr ""
+
