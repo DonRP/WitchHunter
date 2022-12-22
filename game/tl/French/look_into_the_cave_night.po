@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/exploreTheCity/look_into_the_cave_night.po\n"
+"X-Crowdin-File-ID: 5171\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:28\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:8 #-#-# translate crowdin look_into_the_cave_night_56bcbf25:
+msgid "[_cedrick_sprite_] Ах... Здесь так темно, я ни черта не вижу! Нужно немного времени, чтобы мои глаза смогли привыкнуть к этой темноте…"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:13 #-#-# translate crowdin look_into_the_cave_night_3a13eb24:
+msgid "[_blankChar_] ААААА!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:14 #-#-# translate crowdin look_into_the_cave_night_15263d34:
+msgid "[_cedrick_] Вот черт! Так это ты здесь живешь?"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:18 #-#-# translate crowdin look_into_the_cave_night_0c1cf74f:
+msgid "[_blankChar_] Да! Это дома бланка, приколись!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:19 #-#-# translate crowdin look_into_the_cave_night_d3312491:
+msgid "[_cedrick_] Да уж, приколись… Тебе нужно помыться…"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:23 #-#-# translate crowdin look_into_the_cave_night_6b032191:
+msgid "[_blankChar_] Убирайся! Бланк не хотеть мыться!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:24 #-#-# translate crowdin look_into_the_cave_night_d9283c4c:
+msgid "[_blankChar_] Так и скажи этой девке!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:25 #-#-# translate crowdin look_into_the_cave_night_8dc272a8:
+msgid "[_cedrick_] О какой девке речь, страшила?"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:26 #-#-# translate crowdin look_into_the_cave_night_a78279c4:
+msgid "[_blankChar_] Бланк пришлось покинуть уютный бак с кучей еды, она выгнать меня!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:27 #-#-# translate crowdin look_into_the_cave_night_95de2af7:
+msgid "[_blankChar_] Говорить, что бланк пугает клиентов! Мой аромат мешает кушац человекам!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:28 #-#-# translate crowdin look_into_the_cave_night_5de7784c:
+msgid "[_cedrick_] Ага… так это ты был в том баке возле ресторана!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:29 #-#-# translate crowdin look_into_the_cave_night_e6e67a16:
+msgid "[_blankChar_] Больше бланк туда не возвращаеца! К этим злым ведьмам!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:30 #-#-# translate crowdin look_into_the_cave_night_60c64cf5:
+msgid "[_cedrick_] Ясно..."
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:31 #-#-# translate crowdin look_into_the_cave_night_32293e27:
+msgid "[_cedrick_] Не бойся, я определенно не собираюсь тебя мыть…"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:35 #-#-# translate crowdin look_into_the_cave_night_8173ff42:
+msgid "[_cedrick_] (хотя кому-то определенно стоит это сделать. Боже, какая вонь!)"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:36 #-#-# translate crowdin look_into_the_cave_night_811e09e7:
+msgid "[_cedrick_] Подожди! Ты же тот контрабандист с Меридиана..."
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:37 #-#-# translate crowdin look_into_the_cave_night_b09847a8:
+msgid "[_blankChar_] Бланк не контрбандист! Бланк бизнесмен!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:38 #-#-# translate crowdin look_into_the_cave_night_dbcf998f:
+msgid "[_cedrick_] (Бизнесмен... Ага, просто мелкий воришка. Однако он может быть полезен...)"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:39 #-#-# translate crowdin look_into_the_cave_night_baea92f1:
+msgid "[_cedrick_] Возможно, у тебя есть что-то ценное на продажу… Хотя здесь столько тухлого мусора… Может у тебя есть какая-нибудь информация о тех ведьмах?"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:43 #-#-# translate crowdin look_into_the_cave_night_43eab830:
+msgid "[_blankChar_] Есть! Смотри!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:47 #-#-# translate crowdin look_into_the_cave_night_19af1675:
+msgid "[_blankChar_] Складная чеcалка для языка!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:48 #-#-# translate crowdin look_into_the_cave_night_6079f0b5:
+msgid "[_cedrick_] Мне не нужн... Подожди!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:49 #-#-# translate crowdin look_into_the_cave_night_34f32496:
+msgid "[_cedrick_] Это же телефон, где ты его достал?"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:53 #-#-# translate crowdin look_into_the_cave_night_93042880:
+msgid "[_blankChar_] Теле-где? Что?"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:54 #-#-# translate crowdin look_into_the_cave_night_8595d9d0:
+msgid "[_cedrick_] Ничего. Где ты его украл?"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:58 #-#-# translate crowdin look_into_the_cave_night_8eab897a:
+msgid "[_blankChar_] Бланк не крал! Одолжил по старой дружбе... "
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:59 #-#-# translate crowdin look_into_the_cave_night_04f3be58:
+msgid "[_cedrick_] А неважно... За сколько продашь?"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:60 #-#-# translate crowdin look_into_the_cave_night_667ad927:
+msgid "[_blankChar_] Бланк хотеть 1000 золотых!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:61 #-#-# translate crowdin look_into_the_cave_night_d39595ec:
+msgid "[_cedrick_] Хм, давай лучше я дам тебе 50 долларов."
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:62 #-#-# translate crowdin look_into_the_cave_night_94fa4f6c:
+msgid "[_blankChar_] Дваццать!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:63 #-#-# translate crowdin look_into_the_cave_night_46f894c4:
+msgid "[_cedrick_] По рукам!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:67 #-#-# translate crowdin look_into_the_cave_night_7739b25e:
+msgid "[_blankChar_] А еще у бланка есть мясные бусы! 2000 золотых!"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:68 #-#-# translate crowdin look_into_the_cave_night_b4b59138:
+msgid "[_cedrick_] Эмм... нет, спасибо... может в другой раз."
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_the_cave_night.rpy:69 #-#-# translate crowdin look_into_the_cave_night_0897b038:
+msgid "[_cedrick_] (нужно будет потыкаться и разобраться в телефоне)"
+msgstr ""
+
