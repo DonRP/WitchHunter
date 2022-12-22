@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/inventory/items/fight_items.po\n"
+"X-Crowdin-File-ID: 4859\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:21\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Большое Зелье Здоровья"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 100 единиц здоровья"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Малое Зелье Здоровья"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 50 единиц здоровья"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье с ядом"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Отравляет врага на 5 ходов, каждый ход враг получает 15 урона"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Сонное зелье"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Заставляет уснуть врага на 3 хода"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Паутинное зелье"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Замедляет врага на 4 хода"
+msgstr ""
+
