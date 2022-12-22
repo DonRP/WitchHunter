@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.po\n"
+"X-Crowdin-File-ID: 5145\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:27\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:2 #-#-# translate crowdin elyons_musturbate_at_bookshop_cf58a5d1:
+msgid "[_cedrick_] (Что это за шум? Он исходит из комнаты Элион? Надо бы проверить..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:6 #-#-# translate crowdin elyons_musturbate_at_bookshop_24c88512:
+msgid "[_elion_] Д-да, вот так..."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:7 #-#-# translate crowdin elyons_musturbate_at_bookshop_b0cab4de:
+msgid "[_cedrick_] (Ого, она уже делает это сама, даже без афродизиака.. Видимо она занималась этим и раньше)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:8 #-#-# translate crowdin elyons_musturbate_at_bookshop_633a6557:
+msgid "[_elion_] Мммм... Хорошо..."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:9 #-#-# translate crowdin elyons_musturbate_at_bookshop_0667ccdb:
+msgid "[_cedrick_] (Думаю, стоит посмотреть еще немного..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:10 #-#-# translate crowdin elyons_musturbate_at_bookshop_5c37c5f9:
+msgid "[_elion_] Д-да, Рик.. Позаботься обо мне.. Удовлетворяй мою похотливую натуру.. Чтобы ее больше никто не увидел...."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:11 #-#-# translate crowdin elyons_musturbate_at_bookshop_9d8a22cc:
+msgid "[_cedrick_] (Что!? Черт возьми, видимо афродизиак в тот раз лишь открыл то, что в ней и так всегда сидело. Не уж то ей так снесло крышу после того, как она все потеряла?)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:12 #-#-# translate crowdin elyons_musturbate_at_bookshop_b5a1f0f9:
+msgid "[_cedrick_] (Хотя, с другой стороны, весь род Фобоса – это те еще развратники.. Кто еще в здравом уме попросит трахнуть собственную сестру)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:13 #-#-# translate crowdin elyons_musturbate_at_bookshop_2b312f29:
+msgid "[_cedrick_] (Что ж, думаю эти ее слова можно воспринять, как согласие на то, чтобы я начал развращать ее дальше)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:14 #-#-# translate crowdin elyons_musturbate_at_bookshop_8fb5a6cf:
+msgid "[_cedrick_] (Главное не переборщить, ведь в остальном она все та же скромная и зажатая Элион)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:15 #-#-# translate crowdin elyons_musturbate_at_bookshop_5ca3fc9c:
+msgid "[_elion_] Мммм, да, Рик, вот так..."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_musturbate_at_bookshop.rpy:16 #-#-# translate crowdin elyons_musturbate_at_bookshop_6262f6c4:
+msgid "[_cedrick_] (Ну.. по большей части..)"
+msgstr ""
+
