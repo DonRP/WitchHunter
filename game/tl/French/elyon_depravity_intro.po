@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/elyonDepravity/elyon_depravity_intro.po\n"
+"X-Crowdin-File-ID: 5153\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:27\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:4 #-#-# translate crowdin elyon_depravity_intro_f8d988aa:
+msgid "[_cedrick_] (Что ж, думаю, настало время для развращения нашей дорогой Элион. После всего, что произошло, она попросту не сможет мне отказать)"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:5 #-#-# translate crowdin elyon_depravity_intro_6d9e92ca:
+msgid "[_cedrick_] Элион. У меня для тебя есть одно задание"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:9 #-#-# translate crowdin elyon_depravity_intro_bbf1520e:
+msgid "[_elion_] Мм? Какое задание, Рик?"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:10 #-#-# translate crowdin elyon_depravity_intro_7d4c462e:
+msgid "[_cedrick_] Помнишь, мы говорили о твоей неконтролируемой развратности?"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:13 #-#-# translate crowdin elyon_depravity_intro_6371948e:
+msgid "[_elion_] Э-эм.. Да, я помню.."
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:14 #-#-# translate crowdin elyon_depravity_intro_78d23bb8:
+msgid "[_cedrick_] Самое время заняться твоей развращенностью"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:17 #-#-# translate crowdin elyon_depravity_intro_f29ad734:
+msgid "[_elion_] Ч-что!? Что ты имеешь ввиду, Рик!?"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:18 #-#-# translate crowdin elyon_depravity_intro_7778e5ad:
+msgid "[_cedrick_] Эм, не пойми меня неправильно. Я лишь хочу сказать, что твои похотливые желания могут спадать на нет, если ими как следует заняться"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:19 #-#-# translate crowdin elyon_depravity_intro_bbe4e9ba:
+msgid "[_cedrick_] Мы же это обсуждали, помнишь? Твои похотливые желания нужно удовлетворять, раз ты не можешь их сдерживать, об этом мы договорились"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:20 #-#-# translate crowdin elyon_depravity_intro_dbb61f1f:
+msgid "[_cedrick_] Ты подумала над моим предложением? Согласна, чтобы я помог тебе с, эм… Твоей развратной стороной? Чтобы это не привело к ситуации, которая случилась в школе"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:23 #-#-# translate crowdin elyon_depravity_intro_9cc91c12:
+msgid "[_elion_] Д-да, Рик. Хорошо, я согласна. Помоги мне с.. с моей развратностью. Не знаю, что ты имеешь ввиду под этим и куда это может завести, но.. Я доверюсь тебе в этом"
+msgstr ""
+
+# game/scripts/quests/elyonDepravity/elyon_depravity_intro.rpy:25 #-#-# translate crowdin elyon_depravity_intro_7b3847cf:
+msgid "[_Somka108_] {size=16}Теперь вы можете делать различные вещи с Элион через кнопку действия, данные действия будут повышать развратность. Реакция Элион на просьбы будет изменяться в зависимости от количество развратности. Прохождение данных действий необходимо для продолжение сюжета игры, каждое из, действий нужно пройти несколько раз{/size}"
+msgstr ""
+
