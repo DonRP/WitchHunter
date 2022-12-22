@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/labelNotExist.po\n"
+"X-Crowdin-File-ID: 4867\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:23\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/core/labelNotExist.rpy:2 #-#-# translate crowdin labelNotExist_598a0743:
+msgid "Лейбл в разработке или не существует"
+msgstr ""
+
