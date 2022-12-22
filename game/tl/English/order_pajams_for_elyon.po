@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/questNewPajamasForElyon/order_pajams_for_elyon.po\n"
+"X-Crowdin-File-ID: 5421\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:33\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questNewPajamasForElyon/order_pajams_for_elyon.rpy:3 #-#-# translate crowdin order_pajams_for_elyon_b03c4abd:
+msgid "Недостаточно средств.."
+msgstr ""
+
+# game/scripts/quests/questNewPajamasForElyon/order_pajams_for_elyon.rpy:6 #-#-# translate crowdin order_pajams_for_elyon_733da6b5:
+msgid "[_cedrick_] Остался только маленький размер? Хм.. А что, это может быть интересно"
+msgstr ""
+
+# game/scripts/quests/questNewPajamasForElyon/order_pajams_for_elyon.rpy:7 #-#-# translate crowdin order_pajams_for_elyon_e44d319b:
+msgid "Седрик заказывает пижаму для Элион маленького размера"
+msgstr ""
+
