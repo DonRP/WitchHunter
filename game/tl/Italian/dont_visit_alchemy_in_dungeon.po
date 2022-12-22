@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/alchemyInDungeon/dont_visit_alchemy_in_dungeon.po\n"
+"X-Crowdin-File-ID: 5093\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:26\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/alchemyInDungeon/dont_visit_alchemy_in_dungeon.rpy:2 #-#-# translate crowdin dont_visit_alchemy_in_dungeon_fe6e8e59:
+msgid "[_cedrick_sprite_] Я уже был там сегодня"
+msgstr ""
+
