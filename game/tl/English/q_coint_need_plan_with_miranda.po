@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/crushingOfIrmaAndTaranee/q_coint_need_plan_with_miranda.po\n"
+"X-Crowdin-File-ID: 5121\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:27\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/crushingOfIrmaAndTaranee/q_coint_need_plan_with_miranda.rpy:2 #-#-# translate crowdin q_coint_need_plan_with_miranda_36e6c1ac:
+msgid "[_cedrick_] Мне не стоит высовываться, пока Медина не решит проблему с розыском. С поиском пропавших я помогу ей позже, а пока мне нужно отправляться к Миранде"
+msgstr ""
+
