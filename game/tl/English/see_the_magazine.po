@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/see_the_magazine/see_the_magazine.po\n"
+"X-Crowdin-File-ID: 5433\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:33\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:13 #-#-# translate crowdin see_the_magazine_7fa8e887:
+msgid "[_cedrick_] Хм... Порнографический журнал... Я должен снять стресс, у меня так давно не было хорошей шлюхи..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:19 #-#-# translate crowdin see_the_magazine_1ebf9293:
+msgid "[_cedrick_] Журнал 1976 года? Ого, он довольно хорошо сохранился."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:20 #-#-# translate crowdin see_the_magazine_5064834e:
+msgid "[_cedrick_] Ох? Довольно симпатичная девушка в окружении хуев."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:21 #-#-# translate crowdin see_the_magazine_fd9bf2c7:
+msgid "[_cedrick_] В свое время, она была довольно хороша."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:22 #-#-# translate crowdin see_the_magazine_03cdea2c:
+msgid "[_cedrick_] Кажется, мне не понадобилось много времени, чтобы мой член проснулся."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:23 #-#-# translate crowdin see_the_magazine_26db8a7d:
+msgid "Вы достаете свой член и начинаете поглаживать его."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:24 #-#-# translate crowdin see_the_magazine_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:25 #-#-# translate crowdin see_the_magazine_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:26 #-#-# translate crowdin see_the_magazine_9592d6b6:
+msgid "[_cedrick_] Рыжеволосая шлюшка. О да.. Я бы поставил тебя на колени.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:27 #-#-# translate crowdin see_the_magazine_ef200435:
+msgid "[_cedrick_] Обложка определенно хороша, но более интересный материал должен быть внутри!"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:39 #-#-# translate crowdin journal_sletty_sluts_09de1c42:
+msgid "[_cedrick_] Выберите страницу [nointeract]"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:43 #-#-# translate crowdin journal_sletty_sluts_62d26a12:
+msgid "[_cedrick_] О, черт."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:44 #-#-# translate crowdin journal_sletty_sluts_7fb0bb5b:
+msgid "[_cedrick_] Что за потаскуха..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:45 #-#-# translate crowdin journal_sletty_sluts_8e3cd1dc:
+msgid "[_cedrick_] Так ненасытна, что ей нужно несколько членов, чтобы удовлетворить себя.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:46 #-#-# translate crowdin journal_sletty_sluts_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:47 #-#-# translate crowdin journal_sletty_sluts_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:48 #-#-# translate crowdin journal_sletty_sluts_de16e307:
+msgid "[_cedrick_] Черт возьми, да! Мне это нравится!"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:54 #-#-# translate crowdin journal_sletty_sluts_49316299_2:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:55 #-#-# translate crowdin journal_sletty_sluts_54053f3c:
+msgid "[_cedrick_] оу..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:56 #-#-# translate crowdin journal_sletty_sluts_212b50f2:
+msgid "[_cedrick_] вот это девочка.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:57 #-#-# translate crowdin journal_sletty_sluts_f89f7db9:
+msgid "[_cedrick_] ....."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:58 #-#-# translate crowdin journal_sletty_sluts_87b7ed4a:
+msgid "[_cedrick_] ......"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:59 #-#-# translate crowdin journal_sletty_sluts_501ee324:
+msgid "[_cedrick_] посмотрим, что еще здесь есть"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:65 #-#-# translate crowdin journal_sletty_sluts_49316299_3:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:66 #-#-# translate crowdin journal_sletty_sluts_6e8e7bb7:
+msgid "[_cedrick_] Похоже она не рада тому что с ней произойдет..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:67 #-#-# translate crowdin journal_sletty_sluts_49316299_4:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:68 #-#-# translate crowdin journal_sletty_sluts_f89f7db9_1:
+msgid "[_cedrick_] ....."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:69 #-#-# translate crowdin journal_sletty_sluts_87b7ed4a_1:
+msgid "[_cedrick_] ......"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:70 #-#-# translate crowdin journal_sletty_sluts_501ee324_1:
+msgid "[_cedrick_] посмотрим, что еще здесь есть"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:76 #-#-# translate crowdin journal_sletty_sluts_49316299_5:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:77 #-#-# translate crowdin journal_sletty_sluts_88163559:
+msgid "[_cedrick_] Ох..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:78 #-#-# translate crowdin journal_sletty_sluts_500396e8:
+msgid "[_cedrick_] Кажется... Они соскучились по настоящему члену..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:79 #-#-# translate crowdin journal_sletty_sluts_79f20c53:
+msgid "[_cedrick_] Кого-то они мне напоминают...."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:80 #-#-# translate crowdin journal_sletty_sluts_87b7ed4a_2:
+msgid "[_cedrick_] ......"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:81 #-#-# translate crowdin journal_sletty_sluts_85bb92fa:
+msgid "[_cedrick_] Посмотрим что здесь еще есть"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:87 #-#-# translate crowdin journal_sletty_sluts_38b42a9a:
+msgid "[_cedrick_] О-оу! Только поглядите, насколько она хороша…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:88 #-#-# translate crowdin journal_sletty_sluts_49316299_6:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:89 #-#-# translate crowdin journal_sletty_sluts_c0e03474:
+msgid "[_cedrick_] Кажется, ты забыла надеть свой купальник?"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:90 #-#-# translate crowdin journal_sletty_sluts_49316299_7:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:91 #-#-# translate crowdin journal_sletty_sluts_1d3113df:
+msgid "[_cedrick_] О да… Я бы измазал тебя своим солнцезащитным кремом…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:92 #-#-# translate crowdin journal_sletty_sluts_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:98 #-#-# translate crowdin journal_sletty_sluts_b4f96dc9:
+msgid "[_cedrick_] Хм.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:99 #-#-# translate crowdin journal_sletty_sluts_2babfe9d:
+msgid "[_cedrick_] Какие юные и энергичные девушки.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:100 #-#-# translate crowdin journal_sletty_sluts_bf0552fe:
+msgid "[_cedrick_] Выглядит довольно возбуждающе"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:101 #-#-# translate crowdin journal_sletty_sluts_dab11eaa:
+msgid "[_cedrick_] Не смогли найти парня и решили уединится в парке…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:102 #-#-# translate crowdin journal_sletty_sluts_2f5e0d8f:
+msgid "[_cedrick_] Я был бы не прочь оказаться рядом"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:103 #-#-# translate crowdin journal_sletty_sluts_49316299_8:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:104 #-#-# translate crowdin journal_sletty_sluts_f6032d70:
+msgid "[_cedrick_] Что ж похоже кто то обнаружил их"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:105 #-#-# translate crowdin journal_sletty_sluts_2eb77eac:
+msgid "[_cedrick_] Посмотрим что еще у нас здесь есть…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:112 #-#-# translate crowdin journal_sletty_sluts_96f0e2b7:
+msgid "[_cedrick_] А это что здесь делает??"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:113 #-#-# translate crowdin journal_sletty_sluts_1cc06aec:
+msgid "[_cedrick_] Я думал здесь только порно…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:114 #-#-# translate crowdin journal_sletty_sluts_eb9cc7be:
+msgid "[_cedrick_] Музыканты значит, а инструментов то сколько…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:115 #-#-# translate crowdin journal_sletty_sluts_c869e14a:
+msgid "[_cedrick_] Я бы дал одной из них поиграть на своей флейте."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:116 #-#-# translate crowdin journal_sletty_sluts_733cda73:
+msgid "[_cedrick_] Девушки конечно хороши собой, но хоть бы сиськи показали…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:117 #-#-# translate crowdin journal_sletty_sluts_a8706838:
+msgid "[_cedrick_] Посмотрим, что у нас дальше"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:124 #-#-# translate crowdin journal_sletty_sluts_661301c6:
+msgid "[_cedrick_] Ух а это похоже сестрички.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:125 #-#-# translate crowdin journal_sletty_sluts_67208732:
+msgid "[_cedrick_] Сестричек я люблю"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:126 #-#-# translate crowdin journal_sletty_sluts_d02e90b5:
+msgid "[_cedrick_] …."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:127 #-#-# translate crowdin journal_sletty_sluts_3fc84af0:
+msgid "[_cedrick_] Как же хочется присоединиться к ним…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:128 #-#-# translate crowdin journal_sletty_sluts_d2ca6915:
+msgid "[_cedrick_] И потереться хуем о их милые мордашки.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:129 #-#-# translate crowdin journal_sletty_sluts_a8706838_1:
+msgid "[_cedrick_] Посмотрим, что у нас дальше"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:136 #-#-# translate crowdin journal_sletty_sluts_edca33b7:
+msgid "[_cedrick_] Воу похоже девчонки решили поиграть в шпионов..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:137 #-#-# translate crowdin journal_sletty_sluts_3111471d:
+msgid "[_cedrick_] И судя по всему задание они провалили..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:138 #-#-# translate crowdin journal_sletty_sluts_9aed1192:
+msgid "[_cedrick_] хех.. ну это к лучшему..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:139 #-#-# translate crowdin journal_sletty_sluts_4f3183ab:
+msgid "[_cedrick_] этот рот деятельности им подходит как нельзя лучше"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:146 #-#-# translate crowdin journal_sletty_sluts_6533f0a7:
+msgid "[_cedrick_] какая то инопланетяночка скачет на члене.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:147 #-#-# translate crowdin journal_sletty_sluts_49316299_9:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:148 #-#-# translate crowdin journal_sletty_sluts_72d8e730:
+msgid "[_cedrick_] Оказывается сайфай порно может быть довольно интересным"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:149 #-#-# translate crowdin journal_sletty_sluts_49316299_10:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:156 #-#-# translate crowdin journal_sletty_sluts_5e80cd45:
+msgid "[_cedrick_] оу… какая горячая чирлидерша…."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:157 #-#-# translate crowdin journal_sletty_sluts_827d6e43:
+msgid "[_cedrick_] кажется она забыла надеть трусики"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:158 #-#-# translate crowdin journal_sletty_sluts_7a4ef53b:
+msgid "[_cedrick_] Я бы не отказался чтобы вместо этого Чупа Чупса там оказался мой член.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:159 #-#-# translate crowdin journal_sletty_sluts_49316299_11:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:166 #-#-# translate crowdin journal_sletty_sluts_62e9b0fa:
+msgid "[_cedrick_] А эти девушки, похоже, решили обменятся своими партнерами.."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:167 #-#-# translate crowdin journal_sletty_sluts_60d591bd:
+msgid "[_cedrick_] Вот до чего доводит длительная моногамия"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:168 #-#-# translate crowdin journal_sletty_sluts_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:169 #-#-# translate crowdin journal_sletty_sluts_9861aa95:
+msgid "[_cedrick_] Но стоит признать что это выглядит довольно горячо…"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:170 #-#-# translate crowdin journal_sletty_sluts_49316299_12:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:176 #-#-# translate crowdin journal_sletty_sluts_49316299_13:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:183 #-#-# translate crowdin journal_sletty_sluts_49316299_14:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:190 #-#-# translate crowdin journal_sletty_sluts_49316299_15:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:200 #-#-# translate crowdin journal_sletty_sluts_31c34095:
+msgid "[_elion_] Добрый вечер..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:202 #-#-# translate crowdin journal_sletty_sluts_19da4fe4:
+msgid "[_cedrick_sprite_] {i}(БЛЯТЬ){/i}"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:208 #-#-# translate crowdin journal_sletty_sluts_1a4184a8:
+msgid "[_elion_] Извините, я забыла ключи от..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:214 #-#-# translate crowdin journal_sletty_sluts_f3392b28:
+msgid "[_elion_] {b}{size=25}Что ты делаешь?{/size}{/b}"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:215 #-#-# translate crowdin journal_sletty_sluts_f6ec421e:
+msgid "[_cedrick_sprite_] Я ... Я пытался немного прибраться..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:220 #-#-# translate crowdin journal_sletty_sluts_83f6da7d:
+msgid "[_elion_] Этот журнал..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:225 #-#-# translate crowdin journal_sletty_sluts_814ba22e:
+msgid "[_elion_] Это омерзительно!!"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:231 #-#-# translate crowdin journal_sletty_sluts_ac35f2a2:
+msgid "[_elion_] Я..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:237 #-#-# translate crowdin journal_sletty_sluts_b81f6da9:
+msgid "[_elion_] Я думаю мне лучше уйти.."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/see_the_magazine/see_the_magazine.rpy:6
+msgid "Вы уверены что хотите посмотреть Порнографический журнал?"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Первая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Вторая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Третья страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Четвертая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Пятая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Шестая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Седьмая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Восьмая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Девятая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Десятая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Одиннадцатая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Двенадцатая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Тринадцатая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Четырнадцатая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Пятнадцатая страница"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/see_the_magazine.rpy:38
+msgid "Положить журнал"
+msgstr ""
+
