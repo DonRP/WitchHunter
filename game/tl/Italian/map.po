@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/map/map.po\n"
+"X-Crowdin-File-ID: 5053\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:25\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/map/map.rpy:10
+msgid "Дом Вилл"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Дом Элион"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Книжный магазин"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Дом корнелии"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Школа"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Дом Ирмы"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Вокзал"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Магазин"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Ресторан Серебряный дракон"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Пещера бланка"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Полицейский участок"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Спортивный зал"
+msgstr ""
+
+# game/scripts/map/map.rpy:10
+msgid "Парк"
+msgstr ""
+
