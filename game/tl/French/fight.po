@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/fight/fight.po\n"
+"X-Crowdin-File-ID: 4989\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:24\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/fight/fight.rpy:219 #-#-# translate crowdin fight_transform_68f2a4d6:
+msgid "[_cedrick_sprite_] (Я не могу выдавать свою личность.)"
+msgstr ""
+
+# game/scripts/fight/fight.rpy:273 #-#-# translate crowdin fight_transform_c730d214:
+msgid "Увидев огромного змея и испугавшись, [player_name] падает без сознания"
+msgstr ""
+
+# game/scripts/fight/fight.rpy:278 #-#-# translate crowdin fight_transform_9e3b85a4:
+msgid "[_cedrick_] Не достаточно маны для трансформации"
+msgstr ""
+
+# game/scripts/fight/fight.rpy:412 #-#-# translate crowdin fight_cannot_runout_26c27ad9:
+msgid "[_cedrick_] Я не могу покинуть место битвы"
+msgstr ""
+
+# game/scripts/fight/fight.rpy:439 #-#-# translate crowdin fight_get_winner_f4a24d70:
+msgid "Победил [player_name]"
+msgstr ""
+
+# game/scripts/fight/fight.rpy:451 #-#-# translate crowdin fight_get_winner_a47bba57:
+msgid "Вас одолел [player_name]"
+msgstr ""
+
+# game/scripts/fight/fight.rpy:460 #-#-# translate crowdin fight_get_winner_a47bba57_1:
+msgid "Вас одолел [player_name]"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/fight/fight.rpy:166
+msgid "{player_name} наносит Критический удар!"
+msgstr ""
+
+# game/scripts/fight/fight.rpy:360
+msgid " использует "
+msgstr ""
+
