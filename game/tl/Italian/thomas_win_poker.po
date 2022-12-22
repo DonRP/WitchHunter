@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/will/thomas_win_poker.po\n"
+"X-Crowdin-File-ID: 5537\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/thomas_win_poker.rpy:2 #-#-# translate crowdin thomas_win_poker_1f8fec96:
+msgid "[_tomas_] И снова я выиграл"
+msgstr ""
+
+# game/scripts/quests/will/thomas_win_poker.rpy:3 #-#-# translate crowdin thomas_win_poker_d9118c8e:
+msgid "[_tomas_] Смогу порадовать Сьюзан своим выигрышем и она возможно простит меня окончательно"
+msgstr ""
+
+# game/scripts/quests/will/thomas_win_poker.rpy:4 #-#-# translate crowdin thomas_win_poker_f8d83874:
+msgid "[_cedrick_] (Или порвет с тобой окончательно так как ты опять ввязался в азартные игры)"
+msgstr ""
+
