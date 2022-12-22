@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/getPhotoOfNigel.po\n"
+"X-Crowdin-File-ID: 5473\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:34\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/getPhotoOfNigel.rpy:7 #-#-# translate crowdin getPhotoOfNigel_2bbfeb2b:
+msgid "[_cedrick_] Ты выполнил мою просьбу?"
+msgstr ""
+
+# game/scripts/quests/tarani/getPhotoOfNigel.rpy:8 #-#-# translate crowdin getPhotoOfNigel_6927b594:
+msgid "[_blank_] Бланк сделял!! бланк проследить!"
+msgstr ""
+
+# game/scripts/quests/tarani/getPhotoOfNigel.rpy:9 #-#-# translate crowdin getPhotoOfNigel_656576f9:
+msgid "[_cedrick_] Покажи ..."
+msgstr ""
+
+# game/scripts/quests/tarani/getPhotoOfNigel.rpy:12 #-#-# translate crowdin getPhotoOfNigel_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/tarani/getPhotoOfNigel.rpy:13 #-#-# translate crowdin getPhotoOfNigel_b313f77e:
+msgid "[_cedrick_] ….."
+msgstr ""
+
+# game/scripts/quests/tarani/getPhotoOfNigel.rpy:14 #-#-# translate crowdin getPhotoOfNigel_0420c280:
+msgid "[_cedrick_] Что ж, не плохо, фотоаппарат можешь оставить себе.."
+msgstr ""
+
+# game/scripts/quests/tarani/getPhotoOfNigel.rpy:17 #-#-# translate crowdin getPhotoOfNigel_da3a95be:
+msgid "[_cedrick_] (Теперь мне есть чем шантажировать тарани..)"
+msgstr ""
+
