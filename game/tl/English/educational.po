@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/sell_books_game/books/educational.po\n"
+"X-Crowdin-File-ID: 5603\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:36\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Анатомия человека. Том 1"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Сапин М.Р."
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Анатомия человека. Том 2"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Детская неврология"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Бадалян Л.О."
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Основы высшей математики"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Лобоцкая Н.Л."
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Введение в математику"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Шиханович Ю.А."
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Математика"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Наум Виленкин"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Алгебра"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Аркадий Мерзляк"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Геометрия"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Александр Рурукин"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "История. Учебник"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Синова И.В."
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Литература. Том 1"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Коровин И.В.V."
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Литература. Том 2"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Английский язык. Том 1"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Микхеева А."
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Английский язык. Том 2"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "География. Эволюция планет"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Девид Флинт"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "География Сейчас"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Джон Барвик"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Логика программирования"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Кевин Брукхаузер"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Основа композиции"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Францис Холанд"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Трудности перевода"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Марк Фолей"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Основы тестирования ПО"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Дональд Браун"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Многообразие любимых видов"
+msgstr ""
+
+# game/scripts/sell_books_game/books/educational.rpy:2
+msgid "Джон Смит"
+msgstr ""
+
