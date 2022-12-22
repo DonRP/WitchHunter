@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/newStudent/quest_new_student_intro.po\n"
+"X-Crowdin-File-ID: 5337\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:31\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_intro.rpy:6 #-#-# translate crowdin quest_new_student_intro_e11e77a5:
+msgid "[_cedrick_] (Хм.. Что-то сегодня эти школьные сплетницы куда оживленнее, чем обычно)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:7 #-#-# translate crowdin quest_new_student_intro_8dfa0bf6:
+msgid "[_girl_] Слушай, а ты уже видела ту новенькую, которая по обмену из Швейцарии?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:8 #-#-# translate crowdin quest_new_student_intro_98781055:
+msgid "[_girl2_] Еще нет, может я ее не заметила"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:9 #-#-# translate crowdin quest_new_student_intro_8921979c:
+msgid "[_girl_] Ну, мальчишкам явно было трудно ее не заметить.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:10 #-#-# translate crowdin quest_new_student_intro_68413626:
+msgid "[_girl_] У нее довольно богатый отец, а еще говорят, что она ооочень красивая"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:11 #-#-# translate crowdin quest_new_student_intro_3a9a7934:
+msgid "[_girl2_] Прям уж очень..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:15 #-#-# translate crowdin quest_new_student_intro_b2afe350:
+msgid "[_directris_] О, Мистер Хоффман!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:16 #-#-# translate crowdin quest_new_student_intro_a3de7767:
+msgid "[_directris_] Как удачно я вас встретила"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:20 #-#-# translate crowdin quest_new_student_intro_87283385:
+msgid "[_directris_] В школе появилась новая ученица. Она у нас по обмену, зовут Сондра Шмид, вам необходимо представить ее классу"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:24 #-#-# translate crowdin quest_new_student_intro_146d2f04:
+msgid "[_directris_] Проследите чтобы ей здесь все понравилось, и она нашла общий язык с одноклассниками"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:28 #-#-# translate crowdin quest_new_student_intro_a6be34b5:
+msgid "[_cedrick_] Постараюсь сделать все, что в моих силах"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:32 #-#-# translate crowdin quest_new_student_intro_eac6d89e:
+msgid "[_directris_] Это важно, ее родители внесли неплохую сумму в развитие нашей школы, и нам пойдет на пользу, если она решит здесь остаться"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:33 #-#-# translate crowdin quest_new_student_intro_b45ea963:
+msgid "[_cedrick_] (Если это так важно для тебя, тогда почему ты сама этим не займешься, а перекладываешь всю работу на меня? Впрочем, этим она кое с кем похожа..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:37 #-#-# translate crowdin quest_new_student_intro_94c64be5:
+msgid "[_directris_] я рассчитываю на вас Мистер Хоффман"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:38 #-#-# translate crowdin quest_new_student_intro_15d61257:
+msgid "[_cedrick_] Конечно, Миссис Никербокер"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:40 #-#-# translate crowdin quest_new_student_intro_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:43 #-#-# translate crowdin quest_new_student_intro_5cf10794:
+msgid "[_cedrick_] И так, класс, прежде чем начать урок, я хотел бы представить вам нашу новую ученицу"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:45 #-#-# translate crowdin quest_new_student_intro_ef6006b7:
+msgid "[_cedrick_] Ее зовут Сондра Шмид. Она прибыла к нам по обмену из Швейцарии"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:46 #-#-# translate crowdin quest_new_student_intro_e9ffcf7d:
+msgid "[_cedrick_] Надеюсь вы с ней подружитесь"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:47 #-#-# translate crowdin quest_new_student_intro_414a8eba:
+msgid "[_cedrick_] Рад приветствовать тебя от всего класса, можешь занять любое свободное место"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:48 #-#-# translate crowdin quest_new_student_intro_e01488e5:
+msgid "[_cedrick_] Что ж, начнем новый урок"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:50 #-#-# translate crowdin quest_new_student_intro_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:52 #-#-# translate crowdin quest_new_student_intro_aad6e2c7:
+msgid "[_cedrick_] И так, в следующем месяце мы будем изучать основные тенденции развития стран Европы и Америки с конца 1950ых по начало 1970ых годов"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:53 #-#-# translate crowdin quest_new_student_intro_e399af45:
+msgid "[_cedrick_] Надеюсь, что вы отнесетесь к этой теме с интересом"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:54 #-#-# translate crowdin quest_new_student_intro_f9dcc38a:
+msgid "[_cedrick_] Помните, что это ваш последний год в школе, и оценки за него пойдут в ваш итоговый аттестат"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:55 #-#-# translate crowdin quest_new_student_intro_4c4d5713:
+msgid "[_cedrick_] Если вы планируете поступить более-менее приличный колледж, вам стоит постараться"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:57 #-#-# translate crowdin quest_new_student_intro_b0f4fcf1:
+msgid "[_centered_] {size=37}после урока.. {/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:59 #-#-# translate crowdin quest_new_student_intro_1e8fc6de:
+msgid "[_guy_] Сондра, пойдем вместе в столовую!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:60 #-#-# translate crowdin quest_new_student_intro_7c7c2099:
+msgid "[_sondra_] Идите без меня, я вас догоню"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:61 #-#-# translate crowdin quest_new_student_intro_550a7b9b:
+msgid "[_guy_] Хорошо, я займу тебе место за столиком"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:62 #-#-# translate crowdin quest_new_student_intro_e434e534:
+msgid "[_guy2_] Нет, это я займу тебе место, Сондра!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:63 #-#-# translate crowdin quest_new_student_intro_bc72f580:
+msgid "[_guy_] Отвали! Я первый сказал!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:64 #-#-# translate crowdin quest_new_student_intro_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:66 #-#-# translate crowdin quest_new_student_intro_f0f201be:
+msgid "[_sondra_] ..Придурки"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:67 #-#-# translate crowdin quest_new_student_intro_2a9b0ee0:
+msgid "[_cedrick_] Похоже, ты им понравилась. Рад, что ты смогла так быстро завести друзей"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:71 #-#-# translate crowdin quest_new_student_intro_6458b26f:
+msgid "[_sondra_] Я бы не назвала их друзьями.. скорее воздыхатели.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:75 #-#-# translate crowdin quest_new_student_intro_120bd733:
+msgid "[_sondra_] У меня было полно таких.. в предыдущей школе"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:76 #-#-# translate crowdin quest_new_student_intro_a2729e47:
+msgid "[_cedrick_] Ну, в этом нет ничего удивительного.. В конце концов, ты и вправду довольно привлекательна"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:80 #-#-# translate crowdin quest_new_student_intro_0a0a1d87:
+msgid "[_sondra_] Мистер Хофман неужели..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:84 #-#-# translate crowdin quest_new_student_intro_d8df6bb8:
+msgid "[_sondra_] вы со мной флиртуете??"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:86 #-#-# translate crowdin quest_new_student_intro_a1498f72:
+msgid "[_cedrick_] Нет ничего подобного.. я просто.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:90 #-#-# translate crowdin quest_new_student_intro_81e36af4:
+msgid "[_sondra_] Я шучу.. можете не объяснять, вы тоже вполне ничего.. "
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:94 #-#-# translate crowdin quest_new_student_intro_d5181c21:
+msgid "[_sondra_] И вы такой хороший рассказчик.. я прямо увлеклась этим.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:95 #-#-# translate crowdin quest_new_student_intro_ee6c68af:
+msgid "[_cedrick_] Глобальным экологическим кризисом?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:99 #-#-# translate crowdin quest_new_student_intro_98ef222e:
+msgid "[_sondra_] Да, точно"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:103 #-#-# translate crowdin quest_new_student_intro_01e4b2c7:
+msgid "[_sondra_] Я бы хотела чтобы вы рассказали мне об этом больше.. наедине"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:104 #-#-# translate crowdin quest_new_student_intro_ff27cdf3:
+msgid "[_cedrick_] Не думаю что это было честно по отношению к другим ученикам"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:108 #-#-# translate crowdin quest_new_student_intro_587b4710:
+msgid "[_sondra_] Очень жаль.. "
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:112 #-#-# translate crowdin quest_new_student_intro_98f423b4:
+msgid "[_sondra_] Что ж мне пора идти, быть может в другой раз..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:115 #-#-# translate crowdin quest_new_student_intro_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_intro.rpy:117 #-#-# translate crowdin quest_new_student_intro_6bc39ddd:
+msgid "[_cedrick_] (Мне показалось или... она хотела чего то большего..)"
+msgstr ""
+
