@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.po\n"
+"X-Crowdin-File-ID: 5107\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:26\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:4 #-#-# translate crowdin ask_elyon_put_books_in_the_store_42ca9224:
+msgid "[_cedrick_] Элион, помоги мне с кое-чем..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:7 #-#-# translate crowdin ask_elyon_put_books_in_the_store_732b1932:
+msgid "[_elion_] Конечно! С чем именно?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:10 #-#-# translate crowdin ask_elyon_put_books_in_the_store_0f91d53f:
+msgid "[_cedrick_] Думаю, сегодня нужно наконец-таки выставить пылящиеся в коробках книги..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:11 #-#-# translate crowdin ask_elyon_put_books_in_the_store_bed04061:
+msgid "[_cedrick_] Насколько я понимаю, там все перепутано и выставлять нужно на полку с соответствующим жанром и по алфавитному порядку начиная от фамилии автора..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:14 #-#-# translate crowdin ask_elyon_put_books_in_the_store_779750e6:
+msgid "[_elion_] Хорошо, звучит не очень сложно..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:17 #-#-# translate crowdin ask_elyon_put_books_in_the_store_566befa9:
+msgid "[_cedrick_] Это ты еще не видела сколько там коробок..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:19 #-#-# translate crowdin ask_elyon_put_books_in_the_store_8dabefc6:
+msgid ".."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:20 #-#-# translate crowdin ask_elyon_put_books_in_the_store_5f9b772e:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:21 #-#-# translate crowdin ask_elyon_put_books_in_the_store_57e69339:
+msgid "[_elion_] Ого... Знаешь, я не совсем уверена, что мы справимся за день!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:22 #-#-# translate crowdin ask_elyon_put_books_in_the_store_17355864:
+msgid "[_cedrick_] Ну необязательно делать все сразу. Мы вполне можем растянуть это и на несколько недель..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:23 #-#-# translate crowdin ask_elyon_put_books_in_the_store_fe1c8bb2:
+msgid "[_elion_] Ну, в таком случае, приступим!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:24 #-#-# translate crowdin ask_elyon_put_books_in_the_store_6fdcc24f:
+msgid "[_centered_] {size=36}Cпустя пол часа{/size}"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:26 #-#-# translate crowdin ask_elyon_put_books_in_the_store_08487bdc:
+msgid "[_cedrick_] (Фуф... Что-то я устал... какая утомительная работа...)"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:27 #-#-# translate crowdin ask_elyon_put_books_in_the_store_c244a924:
+msgid "[_cedrick_] (Интересно, как там Элион...)"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:28 #-#-# translate crowdin ask_elyon_put_books_in_the_store_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:32 #-#-# translate crowdin ask_elyon_put_books_in_the_store_7802be40:
+msgid "[_elion_]  Ну вот я и закончила с очередной коробкой!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:36 #-#-# translate crowdin ask_elyon_put_books_in_the_store_04fc0a65:
+msgid "[_cedrick_sprite_] А ты молодец! Смотрю, ты уже довольно много сделала..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:39 #-#-# translate crowdin ask_elyon_put_books_in_the_store_af45d626:
+msgid "[_elion_] Фуф, ага... Думаю, разберу еще одну коробку и хватит на сегодня... Так неудобно работать в юбке..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:40 #-#-# translate crowdin ask_elyon_put_books_in_the_store_3af0d11d:
+msgid "[_cedrick_] Действительно..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:42 #-#-# translate crowdin ask_elyon_put_books_in_the_store_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:46 #-#-# translate crowdin ask_elyon_put_books_in_the_store_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:50 #-#-# translate crowdin ask_elyon_put_books_in_the_store_02136114:
+msgid "[_elion_] Милые кости?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:53 #-#-# translate crowdin ask_elyon_put_books_in_the_store_56aae87d:
+msgid "[_elion_] Это же моя любимая книга!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:57 #-#-# translate crowdin ask_elyon_put_books_in_the_store_88883a36:
+msgid "[_cedrick_] Звучит жутковато... Не знал, что тебе такое нравится..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:58 #-#-# translate crowdin ask_elyon_put_books_in_the_store_6d77b9a8:
+msgid "[_cedrick_]  (видать сказываются гены некоторых членов семейства Эсканор, хе-хе...)"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:61 #-#-# translate crowdin ask_elyon_put_books_in_the_store_24597d3e:
+msgid "[_elion_] Нет, вовсе нет! Разве ты ее не читал?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:64 #-#-# translate crowdin ask_elyon_put_books_in_the_store_52469ef2:
+msgid "[_cedrick_] Скорей всего нет, а о чем книга?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:67 #-#-# translate crowdin ask_elyon_put_books_in_the_store_ac0ad4db:
+msgid "[_elion_] Об убитой четырнадцатилетней девушке... Это если не вдаваться в подробности..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:68 #-#-# translate crowdin ask_elyon_put_books_in_the_store_4729d02d:
+msgid "[_elion_] После своей смерти она с небес наблюдает за тем, как ее родные отреагировали на ее смерть и пытаются жить дальше..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:69 #-#-# translate crowdin ask_elyon_put_books_in_the_store_3a53c2d7:
+msgid "[_elion_] наверное, если бы я исчезла как она, никто бы толком и не заметил..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:70 #-#-# translate crowdin ask_elyon_put_books_in_the_store_f6460587:
+msgid "[_cedrick_] Твои друзья бы точно заметили."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:71 #-#-# translate crowdin ask_elyon_put_books_in_the_store_da4e32a6:
+msgid "[_elion_] У меня и друзей то нет..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:72 #-#-# translate crowdin ask_elyon_put_books_in_the_store_544b11d4:
+msgid "[_cedrick_] А как же корнелия?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:73 #-#-# translate crowdin ask_elyon_put_books_in_the_store_5e169d37:
+msgid "[_elion_] У нас с ней... такие себе отношения"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:74 #-#-# translate crowdin ask_elyon_put_books_in_the_store_94abb374:
+msgid "[_elion_] Да и с родителям тоже что-то не так... иногда мне кажется, что им нет до меня никакого дела..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:75 #-#-# translate crowdin ask_elyon_put_books_in_the_store_a5c0c846:
+msgid "[_cedrick_] Ну, в таком случае я бы точно заметил твою пропажу..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:76 #-#-# translate crowdin ask_elyon_put_books_in_the_store_89c59728:
+msgid "[_elion_] ..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:79 #-#-# translate crowdin ask_elyon_put_books_in_the_store_686ccda3:
+msgid "[_elion_] Ты правда целовался с корнелией?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:80 #-#-# translate crowdin ask_elyon_put_books_in_the_store_42c67298:
+msgid "[_cedrick_] Это была она... просто случайность..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:81 #-#-# translate crowdin ask_elyon_put_books_in_the_store_d5d3d6e0:
+msgid "[_elion_] И вы теперь... встречаетесь?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:82 #-#-# translate crowdin ask_elyon_put_books_in_the_store_09549f5c:
+msgid "[_cedrick_] Эм... вовсе нет... мы просто друзья..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/ask_elyon_put_books_in_the_store.rpy:84 #-#-# translate crowdin ask_elyon_put_books_in_the_store_a20cefa7_3:
+msgid "..."
+msgstr ""
+
