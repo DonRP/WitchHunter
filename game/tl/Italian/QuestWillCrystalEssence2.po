@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestWillCrystalEssence2.po\n"
+"X-Crowdin-File-ID: 4947\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:23\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:8
+msgid "Кристаллическая эссенция для Вилл. Часть II"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
+msgid "Проведать Элион в книжном магазине"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
+msgid "Прийти к Сьюзан на особый завтрак"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
+msgid "Купить купальные костюмы себе и Сьюзан"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
+msgid "Прийти домой к семье Вендомов с купальными костюмами"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
+msgid "Ответить на сообщение Сьюзан в телефоне"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
+msgid "Купить ингредиенты для грудки с вишневым соусом"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
+msgid "Принести продукты для ужина"
+msgstr ""
+
