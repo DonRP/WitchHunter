@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/preparingAlchemyForPrincePhobos/before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.po\n"
+"X-Crowdin-File-ID: 5373\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:32\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:4 #-#-# translate crowdin before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:8 #-#-# translate crowdin before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_51487bd2:
+msgid "[_cedrick_] Так вот что Миранда имела ввиду. Теперь я понял. Уверен, тебя хочет трахнуть половина здешних монстров"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:12 #-#-# translate crowdin before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_97e1a853:
+msgid "[_queenofmorpions_] Человек.. Ты.. умрешь"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:13 #-#-# translate crowdin before_kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_718713d8:
+msgid "[_cedrick_] Ты что, умеешь разговаривать? Черт, впервые встречаю разумного монстра в этом лесу. Но ты ошиблась, я не человек"
+msgstr ""
+
