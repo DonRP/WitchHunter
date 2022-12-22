@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/askMirandaDragonNostril.po\n"
+"X-Crowdin-File-ID: 5459\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:33\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:11 #-#-# translate crowdin askMirandaDragonNostril_c8d2151d:
+msgid "[_cedrick_] Миранда.. Ты случайно не знаешь… Где можно достать Ноздрю Дракона?..."
+msgstr ""
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:15 #-#-# translate crowdin askMirandaDragonNostril_e8243b9d:
+msgid "[_miranda_] Ноздря Дракона — это довольно редкий ингредиент… говорят, что драконы давно вымерли. По крайней мере в нашем краю их не видели уже более сотни лет."
+msgstr ""
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:16 #-#-# translate crowdin askMirandaDragonNostril_0b372ca9:
+msgid "[_miranda_] Зачем она тебе?"
+msgstr ""
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:20 #-#-# translate crowdin askMirandaDragonNostril_15d8b9b7:
+msgid "[_cedrick_] Не твое дело! Так ты знаешь где ее можно достать или нет?"
+msgstr ""
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:24 #-#-# translate crowdin askMirandaDragonNostril_aadfc023:
+msgid "[_miranda_] Так случилось, что у меня есть то, что тебе надо, но просто так я ее тебе не отдам.."
+msgstr ""
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:28 #-#-# translate crowdin askMirandaDragonNostril_1bad38d6:
+msgid "[_cedrick_] Чего ты хочешь?"
+msgstr ""
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:32 #-#-# translate crowdin askMirandaDragonNostril_64df27e3:
+msgid "[_miranda_] Я отдам тебе ноздрю дракона только в том случае, если ты достанешь мне клык Ларвека, который обитает в местном лесу.."
+msgstr ""
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:36 #-#-# translate crowdin askMirandaDragonNostril_cf79059c:
+msgid "[_cedrick_] Что ж.. Договорились."
+msgstr ""
+
