@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.po\n"
+"X-Crowdin-File-ID: 5209\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:29\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:7 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_ccfbbd91:
+msgid "[_cedrick_] Лови, сраный извращенец, как по заказу. А теперь ближе к делу"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:8 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_bc586772:
+msgid "[_jink1_] Ооо, трусики самой госпожи Миранды – почти что священный артефакт"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:9 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_f79ed366:
+msgid "[_cedrick_] Что? Как ты.."
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:10 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_8efca60e:
+msgid "[_jink1_] У Джинк очень острый нюх, Лорд Седрик"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:11 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_21836957:
+msgid "[_cedrick_] ..Мерзость, но плевать. У меня к тебе поручение особой срочности. Ты должен справиться до наступления земного утра"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:12 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_431a69cd:
+msgid "[_jink1_] Джинк вас слушает"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:13 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_b944e8ff:
+msgid "[_cedrick_] Вот адрес дома не Земле. Ты должен сделать так, чтобы машина разбилась.. Ты же знаешь, что такое машина?"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:14 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_7754c9ff:
+msgid "[_jink1_] ..Стальная карета без лошадей? Да, Джинк знает, Джинк красть оттуда бибики и светяшки"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:15 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_0a6d883b:
+msgid "[_cedrick_] И машина не начинала сигналить?"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:16 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_e3b69b05:
+msgid "[_jink1_] Первое время было и такое, но Джинк быстро научился усыплять стального зверя, покопавшись в его внутренностях.."
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:17 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_e35735b5:
+msgid "[_cedrick_] Отлично. Утром на этой машине поедет семья. Не знаю, как ты это устроишь, но машина должна разбиться. За выполнение задания отвечаешь своей головой перед самим Фобосом"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:18 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_37f2c9ea:
+msgid "[_jink1_] Джинк понял приказ, Джин все сделает как надо"
+msgstr ""
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_give_panties_to_jink.rpy:19 #-#-# translate crowdin get_rid_of_elyons_give_panties_to_jink_d9c4c68a:
+msgid "[_cedrick_] Отлично, рассчитываю на тебя"
+msgstr ""
+
