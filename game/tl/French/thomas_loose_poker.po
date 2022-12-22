@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/will/thomas_loose_poker.po\n"
+"X-Crowdin-File-ID: 5533\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/thomas_loose_poker.rpy:4 #-#-# translate crowdin thomas_loose_poker_73c76c52:
+msgid "[_tomas_] Черт, как я мог проиграть! эти деньги сьюзан мне дала чтобы заплатить за квартиру"
+msgstr ""
+
+# game/scripts/quests/will/thomas_loose_poker.rpy:5 #-#-# translate crowdin thomas_loose_poker_ae86522a:
+msgid "[_tomas_] Умоляю дай мне отыгратся!"
+msgstr ""
+
+# game/scripts/quests/will/thomas_loose_poker.rpy:6 #-#-# translate crowdin thomas_loose_poker_52375465:
+msgid "[_cedrick_] А тебе есть что поставить... извини.."
+msgstr ""
+
+# game/scripts/quests/will/thomas_loose_poker.rpy:7 #-#-# translate crowdin thomas_loose_poker_edbf83e4:
+msgid "[_tomas_] Проклятье...."
+msgstr ""
+
+# game/scripts/quests/will/thomas_loose_poker.rpy:8 #-#-# translate crowdin thomas_loose_poker_64215ec7:
+msgid "[_cedrick_] (Пологаю Сьюзан выгонит его как только узнает что он ввязался в азартные игры, и к тому же проиграл деньги)"
+msgstr ""
+
