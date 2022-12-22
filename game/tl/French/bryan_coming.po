@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/boxWithBooks/bryan_coming.po\n"
+"X-Crowdin-File-ID: 5109\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:26\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/boxWithBooks/bryan_coming.rpy:4 #-#-# translate crowdin bryan_coming_bdc90698:
+msgid "[_elion_] Ладно, Рик. Мне уже пора идти"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:5 #-#-# translate crowdin bryan_coming_bdd7fb09:
+msgid "[_cedrick_] До завтра!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:6 #-#-# translate crowdin bryan_coming_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:7 #-#-# translate crowdin bryan_coming_5f9b772e:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:11 #-#-# translate crowdin bryan_coming_f9adcb39:
+msgid "*звук распахивающейся двери*"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:14 #-#-# translate crowdin bryan_coming_e6f0338a:
+msgid "[_cedrick_] вам что-то подсказать, молодой человек?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:15 #-#-# translate crowdin bryan_coming_76931f2f:
+msgid "[_brayan_] ..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:19 #-#-# translate crowdin bryan_coming_b2a5ec06:
+msgid "[_brayan_] Слышь, старпер, надо поговорить!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:23 #-#-# translate crowdin bryan_coming_2ba460af:
+msgid "[_cedrick_sprite_zol_] Следи за языком, мелкий паршивец или вылетишь из магазина как пробка."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:25 #-#-# translate crowdin bryan_coming_387eafe2:
+msgid "[_brayan_] Я видел как ты приставал к моей девушке!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:26 #-#-# translate crowdin bryan_coming_c6260041:
+msgid "[_cedrick_] Что? О чем ты говоришь?"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:30 #-#-# translate crowdin bryan_coming_6757f15c:
+msgid "[_brayan_] Элион! Моя девушка! Сегодня ты распускал свои грязные руки..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:31 #-#-# translate crowdin bryan_coming_f7c7280f:
+msgid "[_cedrick_] Ничего подобного не было... Видимо ты что-то попутал, пацан..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:35 #-#-# translate crowdin bryan_coming_e0b53dba:
+msgid "[_brayan_] Я все видел!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:36 #-#-# translate crowdin bryan_coming_933b27c2:
+msgid "[_brayan_] Так что если ты и дальше будешь распускать свои руки... я..."
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:40 #-#-# translate crowdin bryan_coming_e763ef59:
+msgid "[_brayan_] я сообщу об этом в полицию! Ты меня понял?!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:41 #-#-# translate crowdin bryan_coming_d2229f0f:
+msgid "[_cedrick_] Воу, у тебя просто башню сорвало! Я ничего не делал!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:42 #-#-# translate crowdin bryan_coming_47564a20:
+msgid "[_brayan_] Это мое последнее предупреждение! Другого не будет!"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:45 #-#-# translate crowdin bryan_coming_880e336a:
+msgid "[_cedrick_] (Не знал, что у элион есть парень... да еще и такой нервный..)"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:46 #-#-# translate crowdin bryan_coming_c2a6bc43:
+msgid "[_cedrick_sprite_zol_] (Он станет мне помехой, нужно найти способ избавиться от него!)"
+msgstr ""
+
+# game/scripts/quests/boxWithBooks/bryan_coming.rpy:47 #-#-# translate crowdin bryan_coming_4fbaecac:
+msgid "[_cedrick_sprite_zol_] (На Меридиане этот хлипкий уродец наверняка бы выступал в качестве шута или в поисках пропитания давал бы в задницу Лурденам за булку хлеба...)"
+msgstr ""
+
