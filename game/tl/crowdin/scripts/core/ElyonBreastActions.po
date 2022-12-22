@@ -1,0 +1,16 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/ElyonBreastActions.rpy:6
+msgid "Покажи грудь"
+msgstr "Покажи грудь"
+
+# game/scripts/core/ElyonBreastActions.rpy:20
+msgid "Снять лифчик"
+msgstr "Снять лифчик"
+
+# game/scripts/core/ElyonBreastActions.rpy:28
+msgid "Достаточно"
+msgstr "Достаточно"
+
+# game/scripts/core/ElyonBreastActions.rpy:70
+msgid "Потрогать грудь"
+msgstr "Потрогать грудь"
+

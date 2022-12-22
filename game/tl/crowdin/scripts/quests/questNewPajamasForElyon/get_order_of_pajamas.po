@@ -1,0 +1,68 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:3 #-#-# translate crowdin get_order_of_pajamas_8c304da2:
+msgid "[_cedrick_] Элион, угадай что? Твоя пижама уже пришла"
+msgstr "[_cedrick_] Элион, угадай что? Твоя пижама уже пришла"
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:7 #-#-# translate crowdin get_order_of_pajamas_59612ebf:
+msgid "[_elion_] О, как круто! Дай скорее примерить"
+msgstr "[_elion_] О, как круто! Дай скорее примерить"
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:8 #-#-# translate crowdin get_order_of_pajamas_0ab27263:
+msgid "[_cedrick_] Конечно, вот, держи, переодевайся"
+msgstr "[_cedrick_] Конечно, вот, держи, переодевайся"
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:12 #-#-# translate crowdin get_order_of_pajamas_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:13 #-#-# translate crowdin get_order_of_pajamas_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:14 #-#-# translate crowdin get_order_of_pajamas_5e5deb74:
+msgid "[_elion_] Рик..."
+msgstr "[_elion_] Рик..."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:15 #-#-# translate crowdin get_order_of_pajamas_73a16893:
+msgid "[_cedrick_] Что такое?"
+msgstr "[_cedrick_] Что такое?"
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:16 #-#-# translate crowdin get_order_of_pajamas_f8e1ebb7:
+msgid "[_elion_] Эм.. Как бы сказать.. Мне кажется, в доставке что-то напутали.."
+msgstr "[_elion_] Эм.. Как бы сказать.. Мне кажется, в доставке что-то напутали.."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:20 #-#-# translate crowdin get_order_of_pajamas_f296780e:
+msgid "[_cedrick_] Ох ты ж, какие формы.."
+msgstr "[_cedrick_] Ох ты ж, какие формы.."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:23 #-#-# translate crowdin get_order_of_pajamas_650ba1f5:
+msgid "[_elion_] Р-рик, ты меня смущаешь своими комментариями.."
+msgstr "[_elion_] Р-рик, ты меня смущаешь своими комментариями.."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:25 #-#-# translate crowdin get_order_of_pajamas_87bcb055:
+msgid "[_cedrick_] Хах, ну прости.. А знаешь, пижама отлично на тебе смотрится"
+msgstr "[_cedrick_] Хах, ну прости.. А знаешь, пижама отлично на тебе смотрится"
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:28 #-#-# translate crowdin get_order_of_pajamas_abc46793:
+msgid "[_elion_] Она же оголяет мои части тела даже больше, чем повседневная одежда.."
+msgstr "[_elion_] Она же оголяет мои части тела даже больше, чем повседневная одежда.."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:29 #-#-# translate crowdin get_order_of_pajamas_79088e57:
+msgid "[_cedrick_] А разве так и не должно быть.."
+msgstr "[_cedrick_] А разве так и не должно быть.."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:32 #-#-# translate crowdin get_order_of_pajamas_bae8b5f2:
+msgid "[_elion_] Н-ну не знаю.."
+msgstr "[_elion_] Н-ну не знаю.."
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:33 #-#-# translate crowdin get_order_of_pajamas_2757dc32:
+msgid "[_cedrick_] Думаю, тебе стоит ее оставить. Мне очень нравится то, как она тебя, эм, обтягивает"
+msgstr "[_cedrick_] Думаю, тебе стоит ее оставить. Мне очень нравится то, как она тебя, эм, обтягивает"
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:36 #-#-# translate crowdin get_order_of_pajamas_053974ff:
+msgid "[_elion_] Р-рик.. Ну ладно, только потому что тебе нравится"
+msgstr "[_elion_] Р-рик.. Ну ладно, только потому что тебе нравится"
+
+# game/scripts/quests/questNewPajamasForElyon/get_order_of_pajamas.rpy:37 #-#-# translate crowdin get_order_of_pajamas_b6ad9e42:
+msgid "[_cedrick_] (Отлично)"
+msgstr "[_cedrick_] (Отлично)"
+

@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getConcertTickets/getTshirtForBlank.rpy:3 #-#-# translate crowdin getTshirtForBlank_14733cf7:
+msgid "У вас не хватает денег для того, чтобы купить модную футболку."
+msgstr "У вас не хватает денег для того, чтобы купить модную футболку."
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/getConcertTickets/getTshirtForBlank.rpy:5
+msgid "Вы уверены, что хотите купить модную футболку?"
+msgstr "Вы уверены, что хотите купить модную футболку?"
+

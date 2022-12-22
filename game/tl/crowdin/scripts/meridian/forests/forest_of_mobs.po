@@ -1,0 +1,20 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/forests/forest_of_mobs.rpy:60 #-#-# translate crowdin forest_of_mobs_ce5f6a3a:
+msgid "[_cedrick_] Я не могу сражаться c Королем Морпионов с Мирандой на руках. Нужно отнести ее в замок"
+msgstr "[_cedrick_] Я не могу сражаться c Королем Морпионов с Мирандой на руках. Нужно отнести ее в замок"
+
+# §translate crowdin strings: #|#|# # game/scripts/meridian/forests/forest_of_mobs.rpy:4
+msgid "Выберите лес чтобы напасть на мобов подходящих вашему уровню"
+msgstr "Выберите лес чтобы напасть на мобов подходящих вашему уровню"
+
+# game/scripts/meridian/forests/forest_of_mobs.rpy:4
+msgid "Начало леса (3-6 уровень)"
+msgstr "Начало леса (3-6 уровень)"
+
+# game/scripts/meridian/forests/forest_of_mobs.rpy:4
+msgid "Середина леса (7-9 уровень)"
+msgstr "Середина леса (7-9 уровень)"
+
+# game/scripts/meridian/forests/forest_of_mobs.rpy:4
+msgid "Конец леса (10 уровень)"
+msgstr "Конец леса (10 уровень)"
+

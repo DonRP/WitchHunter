@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/restaurant/restaurant.rpy:7 #-#-# translate crowdin restoran_123d8f3f:
+msgid "[_cedrick_sprite_] Ресторан закрыт."
+msgstr "[_cedrick_sprite_] Ресторан закрыт."
+
+# game/scripts/restaurant/restaurant.rpy:25 #-#-# translate crowdin restoran_menu_cc7b8c54:
+msgid "[_YanLin_] В последнее время у нас так мало клиентов.. Надеюсь, что это скоро изменится, иначе нам придется закрыть ресторан..."
+msgstr "[_YanLin_] В последнее время у нас так мало клиентов.. Надеюсь, что это скоро изменится, иначе нам придется закрыть ресторан..."
+
+# §translate crowdin strings: #|#|# # game/scripts/restaurant/restaurant.rpy:23
+msgid "Как насчет отсоса?"
+msgstr "Как насчет отсоса?"
+

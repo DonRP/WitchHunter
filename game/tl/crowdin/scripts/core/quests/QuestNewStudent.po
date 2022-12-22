@@ -1,0 +1,28 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestNewStudent.rpy:3
+msgid "Новая ученица"
+msgstr "Новая ученица"
+
+# game/scripts/core/quests/QuestNewStudent.rpy:15
+msgid "Проведать новую ученицу в школе"
+msgstr "Проведать новую ученицу в школе"
+
+# game/scripts/core/quests/QuestNewStudent.rpy:15
+msgid "Провести урок в школе"
+msgstr "Провести урок в школе"
+
+# game/scripts/core/quests/QuestNewStudent.rpy:15
+msgid "Объявить о школьной поездке на следующий день"
+msgstr "Объявить о школьной поездке на следующий день"
+
+# game/scripts/core/quests/QuestNewStudent.rpy:15
+msgid "Купить теплую одежду"
+msgstr "Купить теплую одежду"
+
+# game/scripts/core/quests/QuestNewStudent.rpy:15
+msgid "Дождаться поездки на гору хезерфилд на выходных"
+msgstr "Дождаться поездки на гору хезерфилд на выходных"
+
+# game/scripts/core/quests/QuestNewStudent.rpy:15
+msgid "Наведаться в школу на следующей неделе"
+msgstr "Наведаться в школу на следующей неделе"
+

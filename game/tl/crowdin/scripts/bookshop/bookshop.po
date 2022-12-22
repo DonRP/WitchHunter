@@ -1,0 +1,28 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/bookshop/bookshop.rpy:11
+msgid "{size=37}Спустя некоторое время в книжном магазине{/size}"
+msgstr "{size=37}Спустя некоторое время в книжном магазине{/size}"
+
+# game/scripts/bookshop/bookshop.rpy:43
+msgid "Прогуляться"
+msgstr "Прогуляться"
+
+# game/scripts/bookshop/bookshop.rpy:43
+msgid "Работать"
+msgstr "Работать"
+
+# game/scripts/bookshop/bookshop.rpy:43
+msgid "Телепортироваться на меридиан"
+msgstr "Телепортироваться на меридиан"
+
+# game/scripts/bookshop/bookshop.rpy:43
+msgid "Посмотреть порножурнал"
+msgstr "Посмотреть порножурнал"
+
+# game/scripts/bookshop/bookshop.rpy:69
+msgid "Изучить историю"
+msgstr "Изучить историю"
+
+# game/scripts/bookshop/bookshop.rpy:81
+msgid "Подойти к Элион"
+msgstr "Подойти к Элион"
+

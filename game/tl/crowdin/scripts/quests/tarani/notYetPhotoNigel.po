@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/notYetPhotoNigel.rpy:6 #-#-# translate crowdin notYetPhotoNigel_2bbfeb2b:
+msgid "[_cedrick_] Ты выполнил мою просьбу?"
+msgstr "[_cedrick_] Ты выполнил мою просьбу?"
+
+# game/scripts/quests/tarani/notYetPhotoNigel.rpy:7 #-#-# translate crowdin notYetPhotoNigel_eb1e4887:
+msgid "[_blankChar_] Еще нет, Бланк занятой! Приходи позже.."
+msgstr "[_blankChar_] Еще нет, Бланк занятой! Приходи позже.."
+

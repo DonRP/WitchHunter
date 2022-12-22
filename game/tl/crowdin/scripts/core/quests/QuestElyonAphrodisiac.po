@@ -1,0 +1,20 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestElyonAphrodisiac.rpy:5
+msgid "Афродизиак для Элион"
+msgstr "Афродизиак для Элион"
+
+# game/scripts/core/quests/QuestElyonAphrodisiac.rpy:17
+msgid "Сходить к Миранде"
+msgstr "Сходить к Миранде"
+
+# game/scripts/core/quests/QuestElyonAphrodisiac.rpy:17
+msgid "Купить афродизиак в Магазине"
+msgstr "Купить афродизиак в Магазине"
+
+# game/scripts/core/quests/QuestElyonAphrodisiac.rpy:17
+msgid "Подбросить афродизиак Элион в школе"
+msgstr "Подбросить афродизиак Элион в школе"
+
+# game/scripts/core/quests/QuestElyonAphrodisiac.rpy:17
+msgid "Проведать Элион в школе"
+msgstr "Проведать Элион в школе"
+

@@ -1,0 +1,28 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/school/radioroom.rpy:24 #-#-# translate crowdin radioroom_c8f725d2:
+msgid "[_courtney_] Что ты здесь делаешь, эта комната только для персонала"
+msgstr "[_courtney_] Что ты здесь делаешь, эта комната только для персонала"
+
+# game/scripts/school/radioroom.rpy:25 #-#-# translate crowdin radioroom_53ab2461:
+msgid "[_bess_] Так что если у тебя нет хорошей сплетни или вроде того.. проваливай.."
+msgstr "[_bess_] Так что если у тебя нет хорошей сплетни или вроде того.. проваливай.."
+
+# game/scripts/school/radioroom.rpy:26 #-#-# translate crowdin radioroom_1e367c7b:
+msgid "[_cedrick_sprite_] Пожалуй кое-что есть..."
+msgstr "[_cedrick_sprite_] Пожалуй кое-что есть..."
+
+# game/scripts/school/radioroom.rpy:27 #-#-# translate crowdin radioroom_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/school/radioroom.rpy:30 #-#-# translate crowdin radioroom_3958290b:
+msgid "Контент в разработке"
+msgstr "Контент в разработке"
+
+# §translate crowdin strings: #|#|# # game/scripts/school/radioroom.rpy:13
+msgid "Распросить о тарани"
+msgstr "Распросить о тарани"
+
+# game/scripts/school/radioroom.rpy:13
+msgid "Поговорить с ними"
+msgstr "Поговорить с ними"
+

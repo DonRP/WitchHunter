@@ -1,0 +1,208 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
+msgid "Звезда Трибы"
+msgstr "Звезда Трибы"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Древний артефакт который должен привлечь наследницу престола"
+msgstr "Древний артефакт который должен привлечь наследницу престола"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Плюшевый Тоторо"
+msgstr "Плюшевый Тоторо"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Плюшовая игрушка Тоторо"
+msgstr "Плюшовая игрушка Тоторо"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Корень Мандрагоры"
+msgstr "Корень Мандрагоры"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Корень очень редкого растения!"
+msgstr "Корень очень редкого растения!"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Китайская Чавкающая Капуста"
+msgstr "Китайская Чавкающая Капуста"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Магический овощ выращенный в Китае."
+msgstr "Магический овощ выращенный в Китае."
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Мертвая лягушка"
+msgstr "Мертвая лягушка"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Мертвая лягушка, кишки, мерзость"
+msgstr "Мертвая лягушка, кишки, мерзость"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Мобильный телефон"
+msgstr "Мобильный телефон"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Телефон с контактками учеников из школы"
+msgstr "Телефон с контактками учеников из школы"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Красная Кепка"
+msgstr "Красная Кепка"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Детская красная кепка"
+msgstr "Детская красная кепка"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Шоколадка"
+msgstr "Шоколадка"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Вкусная шоколадка"
+msgstr "Вкусная шоколадка"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Женская одежда"
+msgstr "Женская одежда"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Подойдет для Элион"
+msgstr "Подойдет для Элион"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Трусики"
+msgstr "Трусики"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Использованные трусики Миранды"
+msgstr "Использованные трусики Миранды"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Хвост большого морпиона"
+msgstr "Хвост большого морпиона"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Можно использовать для приготвления зелья"
+msgstr "Можно использовать для приготвления зелья"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Микрофон"
+msgstr "Микрофон"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Фотоаппарат"
+msgstr "Фотоаппарат"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Ноздря дракона"
+msgstr "Ноздря дракона"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Клык Ларвека"
+msgstr "Клык Ларвека"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Золотая цепь"
+msgstr "Золотая цепь"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Модная футболка"
+msgstr "Модная футболка"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Билеты на концерт"
+msgstr "Билеты на концерт"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Зелье возраста"
+msgstr "Зелье возраста"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Феаинневедд"
+msgstr "Феаинневедд"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Кот"
+msgstr "Кот"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Одежда большого размера"
+msgstr "Одежда большого размера"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Клочок волос"
+msgstr "Клочок волос"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Пустой магический сосуд"
+msgstr "Пустой магический сосуд"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Заполненный магический сосуд"
+msgstr "Заполненный магический сосуд"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Повседневная одежда"
+msgstr "Повседневная одежда"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Пижама"
+msgstr "Пижама"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Форма служанки"
+msgstr "Форма служанки"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Афродизиак"
+msgstr "Афродизиак"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Цветок с красной сердцевиной"
+msgstr "Цветок с красной сердцевиной"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Голубая капля"
+msgstr "Голубая капля"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Теплая одежда"
+msgstr "Теплая одежда"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Железа морпиона"
+msgstr "Железа морпиона"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Сок из желез морпионов"
+msgstr "Сок из желез морпионов"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Кристаллическая железа королевы морпионов"
+msgstr "Кристаллическая железа королевы морпионов"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Кристаллическая эссенция"
+msgstr "Кристаллическая эссенция"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Женский купальный костюм"
+msgstr "Женский купальный костюм"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Мужские плавки"
+msgstr "Мужские плавки"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Продукты для ужина"
+msgstr "Продукты для ужина"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Зелье восстановления магии"
+msgstr "Зелье восстановления магии"
+
+# game/scripts/core/inventory/items/items.rpy:2
+msgid "Викодин"
+msgstr "Викодин"
+

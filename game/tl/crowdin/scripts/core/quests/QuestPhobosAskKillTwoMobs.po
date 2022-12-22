@@ -1,0 +1,20 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:3
+msgid "Подготовка к нападению на запретный город"
+msgstr "Подготовка к нападению на запретный город"
+
+# game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
+msgid "Поговорить с князем Фобосом"
+msgstr "Поговорить с князем Фобосом"
+
+# game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
+msgid "Победить Песчаного демона"
+msgstr "Победить Песчаного демона"
+
+# game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
+msgid "Победить Гаргойла"
+msgstr "Победить Гаргойла"
+
+# game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
+msgid "Сообщить фобосу о том что его поручение выполнено"
+msgstr "Сообщить фобосу о том что его поручение выполнено"
+

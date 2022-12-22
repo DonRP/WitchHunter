@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:169
+msgid "Играть с читами"
+msgstr "Играть с читами"
+
+# game/script.rpy:169
+msgid "Играть без читов"
+msgstr "Играть без читов"
+
+# game/script.rpy:169
+msgid "Назад"
+msgstr "Назад"
+

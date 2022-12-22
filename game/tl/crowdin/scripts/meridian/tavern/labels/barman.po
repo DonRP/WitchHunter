@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/tavern/labels/barman.rpy:2 #-#-# translate crowdin barman_f521398f:
+msgid "[_barman_] Возможно хочешь освежить горло после долгой дороги?"
+msgstr "[_barman_] Возможно хочешь освежить горло после долгой дороги?"
+
+# game/scripts/meridian/tavern/labels/barman.rpy:3 #-#-# translate crowdin barman_3e3d72df:
+msgid "[_cedrick_sprite_] Нет, спасибо.."
+msgstr "[_cedrick_sprite_] Нет, спасибо.."
+

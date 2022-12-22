@@ -1,0 +1,24 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:7 #-#-# translate crowdin corneliaCallToSitWithLilian_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:10 #-#-# translate crowdin corneliaCallToSitWithLilian_fa65483d:
+msgid "[_cedrick_] Да?"
+msgstr "[_cedrick_] Да?"
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:11 #-#-# translate crowdin corneliaCallToSitWithLilian_97745f2c:
+msgid "[_cornelia_] Рик, это Корнелия."
+msgstr "[_cornelia_] Рик, это Корнелия."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:12 #-#-# translate crowdin corneliaCallToSitWithLilian_50830dcc:
+msgid "[_cornelia_] Ты сможешь посидеть с моей сестрой сегодня вечером? Просто мои родители уехали отдыхать, мне нужно уйти, а ее не с кем оставить..."
+msgstr "[_cornelia_] Ты сможешь посидеть с моей сестрой сегодня вечером? Просто мои родители уехали отдыхать, мне нужно уйти, а ее не с кем оставить..."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:13 #-#-# translate crowdin corneliaCallToSitWithLilian_df1f6558:
+msgid "[_cedrick_] Хорошо, без проблем, я приду."
+msgstr "[_cedrick_] Хорошо, без проблем, я приду."
+
+# game/scripts/quests/giftForLilian/corneliaCallToSitWithLilian.rpy:14 #-#-# translate crowdin corneliaCallToSitWithLilian_a20cefa7_1:
+msgid "..."
+msgstr "..."
+

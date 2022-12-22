@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMeetReading.rpy:4
+msgid "Вечер чтения"
+msgstr "Вечер чтения"
+
+# game/scripts/core/quests/QuestMeetReading.rpy:6
+msgid "Провести вечер чтения в книжном магазине (при помощи телефона)"
+msgstr "Провести вечер чтения в книжном магазине (при помощи телефона)"
+

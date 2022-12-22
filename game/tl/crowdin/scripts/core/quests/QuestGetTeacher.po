@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGetTeacher.rpy:3
+msgid "Учитель истории"
+msgstr "Учитель истории"
+
+# game/scripts/core/quests/QuestGetTeacher.rpy:9
+msgid "Устроиться учителем в школу"
+msgstr "Устроиться учителем в школу"
+

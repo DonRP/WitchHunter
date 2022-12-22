@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:6 #-#-# translate crowdin bookshop_teleport_a2bc3989:
+msgid "{i}(Я не могу воспользоваться этим, так как Элион сейчас в магазине.){/i}"
+msgstr "{i}(Я не могу воспользоваться этим, так как Элион сейчас в магазине.){/i}"
+
+# §translate crowdin strings: #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:11
+msgid "Телепортироваться на Меридиан"
+msgstr "Телепортироваться на Меридиан"
+
+# game/scripts/bookshop/imagemaplabels/bookshop_teleport.rpy:13
+msgid "Вы действительно хотите телепортироваться на Меридиан?"
+msgstr "Вы действительно хотите телепортироваться на Меридиан?"
+

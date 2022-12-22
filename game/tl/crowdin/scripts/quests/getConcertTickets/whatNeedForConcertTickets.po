@@ -1,0 +1,8 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getConcertTickets/whatNeedForConcertTickets.rpy:7 #-#-# translate crowdin whatNeedForConcertTickets_4b05d954:
+msgid "[_blank_] Ты принес модный футболка для бланк?"
+msgstr "[_blank_] Ты принес модный футболка для бланк?"
+
+# game/scripts/quests/getConcertTickets/whatNeedForConcertTickets.rpy:8 #-#-# translate crowdin whatNeedForConcertTickets_b2bff8c9:
+msgid "[_cedrick_] еще нет"
+msgstr "[_cedrick_] еще нет"
+

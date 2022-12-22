@@ -1,0 +1,44 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestHayLin.rpy:3
+msgid "Стражница Воздуха"
+msgstr "Стражница Воздуха"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Посетить князя Фобоса"
+msgstr "Посетить князя Фобоса"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Узнать как идут дела в ресторане (после того как Калеб попадет в плен)"
+msgstr "Узнать как идут дела в ресторане (после того как Калеб попадет в плен)"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Помочь в ресторане семье Лин. День первый"
+msgstr "Помочь в ресторане семье Лин. День первый"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Помочь в ресторане семье Лин. День второй"
+msgstr "Помочь в ресторане семье Лин. День второй"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Помочь в ресторане семье Лин. День третий"
+msgstr "Помочь в ресторане семье Лин. День третий"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Прийти в ресторан и как следует развлечься с Хайлин"
+msgstr "Прийти в ресторан и как следует развлечься с Хайлин"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Попросить Миранду приготовить лекарство для Ян Лин"
+msgstr "Попросить Миранду приготовить лекарство для Ян Лин"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Отдать лекарство для Ян Лин, Хай Лин"
+msgstr "Отдать лекарство для Ян Лин, Хай Лин"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Наполнить волшебный сосуд в замке князя фобоса"
+msgstr "Наполнить волшебный сосуд в замке князя фобоса"
+
+# game/scripts/core/quests/QuestHayLin.rpy:29
+msgid "Принести наполненный сосуд с лекарством для Ян лин в серебряный дракон , снова"
+msgstr "Принести наполненный сосуд с лекарством для Ян лин в серебряный дракон , снова"
+

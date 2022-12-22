@@ -1,0 +1,40 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Большое Зелье Здоровья"
+msgstr "Большое Зелье Здоровья"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 100 единиц здоровья"
+msgstr "Зелье восстанавливает 100 единиц здоровья"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Малое Зелье Здоровья"
+msgstr "Малое Зелье Здоровья"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 50 единиц здоровья"
+msgstr "Зелье восстанавливает 50 единиц здоровья"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье с ядом"
+msgstr "Зелье с ядом"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Отравляет врага на 5 ходов, каждый ход враг получает 15 урона"
+msgstr "Отравляет врага на 5 ходов, каждый ход враг получает 15 урона"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Сонное зелье"
+msgstr "Сонное зелье"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Заставляет уснуть врага на 3 хода"
+msgstr "Заставляет уснуть врага на 3 хода"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Паутинное зелье"
+msgstr "Паутинное зелье"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Замедляет врага на 4 хода"
+msgstr "Замедляет врага на 4 хода"
+

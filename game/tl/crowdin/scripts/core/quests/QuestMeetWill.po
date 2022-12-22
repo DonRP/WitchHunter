@@ -1,0 +1,60 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMeetWill.rpy:3
+msgid "Сблизиться с семьей Вэндомов"
+msgstr "Сблизиться с семьей Вэндомов"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Заказать игрушки лягушки для Вилл (при помощи телефона)"
+msgstr "Заказать игрушки лягушки для Вилл (при помощи телефона)"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Дождаться когда доставят игрушки лягушки в книжный магазин"
+msgstr "Дождаться когда доставят игрушки лягушки в книжный магазин"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Дождаться когда Вилл придет в книжный магазин"
+msgstr "Дождаться когда Вилл придет в книжный магазин"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Дождаться следующей встречи с Вилл"
+msgstr "Дождаться следующей встречи с Вилл"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Поднять навык истории и позаниматься с Вилл"
+msgstr "Поднять навык истории и позаниматься с Вилл"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Поднять навык истории и позаниматься с Вилл (снова)"
+msgstr "Поднять навык истории и позаниматься с Вилл (снова)"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Устранить Колинза"
+msgstr "Устранить Колинза"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Поднять навык истории и позаниматься с Вилл (еще раз)"
+msgstr "Поднять навык истории и позаниматься с Вилл (еще раз)"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Поговорить со Сьюзан у нее дома"
+msgstr "Поговорить со Сьюзан у нее дома"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Дождаться вечера и сводить Сьюзан в ресторан"
+msgstr "Дождаться вечера и сводить Сьюзан в ресторан"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Навестить Сьюзан и расспросить о ее муже"
+msgstr "Навестить Сьюзан и расспросить о ее муже"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Найти способ доказать Сьюзан что ее муж остался азартным игроком"
+msgstr "Найти способ доказать Сьюзан что ее муж остался азартным игроком"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Дождаться случайной встречи с Томасом Вэндомом"
+msgstr "Дождаться случайной встречи с Томасом Вэндомом"
+
+# game/scripts/core/quests/QuestMeetWill.rpy:28
+msgid "Сводить Сьюзан в кино"
+msgstr "Сводить Сьюзан в кино"
+

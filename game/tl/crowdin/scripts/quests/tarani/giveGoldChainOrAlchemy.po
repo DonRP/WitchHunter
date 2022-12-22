@@ -1,0 +1,36 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:5 #-#-# translate crowdin giveGoldChainOrAlchemy_97a4e5a0:
+msgid "[_cedrick_] (Что ж, пожалуй я могу устроить ему секс с Алхими..)"
+msgstr "[_cedrick_] (Что ж, пожалуй я могу устроить ему секс с Алхими..)"
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:6 #-#-# translate crowdin giveGoldChainOrAlchemy_bdf4a062:
+msgid "[_cedrick_] Что ж, у меня есть одна женщина для тебя, пошли за мной!"
+msgstr "[_cedrick_] Что ж, у меня есть одна женщина для тебя, пошли за мной!"
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:11 #-#-# translate crowdin giveGoldChainOrAlchemy_9ff07a41:
+msgid "[_blank_] Ты принести золотую цепь для Бланка?"
+msgstr "[_blank_] Ты принести золотую цепь для Бланка?"
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:15 #-#-# translate crowdin giveGoldChainOrAlchemy_6c6d60b0:
+msgid "[_cedrick_] Вот, держи."
+msgstr "[_cedrick_] Вот, держи."
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:16 #-#-# translate crowdin giveGoldChainOrAlchemy_62f0b8d7:
+msgid "[_cedrick_] (Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
+msgstr "[_cedrick_] (Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:25 #-#-# translate crowdin giveGoldChainOrAlchemy_ff72afdb:
+msgid "[_blankChar_] Тогда приходи как добудешь"
+msgstr "[_blankChar_] Тогда приходи как добудешь"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
+msgid "Отдать алхими"
+msgstr "Отдать алхими"
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
+msgid "Отдать цепочку"
+msgstr "Отдать цепочку"
+
+# game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
+msgid "У меня ничего нет"
+msgstr "У меня ничего нет"
+

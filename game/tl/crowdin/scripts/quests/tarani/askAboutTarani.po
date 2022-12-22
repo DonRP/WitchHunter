@@ -1,0 +1,68 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askAboutTarani.rpy:8 #-#-# translate crowdin askAboutTarani_ad7961fb:
+msgid "[_bess_] А, это опять ты... Мы же сказали только для членов клуба..."
+msgstr "[_bess_] А, это опять ты... Мы же сказали только для членов клуба..."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:9 #-#-# translate crowdin askAboutTarani_d8a46914:
+msgid "[_cedrick_] Меня зовут Рик Хоффман, я работаю учителем истории."
+msgstr "[_cedrick_] Меня зовут Рик Хоффман, я работаю учителем истории."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:10 #-#-# translate crowdin askAboutTarani_04572562:
+msgid "[_bess_] А, вы тот новый учитель который заменил Коллинза. Чем обязаны?"
+msgstr "[_bess_] А, вы тот новый учитель который заменил Коллинза. Чем обязаны?"
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:11 #-#-# translate crowdin askAboutTarani_4d1a0f1f:
+msgid "[_cedrick_] У одного из моих учеников проблемы с учебой и я хотел бы узнать в чем причина столь низкой успеваемости."
+msgstr "[_cedrick_] У одного из моих учеников проблемы с учебой и я хотел бы узнать в чем причина столь низкой успеваемости."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:12 #-#-# translate crowdin askAboutTarani_5d345a1d:
+msgid "[_cedrick_] И я решил, что такой замечательный и осведомленный, в школьных делах, клуб журналистики как ваш, сможет мне помочь.."
+msgstr "[_cedrick_] И я решил, что такой замечательный и осведомленный, в школьных делах, клуб журналистики как ваш, сможет мне помочь.."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:13 #-#-# translate crowdin askAboutTarani_96257d06:
+msgid "[_cedrick_] Что вы знаете об ученице по имени Тарани Кук?"
+msgstr "[_cedrick_] Что вы знаете об ученице по имени Тарани Кук?"
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:14 #-#-# translate crowdin askAboutTarani_1004b869:
+msgid "[_bess_] Тарани?"
+msgstr "[_bess_] Тарани?"
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:15 #-#-# translate crowdin askAboutTarani_67cb21a1:
+msgid "[_courtney_] Та зубрилка..."
+msgstr "[_courtney_] Та зубрилка..."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:16 #-#-# translate crowdin askAboutTarani_2cf94527:
+msgid "[_bess_] Да, мы можем расска.."
+msgstr "[_bess_] Да, мы можем расска.."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:17 #-#-# translate crowdin askAboutTarani_0713f5f2:
+msgid "[_courtney_] Сведенья стоят денег, а мы не раздаем информацию всем подряд и за бесплатно, знаете ли..."
+msgstr "[_courtney_] Сведенья стоят денег, а мы не раздаем информацию всем подряд и за бесплатно, знаете ли..."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:18 #-#-# translate crowdin askAboutTarani_18a92df9:
+msgid "[_cedrick_] Сколько вы хотите?"
+msgstr "[_cedrick_] Сколько вы хотите?"
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:19 #-#-# translate crowdin askAboutTarani_d599b747:
+msgid "[_courtney_] Так случилось, что один придурок сломал нам микрофон.."
+msgstr "[_courtney_] Так случилось, что один придурок сломал нам микрофон.."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:20 #-#-# translate crowdin askAboutTarani_7cb7bcaf:
+msgid "[_bess_] Чертов Урия..."
+msgstr "[_bess_] Чертов Урия..."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:21 #-#-# translate crowdin askAboutTarani_e3be935b:
+msgid "[_courtney_] В общем, если найдешь нам рабочий студийный микрофон, то мы расскажем тебе всю информацию, которая у нас есть."
+msgstr "[_courtney_] В общем, если найдешь нам рабочий студийный микрофон, то мы расскажем тебе всю информацию, которая у нас есть."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:22 #-#-# translate crowdin askAboutTarani_8b3289d1:
+msgid "[_cedrick_] Договорились.."
+msgstr "[_cedrick_] Договорились.."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:23 #-#-# translate crowdin askAboutTarani_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/tarani/askAboutTarani.rpy:24 #-#-# translate crowdin askAboutTarani_d25f00c2:
+msgid "[_cedrick_] (Что ж, микрофоны должны продаваться в супермаркете у вокзала..)"
+msgstr "[_cedrick_] (Что ж, микрофоны должны продаваться в супермаркете у вокзала..)"
+

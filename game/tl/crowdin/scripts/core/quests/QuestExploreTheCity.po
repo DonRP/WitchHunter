@@ -1,0 +1,36 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestExploreTheCity.rpy:4
+msgid "Осмотреть город"
+msgstr "Осмотреть город"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть ресторан Серебряный дракон"
+msgstr "Осмотреть ресторан Серебряный дракон"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Заглянуть в пещеру на окраине"
+msgstr "Заглянуть в пещеру на окраине"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Заглянуть в пещеру на окраине вечером"
+msgstr "Заглянуть в пещеру на окраине вечером"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть магазин"
+msgstr "Осмотреть магазин"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть школу"
+msgstr "Осмотреть школу"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть спортивный зал"
+msgstr "Осмотреть спортивный зал"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть полицейский участок"
+msgstr "Осмотреть полицейский участок"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть вокзал"
+msgstr "Осмотреть вокзал"
+

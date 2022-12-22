@@ -1,0 +1,32 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGetConcertTickets.rpy:3
+msgid "Музыкальная группа Сортирный союз"
+msgstr "Музыкальная группа Сортирный союз"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Достать билеты на концерт Сортирного союза (по телефону либо в магазине Wall mart)"
+msgstr "Достать билеты на концерт Сортирного союза (по телефону либо в магазине Wall mart)"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Попросить Бланка достать билеты на концерт"
+msgstr "Попросить Бланка достать билеты на концерт"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Добыть футболку для Бланка"
+msgstr "Добыть футболку для Бланка"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Отдать футболку Бланку"
+msgstr "Отдать футболку Бланку"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Дождаться когда Бланк добудет билеты и забрать их"
+msgstr "Дождаться когда Бланк добудет билеты и забрать их"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Позвать Корнелию на концерт когда она заглянет в Букшоп"
+msgstr "Позвать Корнелию на концерт когда она заглянет в Букшоп"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Сходить на концерт с Корнелией вечером, дождавшись ее в Букшопе"
+msgstr "Сходить на концерт с Корнелией вечером, дождавшись ее в Букшопе"
+

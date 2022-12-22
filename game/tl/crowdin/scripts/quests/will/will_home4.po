@@ -1,0 +1,132 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home4.rpy:7 #-#-# translate crowdin will_home4_208e43d0:
+msgid "[_cedrick_sprite_] Сьюзан, здравствуй, как ты?"
+msgstr "[_cedrick_sprite_] Сьюзан, здравствуй, как ты?"
+
+# game/scripts/quests/will/will_home4.rpy:8 #-#-# translate crowdin will_home4_5d4bbc3b:
+msgid "[_susan_] Я в порядке, все хорошо"
+msgstr "[_susan_] Я в порядке, все хорошо"
+
+# game/scripts/quests/will/will_home4.rpy:9 #-#-# translate crowdin will_home4_30bdb908:
+msgid "[_cedrick_sprite_] Дин не вернулся?"
+msgstr "[_cedrick_sprite_] Дин не вернулся?"
+
+# game/scripts/quests/will/will_home4.rpy:15 #-#-# translate crowdin will_home4_2b2e9b90:
+msgid "[_susan_] Он.. нет.. извини я не хочу об этом говорить.."
+msgstr "[_susan_] Он.. нет.. извини я не хочу об этом говорить.."
+
+# game/scripts/quests/will/will_home4.rpy:21 #-#-# translate crowdin will_home4_00d902d7:
+msgid "[_cedrick_sprite_] Заранее извиняюсь если это прозвучит довольно бестактно, в общем.."
+msgstr "[_cedrick_sprite_] Заранее извиняюсь если это прозвучит довольно бестактно, в общем.."
+
+# game/scripts/quests/will/will_home4.rpy:22 #-#-# translate crowdin will_home4_a2942a70:
+msgid "[_cedrick_sprite_] Может сходим куда-нибудь? Вдвоем...."
+msgstr "[_cedrick_sprite_] Может сходим куда-нибудь? Вдвоем...."
+
+# game/scripts/quests/will/will_home4.rpy:28 #-#-# translate crowdin will_home4_f773c6ab:
+msgid "[_susan_] Это неожиданно.."
+msgstr "[_susan_] Это неожиданно.."
+
+# game/scripts/quests/will/will_home4.rpy:29 #-#-# translate crowdin will_home4_de272013:
+msgid "[_cedrick_sprite_] Развеешься, конечно я ничего не знаю о Колинзе, но мне кажется он не заслуживает того чтобы ты из-за него так переживала"
+msgstr "[_cedrick_sprite_] Развеешься, конечно я ничего не знаю о Колинзе, но мне кажется он не заслуживает того чтобы ты из-за него так переживала"
+
+# game/scripts/quests/will/will_home4.rpy:35 #-#-# translate crowdin will_home4_670e0636:
+msgid "[_susan_] Пожалуй ты прав.."
+msgstr "[_susan_] Пожалуй ты прав.."
+
+# game/scripts/quests/will/will_home4.rpy:36 #-#-# translate crowdin will_home4_e8131a64:
+msgid "[_cedrick_sprite_] Как насчет четверга?"
+msgstr "[_cedrick_sprite_] Как насчет четверга?"
+
+# game/scripts/quests/will/will_home4.rpy:37 #-#-# translate crowdin will_home4_df01bf28:
+msgid "[_susan_] Да в четверг вечером я буду свободна"
+msgstr "[_susan_] Да в четверг вечером я буду свободна"
+
+# game/scripts/quests/will/will_home4.rpy:38 #-#-# translate crowdin will_home4_460e546a:
+msgid "[_cedrick_sprite_] Вот и договорились, я зайду за тобой"
+msgstr "[_cedrick_sprite_] Вот и договорились, я зайду за тобой"
+
+# game/scripts/quests/will/will_home4.rpy:39 #-#-# translate crowdin will_home4_8a92be25:
+msgid "[_cedrick_sprite_] Кстати Вилл у себя?"
+msgstr "[_cedrick_sprite_] Кстати Вилл у себя?"
+
+# game/scripts/quests/will/will_home4.rpy:40 #-#-# translate crowdin will_home4_0005c88c:
+msgid "[_susan_] Да она у себя в комнате, проходи"
+msgstr "[_susan_] Да она у себя в комнате, проходи"
+
+# game/scripts/quests/will/will_home4.rpy:44 #-#-# translate crowdin will_home4_6751b843:
+msgid "*В комнате вилл*"
+msgstr "*В комнате вилл*"
+
+# game/scripts/quests/will/will_home4.rpy:48 #-#-# translate crowdin will_home4_cd7c6c01:
+msgid "[_cedrick_sprite_] Ну как, ты настроилась на учебу? "
+msgstr "[_cedrick_sprite_] Ну как, ты настроилась на учебу? "
+
+# game/scripts/quests/will/will_home4.rpy:51 #-#-# translate crowdin will_home4_9da9906d:
+msgid "[_will_] Насчет этого, думаю это мне больше не понадобится..."
+msgstr "[_will_] Насчет этого, думаю это мне больше не понадобится..."
+
+# game/scripts/quests/will/will_home4.rpy:56 #-#-# translate crowdin will_home4_53496ff3:
+msgid "[_will_] Не подумай, ты замечательно преподаешь и все такое. Но из-за того что учитель Колинз не являлся не занятия, его уволили ... и теперь на время предмет убрали из школьной программы..."
+msgstr "[_will_] Не подумай, ты замечательно преподаешь и все такое. Но из-за того что учитель Колинз не являлся не занятия, его уволили ... и теперь на время предмет убрали из школьной программы..."
+
+# game/scripts/quests/will/will_home4.rpy:57 #-#-# translate crowdin will_home4_33d9f4b7:
+msgid "[_will_] До тех пор пока они не найдут ему замену"
+msgstr "[_will_] До тех пор пока они не найдут ему замену"
+
+# game/scripts/quests/will/will_home4.rpy:58 #-#-# translate crowdin will_home4_b7d999f8:
+msgid "[_cedrick_sprite_] Что ж, понятно"
+msgstr "[_cedrick_sprite_] Что ж, понятно"
+
+# game/scripts/quests/will/will_home4.rpy:63 #-#-# translate crowdin will_home4_2a318879:
+msgid "[_will_] А может быть.."
+msgstr "[_will_] А может быть.."
+
+# game/scripts/quests/will/will_home4.rpy:68 #-#-# translate crowdin will_home4_a765d86e:
+msgid "[_will_] Почему бы тебе не попробовать устроится? Я думаю из тебя бы вышел хороший преподаватель"
+msgstr "[_will_] Почему бы тебе не попробовать устроится? Я думаю из тебя бы вышел хороший преподаватель"
+
+# game/scripts/quests/will/will_home4.rpy:69 #-#-# translate crowdin will_home4_7014e4ee:
+msgid "[_cedrick_sprite_] (Думаю это хорошая идея, так мне удастся еще больше сблизится с Вилл, а также с другими стражницами, тем более Элион учится в той же школе...)"
+msgstr "[_cedrick_sprite_] (Думаю это хорошая идея, так мне удастся еще больше сблизится с Вилл, а также с другими стражницами, тем более Элион учится в той же школе...)"
+
+# game/scripts/quests/will/will_home4.rpy:70 #-#-# translate crowdin will_home4_5b749dd8:
+msgid "[_cedrick_sprite_] А это хорошая идея"
+msgstr "[_cedrick_sprite_] А это хорошая идея"
+
+# game/scripts/quests/will/will_home4.rpy:75 #-#-# translate crowdin will_home4_7f866231:
+msgid "[_will_] Отлично! Не то чтобы я очень любила уроки истории... Но если их будешь вести ты я очень даже не против..."
+msgstr "[_will_] Отлично! Не то чтобы я очень любила уроки истории... Но если их будешь вести ты я очень даже не против..."
+
+# game/scripts/quests/will/will_home4.rpy:80 #-#-# translate crowdin will_home4_0314add6:
+msgid "[_will_] Поговори с нашей директрисой, она целыми днями находится в школе"
+msgstr "[_will_] Поговори с нашей директрисой, она целыми днями находится в школе"
+
+# game/scripts/quests/will/will_home4.rpy:81 #-#-# translate crowdin will_home4_5795d341:
+msgid "[_cedrick_sprite_] Не уверен что моих знаний будет достаточно, но я попробую"
+msgstr "[_cedrick_sprite_] Не уверен что моих знаний будет достаточно, но я попробую"
+
+# game/scripts/quests/will/will_home4.rpy:82 #-#-# translate crowdin will_home4_50a6b6df:
+msgid "[_cedrick_sprite_] И еще..."
+msgstr "[_cedrick_sprite_] И еще..."
+
+# game/scripts/quests/will/will_home4.rpy:83 #-#-# translate crowdin will_home4_c0e05861:
+msgid "[_cedrick_sprite_] В общем я пригласил твою маму на свидание, надеюсь ты не против"
+msgstr "[_cedrick_sprite_] В общем я пригласил твою маму на свидание, надеюсь ты не против"
+
+# game/scripts/quests/will/will_home4.rpy:88 #-#-# translate crowdin will_home4_161caaba:
+msgid "[_will_] Свидание? Звучит замечательно, я так рада за вас"
+msgstr "[_will_] Свидание? Звучит замечательно, я так рада за вас"
+
+# game/scripts/quests/will/will_home4.rpy:89 #-#-# translate crowdin will_home4_7fad3f74:
+msgid "[_cedrick_sprite_] И я плохо ориентируюсь в городе, не подскажешь куда бы можно было ее сводить?"
+msgstr "[_cedrick_sprite_] И я плохо ориентируюсь в городе, не подскажешь куда бы можно было ее сводить?"
+
+# game/scripts/quests/will/will_home4.rpy:91 #-#-# translate crowdin will_home4_4ad04d67:
+msgid "[_will_] Можешь сводить ее в серебряный дракон, это ресторан здесь неподалеку, ей должно там понравится"
+msgstr "[_will_] Можешь сводить ее в серебряный дракон, это ресторан здесь неподалеку, ей должно там понравится"
+
+# game/scripts/quests/will/will_home4.rpy:92 #-#-# translate crowdin will_home4_ce9dd92f:
+msgid "[_cedrick_sprite_] Спасибо за совет Вилл. Ну, еще увидимся"
+msgstr "[_cedrick_sprite_] Спасибо за совет Вилл. Ну, еще увидимся"
+

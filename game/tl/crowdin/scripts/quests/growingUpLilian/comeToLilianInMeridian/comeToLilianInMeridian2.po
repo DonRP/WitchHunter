@@ -1,0 +1,52 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:9 #-#-# translate crowdin comeToLilianInMeridian2_0f3dc7b1:
+msgid "[_lilian_] Риик! Я выросла, Рик! Я и в правду выросла!"
+msgstr "[_lilian_] Риик! Я выросла, Рик! Я и в правду выросла!"
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:10 #-#-# translate crowdin comeToLilianInMeridian2_2eb8a5d8:
+msgid "[_cedrick_] Ого! (а зелье и вправду сработало! Вот это формы...)"
+msgstr "[_cedrick_] Ого! (а зелье и вправду сработало! Вот это формы...)"
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:11 #-#-# translate crowdin comeToLilianInMeridian2_64cce3cf:
+msgid "[_cedrick_] Ты... Ты выглядишь очень взрослой... Может даже старше своей сестры..."
+msgstr "[_cedrick_] Ты... Ты выглядишь очень взрослой... Может даже старше своей сестры..."
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:12 #-#-# translate crowdin comeToLilianInMeridian2_060c8cc7:
+msgid "[_lilian_] Это настоящее волшебство, оно сработало и теперь я действительно взрослая! Теперь моя сестренка не посмеет сказать мне то, что я маленькая! И я смогу делать все, что захочу!"
+msgstr "[_lilian_] Это настоящее волшебство, оно сработало и теперь я действительно взрослая! Теперь моя сестренка не посмеет сказать мне то, что я маленькая! И я смогу делать все, что захочу!"
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:13 #-#-# translate crowdin comeToLilianInMeridian2_f0492563:
+msgid "[_cedrick_] Да, ты совершенно права..."
+msgstr "[_cedrick_] Да, ты совершенно права..."
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:14 #-#-# translate crowdin comeToLilianInMeridian2_66d87c5b:
+msgid "[_cedrick_] Хотя... Несмотря на твой внешний вид ты еще не стала по настоящему совершеннолетней..."
+msgstr "[_cedrick_] Хотя... Несмотря на твой внешний вид ты еще не стала по настоящему совершеннолетней..."
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:18 #-#-# translate crowdin comeToLilianInMeridian2_03101d22:
+msgid "[_lilian_] Что ты имеешь ввиду, Рик?"
+msgstr "[_lilian_] Что ты имеешь ввиду, Рик?"
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:19 #-#-# translate crowdin comeToLilianInMeridian2_488a7b8f:
+msgid "[_cedrick_] Понимаешь... Взрослые регулярно делают всякие непристойные вещи... "
+msgstr "[_cedrick_] Понимаешь... Взрослые регулярно делают всякие непристойные вещи... "
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:25 #-#-# translate crowdin comeToLilianInMeridian2_38688e90:
+msgid "[_lilian_] Непристойные? Рик... Я не понимаю..."
+msgstr "[_lilian_] Непристойные? Рик... Я не понимаю..."
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:26 #-#-# translate crowdin comeToLilianInMeridian2_5fe4f2f1:
+msgid "[_cedrick_] Ну, например твоя сестра..."
+msgstr "[_cedrick_] Ну, например твоя сестра..."
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:27 #-#-# translate crowdin comeToLilianInMeridian2_9610c9b4:
+msgid "[_cedrick_] Ладно, мы поговорим об этом в следующий раз..."
+msgstr "[_cedrick_] Ладно, мы поговорим об этом в следующий раз..."
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:31 #-#-# translate crowdin comeToLilianInMeridian2_0261bc9e:
+msgid "[_lilian_] Расскажи мне, Рик! Я хочу быть как она! "
+msgstr "[_lilian_] Расскажи мне, Рик! Я хочу быть как она! "
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian2.rpy:32 #-#-# translate crowdin comeToLilianInMeridian2_8ab2bd5a:
+msgid "[_cedrick_] В другой раз, Лилиан... "
+msgstr "[_cedrick_] В другой раз, Лилиан... "
+

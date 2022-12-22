@@ -1,0 +1,16 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/taraniDidNotCome.rpy:7 #-#-# translate crowdin taraniDidNotCome_ca4eb251:
+msgid "[_cedrick_] Какой замечательный день для урока истории, не правда ли?"
+msgstr "[_cedrick_] Какой замечательный день для урока истории, не правда ли?"
+
+# game/scripts/quests/tarani/taraniDidNotCome.rpy:8 #-#-# translate crowdin taraniDidNotCome_a3305428:
+msgid "[_cedrick_] Тема нашего сегодняшнего урока Вторая мировая война.."
+msgstr "[_cedrick_] Тема нашего сегодняшнего урока Вторая мировая война.."
+
+# game/scripts/quests/tarani/taraniDidNotCome.rpy:9 #-#-# translate crowdin taraniDidNotCome_82837c08:
+msgid "[_cedrick_] (Похоже, что Тарани сегодня решила не посещать мой урок…)"
+msgstr "[_cedrick_] (Похоже, что Тарани сегодня решила не посещать мой урок…)"
+
+# game/scripts/quests/tarani/taraniDidNotCome.rpy:12 #-#-# translate crowdin taraniDidNotCome_a20cefa7:
+msgid "..."
+msgstr "..."
+

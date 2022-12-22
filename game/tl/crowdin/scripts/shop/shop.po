@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/shop/shop.rpy:14 #-#-# translate crowdin shop_0a71551e:
+msgid "[_cedrick_sprite_] Магазин закрыт"
+msgstr "[_cedrick_sprite_] Магазин закрыт"
+
+# §translate crowdin strings: #|#|# # game/scripts/shop/shop.rpy:42
+msgid "Спросить у продавца про билеты"
+msgstr "Спросить у продавца про билеты"
+
+# game/scripts/shop/shop.rpy:42
+msgid "Посмотреть товары"
+msgstr "Посмотреть товары"
+

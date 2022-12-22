@@ -1,0 +1,64 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/tavern/labels/herald.rpy:21 #-#-# translate crowdin herald_78013ee1:
+msgid "[_cedrick_] Я принес тебе золото!"
+msgstr "[_cedrick_] Я принес тебе золото!"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:22 #-#-# translate crowdin herald_b538f059:
+msgid "[_herald_] Тогда давай-же сыграем!"
+msgstr "[_herald_] Тогда давай-же сыграем!"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:32 #-#-# translate crowdin herald_d1141bd0:
+msgid "[_herald_] Ты принес золото?"
+msgstr "[_herald_] Ты принес золото?"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:33 #-#-# translate crowdin herald_cbcc2ae8:
+msgid "[_cedrick_] Нет... Еще нет..."
+msgstr "[_cedrick_] Нет... Еще нет..."
+
+# game/scripts/meridian/tavern/labels/herald.rpy:34 #-#-# translate crowdin herald_6f71cd4c:
+msgid "[_herald_] Тогда не мешай мне запивать свое горе!"
+msgstr "[_herald_] Тогда не мешай мне запивать свое горе!"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:37 #-#-# translate crowdin herald_1a1d29d6:
+msgid "[_cedrick_] Слушай давай сыграем на твою доску"
+msgstr "[_cedrick_] Слушай давай сыграем на твою доску"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:38 #-#-# translate crowdin herald_880c6091:
+msgid "[_herald_] С тебя тогда 200 золотых"
+msgstr "[_herald_] С тебя тогда 200 золотых"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:53 #-#-# translate crowdin herald_91805c1d:
+msgid "[_herald_] Ну тогда в другой раз"
+msgstr "[_herald_] Ну тогда в другой раз"
+
+# §translate crowdin strings: #|#|# # game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "Играть на золото"
+msgstr "Играть на золото"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "Попросить ингредиент для зелья"
+msgstr "Попросить ингредиент для зелья"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "Сыграть в покер на ингредиент"
+msgstr "Сыграть в покер на ингредиент"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "Играть на доску"
+msgstr "Играть на доску"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "назад"
+msgstr "назад"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:6
+msgid "Геральд"
+msgstr "Геральд"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:40
+msgid "сыграть за 200 золотых"
+msgstr "сыграть за 200 золотых"
+
+# game/scripts/meridian/tavern/labels/herald.rpy:40
+msgid "Извини пока нету такой суммы"
+msgstr "Извини пока нету такой суммы"
+

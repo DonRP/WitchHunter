@@ -1,0 +1,100 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/preferences/preferences.rpy:7
+msgid "Русский"
+msgstr "Русский"
+
+# game/scripts/main_menu/preferences/preferences.rpy:7
+msgid "Английский"
+msgstr "Английский"
+
+# game/scripts/main_menu/preferences/preferences.rpy:18
+msgid "Режим экрана"
+msgstr "Режим экрана"
+
+# game/scripts/main_menu/preferences/preferences.rpy:30
+msgid "Оконный"
+msgstr "Оконный"
+
+# game/scripts/main_menu/preferences/preferences.rpy:31
+msgid "Полноэкранный"
+msgstr "Полноэкранный"
+
+# game/scripts/main_menu/preferences/preferences.rpy:37
+msgid "Плавные переходы сцен"
+msgstr "Плавные переходы сцен"
+
+# game/scripts/main_menu/preferences/preferences.rpy:49
+msgid "Включить"
+msgstr "Включить"
+
+# game/scripts/main_menu/preferences/preferences.rpy:50
+msgid "Выключить"
+msgstr "Выключить"
+
+# game/scripts/main_menu/preferences/preferences.rpy:56
+msgid "Пропускать"
+msgstr "Пропускать"
+
+# game/scripts/main_menu/preferences/preferences.rpy:57
+msgid "Прочитанные сообщения"
+msgstr "Прочитанные сообщения"
+
+# game/scripts/main_menu/preferences/preferences.rpy:58
+msgid "Все сообщения"
+msgstr "Все сообщения"
+
+# game/scripts/main_menu/preferences/preferences.rpy:74
+msgid "После выбора"
+msgstr "После выбора"
+
+# game/scripts/main_menu/preferences/preferences.rpy:75
+msgid "Остановить пропуск"
+msgstr "Остановить пропуск"
+
+# game/scripts/main_menu/preferences/preferences.rpy:76
+msgid "Продолжить пропуск"
+msgstr "Продолжить пропуск"
+
+# game/scripts/main_menu/preferences/preferences.rpy:84
+msgid "Язык"
+msgstr "Язык"
+
+# game/scripts/main_menu/preferences/preferences.rpy:124
+msgid "Громкость музыки"
+msgstr "Громкость музыки"
+
+# game/scripts/main_menu/preferences/preferences.rpy:131
+msgid "Громкость звуков"
+msgstr "Громкость звуков"
+
+# game/scripts/main_menu/preferences/preferences.rpy:135
+msgid "Test"
+msgstr "Test"
+
+# game/scripts/main_menu/preferences/preferences.rpy:145
+msgid "Voice volume"
+msgstr "Voice volume"
+
+# game/scripts/main_menu/preferences/preferences.rpy:148
+msgid "Voice sustain"
+msgstr "Voice sustain"
+
+# game/scripts/main_menu/preferences/preferences.rpy:160
+msgid "FPS анимаций ([fps])"
+msgstr "FPS анимаций ([fps])"
+
+# game/scripts/main_menu/preferences/preferences.rpy:165
+msgid "Применить"
+msgstr "Применить"
+
+# game/scripts/main_menu/preferences/preferences.rpy:179
+msgid "Ожидать загрузку боя"
+msgstr "Ожидать загрузку боя"
+
+# game/scripts/main_menu/preferences/preferences.rpy:200
+msgid "Скорость текста"
+msgstr "Скорость текста"
+
+# game/scripts/main_menu/preferences/preferences.rpy:207
+msgid "Время автоматического пропуска"
+msgstr "Время автоматического пропуска"
+

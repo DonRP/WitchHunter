@@ -1,0 +1,20 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestNewspaperSection.rpy:4
+msgid "Кружок журналистики"
+msgstr "Кружок журналистики"
+
+# game/scripts/core/quests/QuestNewspaperSection.rpy:23
+msgid "Найти членов для клуба журналистики"
+msgstr "Найти членов для клуба журналистики"
+
+# game/scripts/core/quests/QuestNewspaperSection.rpy:23
+msgid "Нужна сенсация"
+msgstr "Нужна сенсация"
+
+# game/scripts/core/quests/QuestNewspaperSection.rpy:23
+msgid "Прийти на вечер чтений"
+msgstr "Прийти на вечер чтений"
+
+# game/scripts/core/quests/QuestNewspaperSection.rpy:23
+msgid "Отсчитать сестер Грампер в кабинете журналистики"
+msgstr "Отсчитать сестер Грампер в кабинете журналистики"
+

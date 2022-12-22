@@ -1,0 +1,164 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:5 #-#-# translate crowdin get_members_for_newspaper_club_7dd13b6d:
+msgid "[_elion_] Похоже школьная газета теперь выпускает полный отстой"
+msgstr "[_elion_] Похоже школьная газета теперь выпускает полный отстой"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:6 #-#-# translate crowdin get_members_for_newspaper_club_1eb9b579:
+msgid "[_irma_]  Это еще мягко сказано..."
+msgstr "[_irma_]  Это еще мягко сказано..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:7 #-#-# translate crowdin get_members_for_newspaper_club_eea6357b:
+msgid "[_will_] Учитель паркуется у гидранта.... Кошмар"
+msgstr "[_will_] Учитель паркуется у гидранта.... Кошмар"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:8 #-#-# translate crowdin get_members_for_newspaper_club_0752f4de:
+msgid "[_haylin_] А как тебе это? Плюшки в школьном буфете! Разоблачительный репортаж.."
+msgstr "[_haylin_] А как тебе это? Плюшки в школьном буфете! Разоблачительный репортаж.."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:9 #-#-# translate crowdin get_members_for_newspaper_club_58e01a1c:
+msgid "[_tarani_] А фотки то какие, смотрите, как сняли плюшку!"
+msgstr "[_tarani_] А фотки то какие, смотрите, как сняли плюшку!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:10 #-#-# translate crowdin get_members_for_newspaper_club_0c0bb56b:
+msgid "[_cornelia_]  Кстати о фото, как я вам на них?"
+msgstr "[_cornelia_]  Кстати о фото, как я вам на них?"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:11 #-#-# translate crowdin get_members_for_newspaper_club_7b295b08:
+msgid "[_elion_] Корни, тебя там нет..."
+msgstr "[_elion_] Корни, тебя там нет..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:12 #-#-# translate crowdin get_members_for_newspaper_club_df34bfb1:
+msgid "[_cornelia_] Вот именно! А еще прессой зовутся..."
+msgstr "[_cornelia_] Вот именно! А еще прессой зовутся..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:17 #-#-# translate crowdin get_members_for_newspaper_club_0c61dd56:
+msgid "[_bess_] Вы только посмотрите, новый наряд великой Корнелии посмели не сфотографировать для газеты! Какая трагедия..."
+msgstr "[_bess_] Вы только посмотрите, новый наряд великой Корнелии посмели не сфотографировать для газеты! Какая трагедия..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:21 #-#-# translate crowdin get_members_for_newspaper_club_5e77c9cd:
+msgid "[_courtney_] Не нравится школьная газета? Думаете, что сможете сделать лучше?"
+msgstr "[_courtney_] Не нравится школьная газета? Думаете, что сможете сделать лучше?"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:26 #-#-# translate crowdin get_members_for_newspaper_club_d986a003:
+msgid "[_tarani_] Для того чтобы понять, что фильм отстой, не нужно быть режиссером"
+msgstr "[_tarani_] Для того чтобы понять, что фильм отстой, не нужно быть режиссером"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:30 #-#-# translate crowdin get_members_for_newspaper_club_2597ca78:
+msgid "[_bess_] Мы забыли спросить нашу невыносимую всезнайку Тарани Кук! Должно быть ты гордишься этим. Прилежная, умная ученица! Ну конечно, нам всем следует ориентироваться на тебя!"
+msgstr "[_bess_] Мы забыли спросить нашу невыносимую всезнайку Тарани Кук! Должно быть ты гордишься этим. Прилежная, умная ученица! Ну конечно, нам всем следует ориентироваться на тебя!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:34 #-#-# translate crowdin get_members_for_newspaper_club_98f84176:
+msgid "[_tarani_] ..."
+msgstr "[_tarani_] ..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:38 #-#-# translate crowdin get_members_for_newspaper_club_e0a9722f:
+msgid "[_courtney_] Кстати на счет ориентации... Ирма, ты все не как не можешь решится? Может стоит написать об этом?.."
+msgstr "[_courtney_] Кстати на счет ориентации... Ирма, ты все не как не можешь решится? Может стоит написать об этом?.."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:42 #-#-# translate crowdin get_members_for_newspaper_club_2aea9424:
+msgid "[_irma_]  Что ты несешь?.."
+msgstr "[_irma_]  Что ты несешь?.."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:46 #-#-# translate crowdin get_members_for_newspaper_club_d57b39be:
+msgid "[_courtney_] Да ладно, все видят как ты смотришь на Корнелию..."
+msgstr "[_courtney_] Да ладно, все видят как ты смотришь на Корнелию..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:50 #-#-# translate crowdin get_members_for_newspaper_club_6956977e:
+msgid "[_bess_] Кроме разве что самой Корнелии... Ведь она никого, кроме себя, не замечает ... "
+msgstr "[_bess_] Кроме разве что самой Корнелии... Ведь она никого, кроме себя, не замечает ... "
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:54 #-#-# translate crowdin get_members_for_newspaper_club_58d972d2:
+msgid "[_irma_] Это все не правда!..."
+msgstr "[_irma_] Это все не правда!..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:58 #-#-# translate crowdin get_members_for_newspaper_club_369b08e2:
+msgid "[_haylin_] Девочки может хватит? Это же просто газета.."
+msgstr "[_haylin_] Девочки может хватит? Это же просто газета.."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:62 #-#-# translate crowdin get_members_for_newspaper_club_feaee5f5:
+msgid "[_bess_] Ну если это просто газета, то следующую статью мы напишем про твои скобы на зубах.."
+msgstr "[_bess_] Ну если это просто газета, то следующую статью мы напишем про твои скобы на зубах.."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:66 #-#-# translate crowdin get_members_for_newspaper_club_31765f86:
+msgid "[_irma_] Вы зашил уже слишком далеко, Грамперы - потаскушки... Чего же молчите про слухи, которые ходят про вас? может стоит написать про них?..."
+msgstr "[_irma_] Вы зашил уже слишком далеко, Грамперы - потаскушки... Чего же молчите про слухи, которые ходят про вас? может стоит написать про них?..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:70 #-#-# translate crowdin get_members_for_newspaper_club_6bc1bd49:
+msgid "[_tarani_] Ирма, давай покажем им, как надо делать газету?!"
+msgstr "[_tarani_] Ирма, давай покажем им, как надо делать газету?!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:74 #-#-# translate crowdin get_members_for_newspaper_club_4bbf6f1d:
+msgid "[_irma_] Нет, спасибо, я лучше сунусь в осиное гнездо"
+msgstr "[_irma_] Нет, спасибо, я лучше сунусь в осиное гнездо"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:78 #-#-# translate crowdin get_members_for_newspaper_club_86182518:
+msgid "[_courtney_] Вы же эти слухи и распространяйте... "
+msgstr "[_courtney_] Вы же эти слухи и распространяйте... "
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:83 #-#-# translate crowdin get_members_for_newspaper_club_5ce4bdef:
+msgid "[_martin_] Какие ожесточенные дискуссии! Вы должно быть спорите, о чем же написать следующую статью!"
+msgstr "[_martin_] Какие ожесточенные дискуссии! Вы должно быть спорите, о чем же написать следующую статью!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:87 #-#-# translate crowdin get_members_for_newspaper_club_bdca9017:
+msgid "[_martin_] Вот это я понимаю, дух журналистики! Я в деле!"
+msgstr "[_martin_] Вот это я понимаю, дух журналистики! Я в деле!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:92 #-#-# translate crowdin get_members_for_newspaper_club_79891dce:
+msgid "[_will_] Аа.. мистер Хоффман, здравствуйте"
+msgstr "[_will_] Аа.. мистер Хоффман, здравствуйте"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:96 #-#-# translate crowdin get_members_for_newspaper_club_eac234ed:
+msgid "[_bess_] Добрый день, мистер Хоффман.."
+msgstr "[_bess_] Добрый день, мистер Хоффман.."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:100 #-#-# translate crowdin get_members_for_newspaper_club_ef161dd1:
+msgid "[_irma_] Здрасьте..."
+msgstr "[_irma_] Здрасьте..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:103 #-#-# translate crowdin get_members_for_newspaper_club_415a5dd2:
+msgid "[_cedrick_sprite_] А я вижу вы обсуждаете школьную газету... Не так давно мисс Никебокер назначила меня курировать клуб журналистики, и у нас как раз не хватает членов... Может быть есть желающие вступить?"
+msgstr "[_cedrick_sprite_] А я вижу вы обсуждаете школьную газету... Не так давно мисс Никебокер назначила меня курировать клуб журналистики, и у нас как раз не хватает членов... Может быть есть желающие вступить?"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:106 #-#-# translate crowdin get_members_for_newspaper_club_d0824ff8:
+msgid "[_martin_] Я с радостью!"
+msgstr "[_martin_] Я с радостью!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:110 #-#-# translate crowdin get_members_for_newspaper_club_7add899e:
+msgid "[_tarani_] И мы с Ирмой хотим вступить!"
+msgstr "[_tarani_] И мы с Ирмой хотим вступить!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:114 #-#-# translate crowdin get_members_for_newspaper_club_bbba5f14:
+msgid "[_irma_]  Я? Низа что!"
+msgstr "[_irma_]  Я? Низа что!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:117 #-#-# translate crowdin get_members_for_newspaper_club_a10e47ad:
+msgid "[_cedrick_sprite_] Вот и отлично! Три новых члена клуба журналистики! Не забывайте, посещение клуба по вечерам и субботам обязательно! "
+msgstr "[_cedrick_sprite_] Вот и отлично! Три новых члена клуба журналистики! Не забывайте, посещение клуба по вечерам и субботам обязательно! "
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:121 #-#-# translate crowdin get_members_for_newspaper_club_74f332d2:
+msgid "[_cedrick_] А вы двое введете их в курс дела, и покажите им, что да как."
+msgstr "[_cedrick_] А вы двое введете их в курс дела, и покажите им, что да как."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:125 #-#-# translate crowdin get_members_for_newspaper_club_0bbe801c:
+msgid "[_bess_] Непременно..."
+msgstr "[_bess_] Непременно..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:129 #-#-# translate crowdin get_members_for_newspaper_club_5f9b772e:
+msgid "...."
+msgstr "...."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:133 #-#-# translate crowdin get_members_for_newspaper_club_cefef014:
+msgid "[_irma_] Вечера и субботы в школе! Молодец, Тарани!"
+msgstr "[_irma_] Вечера и субботы в школе! Молодец, Тарани!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:137 #-#-# translate crowdin get_members_for_newspaper_club_447bb3f7:
+msgid "[_martin_] Привет, Леди-Босс ! Теперь мы всегда будем вместе!"
+msgstr "[_martin_] Привет, Леди-Босс ! Теперь мы всегда будем вместе!"
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:141 #-#-# translate crowdin get_members_for_newspaper_club_1a4aaf9c:
+msgid "[_irma_] О господи..."
+msgstr "[_irma_] О господи..."
+
+# game/scripts/quests/newspaperSection/get_members_for_newspaper_club.rpy:145 #-#-# translate crowdin get_members_for_newspaper_club_fa8527d6:
+msgid "[_cedrick_] Жду вас завтра, в клубе журналистики"
+msgstr "[_cedrick_] Жду вас завтра, в клубе журналистики"
+

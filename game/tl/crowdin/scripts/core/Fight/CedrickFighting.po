@@ -1,0 +1,28 @@
+﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/CedrickFighting.rpy:288
+msgid "Седрик"
+msgstr "Седрик"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:351
+msgid "Удар змеиной рукой"
+msgstr "Удар змеиной рукой"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:351
+msgid "Плевок ядом"
+msgstr "Плевок ядом"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:351
+msgid "Удар хвостом"
+msgstr "Удар хвостом"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:392
+msgid "Начислен боевой опыт:"
+msgstr "Начислен боевой опыт:"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:404
+msgid "Получен новый уровень:"
+msgstr "Получен новый уровень:"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:436
+msgid "{skill_name} {quantity_mp} MP"
+msgstr "{skill_name} {quantity_mp} MP"
+
