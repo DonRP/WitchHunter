@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/growingUpLilian/comeToLilianInMeridian/waitingFuckCornelia.po\n"
+"X-Crowdin-File-ID: 5265\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:29\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/waitingFuckCornelia.rpy:8 #-#-# translate crowdin waitingFuckCornelia_d7652e8f:
+msgid "[_lilian_] Рик, ты пришел"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/waitingFuckCornelia.rpy:9 #-#-# translate crowdin waitingFuckCornelia_2643b4f4:
+msgid "[_cedrick_] Ну как ты? Уже чуствуеш себя взрослой?"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/comeToLilianInMeridian/waitingFuckCornelia.rpy:10 #-#-# translate crowdin waitingFuckCornelia_b5bb9966:
+msgid "[_lilian_] Еще как, спасибо тебе"
+msgstr ""
+
