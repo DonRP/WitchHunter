@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.po\n"
+"X-Crowdin-File-ID: 5377\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:32\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:6 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_2dd79b24:
+msgid "[_cedrick_] Я вернулся.. Черт, не думал, что бой с ней закончится так.. И еще не ожидал, что ее железы будут похожи на кристаллы"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:10 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_3fb058ff:
+msgid "[_miranda_] Зелье же называется кристаллической эссенцией, чего ты ожидал?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:14 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_5b9edf7d:
+msgid "[_cedrick_] Увидев эту королеву, я подумал, что мне нужно будет надоить ее или типа того, а ты сделаешь из этого кристаллы"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:15 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_10242dc1:
+msgid "[_miranda_] ..."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:19 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_33733544:
+msgid "[_miranda_] В любом случае, ты это сделал, отлично.. Хорошо, что ты не пострадал. Надеюсь, ее смерть никак не повлияет на фауну того леса.."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:23 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_266c85e5:
+msgid "[_cedrick_] (Да кому вообще какое дело до этого леса..)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:30 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_c866335c:
+msgid "[_miranda_] Я смешаю все ингредиенты в правильной последовательности и дам настояться."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:31 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_0f160b30:
+msgid "[_miranda_] Это сложный процесс, в нем все нужно сделать правильно, к тому же препарат не должен попасть на меня."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:35 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_960e61d1:
+msgid "[_miranda_] Так что не мог бы оставить меня одну? Приходи, как эссенция будет готова"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/bring_the_morpion_queens_crystal_essence_to_miranda.rpy:39 #-#-# translate crowdin bring_the_morpion_queens_crystal_essence_to_miranda_ebcc0b6f:
+msgid "[_cedrick_] Хорошо, займусь пока другими делами в городе. Самое время забрать Алхими"
+msgstr ""
+
