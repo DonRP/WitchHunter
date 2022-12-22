@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/meetReadings/meetReadings.po\n"
+"X-Crowdin-File-ID: 5333\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:31\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/meetReadings/meetReadings.rpy:11 #-#-# translate crowdin meetReadings_0222616b:
+msgid "[_cedrick_] ... Я открыл дверь и вышел на крыльцо. Там сидел незнакомый кот."
+msgstr ""
+
+# game/scripts/quests/meetReadings/meetReadings.rpy:12 #-#-# translate crowdin meetReadings_979d7853:
+msgid "[_cedrick_] Громадная тварь, кошак, с черной блестящей шерстью и светящимися желтыми глазами. Меня он не боялся. Он подошел, урча, и потерся об одну из моих ног."
+msgstr ""
+
+# game/scripts/quests/meetReadings/meetReadings.rpy:13 #-#-# translate crowdin meetReadings_b8b61740:
+msgid "[_cedrick_] Хороший парень – он и сам это знал. Животные такие штуки понимают. У них инстинкт. Я вернулся в дом, и он вошел следом"
+msgstr ""
+
+# game/scripts/quests/meetReadings/meetReadings.rpy:14 #-#-# translate crowdin meetReadings_c72c661f:
+msgid "[_cedrick_] Я открыл ему банку белого тунца \"Стар-Кист\". Закатан в родниковой воде. Вес нетто 7 унций."
+msgstr ""
+
+# game/scripts/quests/meetReadings/meetReadings.rpy:15 #-#-# translate crowdin meetReadings_675d9581:
+msgid "[_guy_] Неплохая книга!"
+msgstr ""
+
+# game/scripts/quests/meetReadings/meetReadings.rpy:16 #-#-# translate crowdin meetReadings_f49ad2f8:
+msgid "[_girl_] А на мой взгляд довольно пошлая.."
+msgstr ""
+
+# game/scripts/quests/meetReadings/meetReadings.rpy:20 #-#-# translate crowdin meetReadings_ca8d2e5c:
+msgid "[_cedrick_] (Что ж, кажется устроить публичное чтение и в правду была отличной идеей..)"
+msgstr ""
+
+# game/scripts/quests/meetReadings/meetReadings.rpy:29 #-#-# translate crowdin no_meetReadings_03346fe8:
+msgid "[_cedrick_sprite_] Эти встречи лучше всего проводить днем"
+msgstr ""
+
