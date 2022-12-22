@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/will/susan_restoran.po\n"
+"X-Crowdin-File-ID: 5529\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-12-22 22:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/susan_restoran.rpy:9 #-#-# translate crowdin susan_restoran_f4884831:
+msgid "*Сьюзан открывает дверь*"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:15 #-#-# translate crowdin susan_restoran_8f3b906c:
+msgid "[_cedrick_] Прекрасно выглядишь"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:21 #-#-# translate crowdin susan_restoran_f001eaf7:
+msgid "[_susan_] Спасибо.."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:27 #-#-# translate crowdin susan_restoran_c898ebf6:
+msgid "[_susan_] Так куда мы пойдем?"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:28 #-#-# translate crowdin susan_restoran_3b9726d0:
+msgid "[_cedrick_] Вилл сказала что здесь неподалеку есть ресторан..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:33 #-#-# translate crowdin susan_restoran_22c46a0a:
+msgid "*Спустя некоторое время в ресторане*"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:38 #-#-# translate crowdin susan_restoran_d5517daf:
+msgid "[_cedrick_] ...и с тех пор мы с ней не виделись "
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:43 #-#-# translate crowdin susan_restoran_65a5a549:
+msgid "[_susan_] хахаха, правда?"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:44 #-#-# translate crowdin susan_restoran_02a2f288:
+msgid "[_cedrick_] Клянусь так оно и было"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:49 #-#-# translate crowdin susan_restoran_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:50 #-#-# translate crowdin susan_restoran_05e94b40:
+msgid "[_susan_] Я давно не ела такой вкусной еды, так редко удается кудто выбраться"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:51 #-#-# translate crowdin susan_restoran_19a27661:
+msgid "[_susan_] И я так тебе благодарна за то что ты помогаешь Вилл..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:52 #-#-# translate crowdin susan_restoran_6e49640e:
+msgid "[_susan_] Ты такой замечательный"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:57 #-#-# translate crowdin susan_restoran_2f39fde6:
+msgid "[_susan_] Хах кажется я переусердствовала с вином..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:58 #-#-# translate crowdin susan_restoran_ab9ffc39:
+msgid "[_susan_] Может пойдем ко мне?"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:63 #-#-# translate crowdin susan_restoran_2a74f295:
+msgid "*Некоторое время спустя в комнате Сьюзан*"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:69 #-#-# translate crowdin susan_restoran_fce84a4d:
+msgid "[_susan_] Это был замечательный вечер"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:70 #-#-# translate crowdin susan_restoran_b17fcb73:
+msgid "[_cedrick_] Рад что смог угодить тебе"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:75 #-#-# translate crowdin susan_restoran_f01e0537:
+msgid "[_susan_] Вилл сегодня ночует у подруги..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:76 #-#-# translate crowdin susan_restoran_7a47ca77:
+msgid "[_susan_] Может..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:81 #-#-# translate crowdin susan_restoran_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:86 #-#-# translate crowdin susan_restoran_07bdde05:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:91 #-#-# translate crowdin susan_restoran_f8943a31:
+msgid "[_susan_] Ты был так добр к нам с Вилл, позволь мне отплатить тебе тем же..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:92 #-#-# translate crowdin susan_restoran_ceadcce8:
+msgid "[_cedrick_] (кажется она не на шутку возбудилась...)"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:93 #-#-# translate crowdin susan_restoran_cf1d4dca:
+msgid "[_cedrick_] (..и я тоже)"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:94 #-#-# translate crowdin susan_restoran_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:98 #-#-# translate crowdin susan_restoran_c32dfbf4:
+msgid "*Стук в дверь*"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:104 #-#-# translate crowdin susan_restoran_8e451c8e:
+msgid "[_cedrick_] Кажется кто-то пришел"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:105 #-#-# translate crowdin susan_restoran_2a685729:
+msgid "[_susan_] Но я никого не ждала"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:106 #-#-# translate crowdin susan_restoran_34073ebb:
+msgid "[_susan_] Вилл не должна была вернутся... может это соседка"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:112 #-#-# translate crowdin susan_restoran_e506cc22:
+msgid "*Звук открывания двери*"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:119 #-#-# translate crowdin susan_restoran_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:125 #-#-# translate crowdin susan_restoran_cf9c9c58:
+msgid "[_tomas_] Сьюзан"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:131 #-#-# translate crowdin susan_restoran_77da56fb:
+msgid "[_susan_] Это мне не снится?"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:132 #-#-# translate crowdin susan_restoran_c80466c0:
+msgid "[_tomas_] Ты ведь не забыла обо мне?"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:138 #-#-# translate crowdin susan_restoran_0a713a65:
+msgid "[_susan_] Что ты здесь делаешь?"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:144 #-#-# translate crowdin susan_restoran_b4d47691:
+msgid "[_tomas_] Я рассчитывал на иной прием, Сьюзан.. В чем я провинился?"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:152 #-#-# translate crowdin susan_restoran_1ba9c5bf:
+msgid "[_susan_] Я спрашиваю чего тебе от нас надо?"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:158 #-#-# translate crowdin susan_restoran_97d19780:
+msgid "[_tomas_] Успокойся, я хотел поговорить с тобой и Вилл. Попросить прощения..."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:159 #-#-# translate crowdin susan_restoran_6d89964e:
+msgid "[_susan_] Как ты смеешь являться спустя столько лет"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:160 #-#-# translate crowdin susan_restoran_bfde5db8:
+msgid "[_tomas_] Сьюзан, соблюдай приличия, здесь посторонние"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:161 #-#-# translate crowdin susan_restoran_a41a6720:
+msgid "[_susan_] Здесь один посторонний и это ты"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:162 #-#-# translate crowdin susan_restoran_8de240f8:
+msgid "[_cedrick_] Что ж, Сьюзан, пожалуй я оставлю вас одних... "
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:168 #-#-# translate crowdin susan_restoran_da732723:
+msgid "[_tomas_] Ценю вашу тактичность.. Нам надо поговорить по-семейному"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:174 #-#-# translate crowdin susan_restoran_e42f3b7d:
+msgid "[_susan_] Прости Рик.."
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:179 #-#-# translate crowdin susan_restoran_6c8b7a4e:
+msgid "*Спустя несколько минут в парке*"
+msgstr ""
+
+# game/scripts/quests/will/susan_restoran.rpy:184 #-#-# translate crowdin susan_restoran_9a946446:
+msgid "[_cedrick_] (Ее муж вернулся и все мне обломал... Пожалуй зайду к ней завтра..)"
+msgstr ""
+
