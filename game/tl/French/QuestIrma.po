@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestIrma.po\n"
+"X-Crowdin-File-ID: 4919\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:22\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestIrma.rpy:3
+msgid "Общественные работы школы Хезерфилда"
+msgstr ""
+
+# game/scripts/core/quests/QuestIrma.rpy:11
+msgid "Придумать как подставить Ирму"
+msgstr ""
+
+# game/scripts/core/quests/QuestIrma.rpy:11
+msgid "Дождаться когда Ирма и Мартин придут в букшоп"
+msgstr ""
+
