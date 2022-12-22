@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/badMark.po\n"
+"X-Crowdin-File-ID: 5461\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:33\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/badMark.rpy:9 #-#-# translate crowdin badMark_d859416a:
+msgid "Начало урока."
+msgstr ""
+
+# game/scripts/quests/tarani/badMark.rpy:10 #-#-# translate crowdin badMark_3e4135f2:
+msgid "[_cedrick_] Я рад видеть, что сегодня никто из вас не опоздал."
+msgstr ""
+
+# game/scripts/quests/tarani/badMark.rpy:11 #-#-# translate crowdin badMark_6a05c3aa:
+msgid "[_cedrick_] Сейчас я раздам ваши контрольные работы."
+msgstr ""
+
+# game/scripts/quests/tarani/badMark.rpy:14 #-#-# translate crowdin badMark_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/tarani/badMark.rpy:15 #-#-# translate crowdin badMark_e7c58346:
+msgid "[_irma_] Это правда мое? Четверка!"
+msgstr ""
+
+# game/scripts/quests/tarani/badMark.rpy:16 #-#-# translate crowdin badMark_d9a8175a:
+msgid "[_haylin_] И у меня!"
+msgstr ""
+
+# game/scripts/quests/tarani/badMark.rpy:17 #-#-# translate crowdin badMark_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/tarani/badMark.rpy:21 #-#-# translate crowdin badMark_b95416e4:
+msgid "Спустя 40 минут."
+msgstr ""
+
+# game/scripts/quests/tarani/badMark.rpy:24 #-#-# translate crowdin badMark_399cecd4:
+msgid "[_cedrick_] На этом наш урок окончен. Не забудьте сделать домашнее задание к завтрашнему дню."
+msgstr ""
+
