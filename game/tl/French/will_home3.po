@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/will/will_home3.po\n"
+"X-Crowdin-File-ID: 5549\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2022-12-22 22:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home3.rpy:8 #-#-# translate crowdin will_home3_554a662b:
+msgid "[_susan_] А Рик это ты, заходи"
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:14 #-#-# translate crowdin will_home3_ffd7540e:
+msgid "[_susan_] ..."
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:15 #-#-# translate crowdin will_home3_143d5552:
+msgid "[_cedrick_sprite_] Что то случилось?"
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:16 #-#-# translate crowdin will_home3_b54a4c57:
+msgid "[_susan_] Нет ничего.."
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:22 #-#-# translate crowdin will_home3_b8305ce6:
+msgid "[_susan_] Просто... Мы поругались с Дином, а теперь он не берет трубку... Вилл говорит что он не появлялся в школе и пропустил уроки.. Если у него не найдется уважительной причины скорее всего его уволят... Наверное опять напился... Скотина..."
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:23 #-#-# translate crowdin will_home3_c6d9eded:
+msgid "[_cedrick_sprite_] Думаешь он мог пропустить из-за этого занятия в школе?"
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:24 #-#-# translate crowdin will_home3_170abd3e:
+msgid "[_susan_] А.. неважно... прости что тебя нагрузила..."
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:30 #-#-# translate crowdin will_home3_018a60d7:
+msgid "[_susan_] Проходи вилл у себя в комнате..."
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:35 #-#-# translate crowdin will_home3_5d9a7257:
+msgid "*Какое-то время вы занимаетесь с Вилл*"
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:41 #-#-# translate crowdin will_home3_ef75f609:
+msgid "[_cedrick_sprite_] ...И тогда Гитлер застрелил свою семью, а потом и себя..."
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:47 #-#-# translate crowdin will_home3_256781d9:
+msgid "[_will_] Прости Рик сегодня я не могу сосредоточится на учебе"
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:48 #-#-# translate crowdin will_home3_1e687ff8:
+msgid "[_will_] Это из-за мамы, она очень расстроена и места себе не находит, все из-за этого Колинза... может быть в другой раз?"
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:53 #-#-# translate crowdin will_home3_32805468:
+msgid "[_will_] Тем более из-за того что учитель пропал скорее всего в ближайшее время занятий у нас не будет"
+msgstr ""
+
+# game/scripts/quests/will/will_home3.rpy:54 #-#-# translate crowdin will_home3_a8c2cd4f:
+msgid "[_cedrick_sprite_] Ну в таком случае.. Я зайду в другой раз"
+msgstr ""
+
