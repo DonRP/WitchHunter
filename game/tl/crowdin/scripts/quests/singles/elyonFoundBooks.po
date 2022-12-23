@@ -27,8 +27,8 @@ msgid "[_centered_] {size=37}Спустя несколько минут{/size}"
 msgstr "[_centered_] {size=37}Спустя несколько минут{/size}"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:32 #-#-# translate crowdin elyonFoundBooks_5c32ff77:
-msgid "[_cedrick_] ..." with Dissolve(.3)
-msgstr "[_cedrick_] ..." with Dissolve(.3)
+msgid "[_cedrick_] ... [withDissolvey3]"
+msgstr "[_cedrick_] ... [withDissolvey3]"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:36 #-#-# translate crowdin elyonFoundBooks_bbf11c6d:
 msgid "[_cedrick_] Так... Судя по адресу, который Корнелия мне оставила, она живет здесь."
@@ -111,8 +111,8 @@ msgid "[_centered_] {size=37}Спустя несколько минут{/size}"
 msgstr "[_centered_] {size=37}Спустя несколько минут{/size}"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:106 #-#-# translate crowdin elyonFoundBooks_0f79efd7:
-msgid "[_cornelia_] Ну... Как там дела у Элион в магазине?" with Dissolve(.3)
-msgstr "[_cornelia_] Ну... Как там дела у Элион в магазине?" with Dissolve(.3)
+msgid "[_cornelia_] Ну... Как там дела у Элион в магазине? [withDissolvey3]"
+msgstr "[_cornelia_] Ну... Как там дела у Элион в магазине? [withDissolvey3]"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:107 #-#-# translate crowdin elyonFoundBooks_c6d3e406:
 msgid "[_cedrick_] Все в порядке. Она довольно хорошо справляется со своими обязанностями."

@@ -19,8 +19,8 @@ msgid "[_miranda_] Я уже приготовила необходимые ин�
 msgstr "[_miranda_] Я уже приготовила необходимые ингредиенты, поэтому приготовление зелья не займет много времени... подожди немного..."
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:26 #-#-# translate crowdin getAgePotionForLilian_4eba94e3:
-msgid "[_centered_] {size=37}Спустя некоторое время{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя некоторое время{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя некоторое время{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя некоторое время{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:33 #-#-# translate crowdin getAgePotionForLilian_4fc08c69:
 msgid "[_miranda_] Все готово!"

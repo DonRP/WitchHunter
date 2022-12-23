@@ -23,8 +23,8 @@ msgid "[_miranda_] Отлично, давай сюда… И подожди…"
 msgstr "[_miranda_] Отлично, давай сюда… И подожди…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:31 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_ece6bd4b:
-msgid "[_centered_] {size=37}Спустя 10 минут{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя 10 минут{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя 10 минут{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя 10 минут{/size} [withDissolve1]"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:37 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_ac69f219:
 msgid "[_miranda_] Оборотное зелье готово!"
@@ -51,8 +51,8 @@ msgid "[_miranda_] Я хочу, чтобы ты трахнул меня, Сед�
 msgstr "[_miranda_] Я хочу, чтобы ты трахнул меня, Седрик…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:54 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_df1659e2:
-msgid "[_centered_] {size=37}Спустя несколько мгновений{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя несколько мгновений{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя несколько мгновений{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя несколько мгновений{/size} [withDissolve1]"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:58 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_935c9d4d:
 msgid "[_miranda_] …."
@@ -367,8 +367,8 @@ msgid "[_cedrick_] Я все обязательно расскажу… Може
 msgstr "[_cedrick_] Я все обязательно расскажу… Может… Пока Ирма в душе… Мы пойдем в спальню? Я так соскучился…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:255 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_e5cb8d7d:
-msgid "[_centered_] {size=37}Спустя несколько минут{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя несколько минут{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:258 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_37b3eda2:
 msgid "[_cedrick_] о да"
@@ -479,8 +479,8 @@ msgid "…"
 msgstr "…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:300 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_e5cb8d7d_1:
-msgid "[_centered_] {size=37}Спустя несколько минут{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя несколько минут{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:306 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_4e1e8928:
 msgid "[_anna_] Солнышко… По поводу того, что ты видела сегодня… иногда, когда мужчина и женщина любят дру…"

@@ -179,8 +179,8 @@ msgid "..."
 msgstr "..."
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:104 #-#-# translate crowdin goToConcert_54328b6b:
-msgid "[_centered_] {size=37}Через некоторое время...{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Через некоторое время...{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Через некоторое время...{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Через некоторое время...{/size} [withDissolve1]"
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:108 #-#-# translate crowdin goToConcert_2251f16f:
 msgid "[_cornelia_] Знаешь, Рик… Иик! Я так тебе благодарна… Ты такой милый.."

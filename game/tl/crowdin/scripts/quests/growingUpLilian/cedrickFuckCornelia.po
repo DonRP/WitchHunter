@@ -31,8 +31,8 @@ msgid "..."
 msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:32 #-#-# translate crowdin cedrickFuckCornelia_e63d7c21:
-msgid "[_centered_] {size=37}Спустя несколько минут в кладовой{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя несколько минут в кладовой{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя несколько минут в кладовой{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя несколько минут в кладовой{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:35 #-#-# translate crowdin cedrickFuckCornelia_d2a9ab06:
 msgid "[_cornelia_] Ну и что мы здесь делаем? Зачем мы сюда пришли!?"

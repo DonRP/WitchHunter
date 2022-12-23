@@ -43,8 +43,8 @@ msgid "...."
 msgstr "...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian4.rpy:42 #-#-# translate crowdin comeToLilianInMeridian4_b61046c3:
-msgid "[_centered_] {size=37}Спустя какое-то время{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя какое-то время{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя какое-то время{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя какое-то время{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian4.rpy:44 #-#-# translate crowdin comeToLilianInMeridian4_a20cefa7:
 msgid "..."

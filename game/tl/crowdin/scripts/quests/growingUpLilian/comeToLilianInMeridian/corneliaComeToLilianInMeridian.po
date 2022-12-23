@@ -147,8 +147,8 @@ msgid "[_cedrick_] Мне кажется, что мой член уже дост
 msgstr "[_cedrick_] Мне кажется, что мой член уже достаточно влажный... Сейчас я хочу трахнуть вас обеих!"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/corneliaComeToLilianInMeridian.rpy:88 #-#-# translate crowdin corneliaComeToLilianInMeridian_e5cb8d7d:
-msgid "[_centered_] {size=37}Спустя несколько минут{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя несколько минут{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/corneliaComeToLilianInMeridian.rpy:93 #-#-# translate crowdin corneliaComeToLilianInMeridian_a20cefa7_2:
 msgid "..."

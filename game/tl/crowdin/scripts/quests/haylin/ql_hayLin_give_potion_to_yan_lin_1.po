@@ -303,8 +303,8 @@ msgid "[_johnlin_] Не здесь.. Давай спустимся в подва
 msgstr "[_johnlin_] Не здесь.. Давай спустимся в подвал"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:248 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_2206b40d:
-msgid "[_centered_] {size=36}СПУСТИВШИСЬ В ПОДВАЛ, ДЖОАН СРАЗУ ВСТАЕТ НА КОЛЕНИ И ДОСТАЕТ ЧЛЕН СЕДРИКА{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=36}СПУСТИВШИСЬ В ПОДВАЛ, ДЖОАН СРАЗУ ВСТАЕТ НА КОЛЕНИ И ДОСТАЕТ ЧЛЕН СЕДРИКА{/size}" with Dissolve(1)
+msgid "[_centered_] {size=36}СПУСТИВШИСЬ В ПОДВАЛ, ДЖОАН СРАЗУ ВСТАЕТ НА КОЛЕНИ И ДОСТАЕТ ЧЛЕН СЕДРИКА{/size} [withDissolve1]"
+msgstr "[_centered_] {size=36}СПУСТИВШИСЬ В ПОДВАЛ, ДЖОАН СРАЗУ ВСТАЕТ НА КОЛЕНИ И ДОСТАЕТ ЧЛЕН СЕДРИКА{/size} [withDissolve1]"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:251 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_4cb15459:
 msgid "[_cedrick_] Воу, я даже не успел ничего тебе сказать, а ты уже на него набросилась? Ты определенно знаешь свое дело, Джоан"
@@ -387,8 +387,8 @@ msgid "[_cedrick_] Знаешь, отсюда открывается отлич�
 msgstr "[_cedrick_] Знаешь, отсюда открывается отличный вид"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:279 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_df2e8be3:
-msgid "[_centered_] {size=36}СЕДРИК ДЕЛАЕТ ФОТО ДЖОАН ЛИН С ЧЛЕНОМ ВО РТУ НА ТЕЛЕФОН{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=36}СЕДРИК ДЕЛАЕТ ФОТО ДЖОАН ЛИН С ЧЛЕНОМ ВО РТУ НА ТЕЛЕФОН{/size}" with Dissolve(1)
+msgid "[_centered_] {size=36}СЕДРИК ДЕЛАЕТ ФОТО ДЖОАН ЛИН С ЧЛЕНОМ ВО РТУ НА ТЕЛЕФОН{/size} [withDissolve1]"
+msgstr "[_centered_] {size=36}СЕДРИК ДЕЛАЕТ ФОТО ДЖОАН ЛИН С ЧЛЕНОМ ВО РТУ НА ТЕЛЕФОН{/size} [withDissolve1]"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:284 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_78f12923:
 msgid "[_johnlin_] Ч-что ты делаешь?"

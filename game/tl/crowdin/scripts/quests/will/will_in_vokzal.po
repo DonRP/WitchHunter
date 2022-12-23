@@ -63,8 +63,8 @@ msgid "..."
 msgstr "..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:105 #-#-# translate crowdin will_in_vokzal_11e09b0c:
-msgid "[_susan_] А вот и наш дом" with Dissolve(.3)
-msgstr "[_susan_] А вот и наш дом" with Dissolve(.3)
+msgid "[_susan_] А вот и наш дом [withDissolvey3]"
+msgstr "[_susan_] А вот и наш дом [withDissolvey3]"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:106 #-#-# translate crowdin will_in_vokzal_3010b9c1:
 msgid "[_cedrick_] Ну, был рад знакомству..."

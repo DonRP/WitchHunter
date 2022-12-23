@@ -51,8 +51,8 @@ msgid "[_cedrick_] Пойдем со мной..."
 msgstr "[_cedrick_] Пойдем со мной..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:22 #-#-# translate crowdin kidnapLilianToMeridianCastle_03161030:
-msgid "[_centered_] {size=37}Спустя некоторое время на Миридиане{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя некоторое время на Миридиане{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя некоторое время на Миридиане{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя некоторое время на Миридиане{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:27 #-#-# translate crowdin kidnapLilianToMeridianCastle_6b1fab5b:
 msgid "[_lilian_] Так это... Это... Правда..."
@@ -87,8 +87,8 @@ msgid "[_lilian_] Хорошо..."
 msgstr "[_lilian_] Хорошо..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:45 #-#-# translate crowdin kidnapLilianToMeridianCastle_7f2e60e0:
-msgid "[_centered_] {size=37}Позже в доме хейлов{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Позже в доме хейлов{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Позже в доме хейлов{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Позже в доме хейлов{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:51 #-#-# translate crowdin kidnapLilianToMeridianCastle_4bed1894:
 msgid "[_cornelia_] Где ты был? А где Лилиан?"

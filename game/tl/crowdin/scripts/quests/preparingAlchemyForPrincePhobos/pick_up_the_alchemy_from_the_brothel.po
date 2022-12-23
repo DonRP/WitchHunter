@@ -671,8 +671,8 @@ msgid "..."
 msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:528 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_c86b4a42:
-msgid "[_centered_] {size=37}Тем временем в полицейском участке{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Тем временем в полицейском участке{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Тем временем в полицейском участке{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Тем временем в полицейском участке{/size} [withDissolve1]"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:533 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_e9d9259d:
 msgid "[_medina_] Гордон, я знаю, что ты уже давно успокоился по поводу этого подозреваемого, но твой нюх детектива уже давно не тот"

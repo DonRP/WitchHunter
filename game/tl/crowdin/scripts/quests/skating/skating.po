@@ -7,8 +7,8 @@ msgid "[_cornelia_] Да, пойдем."
 msgstr "[_cornelia_] Да, пойдем."
 
 # game/scripts/quests/skating/skating.rpy:10 #-#-# translate crowdin skating_576d0f1d:
-msgid "[_centered_] {size=37}Спустя некоторое время на катке{/size}" with Dissolve(1)
-msgstr "[_centered_] {size=37}Спустя некоторое время на катке{/size}" with Dissolve(1)
+msgid "[_centered_] {size=37}Спустя некоторое время на катке{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Спустя некоторое время на катке{/size} [withDissolve1]"
 
 # game/scripts/quests/skating/skating.rpy:18 #-#-# translate crowdin skating_340eedad:
 msgid "[_cedrick_] Ауч..."
