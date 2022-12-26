@@ -1,27 +1,122 @@
 msgid ""
 msgstr ""
-"Выбрать цель:\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: witch-hunter\n"
 "X-Crowdin-Project-ID: 557133\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/fight/screens.po\n"
-"X-Crowdin-File-ID: 4991\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 4753\n"
 "Project-Id-Version: witch-hunter\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-26 17:45\n"
+"PO-Revision-Date: 2022-12-26 17:50\n"
 
-# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/fight/screens.rpy:57
-msgid "Выбрать цель:"
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:71
+msgid "[tooltip]"
 msgstr ""
 
-# game/scripts/fight/screens.rpy:163
-msgid "(ур. {player_level}) "
+# game/screens.rpy:92
+msgid "Нашел опечатку"
 msgstr ""
 
-# game/scripts/fight/screens.rpy:332
-msgid "Загрузка"
+# game/screens.rpy:203
+msgid "Пропуск"
+msgstr ""
+
+# game/screens.rpy:439
+msgid "Начать"
+msgstr ""
+
+# game/screens.rpy:440
+msgid "Загрузить"
+msgstr ""
+
+# game/screens.rpy:441
+msgid "Настройки"
+msgstr ""
+
+# game/screens.rpy:442
+msgid "Галерея"
+msgstr ""
+
+# game/screens.rpy:443
+msgid "Поддержать"
+msgstr ""
+
+# game/screens.rpy:444
+msgid "Титры"
+msgstr ""
+
+# game/screens.rpy:445
+msgid "Выйти"
+msgstr ""
+
+# game/screens.rpy:460
+msgid "Доступна новая версия Witch Hunter [version]!"
+msgstr ""
+
+# game/screens.rpy:507
+msgid "Вернуться в игру"
+msgstr ""
+
+# game/screens.rpy:510
+msgid "Сохранить"
+msgstr ""
+
+# game/screens.rpy:518
+msgid "Главное меню"
+msgstr ""
+
+# game/screens.rpy:609
+msgid "Empty Slot."
+msgstr ""
+
+# game/screens.rpy:646
+msgid "Это сохранение не поддерживает текущую версию игры [game_version]. Загрузка этого сохранения может привести к ошибкам!"
+msgstr ""
+
+# game/screens.rpy:686
+msgid "Авто"
+msgstr ""
+
+# game/screens.rpy:691
+msgid "Быстро"
+msgstr ""
+
+# game/screens.rpy:712
+msgid "Далее"
+msgstr ""
+
+# game/screens.rpy:824
+msgid "Да"
+msgstr ""
+
+# game/screens.rpy:828
+msgid "Нет"
+msgstr ""
+
+# game/screens.rpy:860
+msgid "Меню"
+msgstr ""
+
+# game/screens.rpy:861
+msgid "Быстрое сохранение"
+msgstr ""
+
+# game/screens.rpy:862
+msgid "Быстрая Загрузка"
+msgstr ""
+
+# game/screens.rpy:864
+msgid "Быстрый пропуск"
+msgstr ""
+
+# game/screens.rpy:865
+msgid "Авто пропуск"
+msgstr ""
+
+# game/screens.rpy:866
+msgid "Скрыть"
 msgstr ""
 
