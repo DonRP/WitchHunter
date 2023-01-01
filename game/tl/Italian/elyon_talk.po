@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-01-01 20:20\n"
+"PO-Revision-Date: 2023-01-01 22:28\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/elyon_talk.rpy:4 #-#-# translate crowdin d_elion_talk1_aaae6c1f:
 msgid "[_cedrick_sprite_] Элион"
@@ -94,25 +94,25 @@ msgstr "[_elion_] Va tutto bene Rick, grazie"
 
 # game/scripts/bookshop/elyon_talk.rpy:71 #-#-# translate crowdin d_elyon_after_loss_parents_cd013880:
 msgid "[_cedrick_] Элион ну как ты ?"
-msgstr ""
+msgstr "[_cedrick_] Elio, come stai?"
 
 # game/scripts/bookshop/elyon_talk.rpy:73 #-#-# translate crowdin d_elyon_after_loss_parents_888db8ba:
 msgid "[_elion_] я еще не отошла от произошедшего..."
-msgstr ""
+msgstr "[_elion_] non l'ho ancora superata..."
 
 # game/scripts/bookshop/elyon_talk.rpy:75 #-#-# translate crowdin d_elyon_after_loss_parents_ad7c31a9:
 msgid "[_cedrick_] остаться без родителей в таком возрасте.."
-msgstr ""
+msgstr "[_cedrick_] essere senza genitori a quell'età.."
 
 # game/scripts/bookshop/elyon_talk.rpy:77 #-#-# translate crowdin d_elyon_after_loss_parents_3793c7b5:
 msgid "[_elion_] давай не будем говорить об этом..."
-msgstr ""
+msgstr "[_elion_] essere senza genitori a quell'età..."
 
 # game/scripts/bookshop/elyon_talk.rpy:78 #-#-# translate crowdin d_elyon_after_loss_parents_42544d40:
 msgid "[_cedrick_] как скажешь, просто знай если захочешь о чем то поговорить я всегда тебя выслушаю"
-msgstr ""
+msgstr "[_cedrick_] come dici tu, sappi solo che se vuoi parlare di qualcosa, ti ascolterò sempre"
 
 # game/scripts/bookshop/elyon_talk.rpy:80 #-#-# translate crowdin d_elyon_after_loss_parents_648cd8c0:
 msgid "[_elion_] спасибо рик"
-msgstr ""
+msgstr "[_elion_] grazie rik"
 
