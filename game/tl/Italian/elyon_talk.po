@@ -10,87 +10,87 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:20\n"
+"PO-Revision-Date: 2023-01-01 20:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/elyon_talk.rpy:4 #-#-# translate crowdin d_elion_talk1_aaae6c1f:
 msgid "[_cedrick_sprite_] Элион"
-msgstr ""
+msgstr "[_cedrick_sprite_] Elione"
 
 # game/scripts/bookshop/elyon_talk.rpy:5 #-#-# translate crowdin d_elion_talk1_e8ab20e0:
 msgid "[_cedrick_sprite_] Ну, что думаешь насчет работы здесь?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Beh, cosa ne pensi di lavorare qui?"
 
 # game/scripts/bookshop/elyon_talk.rpy:9 #-#-# translate crowdin d_elion_talk1_f883d186:
 msgid "[_elion_] Ну, здесь конечно такой беспорядок. Нужно еще много труда, чтобы привести этот магазин в хороший вид.."
-msgstr ""
+msgstr "[_elion_] Beh, è ​​certamente un casino. C'è ancora molto lavoro per dare una buona occhiata a questo negozio.."
 
 # game/scripts/bookshop/elyon_talk.rpy:15 #-#-# translate crowdin d_elion_talk1_88f50d1a:
 msgid "[_elion_] Но, я благодарна вам за эту работу, теперь я могу хоть чем-то помочь моим родителям.."
-msgstr ""
+msgstr "[_elion_] Ma ti sono grato per questo lavoro, ora posso almeno in qualche modo aiutare i miei genitori.."
 
 # game/scripts/bookshop/elyon_talk.rpy:20 #-#-# translate crowdin d_elion_talk1_d1f3e325:
 msgid "[_elion_] Я рада, что вы меня взяли в помощники!"
-msgstr ""
+msgstr "[_elion_] Sono contento che tu mi abbia assunto per aiutarti!"
 
 # game/scripts/bookshop/elyon_talk.rpy:26 #-#-# translate crowdin d_brayan_lost_24e554a0:
 msgid "[_cedrick_sprite_] Ты как, держишься?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Come te la cavi?"
 
 # game/scripts/bookshop/elyon_talk.rpy:28 #-#-# translate crowdin d_brayan_lost_85df2db1:
 msgid "[_elion_] Я... Я все еще переживаю за Брайана..."
-msgstr ""
+msgstr "[_elion_] Io... sono ancora preoccupato per Brian..."
 
 # game/scripts/bookshop/elyon_talk.rpy:29 #-#-# translate crowdin d_brayan_lost_5db32b80:
 msgid "[_elion_] Надеюсь, что с ним все будет в порядке.."
-msgstr ""
+msgstr "[_elion_] Spero che vada tutto bene con lui.."
 
 # game/scripts/bookshop/elyon_talk.rpy:34 #-#-# translate crowdin d_alchemy_lost_1424187f:
 msgid "[_cedrick_sprite_] Все еще волнуешься из-за Алхими, да?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Sei ancora preoccupato per Alchemy, eh?"
 
 # game/scripts/bookshop/elyon_talk.rpy:36 #-#-# translate crowdin d_alchemy_lost_b3bb83de:
 msgid "[_elion_] Да.. Я боюсь, что с ней случилось что-то плохое. Не верится, что она могла уехать куда-то не сообщила мне об этом..."
-msgstr ""
+msgstr "[_elion_] Sì... temo che le sia successo qualcosa di brutto. Non riesco a credere che possa andare da qualche parte senza dirmelo..."
 
 # game/scripts/bookshop/elyon_talk.rpy:38 #-#-# translate crowdin d_alchemy_lost_ed48707d:
 msgid "[_elion_] И то, что Брайан пропал, это так странно..."
-msgstr ""
+msgstr "[_elion_] E il fatto che Brian sia scomparso è così strano..."
 
 # game/scripts/bookshop/elyon_talk.rpy:40 #-#-# translate crowdin d_alchemy_lost_23d234ec:
 msgid "[_cedrick_sprite_] Да, пожалуй.. Будем надеяться, что полиция сможет во всем разобраться.."
-msgstr ""
+msgstr "[_cedrick_sprite_] Sì, forse.. Speriamo che la polizia riesca a capirlo.."
 
 # game/scripts/bookshop/elyon_talk.rpy:45 #-#-# translate crowdin d_bad_cornelia_e8abfc10:
 msgid "[_cedrick_sprite_] Ну как твои дела? Все еще не помирилась с корнелией?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Bene, come stai? Non sei ancora riconciliato con Cornelia?"
 
 # game/scripts/bookshop/elyon_talk.rpy:48 #-#-# translate crowdin d_bad_cornelia_4d5a6f11:
 msgid "[_elion_] Нет, есди бы она была настоящей подругой то не поступала бы так со мной, не думаю что это того стоит.."
-msgstr ""
+msgstr "[_elion_] No, se fosse una vera amica, non mi farebbe questo, non credo ne valga la pena.."
 
 # game/scripts/bookshop/elyon_talk.rpy:52 #-#-# translate crowdin d_bad_cornelia_7b7c0902:
 msgid "[_cedrick_sprite_] Не стоит так переживать по этому поводу, думаю у тебя еще появится много подруг… Или не много, но настоящих"
-msgstr ""
+msgstr "[_cedrick_sprite_] Non dovresti preoccuparti così tanto di questo, penso che avrai ancora molti amici... O non molti, ma reali"
 
 # game/scripts/bookshop/elyon_talk.rpy:55 #-#-# translate crowdin d_bad_cornelia_b8705907:
 msgid "[_elion_] Надеюсь ты прав.."
-msgstr ""
+msgstr "[_elion_] Spero tu abbia ragione.."
 
 # game/scripts/bookshop/elyon_talk.rpy:60 #-#-# translate crowdin d_elyon_relocated_to_bookshop_49498cc8:
 msgid "[_cedrick_sprite_] Ну как тебе здесь живется?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Bene, come vivi qui?"
 
 # game/scripts/bookshop/elyon_talk.rpy:61 #-#-# translate crowdin d_elyon_relocated_to_bookshop_cb273101:
 msgid "[_elion_] Да вполне нормально.."
-msgstr ""
+msgstr "[_elion_] Si, è normalissimo.."
 
 # game/scripts/bookshop/elyon_talk.rpy:62 #-#-# translate crowdin d_elyon_relocated_to_bookshop_bc8f3e2e:
 msgid "[_cedrick_sprite_] Говори если тебе что-то понадобится, мне бы хотелось чтобы ты чувствовала себя комфортно здесь"
-msgstr ""
+msgstr "[_cedrick_sprite_] Dimmi se hai bisogno di qualcosa, vorrei che ti sentissi a tuo agio qui"
 
 # game/scripts/bookshop/elyon_talk.rpy:64 #-#-# translate crowdin d_elyon_relocated_to_bookshop_913866e8:
 msgid "[_elion_] Все хорошо Рик, спасибо"
-msgstr ""
+msgstr "[_elion_] Va tutto bene Rick, grazie"
 
 # game/scripts/bookshop/elyon_talk.rpy:71 #-#-# translate crowdin d_elyon_after_loss_parents_cd013880:
 msgid "[_cedrick_] Элион ну как ты ?"
