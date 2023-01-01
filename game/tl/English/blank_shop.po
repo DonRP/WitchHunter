@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-12-22 22:19\n"
+"PO-Revision-Date: 2023-01-01 20:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/blank_shop/blank_shop.rpy:63 #-#-# translate crowdin blank_shop_menu_1f3a1671:
 msgid "[_cedrick_sprite_] Интересно, в твоей семье все притворяются слабоумными?"
-msgstr ""
+msgstr "[_cedrick_sprite_] What I'm wondering... Does everyone in your family pretending to be mentally retarded?"
 
 # game/scripts/blank_shop/blank_shop.rpy:64 #-#-# translate crowdin blank_shop_menu_2b106eec:
 msgid "[_blankChar_] Бланк не притворяется. Бланк умственно отсталый."
-msgstr ""
+msgstr "[_blankChar_] Blunk was not pretending! Blunk is mentosly recharged!"
 
 # §translate crowdin strings: #|#|# # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Попросить бланка найти билеты на концерт"
-msgstr ""
+msgstr "Ask Blunk to find the tickets"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Напомни, что тебе нужно в обмен на билеты"
-msgstr ""
+msgstr "Remind me... What do you want for the tickets?"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Отдать бланку футболку"
-msgstr ""
+msgstr "Give Blunk a t-shirt"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Забрать билеты для концерта"
-msgstr ""
+msgstr "Pick up the concert tickets"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Попросить проследить за Найджелом"
-msgstr ""
+msgstr "Ask Blunk to spy on Nigel"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Купить кота"
-msgstr ""
+msgstr "Buy a cat"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Поговорить с ним"
-msgstr ""
+msgstr "Talk to him"
 
 # game/scripts/blank_shop/blank_shop.rpy:23
 msgid "Ничего"
-msgstr ""
+msgstr "Nothing"
 
