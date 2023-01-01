@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-01-01 20:28\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:6 #-#-# translate crowdin sex_with_chloe_from_a_brothel_ee043c94:
 msgid "[_cedrick_] Черт, нет, с меня хватит! Сначала гребаный слизняк Рейтер, потом эта ситуация с Алхими, после получения оплеух от Фобоса. И в итоге я хожу и бью толпы морпионов!"
@@ -102,7 +102,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:77 #-#-# translate crowdin sex_with_chloe_from_a_brothel_70cfdf98:
 msgid "[_centered_] {size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}SOME TIME LATER{/size}"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:81 #-#-# translate crowdin sex_with_chloe_from_a_brothel_de285007:
 msgid "[_chloe_] Ах.. Н-нет, прекрати.."
