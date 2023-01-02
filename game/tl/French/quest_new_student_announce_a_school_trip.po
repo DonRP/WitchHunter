@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:31\n"
+"PO-Revision-Date: 2023-01-02 16:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:4 #-#-# translate crowdin quest_new_student_announce_a_school_trip_85cabb3f:
 msgid "[_cedrick_] В следующие выходные состоится школьная поездка на горнолыжный курорт на горе Хезерфилд."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:11 #-#-# translate crowdin quest_new_student_announce_a_school_trip_e2877632:
 msgid "[_cedrick_] Хорошо.."
-msgstr ""
+msgstr "[_cedrick_] D’accord.."
 
 # game/scripts/quests/newStudent/quest_new_student_announce_a_school_trip.rpy:12 #-#-# translate crowdin quest_new_student_announce_a_school_trip_9686ca16:
 msgid "[_cedrick_] Сейчас мне необходимо составить список желающих поехать."
