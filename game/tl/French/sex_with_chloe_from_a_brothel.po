@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-01-02 17:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:6 #-#-# translate crowdin sex_with_chloe_from_a_brothel_ee043c94:
 msgid "[_cedrick_] Черт, нет, с меня хватит! Сначала гребаный слизняк Рейтер, потом эта ситуация с Алхими, после получения оплеух от Фобоса. И в итоге я хожу и бью толпы морпионов!"
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:54 #-#-# translate crowdin sex_with_chloe_from_a_brothel_742ac15d:
 msgid "[_cedrick_] Вот, держи"
-msgstr ""
+msgstr "[_cedrick_] Voici, attends"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:58 #-#-# translate crowdin sex_with_chloe_from_a_brothel_95c8426a:
 msgid "[_vanessa_] Вот, теперь отлично. Она наверху, уже ждет того единственного тебя. Будь с ней помягче, она довольно чувствительна, хоть по ней и не скажешь"
@@ -78,7 +78,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:62 #-#-# translate crowdin sex_with_chloe_from_a_brothel_9b5f342f:
 msgid "[_cedrick_] Обязательно.."
-msgstr ""
+msgstr "[_cedrick_] Obligatoire.."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:64 #-#-# translate crowdin sex_with_chloe_from_a_brothel_a20cefa7_2:
 msgid "..."
