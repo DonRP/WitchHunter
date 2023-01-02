@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-02 16:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a8c174e7:
 msgid "[_cedrick_] Ну... Как у вас дела?"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:15 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_98e7e67f:
 msgid "[_haylin_] Ну..."
-msgstr ""
+msgstr "[_haylin_] Bien..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:19 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_487f6b9a:
 msgid "[_haylin_] Лучше ей не становится... Врачи не чего не могут поделать, говорят она слишком старая…"
