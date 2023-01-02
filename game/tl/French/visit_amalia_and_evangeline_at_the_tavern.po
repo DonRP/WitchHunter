@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:29\n"
+"PO-Revision-Date: 2023-01-02 16:15\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:4 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bf69d8dd:
 msgid "Седрик подходит к двери комнаты и слышит разговор на повышенных тонах"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:6 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_67ecac73:
 msgid "[_amalia_] Почему?"
-msgstr ""
+msgstr "[_amalia_] Pourquoi?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:7 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_f177e5b9:
 msgid "[_evangelin_] Не глупи! Мы в неизвестном где, а ты доверяешь незнакомому человеку!"
@@ -102,7 +102,7 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:83 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bff80c72:
 msgid "[_evangelin_] Что?!"
-msgstr ""
+msgstr "[_evangelin_] Quoi?!"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:87 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_8b340a78:
 msgid "[_cedrick_] Те Капли, что вы ищете - они у меня. И вы просто так отсюда не уйдете"
@@ -118,7 +118,7 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:96 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_bff80c72_1:
 msgid "[_evangelin_] Что?!"
-msgstr ""
+msgstr "[_evangelin_] Quoi?!"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:100 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_ffc56f4e:
 msgid "[_cedrick_] Представь, как себя будет чувствовать бедняжка Амалия, когда узнает, что из-за тебя вы не смогли телепортироваться..."
@@ -166,7 +166,7 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:124 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_34a89f11:
 msgid "[_evangelin_] Что?"
-msgstr ""
+msgstr "[_evangelin_] Quoi?"
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:125 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_da7673a1:
 msgid "[_cedrick_] Молчать. Продолжай делать то, что делала"
@@ -238,7 +238,7 @@ msgstr ""
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:168 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_c78ea191:
 msgid "[_amalia_] Почему.."
-msgstr ""
+msgstr "[_amalia_] Pourquoi.."
 
 # game/scripts/quests/girlInFlask/visit_amalia_and_evangeline_at_the_tavern.rpy:172 #-#-# translate crowdin visit_amalia_and_evangeline_at_the_tavern_54af8b7b:
 msgid "Амалия убегает"
