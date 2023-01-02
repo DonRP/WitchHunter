@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-01-02 16:21\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:6 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_010d3f43:
 msgid "[_vanessa_] Ох, смотрю дела у тебя стали идти куда лучше, жеребец. Расцвел на глазах, стоило тебе трахнуть пару девиц в моем борделе"
@@ -166,7 +166,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:136 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_9b5f342f:
 msgid "[_cedrick_] Обязательно.."
-msgstr ""
+msgstr "[_cedrick_] Obligatoire.."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:138 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_2:
 msgid "..."
