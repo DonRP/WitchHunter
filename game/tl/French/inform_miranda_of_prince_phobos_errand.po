@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-01-02 17:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/inform_miranda_of_prince_phobos_errand.rpy:7 #-#-# translate crowdin inform_miranda_of_prince_phobos_errand_ce627275:
 msgid "[_cedrick_] Миранда.."
@@ -110,7 +110,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/inform_miranda_of_prince_phobos_errand.rpy:83 #-#-# translate crowdin inform_miranda_of_prince_phobos_errand_6062f735:
 msgid "[_cedrick_] Но?"
-msgstr ""
+msgstr "[_cedrick_] Mais ?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/inform_miranda_of_prince_phobos_errand.rpy:87 #-#-# translate crowdin inform_miranda_of_prince_phobos_errand_aed445de:
 msgid "[_miranda_] Для этого понадобится сок из десяти желез морпионов"
