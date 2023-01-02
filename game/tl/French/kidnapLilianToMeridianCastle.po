@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-01-02 17:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:2 #-#-# translate crowdin kidnapLilianToMeridianCastle_79d6a34e:
 msgid "[_cedrick_] (Да к черту. Я воспользуюсь любой возможностью, чтобы сокрушить моральный дух стражниц)"
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:43 #-#-# translate crowdin kidnapLilianToMeridianCastle_60f455fe:
 msgid "[_lilian_] Хорошо..."
-msgstr ""
+msgstr "[_lilian_] D’accord..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:45 #-#-# translate crowdin kidnapLilianToMeridianCastle_7f2e60e0:
 msgid "[_centered_] {size=37}Позже в доме хейлов{/size} [withDissolve1]"
@@ -410,7 +410,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:193 #-#-# translate crowdin kidnapLilianToMeridianCastle_849d81a0:
 msgid "[_cornelia_] Ага..."
-msgstr ""
+msgstr "[_cornelia_] Oui..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:194 #-#-# translate crowdin kidnapLilianToMeridianCastle_daedc4dc:
 msgid "[_cedrick_] Кажется, что твой дружок ушел... Ну, я должен идти... "
