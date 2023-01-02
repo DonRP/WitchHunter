@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-01-02 16:10\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/items.rpy:2
 msgid "Звезда Трибы"
@@ -86,7 +86,7 @@ msgstr ""
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Трусики"
-msgstr ""
+msgstr "Culotte"
 
 # game/scripts/core/inventory/items/items.rpy:2
 msgid "Использованные трусики Миранды"
