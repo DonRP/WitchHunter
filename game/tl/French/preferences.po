@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:25\n"
+"PO-Revision-Date: 2023-01-02 16:12\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/main_menu/preferences/preferences.rpy:7
 msgid "Русский"
@@ -22,11 +22,11 @@ msgstr ""
 
 # game/scripts/main_menu/preferences/preferences.rpy:18
 msgid "Режим экрана"
-msgstr ""
+msgstr "Mode d'affichage"
 
 # game/scripts/main_menu/preferences/preferences.rpy:30
 msgid "Оконный"
-msgstr ""
+msgstr "Fenêtre"
 
 # game/scripts/main_menu/preferences/preferences.rpy:31
 msgid "Полноэкранный"
@@ -70,15 +70,15 @@ msgstr ""
 
 # game/scripts/main_menu/preferences/preferences.rpy:84
 msgid "Язык"
-msgstr ""
+msgstr "Langue"
 
 # game/scripts/main_menu/preferences/preferences.rpy:124
 msgid "Громкость музыки"
-msgstr ""
+msgstr "Volume de la musique"
 
 # game/scripts/main_menu/preferences/preferences.rpy:131
 msgid "Громкость звуков"
-msgstr ""
+msgstr "Volume des sons du jeu"
 
 # game/scripts/main_menu/preferences/preferences.rpy:135
 msgid "Test"
@@ -106,7 +106,7 @@ msgstr ""
 
 # game/scripts/main_menu/preferences/preferences.rpy:200
 msgid "Скорость текста"
-msgstr ""
+msgstr "Vitesse du texte"
 
 # game/scripts/main_menu/preferences/preferences.rpy:207
 msgid "Время автоматического пропуска"
