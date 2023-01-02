@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-02 16:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/irma/directorCall.rpy:9 #-#-# translate crowdin directorCall_d69bf113:
 msgid "[_martin_] Профессор Хоффман?"
@@ -106,5 +106,5 @@ msgstr ""
 
 # game/scripts/quests/irma/directorCall.rpy:64 #-#-# translate crowdin directorCall_ba070317:
 msgid "[_directris_] Конечно!"
-msgstr ""
+msgstr "[_directris_] Bien sûr!"
 
