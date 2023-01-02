@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-02 16:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:7 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_4d328d30:
 msgid "[_haylin_] Ну и?"
-msgstr ""
+msgstr "[_haylin_] Et alors ?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:11 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_9bdd6296:
 msgid "[_cedrick_] Я принес лекарство для твоей бабушки..."
@@ -222,7 +222,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:139 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_4c141154:
 msgid "[_cedrick_] Почему?"
-msgstr ""
+msgstr "[_cedrick_] Pourquoi?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_0.rpy:140 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_0_2d5ec3c9:
 msgid "[_haylin_] Я... Испачкалась... Подай мне салфетку..."
