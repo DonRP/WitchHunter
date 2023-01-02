@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-01-02 17:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:3 #-#-# translate crowdin crystal_essence_2_go_to_will_home_8f648b59:
 msgid "[_centered_] {size=37}В ДОМЕ СЕМЕЙСТВА ВЭНДОМ{/size}"
@@ -462,7 +462,7 @@ msgstr ""
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:187 #-#-# translate crowdin crystal_essence_2_go_to_will_home_20701b26:
 msgid "[_will_] Ага.."
-msgstr ""
+msgstr "[_will_] Oui.."
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home.rpy:188 #-#-# translate crowdin crystal_essence_2_go_to_will_home_e4169d8f:
 msgid "[_cedrick_] Что ж, а нам осталось купить нужный комплект одежды. Как раз займусь этим"
