@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-01-02 17:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:7 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_babdf96a:
 msgid "[_susan_] Ну что, ты купил нам костюмы для бассейна?"
@@ -206,7 +206,7 @@ msgstr ""
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:186 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_82012f1e:
 msgid "[_will_] Что?"
-msgstr ""
+msgstr "[_will_] Quoi?"
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:187 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_50bc4edc:
 msgid "[_cedrick_] ..Что?"
@@ -1102,7 +1102,7 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:9
 msgid "Конечно"
-msgstr ""
+msgstr "Bien sûr "
 
 # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:9
 msgid "Еще нет"
