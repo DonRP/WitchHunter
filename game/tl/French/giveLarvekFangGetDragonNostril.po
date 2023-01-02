@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:34\n"
+"PO-Revision-Date: 2023-01-02 17:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:7 #-#-# translate crowdin giveLarvekFangGetDragonNostril_780643a3:
 msgid "[_miranda_] Ты принес Клык Лаврека?"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:14 #-#-# translate crowdin giveLarvekFangGetDragonNostril_c0fdbeb3:
 msgid "[_miranda_] Отлично!"
-msgstr ""
+msgstr "[_miranda_] Excellent!"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:18 #-#-# translate crowdin giveLarvekFangGetDragonNostril_6a781b9b:
 msgid "…."
