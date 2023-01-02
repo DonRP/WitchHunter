@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:27\n"
+"PO-Revision-Date: 2023-01-02 16:14\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:3 #-#-# translate crowdin take_medina_home_74be0a74:
 msgid "[_centered_] {size=37}СЕДРИК ОТВОДИТ МЕДИНУ ДОМОЙ, В ВЫСОТКУ, В КОТОРОЙ ТАК ЖЕ ЖИВЕТ И КОРНЕЛИЯ{/size}"
@@ -134,7 +134,7 @@ msgstr ""
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:37 #-#-# translate crowdin take_medina_home_d6c98e9e:
 msgid "[_cedrick_] Точно.."
-msgstr ""
+msgstr "[_cedrick_] Exactement.."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:38 #-#-# translate crowdin take_medina_home_0d6faf1e:
 msgid "[_cedrick_] (Черт, все же нужно будет использовать их.. Но это не вписывается в мои планы по сокрушению Ирмы и Тарани)"
@@ -286,7 +286,7 @@ msgstr ""
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:96 #-#-# translate crowdin take_medina_home_e2877632:
 msgid "[_cedrick_] Хорошо.."
-msgstr ""
+msgstr "[_cedrick_] D’accord.."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:102 #-#-# translate crowdin take_medina_home_952c9d1d:
 msgid "[_elion_] Рик, почему ты мне не рассказал?.."
@@ -302,7 +302,7 @@ msgstr ""
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:108 #-#-# translate crowdin take_medina_home_9a7e9929:
 msgid "[_cedrick_] Что?"
-msgstr ""
+msgstr "[_cedrick_] Quoi?"
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:111 #-#-# translate crowdin take_medina_home_2b2bba74:
 msgid "[_elion_] Ты как всегда заботишься обо мне и опекаешь, жертвуя собой.."
@@ -470,7 +470,7 @@ msgstr ""
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:196 #-#-# translate crowdin take_medina_home_839627de:
 msgid "[_elion_] Хорошо.."
-msgstr ""
+msgstr "[_elion_] D’accord.."
 
 # game/scripts/quests/dealWithDetectives/take_medina_home.rpy:197 #-#-# translate crowdin take_medina_home_f5c04d54:
 msgid "[_cedrick_] (Хм.. Медина устроит все через два дня.. За это время я должен расправиться с Ирмой и Тарани. Они явно будут мне мешать наладить контакт с Вилл..)"
