@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-01-02 17:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/characters.rpy:9
 msgid "Продавец"
@@ -178,7 +178,7 @@ msgstr ""
 
 # game/scripts/sell_books_game/characters.rpy:445
 msgid "Анна"
-msgstr ""
+msgstr "Anna"
 
 # game/scripts/sell_books_game/characters.rpy:452
 msgid "ERROR"
@@ -210,7 +210,7 @@ msgstr ""
 
 # game/scripts/sell_books_game/characters.rpy:496
 msgid "Эрик"
-msgstr ""
+msgstr "Eric"
 
 # game/scripts/sell_books_game/characters.rpy:502
 msgid "Болельщица 1"
