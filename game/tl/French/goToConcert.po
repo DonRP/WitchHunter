@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:26\n"
+"PO-Revision-Date: 2023-01-02 17:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getConcertTickets/goToConcert.rpy:5 #-#-# translate crowdin goToConcert_a20cefa7:
 msgid "..."
@@ -114,7 +114,7 @@ msgstr ""
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:66 #-#-# translate crowdin goToConcert_9d22c3ee:
 msgid "[_cedrick_] Да не за что..."
-msgstr ""
+msgstr "[_cedrick_] De rien..."
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:67 #-#-# translate crowdin goToConcert_5f6a501c:
 msgid "[_cornelia_] Вообще, это моя любимая группа! Как ты узнал?"
