@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-02 16:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:8 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_ee0ae87e:
 msgid "[_YanLin_] Добро пожаловать в ресторан азиатской кухни Серебряный дракон! Ах, это вы! Решили снова нас посетить?"
@@ -122,7 +122,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:99 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_75d52a7e:
 msgid "[_haylin_] Хорошо!"
-msgstr ""
+msgstr "[_haylin_] D’accord!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_restoran_0.rpy:105 #-#-# translate crowdin ql_hayLin_go_to_restoran_0_07762899:
 msgid "[_cedrick_] Не волнуйтесь, я прослежу, чтобы она вернулась домой вовремя... Вы можете положиться на меня..."
