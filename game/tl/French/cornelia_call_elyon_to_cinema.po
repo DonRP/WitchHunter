@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:28\n"
+"PO-Revision-Date: 2023-01-02 16:14\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:9 #-#-# translate crowdin cornelia_call_elyon_to_cinema_93829424:
 msgid "[_cornelia_] привет, Элион! пройдемся до школы?"
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:71 #-#-# translate crowdin cornelia_call_elyon_to_cinema_9566f82d:
 msgid "[_cornelia_] Договорились!"
-msgstr ""
+msgstr "[_cornelia_] C'est un marché!"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:75 #-#-# translate crowdin cornelia_call_elyon_to_cinema_69ff6de3:
 msgid "[_cornelia_] Не хочешь пойти со мной в школу?"
