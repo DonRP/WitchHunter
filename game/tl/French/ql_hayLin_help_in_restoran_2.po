@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-02 16:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_ee19bdf0:
 msgid "[_haylin_] Хех, смотрю работа официантом не отпугнула тебя..."
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:31 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_a6f47658:
 msgid "[_cedrick_] Конечно!"
-msgstr ""
+msgstr "[_cedrick_] Bien sûr!"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:33 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_708e9e22:
 msgid "Вы отправляетесь на кухню в поисках Хай Лин"
