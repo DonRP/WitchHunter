@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:33\n"
+"PO-Revision-Date: 2023-01-02 17:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askAboutTarani.rpy:8 #-#-# translate crowdin askAboutTarani_ad7961fb:
 msgid "[_bess_] А, это опять ты... Мы же сказали только для членов клуба..."
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:22 #-#-# translate crowdin askAboutTarani_8b3289d1:
 msgid "[_cedrick_] Договорились.."
-msgstr ""
+msgstr "[_cedrick_] C'est un marché.."
 
 # game/scripts/quests/tarani/askAboutTarani.rpy:23 #-#-# translate crowdin askAboutTarani_a20cefa7:
 msgid "..."
