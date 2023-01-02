@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-02 16:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/irma/fuckIrma.rpy:13 #-#-# translate crowdin fuckIrma_df80b5ca:
 msgid "[_irma_] Профессор Хоффман! Здравствуйте, я пришла помочь.."
@@ -274,7 +274,7 @@ msgstr ""
 
 # game/scripts/quests/irma/fuckIrma.rpy:208 #-#-# translate crowdin fuckIrma_17785a78:
 msgid "[_irma_] Что???!!"
-msgstr ""
+msgstr "[_irma_] Quoi???!!"
 
 # game/scripts/quests/irma/fuckIrma.rpy:212 #-#-# translate crowdin fuckIrma_e7f0dbff:
 msgid "[_irma_] Хах.. Это ведь какая-то шутка, правда?"
