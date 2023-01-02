@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:27\n"
+"PO-Revision-Date: 2023-01-02 16:13\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:5 #-#-# translate crowdin hide_and_seek_with_lilian_c4629577:
 msgid "[_cedrick_] (Пожалуй, что... Нет.)"
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:138 #-#-# translate crowdin hide_and_seek_with_lilian_2ea7c9c4:
 msgid "[_cornelia_] Что!?"
-msgstr ""
+msgstr "[_cornelia_] Quoi!?"
 
 # game/scripts/quests/credulousCornelia/hide_and_seek_with_lilian.rpy:139 #-#-# translate crowdin hide_and_seek_with_lilian_20eed3d7:
 msgid "[_cedrick_] Ахах, видела бы ты сейчас свое лицо.. Просто ты такая сексуальная, когда злишься, ничего не могу с собой поделать.."
