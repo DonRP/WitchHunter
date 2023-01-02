@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-01-02 17:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:6 #-#-# translate crowdin begin_fight_with_morpion_king_eee6c4b2:
 msgid "[_cedrick_] Черт, ну и урод же ты.. Похож на одного хана из учебников истории"
@@ -1530,7 +1530,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1052 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_5524c2a1:
 msgid "[_miranda_] Ясно.."
-msgstr ""
+msgstr "[_miranda_] Je vois.."
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1056 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_db73d012:
 msgid "[_cedrick_] Хм... Так или иначе, эта новая способность - оружие. Сложное в использовании, но я могу его использовать. Потенциально можно восстановить свое старое положение на Земле.."
@@ -1674,7 +1674,7 @@ msgstr ""
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1161 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_7b0d15d2:
 msgid "[_cedrick_] В каком смысле?"
-msgstr ""
+msgstr "[_cedrick_] Qu'est-ce que tu veux dire ?"
 
 # game/scripts/quests/questDefeatMorpionKing/defeat_morpion_king.rpy:1165 #-#-# translate crowdin q_dfk_cornelia_dialogs_continue_e13306be:
 msgid "[_bulj_] После битвы с Королем Морпионов все были поражены тем, как вы защитили стражу и решили выйти с Королем один на один"
