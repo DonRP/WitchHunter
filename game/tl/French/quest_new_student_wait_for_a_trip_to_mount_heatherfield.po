@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:31\n"
+"PO-Revision-Date: 2023-01-02 17:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:5 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d54f4eca:
 msgid "[_cedrick_] Элион, ты ведь не отправляешься школьную поездку?"
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:21 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ce0c6562:
 msgid "[_elion_] Хорошо!"
-msgstr ""
+msgstr "[_elion_] D’accord!"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:24 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_cfda0ebe:
 msgid "[_cedrick_] И еще.. Книги на верхней полке.. Не стоит их трогать, они довольно старые и могут легко повредиться."
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:45 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0aa44383:
 msgid "[_cedrick_] Что-то не так?"
-msgstr ""
+msgstr "[_cedrick_] Quelque chose ne va pas ?"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:49 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ea20e13d:
 msgid "[_will_] Я в порядке.."
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:65 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4f71757f:
 msgid "[_will_] Угу.."
-msgstr ""
+msgstr "[_will_] Uh-huh.."
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:68 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7:
 msgid "..."
@@ -162,7 +162,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:108 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d18a8be3:
 msgid "[_will_] Правда!?"
-msgstr ""
+msgstr "[_will_] Vraiment!?"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:112 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b1da52f8:
 msgid "[_matt_] Только позже.."
@@ -598,7 +598,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:375 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_847f513f:
 msgid "[_will_] Правда?"
-msgstr ""
+msgstr "[_will_] Vraiment?"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:379 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_cc9b6ae8:
 msgid "[_will_] Спасибо, Рик!"
@@ -618,7 +618,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:384 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_62cb698b:
 msgid "[_will_] Хорошо!"
-msgstr ""
+msgstr "[_will_] D’accord!"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:385 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_9:
 msgid "..."
@@ -642,7 +642,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:391 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4d167d08:
 msgid "[_cedrick_] Отлично"
-msgstr ""
+msgstr "[_cedrick_] Excellent"
 
 # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:392 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3e527237:
 msgid "[_cedrick_] Теперь попробуй без меня..."
