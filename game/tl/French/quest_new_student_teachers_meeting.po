@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:31\n"
+"PO-Revision-Date: 2023-01-02 16:16\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:8 #-#-# translate crowdin quest_new_student_teachers_meeting_d9616179:
 msgid "[_physteacher_] Рик! Дружище, спасибо, что выручил в тот раз. Знатно я тогда перебрал.."
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:26 #-#-# translate crowdin quest_new_student_teachers_meeting_e7759c78:
 msgid "[_physteacher_] Что?? "
-msgstr ""
+msgstr "[_physteacher_] Quoi?? "
 
 # game/scripts/quests/newStudent/quest_new_student_teachers_meeting.rpy:30 #-#-# translate crowdin quest_new_student_teachers_meeting_35df078e:
 msgid "[_physteacher_] Но я был предельно осторожен..."
