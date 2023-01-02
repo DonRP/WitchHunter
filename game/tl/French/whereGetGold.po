@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-01-02 16:13\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/miranda/whereGetGold.rpy:7 #-#-# translate crowdin whereGetGold_4f6eb724:
 msgid "[_cedrick_sprite_] Не подскажешь где я могу заработать золото?"
@@ -34,5 +34,5 @@ msgstr ""
 
 # game/scripts/meridian/miranda/whereGetGold.rpy:12 #-#-# translate crowdin whereGetGold_d9c0f039:
 msgid "[_cedrick_sprite_] Спасибо"
-msgstr ""
+msgstr "[_cedrick_sprite_] Merci"
 
