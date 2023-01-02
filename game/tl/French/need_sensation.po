@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:31\n"
+"PO-Revision-Date: 2023-01-02 17:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newspaperSection/need_sensation.rpy:6 #-#-# translate crowdin need_sensation_3a6e34d5:
 msgid "[_bess_] А давайте напишем про, то что директриса завела роман с одним из учеников!"
@@ -114,7 +114,7 @@ msgstr ""
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:100 #-#-# translate crowdin need_sensation_53489d87:
 msgid "[_bess_] Эх ..."
-msgstr ""
+msgstr "[_bess_] Eh ..."
 
 # game/scripts/quests/newspaperSection/need_sensation.rpy:102 #-#-# translate crowdin need_sensation_a5f74d82:
 msgid "[_centered_] {size=36}Спустя еще какое-то время...{/size}"
