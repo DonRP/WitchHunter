@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:29\n"
+"PO-Revision-Date: 2023-01-02 16:15\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:9 #-#-# translate crowdin comeToLilianInMeridian3_86f50510:
 msgid "[_cedrick_] Сегодня я расскажу тебе, как стать по настоящему взрослой девушкой!"
@@ -210,7 +210,7 @@ msgstr ""
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:80 #-#-# translate crowdin comeToLilianInMeridian3_49b49515:
 msgid "[_cedrick_] Отлично...."
-msgstr ""
+msgstr "[_cedrick_] Excellent...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:81 #-#-# translate crowdin comeToLilianInMeridian3_c5a3472b:
 msgid "[_cedrick_]  ..."
