@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-01-02 17:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_in_vokzal.rpy:11 #-#-# translate crowdin will_in_vokzal_fc70fe0a:
 msgid "[_will_] Рик!?"
@@ -166,7 +166,7 @@ msgstr ""
 
 # game/scripts/quests/will/will_in_vokzal.rpy:134 #-#-# translate crowdin will_in_vokzal_f95d73df:
 msgid "[_will_] Мам!"
-msgstr ""
+msgstr "[_will_] maman!"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:135 #-#-# translate crowdin will_in_vokzal_5384fa9c:
 msgid "[_will_] Ты же знаешь, это все твой Колинз. Он ко мне придирается!..."
