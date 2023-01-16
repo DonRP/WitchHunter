@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-01-16 21:19\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/notifications.rpy:273
 msgid "за"
-msgstr ""
+msgstr "per"
 
 # game/scripts/core/inventory/notifications.rpy:291
 msgid "за {cost} {currency}"
-msgstr ""
+msgstr "per {cost} {currency}"
 
