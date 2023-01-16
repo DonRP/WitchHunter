@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:20\n"
+"PO-Revision-Date: 2023-01-16 21:17\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/bookshop/elyon_menu.rpy:17
 msgid "Уборка пыли"
-msgstr ""
+msgstr "Spolverare"
 
 # game/scripts/bookshop/elyon_menu.rpy:17
 msgid "Провести публичные чтения в пижаме"
-msgstr ""
+msgstr "Tenere una lettura pubblica in pigiama"
 
 # game/scripts/bookshop/elyon_menu.rpy:17
 msgid "Провести публичные чтения в форме служанки"
-msgstr ""
+msgstr "Tenere una lettura pubblica in forma di servitore"
 
 # game/scripts/bookshop/elyon_menu.rpy:17
 msgid "Выставить книги"
-msgstr ""
+msgstr "Libri da esposizione"
 
 # game/scripts/bookshop/elyon_menu.rpy:17
 msgid "Поговорить с ней"
-msgstr ""
+msgstr "Parlare con lei"
 
 # game/scripts/bookshop/elyon_menu.rpy:17
 msgid "Действия"
-msgstr ""
+msgstr "Azioni"
 
 # game/scripts/bookshop/elyon_menu.rpy:17
 msgid "Одежда"
-msgstr ""
+msgstr "Abbigliamento"
 
 # game/scripts/bookshop/elyon_menu.rpy:17
 msgid "Подарить подарок"
-msgstr ""
+msgstr "Fai un regalo"
 
