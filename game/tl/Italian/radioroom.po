@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-01-16 21:31\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/school/radioroom.rpy:24 #-#-# translate crowdin radioroom_c8f725d2:
 msgid "[_courtney_] Что ты здесь делаешь, эта комната только для персонала"
-msgstr ""
+msgstr "[_courtney_] Cosa ci fai qui, questa stanza è solo per il personale."
 
 # game/scripts/school/radioroom.rpy:25 #-#-# translate crowdin radioroom_53ab2461:
 msgid "[_bess_] Так что если у тебя нет хорошей сплетни или вроде того.. проваливай.."
-msgstr ""
+msgstr "[_bess_] Quindi se non avete un buon pettegolezzo o qualcosa del genere... sparite..."
 
 # game/scripts/school/radioroom.rpy:26 #-#-# translate crowdin radioroom_1e367c7b:
 msgid "[_cedrick_sprite_] Пожалуй кое-что есть..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Credo che ci sia qualcosa..."
 
 # game/scripts/school/radioroom.rpy:27 #-#-# translate crowdin radioroom_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/school/radioroom.rpy:30 #-#-# translate crowdin radioroom_3958290b:
 msgid "Контент в разработке"
-msgstr ""
+msgstr "Contenuti in fase di sviluppo"
 
 # §translate crowdin strings: #|#|# # game/scripts/school/radioroom.rpy:13
 msgid "Распросить о тарани"
-msgstr ""
+msgstr "Chiedete di taranja"
 
 # game/scripts/school/radioroom.rpy:13
 msgid "Поговорить с ними"
-msgstr ""
+msgstr "Parlare con loro"
 
