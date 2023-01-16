@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:23\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:8
 msgid "Кристаллическая эссенция для Вилл. Часть II"
-msgstr ""
+msgstr "Essenza di cristallo per le ville. Parte II"
 
 # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
 msgid "Проведать Элион в книжном магазине"
-msgstr ""
+msgstr "Visitate Elyon in libreria"
 
 # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
 msgid "Прийти к Сьюзан на особый завтрак"
-msgstr ""
+msgstr "Venite da Susan's per una colazione speciale"
 
 # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
 msgid "Купить купальные костюмы себе и Сьюзан"
-msgstr ""
+msgstr "Comprate i costumi da bagno per voi e per Susan"
 
 # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
 msgid "Прийти домой к семье Вендомов с купальными костюмами"
-msgstr ""
+msgstr "Il ritorno a casa della famiglia Wendom con i costumi da bagno"
 
 # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
 msgid "Ответить на сообщение Сьюзан в телефоне"
-msgstr ""
+msgstr "Rispondere al messaggio di Susan al telefono"
 
 # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
 msgid "Купить ингредиенты для грудки с вишневым соусом"
-msgstr ""
+msgstr "Acquistare gli ingredienti per il petto con salsa di ciliegie"
 
 # game/scripts/core/quests/QuestWillCrystalEssence2.rpy:23
 msgid "Принести продукты для ужина"
-msgstr ""
+msgstr "Portare la spesa per la cena"
 
