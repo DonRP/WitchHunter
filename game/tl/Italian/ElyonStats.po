@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:23\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/stats/ElyonStats.rpy:17
 msgid "Настроение"
-msgstr ""
+msgstr "Stato d'animo"
 
 # game/scripts/core/stats/ElyonStats.rpy:23
 msgid "Доверие"
-msgstr ""
+msgstr "Fiducia"
 
 # game/scripts/core/stats/ElyonStats.rpy:29
 msgid "Развратность"
-msgstr ""
+msgstr "Depravazione"
 
 # game/scripts/core/stats/ElyonStats.rpy:35
 msgid "Репутация"
-msgstr ""
+msgstr "La reputazione"
 
 # game/scripts/core/stats/ElyonStats.rpy:70
 msgid "У Элион не достаточно статистики: {stats}"
-msgstr ""
+msgstr "Elion non ha abbastanza statistiche: {stats}"
 
 # game/scripts/core/stats/ElyonStats.rpy:84
 msgid "Подарен подарок:"
-msgstr ""
+msgstr "È stato fatto un dono:"
 
 # game/scripts/core/stats/ElyonStats.rpy:95
 msgid "Выберите одежду, которую будет носить Элион"
-msgstr ""
+msgstr "Scegliere i vestiti che Elion indosserà"
 
