@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-01-16 21:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/annualParentsDay/announce_parent_meeting.rpy:4 #-#-# translate crowdin announce_parent_meeting_905dba6c:
 msgid "[_cedrick_] Так, кто из вас еще не слышал, на этой неделе будет проходить ежегодный родительский день и вам всем необходимо заполнить родословное древо и приклеить фотографии своих родственников в соответствующей анкете..."
-msgstr ""
+msgstr "[_cedrick_] Quindi, per chi non lo sapesse, questa settimana è l'annuale giornata dei genitori e tutti voi dovete compilare il vostro albero genealogico e attaccare le foto dei vostri parenti sull'apposito modulo..."
 
 # game/scripts/quests/annualParentsDay/announce_parent_meeting.rpy:5 #-#-# translate crowdin announce_parent_meeting_39cffdd7:
 msgid "[_cedrick_] Это может быть очень важно... знать свои корни, свои семейные традиции и все такое..."
-msgstr ""
+msgstr "[_cedrick_] Può essere molto importante... Conoscere le proprie radici, le proprie tradizioni familiari e tutto ciò..."
 
 # game/scripts/quests/annualParentsDay/announce_parent_meeting.rpy:6 #-#-# translate crowdin announce_parent_meeting_0ef302f2:
 msgid "[_cedrick_] Анкеты можете взять у меня на столе..."
-msgstr ""
+msgstr "[_cedrick_] I questionari sono disponibili sulla mia scrivania..."
 
 # game/scripts/quests/annualParentsDay/announce_parent_meeting.rpy:7 #-#-# translate crowdin announce_parent_meeting_10a94d5a:
 msgid "[_cedrick_] А теперь начнем наш урок..."
-msgstr ""
+msgstr "[_cedrick_] Ora iniziamo la lezione..."
 
