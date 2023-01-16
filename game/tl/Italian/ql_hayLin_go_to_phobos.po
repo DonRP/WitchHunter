@@ -10,109 +10,109 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-16 21:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:4 #-#-# translate crowdin ql_hayLin_go_to_phobos_80d3b9ee:
 msgid "[_cedrick_] Мой Князь...?"
-msgstr ""
+msgstr "[_cedrick_] Il mio principe...?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:5 #-#-# translate crowdin ql_hayLin_go_to_phobos_8b3f9ab2:
 msgid "[_phobos_] От тебя уже давно не было вестей! Как продвигается твоя миссия?"
-msgstr ""
+msgstr "[_phobos_] Non ti sento da molto tempo! Come procede la vostra missione?"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:6 #-#-# translate crowdin ql_hayLin_go_to_phobos_8a0f0fc0:
 msgid "[_cedrick_] Медленно, но верно, мой Князь..."
-msgstr ""
+msgstr "[_cedrick_] Lentamente ma inesorabilmente, il mio Principe..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:7 #-#-# translate crowdin ql_hayLin_go_to_phobos_a8c2d812:
 msgid "[_phobos_] Тебе следует поторопится..."
-msgstr ""
+msgstr "[_phobos_] Dovresti sbrigarti..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:8 #-#-# translate crowdin ql_hayLin_go_to_phobos_63fe0ba0:
 msgid "[_raythor_] Князь Фобос, к вам пожаловал гость!"
-msgstr ""
+msgstr "[_raythor_] Principe Phobos, avete una visita!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:9 #-#-# translate crowdin ql_hayLin_go_to_phobos_51767206:
 msgid "[_phobos_] Гость!? Гони его прочь!"
-msgstr ""
+msgstr "[_phobos_] Ospite!? Mandatelo via!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:10 #-#-# translate crowdin ql_hayLin_go_to_phobos_ddab0fa2:
 msgid "[_raythor_] Он говорит, что у него есть информация, которая может вас заинтересовать..."
-msgstr ""
+msgstr "[_raythor_] Dice di avere informazioni che potrebbero interessarvi..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:11 #-#-# translate crowdin ql_hayLin_go_to_phobos_9b88daf3:
 msgid "[_phobos_] Хм... Ладно, впусти его..."
-msgstr ""
+msgstr "[_phobos_] Hm... Ok, fatelo entrare..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:16 #-#-# translate crowdin ql_hayLin_go_to_phobos_0c63bd59:
 msgid "[_jink1_] Джинк знал... лучше князю фобосу доложить все..."
-msgstr ""
+msgstr "[_jink1_] Jink sapeva... meglio riferire tutto al principe Phobos..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:21 #-#-# translate crowdin ql_hayLin_go_to_phobos_dae64d04:
 msgid "[_raythor_] Слушай меня, если пришел с ерундой... останешься без головы..."
-msgstr ""
+msgstr "[_raythor_] Ascoltami, se vieni qui con delle sciocchezze... perderai la testa..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:22 #-#-# translate crowdin ql_hayLin_go_to_phobos_32ad66b6:
 msgid "[_jink1_] Ох...."
-msgstr ""
+msgstr "[_jink1_] Oh...."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:26 #-#-# translate crowdin ql_hayLin_go_to_phobos_e8f69bf4:
 msgid "[_phobos_] Говори!"
-msgstr ""
+msgstr "[_phobos_] Parlate!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:30 #-#-# translate crowdin ql_hayLin_go_to_phobos_5fb58ea1:
 msgid "[_jink1_] Я подслушал один из разговоров каторжников... Они говорят, что Отец вождя повстанцев жив и сейчас работает... На подводной шахте..."
-msgstr ""
+msgstr "[_jink1_] Ho sentito uno dei detenuti parlare... Dicono che il padre del leader ribelle è vivo e lavora... in una miniera sottomarina..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:31 #-#-# translate crowdin ql_hayLin_go_to_phobos_b3cd88b1:
 msgid "[_cedrick_] Мои люди докладывали мне, что он погиб в битве у Серого леса..."
-msgstr ""
+msgstr "[_cedrick_] I miei uomini mi hanno riferito che è morto nella battaglia della Foresta Grigia..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:32 #-#-# translate crowdin ql_hayLin_go_to_phobos_c1a6fbfa:
 msgid "[_cedrick_] И эти болваны даже не поняли, кого взяли в плен!"
-msgstr ""
+msgstr "[_cedrick_] E quelle teste di legno non si sono nemmeno rese conto di chi avevano catturato!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:36 #-#-# translate crowdin ql_hayLin_go_to_phobos_c51c0954:
 msgid "[_phobos_] Успокойся, Седрик! Этот узник будет нам полезен..."
-msgstr ""
+msgstr "[_phobos_] Calmati, Cedric! Questo prigioniero ci sarà utile..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:37 #-#-# translate crowdin ql_hayLin_go_to_phobos_61b1940d:
 msgid "[_phobos_] Когда парень узнает, что его отец жив, то он наверняка придет за ним... Ха..!"
-msgstr ""
+msgstr "[_phobos_] Quando il ragazzo scopre che suo padre è vivo, sicuramente lo cercherà... Ah...!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:38 #-#-# translate crowdin ql_hayLin_go_to_phobos_f745b4d1:
 msgid "[_phobos_] Нужно подготовить для него ловушку..."
-msgstr ""
+msgstr "[_phobos_] Dobbiamo preparare una trappola per lui..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:42 #-#-# translate crowdin ql_hayLin_go_to_phobos_9616d350:
 msgid "[_phobos_] Шпион! Ты должен будешь пустить слух о том, что отец повстанцев жив и сейчас он находится в подводной шахте..."
-msgstr ""
+msgstr "[_phobos_] Spia! Dovrete diffondere la voce che il padre ribelle è vivo e ora si trova in una miniera sottomarina..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:43 #-#-# translate crowdin ql_hayLin_go_to_phobos_dcd0100d:
 msgid "[_jink1_] Будет сделано в лучшем виде, мой Князь..."
-msgstr ""
+msgstr "[_jink1_] Sarà fatto nel miglior modo possibile, mio Principe..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:47 #-#-# translate crowdin ql_hayLin_go_to_phobos_2bd7d278:
 msgid "[_phobos_] Рейтор! Удвой охрану и подготовься к тому, что глава повстанцев попытается вытащить своего отца из плена..."
-msgstr ""
+msgstr "[_phobos_] Rator! Raddoppiate le guardie e preparatevi a far sì che il capo dei ribelli cerchi di far uscire il padre dalla prigionia..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:48 #-#-# translate crowdin ql_hayLin_go_to_phobos_76a070d8:
 msgid "[_raythor_] Как прикажете, мой Князь!"
-msgstr ""
+msgstr "[_raythor_] Come comandate voi, mio Principe!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:52 #-#-# translate crowdin ql_hayLin_go_to_phobos_4db33673:
 msgid "[_phobos_] А теперь все вон отсюда! В-о-о-о-н!"
-msgstr ""
+msgstr "[_phobos_] Ora andatevene! W-o-o-n!"
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:54 #-#-# translate crowdin ql_hayLin_go_to_phobos_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:56 #-#-# translate crowdin ql_hayLin_go_to_phobos_e00d722b:
 msgid "[_jink1_] Если я вдруг понадоблюсь,вы найдете меня в таверне, мой лорд..."
-msgstr ""
+msgstr "[_jink1_] Se avete bisogno di me, mi troverete nella taverna, mio signore..."
 
 # game/scripts/quests/haylin/ql_hayLin_go_to_phobos.rpy:57 #-#-# translate crowdin ql_hayLin_go_to_phobos_c3b70e58:
 msgid "[_cedrick_] Посмотрим... может ты еще сможешь быть полезен..."
-msgstr ""
+msgstr "[_cedrick_] Vediamo... forse puoi ancora essere utile..."
 
