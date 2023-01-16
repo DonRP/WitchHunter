@@ -10,137 +10,137 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:34\n"
+"PO-Revision-Date: 2023-01-16 21:29\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/paizuriTarani.rpy:5 #-#-# translate crowdin paizuriTarani_54173553:
 msgid "[_cedrick_] И так, класс, сегодня вас ждет новая контрольная работа. Надеюсь все успели подготовиться"
-msgstr ""
+msgstr "[_cedrick_] Allora, classe, oggi c'è un nuovo quiz. Spero che tutti abbiano avuto il tempo di prepararsi"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:6 #-#-# translate crowdin paizuriTarani_e210dc2b:
 msgid "[_haylin_] О нееет, только не снова.."
-msgstr ""
+msgstr "[_haylin_] Oh no, non di nuovo..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:7 #-#-# translate crowdin paizuriTarani_dfbdfe87:
 msgid "[_cedrick_] Мы лишь проверяем уровень ваших знаний, Хай Лин. В правильных руках любое знание превращается в силу, не стоит это недооценивать. Верно, Тарани?"
-msgstr ""
+msgstr "[_cedrick_] Stiamo solo testando il tuo livello di conoscenza, Hai Lin. Nelle mani giuste ogni conoscenza si trasforma in potere, non sottovalutatelo. Giusto, Tarani?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:8 #-#-# translate crowdin paizuriTarani_1e9e5a76:
 msgid "[_tarani_] ..Верно"
-msgstr ""
+msgstr "[_tarani_] ...Giusto."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:9 #-#-# translate crowdin paizuriTarani_0f374d4c:
 msgid "[_haylin_] Ну конечно, Тарани то всегда ко всему готова!"
-msgstr ""
+msgstr "[_haylin_] Naturalmente, Tarani è sempre pronta a tutto!"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:10 #-#-# translate crowdin paizuriTarani_c78b3858:
 msgid "[_cedrick_] (Ох, как оказалось, не ко всему)"
-msgstr ""
+msgstr "[_cedrick_] (Oh, come si è scoperto, non a tutto)"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:12 #-#-# translate crowdin paizuriTarani_d4706847:
 msgid "[_centered_] {size=37}После урока..{/size}"
-msgstr ""
+msgstr "[_centered_] {Dopo la lezione..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:18 #-#-# translate crowdin paizuriTarani_36adae20:
 msgid "[_cedrick_] Тарани, не поможешь мне с проверкой контрольных?"
-msgstr ""
+msgstr "[_cedrick_] Tarani, puoi aiutarmi a controllare i controlli?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:19 #-#-# translate crowdin paizuriTarani_4eda9780:
 msgid "[_tarani_] ..Ребят, не ждите меня, я должна помочь Профессору Рику.."
-msgstr ""
+msgstr "[_tarani_] Ragazzi, non aspettate, devo aiutare il professor Rick..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:20 #-#-# translate crowdin paizuriTarani_9b0edb94:
 msgid "[_irma_] Окей, не задерживайся там"
-msgstr ""
+msgstr "[_irma_] OK, non rimanete lì troppo a lungo"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:21 #-#-# translate crowdin paizuriTarani_1ee5b6c4:
 msgid "[_tarani_] Я постараюсь.."
-msgstr ""
+msgstr "[_tarani_] Cercherò di..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:25 #-#-# translate crowdin paizuriTarani_42fdc3a9:
 msgid "[_cedrick_] Мда, парень ни на что негоден.. Надеюсь хоть ты за него постараешься, Тарани"
-msgstr ""
+msgstr "[_cedrick_] Sì, il ragazzo non è bravo. Spero che almeno ci proverai, Tarani."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:29 #-#-# translate crowdin paizuriTarani_6431c766:
 msgid "[_tarani_] Хватит давить на меня.."
-msgstr ""
+msgstr "[_tarani_] Smettetela di spingermi..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:32 #-#-# translate crowdin paizuriTarani_b0d660bb:
 msgid "[_cedrick_] Ну, этого бы не произошло, если бы ты вовремя надавила на Найджела и он взялся бы за ум. А теперь разве что ты можешь взяться за мой член"
-msgstr ""
+msgstr "[_cedrick_] Beh, questo non sarebbe successo se aveste premuto Nigel in tempo e se lui avesse fatto un po' di chiarezza. Ora, a meno che tu non riesca a prendere in mano il mio cazzo."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:33 #-#-# translate crowdin paizuriTarani_96bd030f:
 msgid "[_tarani_] ......"
-msgstr ""
+msgstr "[_tarani_] ......"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:34 #-#-# translate crowdin paizuriTarani_63b5a7de:
 msgid "[_cedrick_] Хм, между твоими девочками довольно приятно, но не хочешь ускорить процесс? Возьми его в рот."
-msgstr ""
+msgstr "[_cedrick_] Hmm, è molto bello tra le tue ragazze, ma vuoi accelerare le cose? Prendetelo in bocca."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:37 #-#-# translate crowdin paizuriTarani_d55b0eb0:
 msgid "[_tarani_] Ч-что?! Я не стану брать эту штуку себе в рот, ты понял!"
-msgstr ""
+msgstr "[_tarani_] Cosa? Non prenderò quella cosa in bocca, capisci?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:40 #-#-# translate crowdin paizuriTarani_7f2b788d:
 msgid "[_tarani_] (Черт, да я даже Найджелу не отсасывала, а тебе не отсосу уж точно. Я вообще не уверена, что эта штука сможет поместиться мне в рот...)"
-msgstr ""
+msgstr "[_tarani_] (Diavolo, non ho nemmeno succhiato il cazzo di Nigel, e di sicuro non ho succhiato il tuo. Non sono nemmeno sicuro che quella cosa possa entrare nella mia bocca...)."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:41 #-#-# translate crowdin paizuriTarani_c4bfbd29:
 msgid "[_cedrick_] Ох, какая ты недотрога. Ты уже дрочишь мне, прячась от всех под столом, чего уж стыдиться?"
-msgstr ""
+msgstr "[_cedrick_] Oh, sei proprio una puritana. Mi stai già facendo una sega nascondendoti sotto il tavolo, cosa c'è da vergognarsi?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:44 #-#-# translate crowdin paizuriTarani_8d97f227:
 msgid "[_tarani_] Я.. Думаю вкус этой штуковины будет мне противен"
-msgstr ""
+msgstr "[_tarani_] Я.. Credo che il sapore di questa roba mi disgusti."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:47 #-#-# translate crowdin paizuriTarani_a9d63d3f:
 msgid "[_cedrick_] Думаешь? Так ты что, еще никому не отсасывала? Хах, а в тот раз так резво набросилась на мой член, словно все уже с ним успела проделать"
-msgstr ""
+msgstr "[_cedrick_] Lo pensi anche tu? Quindi non hai ancora succhiato il cazzo a nessuno? Quella volta che sei stata così veloce a saltare sul mio cazzo, come se avessi fatto tutto con esso."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:48 #-#-# translate crowdin paizuriTarani_5c034e7a:
 msgid "[_cedrick_] Постой-ка, получается ты не сосала Найджелу? Вы с ним что, еще даже не спали?"
-msgstr ""
+msgstr "[_cedrick_] Aspetta un attimo, quindi non hai succhiato Nigel? Non sei ancora andata a letto con lui?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:51 #-#-# translate crowdin paizuriTarani_02f8aba2:
 msgid "[_tarani_] ...Заткнись"
-msgstr ""
+msgstr "[_tarani_] ...Zitto"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:54 #-#-# translate crowdin paizuriTarani_867b5a86:
 msgid "[_cedrick_] Ох, бедный пацан. Как же он опечалится, когда я заберу твой первый раз"
-msgstr ""
+msgstr "[_cedrick_] Oh, povero ragazzo. Quanto sarà triste quando prenderò la tua prima"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:55 #-#-# translate crowdin paizuriTarani_253dfb5e:
 msgid "[_tarani_] Этого никогда не произойдет, ты, придурок.."
-msgstr ""
+msgstr "[_tarani_] Non succederà mai, idiota..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:56 #-#-# translate crowdin paizuriTarani_e650d6ae:
 msgid "[_cedrick_] Ну, прямо сейчас ты дрочишь мне, а не ему. У меня как минимум есть шансы, не считаешь?"
-msgstr ""
+msgstr "[_cedrick_] Beh, in questo momento sei tu a fare una sega a me, non lui. Ho almeno una possibilità, non credi?"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:59 #-#-# translate crowdin paizuriTarani_ae2ceb25:
 msgid "[_tarani_] Кончай уже.."
-msgstr ""
+msgstr "[_tarani_] Smettila..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:60 #-#-# translate crowdin paizuriTarani_e44c2b10:
 msgid "[_cedrick_] Ох, ты ускорилась? Да, с этой злостью в глазах ты мне нравишься больше. Дрянная девчонка, продолжай!"
-msgstr ""
+msgstr "[_cedrick_] Oh, hai accelerato? Sì, mi piaci di più con quella rabbia negli occhi. Ragazza cattiva, vai avanti!"
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:61 #-#-# translate crowdin paizuriTarani_8a78f40a:
 msgid "[_cedrick_] Я уже близко.. Почти.."
-msgstr ""
+msgstr "[_cedrick_] Sono vicino... Quasi..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:66 #-#-# translate crowdin paizuriTarani_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:69 #-#-# translate crowdin paizuriTarani_92351330:
 msgid "[_tarani_] Ублюдок, ты все лицо мне забрызгал. Мерзость.."
-msgstr ""
+msgstr "[_tarani_] Bastardo, mi hai schizzato in faccia. Sei disgustoso..."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:70 #-#-# translate crowdin paizuriTarani_8c6480e9:
 msgid "[_cedrick_] Привыкай, дорогая, это не последний раз, когда твое лицо заливается моей спермой"
-msgstr ""
+msgstr "[_cedrick_] Abituati, tesoro, non sarà l'ultima volta che la tua faccia verrà inzuppata dal mio sperma."
 
 # game/scripts/quests/tarani/paizuriTarani.rpy:73 #-#-# translate crowdin paizuriTarani_a1eb2b24:
 msgid "[_tarani_] (Это мы еще посмотрим, засранец.. Я не могу позволить, чтобы это продолжалось.. Пока он не забрал мою девственность..)"
-msgstr ""
+msgstr "[_tarani_] (Questo lo vedremo, stronzo. Non posso permettere che questo vada avanti... Fino a quando non prenderà la mia verginità...)"
 
