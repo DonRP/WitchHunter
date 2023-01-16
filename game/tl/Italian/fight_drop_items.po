@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-01-16 21:19\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Нашивка повстанца"
-msgstr ""
+msgstr "Toppa ribelle"
 
 # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Слизь кабана"
-msgstr ""
+msgstr "Bava di cinghiale"
 
 # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Клык кабана"
-msgstr ""
+msgstr "Una zanna di cinghiale"
 
 # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Ядовитая железа"
-msgstr ""
+msgstr "Ferro velenoso"
 
 # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Клещня морпиона"
-msgstr ""
+msgstr "La zecca morpina"
 
 # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Сонный порошок"
-msgstr ""
+msgstr "Polvere per dormire"
 
 # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Лапа жагноморфа"
-msgstr ""
+msgstr "Zampa di Jugnomorfo"
 
 # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Паутинная железа"
-msgstr ""
+msgstr "Ghiandola del ragno"
 
 # game/scripts/core/inventory/items/fight_drop_items.rpy:2
 msgid "Глаз ларвека"
-msgstr ""
+msgstr "L'occhio del larvek"
 
