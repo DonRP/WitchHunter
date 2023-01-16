@@ -10,197 +10,197 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:35\n"
+"PO-Revision-Date: 2023-01-16 21:30\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_first_join.rpy:10 #-#-# translate crowdin will_first_join_e5ef2ecb:
 msgid "[_girl_] ..."
-msgstr ""
+msgstr "[_girl_] ..."
 
 # game/scripts/quests/will/will_first_join.rpy:11 #-#-# translate crowdin will_first_join_d7e81d26:
 msgid "*Заходит красноволосая девушка и осматривается в магазине*"
-msgstr ""
+msgstr "*Una ragazza dai capelli rossi entra e dà un'occhiata al negozio."
 
 # game/scripts/quests/will/will_first_join.rpy:12 #-#-# translate crowdin will_first_join_dc45866a:
 msgid "[_cedrick_sprite_] (Это же... хранительница Сердца Кондракара?)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Non è... il guardiano del Cuore di Kondracar?)"
 
 # game/scripts/quests/will/will_first_join.rpy:20 #-#-# translate crowdin will_first_join_8e1398c0:
 msgid "[_elion_] Вилл!!"
-msgstr ""
+msgstr "[_elion_] Will!!!"
 
 # game/scripts/quests/will/will_first_join.rpy:26 #-#-# translate crowdin will_first_join_07235bc2:
 msgid "[_will_] Элион... Ты меня напугала.."
-msgstr ""
+msgstr "[_will_] Elyon... Mi hai spaventato..."
 
 # game/scripts/quests/will/will_first_join.rpy:31 #-#-# translate crowdin will_first_join_0d4ceb73:
 msgid "[_elion_] Прости"
-msgstr ""
+msgstr "[_elion_] Mi dispiace"
 
 # game/scripts/quests/will/will_first_join.rpy:38 #-#-# translate crowdin will_first_join_77a1fdcc:
 msgid "[_elion_] Что ты здесь делаешь?"
-msgstr ""
+msgstr "[_elion_] Cosa ci fai qui?"
 
 # game/scripts/quests/will/will_first_join.rpy:44 #-#-# translate crowdin will_first_join_d85cbbdf:
 msgid "[_will_] Эм, я пришла прикупить кое-какие учебники"
-msgstr ""
+msgstr "[_will_] Sono venuto a comprare dei libri di testo..."
 
 # game/scripts/quests/will/will_first_join.rpy:45 #-#-# translate crowdin will_first_join_b0c8d426:
 msgid "[_will_] а ты?"
-msgstr ""
+msgstr "[_will_] E voi?"
 
 # game/scripts/quests/will/will_first_join.rpy:50 #-#-# translate crowdin will_first_join_cc0e49ee:
 msgid "[_elion_] Я помогаю по магазину. Рик, это Вилл, моя одноклассница"
-msgstr ""
+msgstr "[_elion_] Sto dando una mano in negozio. Rick, questo è Will, il mio compagno di classe"
 
 # game/scripts/quests/will/will_first_join.rpy:51 #-#-# translate crowdin will_first_join_a7dba5d9:
 msgid "[_cedrick_sprite_] Очень приятно, Рик Хофман, владелец магазина"
-msgstr ""
+msgstr "[_cedrick_sprite_] Piacere di conoscerla, Rick Hoffman, proprietario del negozio"
 
 # game/scripts/quests/will/will_first_join.rpy:57 #-#-# translate crowdin will_first_join_627aad4c:
 msgid "[_will_] А куда делся прошлый владелец?"
-msgstr ""
+msgstr "[_will_] Dov'è finito il precedente proprietario?"
 
 # game/scripts/quests/will/will_first_join.rpy:58 #-#-# translate crowdin will_first_join_4f99347b:
 msgid "[_cedrick_] Ну... Он был слишком стар и больше не мог содержать магазин..."
-msgstr ""
+msgstr "[_cedrick_] Beh... Era troppo vecchio e non poteva più mantenere il negozio..."
 
 # game/scripts/quests/will/will_first_join.rpy:59 #-#-# translate crowdin will_first_join_5dd33166:
 msgid "[_will_] Понятно"
-msgstr ""
+msgstr "[_will_] Capito"
 
 # game/scripts/quests/will/will_first_join.rpy:60 #-#-# translate crowdin will_first_join_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/will/will_first_join.rpy:65 #-#-# translate crowdin will_first_join_3812ee61:
 msgid "[_elion_] Так какие учебники тебе нужны?"
-msgstr ""
+msgstr "[_elion_] Di che tipo di libri di testo avete bisogno?"
 
 # game/scripts/quests/will/will_first_join.rpy:71 #-#-# translate crowdin will_first_join_422e1719:
 msgid "[_will_] Математика и физика"
-msgstr ""
+msgstr "[_will_] Matematica e fisica"
 
 # game/scripts/quests/will/will_first_join.rpy:75 #-#-# translate crowdin will_first_join_8da8ec39:
 msgid "[_cedrick_] Скорее всего мы еще не успели распаковать их, Элион ты не могла бы посмотреть?"
-msgstr ""
+msgstr "[_cedrick_] Probabilmente non abbiamo ancora avuto modo di disfarli, Elion, potresti dare un'occhiata?"
 
 # game/scripts/quests/will/will_first_join.rpy:80 #-#-# translate crowdin will_first_join_8dccb615:
 msgid "[_elion_] Конечно, сейчас"
-msgstr ""
+msgstr "[_elion_] Naturalmente, ora"
 
 # game/scripts/quests/will/will_first_join.rpy:87 #-#-# translate crowdin will_first_join_c79cd475:
 msgid "Элион удаляется в дальнюю часть магазина"
-msgstr ""
+msgstr "Elion si ritira sul lato opposto del negozio."
 
 # game/scripts/quests/will/will_first_join.rpy:88 #-#-# translate crowdin will_first_join_bcd124bf:
 msgid "[_will_] ..."
-msgstr ""
+msgstr "[_will_] ..."
 
 # game/scripts/quests/will/will_first_join.rpy:94 #-#-# translate crowdin will_first_join_324c1fe1:
 msgid "[_will_] Хех"
-msgstr ""
+msgstr "[_will_] Heh"
 
 # game/scripts/quests/will/will_first_join.rpy:95 #-#-# translate crowdin will_first_join_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/will/will_first_join.rpy:96 #-#-# translate crowdin will_first_join_0e342e12:
 msgid "[_cedrick_] (И вправду хранительница Сердца Кондракара, нужно узнать о ней больше..)"
-msgstr ""
+msgstr "[_cedrick_] (In effetti la custode del Cuore di Kondracar, dobbiamo scoprire di più su di lei...)"
 
 # game/scripts/quests/will/will_first_join.rpy:97 #-#-# translate crowdin will_first_join_1dbfc4aa:
 msgid "[_cedrick_sprite_] Как так получилось что тебе понадобились учебники в середине учебного года?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Com'è possibile che vi servano dei libri di testo nel bel mezzo dell'anno scolastico?"
 
 # game/scripts/quests/will/will_first_join.rpy:103 #-#-# translate crowdin will_first_join_f1a4763c:
 msgid "[_will_] А... Дело в том, что я недавно сюда переехала, и мне пришлось сменить школу"
-msgstr ""
+msgstr "[_will_] А... Il fatto è che mi sono trasferita qui di recente e ho dovuto cambiare scuola."
 
 # game/scripts/quests/will/will_first_join.rpy:104 #-#-# translate crowdin will_first_join_2201f81b:
 msgid "[_will_] Это все из-за маминой работы"
-msgstr ""
+msgstr "[_will_] È tutta colpa del lavoro di mia madre."
 
 # game/scripts/quests/will/will_first_join.rpy:105 #-#-# translate crowdin will_first_join_32db026d:
 msgid "[_cedrick_] Это все объясняет"
-msgstr ""
+msgstr "[_cedrick_] Questo spiega tutto."
 
 # game/scripts/quests/will/will_first_join.rpy:106 #-#-# translate crowdin will_first_join_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/will/will_first_join.rpy:107 #-#-# translate crowdin will_first_join_0fd4d656:
 msgid "......"
-msgstr ""
+msgstr "......"
 
 # game/scripts/quests/will/will_first_join.rpy:114 #-#-# translate crowdin will_first_join_f68b95cc:
 msgid "*звук падения книг*"
-msgstr ""
+msgstr "# Il suono dei libri che cadono #"
 
 # game/scripts/quests/will/will_first_join.rpy:115 #-#-# translate crowdin will_first_join_8b1e8dfe:
 msgid "[_cedrick_] Элион ты там как?"
-msgstr ""
+msgstr "[_cedrick_] Elyon, come stai?"
 
 # game/scripts/quests/will/will_first_join.rpy:121 #-#-# translate crowdin will_first_join_dd025069:
 msgid "[_elion_] Я в порядке!!"
-msgstr ""
+msgstr "[_elion_] Sto bene!!!"
 
 # game/scripts/quests/will/will_first_join.rpy:122 #-#-# translate crowdin will_first_join_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/will/will_first_join.rpy:129 #-#-# translate crowdin will_first_join_5e582f87:
 msgid "[_elion_] Фух, я все таки нашла их!"
-msgstr ""
+msgstr "[_elion_] Alla fine li ho trovati!"
 
 # game/scripts/quests/will/will_first_join.rpy:130 #-#-# translate crowdin will_first_join_0f1b5929:
 msgid "[_cedrick_sprite_] Ты не ушиблась?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Stai bene?"
 
 # game/scripts/quests/will/will_first_join.rpy:135 #-#-# translate crowdin will_first_join_7b29b1e6:
 msgid "[_elion_] Нет, просто на меня свалилась стопка книг, хех"
-msgstr ""
+msgstr "[_elion_] No, mi è solo caduta addosso una pila di libri, heh"
 
 # game/scripts/quests/will/will_first_join.rpy:140 #-#-# translate crowdin will_first_join_0dfa602c:
 msgid "[_will_] Будь осторожнее, так сколько с меня за учебники?"
-msgstr ""
+msgstr "[_will_] Attenzione, quanto le devo per i libri di testo?"
 
 # game/scripts/quests/will/will_first_join.rpy:145 #-#-# translate crowdin will_first_join_767d6c66:
 msgid "[_elion_] Ээм..."
-msgstr ""
+msgstr "[_elion_] Ehm..."
 
 # game/scripts/quests/will/will_first_join.rpy:151 #-#-# translate crowdin will_first_join_53ddf43c:
 msgid "[_cedrick_] 40 долларов"
-msgstr ""
+msgstr "[_cedrick_] 40 dollari"
 
 # game/scripts/quests/will/will_first_join.rpy:159 #-#-# translate crowdin will_first_join_093278dd:
 msgid "[_will_] Вот держите, спасибо, я была бы рада поболтать с вами, но мне пора"
-msgstr ""
+msgstr "[_will_] Ecco a voi, grazie, mi piacerebbe chiacchierare con voi, ma devo andare..."
 
 # game/scripts/quests/will/will_first_join.rpy:160 #-#-# translate crowdin will_first_join_bb371710:
 msgid "[_cedrick_] Не за что, приходи еще"
-msgstr ""
+msgstr "[_cedrick_] Non c'è di che, tornate a trovarci"
 
 # game/scripts/quests/will/will_first_join.rpy:161 #-#-# translate crowdin will_first_join_c7b43338:
 msgid "[_elion_] Увидимся в школе"
-msgstr ""
+msgstr "[_elion_] Ci vediamo a scuola"
 
 # game/scripts/quests/will/will_first_join.rpy:167 #-#-# translate crowdin will_first_join_2e8f6a01:
 msgid "Вилл удалилась"
-msgstr ""
+msgstr "Will si è ritirato"
 
 # game/scripts/quests/will/will_first_join.rpy:168 #-#-# translate crowdin will_first_join_bb1abf02:
 msgid "[_cedrick_sprite_] И давно она перевелась в вашу школу?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Da quanto tempo si è trasferita nella vostra scuola?"
 
 # game/scripts/quests/will/will_first_join.rpy:169 #-#-# translate crowdin will_first_join_8d05a0ae:
 msgid "[_elion_] Думаю где-то около месяца назад"
-msgstr ""
+msgstr "[_elion_] Credo circa un mese fa."
 
 # game/scripts/quests/will/will_first_join.rpy:175 #-#-# translate crowdin will_first_join_e02e3b7c:
 msgid "[_cedrick_sprite_] (Так значит около месяца назад она переехала в этот город и сразу стала стражницей, с тех пор и начались наши проблемы...)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Così circa un mese fa si è trasferita in questa città ed è diventata immediatamente una sentinella, e da allora sono iniziati i nostri problemi...)"
 
 # game/scripts/quests/will/will_first_join.rpy:176 #-#-# translate crowdin will_first_join_11d7c7d1:
 msgid "[_cedrick_sprite_] (И помимо этого хранительница Сердца Кондракара и стражницы земли знакомы с Наследницей престола, интересно, знают ли они кем она является на самом деле?)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Inoltre, il guardiano del Cuore di Kondracar e i guardiani della terra conoscono bene l'Erede al trono, mi chiedo se sappiano chi sia veramente)."
 
