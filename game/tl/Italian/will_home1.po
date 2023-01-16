@@ -10,73 +10,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:35\n"
+"PO-Revision-Date: 2023-01-16 21:30\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home1.rpy:8 #-#-# translate crowdin will_home1_ece55c08:
 msgid "[_susan_] Рик! Пришел помочь Вилл?"
-msgstr ""
+msgstr "[_susan_] Rick! Sei venuto ad aiutare Will?"
 
 # game/scripts/quests/will/will_home1.rpy:9 #-#-# translate crowdin will_home1_02d5d155:
 msgid "[_cedrick_sprite_] Да, надеюсь моих знаний будет достаточно"
-msgstr ""
+msgstr "[_cedrick_sprite_] Sì, spero che le mie conoscenze siano sufficienti"
 
 # game/scripts/quests/will/will_home1.rpy:10 #-#-# translate crowdin will_home1_5c60f564:
 msgid "[_susan_] Я очень тебе благодарна за это, пожалуйста проходи, Вилл в своей комнате"
-msgstr ""
+msgstr "[_susan_] Le sono molto grata per questo, la prego di entrare, Will è nella sua stanza."
 
 # game/scripts/quests/will/will_home1.rpy:15 #-#-# translate crowdin will_home1_6751b843:
 msgid "*В комнате вилл*"
-msgstr ""
+msgstr "* Nella stanza della villa"
 
 # game/scripts/quests/will/will_home1.rpy:21 #-#-# translate crowdin will_home1_e846e7f7:
 msgid "[_will_] Тут небольшой беспорядок, прости, я не успела прибраться"
-msgstr ""
+msgstr "[_will_] È un po' in disordine, mi dispiace, non ho avuto il tempo di riordinare."
 
 # game/scripts/quests/will/will_home1.rpy:22 #-#-# translate crowdin will_home1_79d7e417:
 msgid "[_cedrick_sprite_] Ничего страшного"
-msgstr ""
+msgstr "[_cedrick_sprite_] Niente di che."
 
 # game/scripts/quests/will/will_home1.rpy:28 #-#-# translate crowdin will_home1_695bbab6:
 msgid "[_cedrick_sprite_] Хех, а ты очень любишь лягушек, верно?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Ti piacciono molto le rane, vero?"
 
 # game/scripts/quests/will/will_home1.rpy:34 #-#-# translate crowdin will_home1_eea3693a:
 msgid "[_will_] Я собираю их уже больше 8 лет, большинство из них мне подарила бабушка а потом это превратилось во что-то вроде хобби"
-msgstr ""
+msgstr "[_will_] Li colleziono da oltre otto anni, la maggior parte mi è stata regalata da mia nonna e poi è diventato una specie di hobby."
 
 # game/scripts/quests/will/will_home1.rpy:35 #-#-# translate crowdin will_home1_16a13b6f:
 msgid "[_cedrick_sprite_] Хорошо когда у тебя есть увлечение"
-msgstr ""
+msgstr "[_cedrick_sprite_] È bello avere un hobby"
 
 # game/scripts/quests/will/will_home1.rpy:41 #-#-# translate crowdin will_home1_e51e9cc1:
 msgid "[_will_] Наверное.."
-msgstr ""
+msgstr "[_will_] Immagino..."
 
 # game/scripts/quests/will/will_home1.rpy:46 #-#-# translate crowdin will_home1_65308c2c:
 msgid "*Спустя некоторое время*"
-msgstr ""
+msgstr "*Dopo un po'*"
 
 # game/scripts/quests/will/will_home1.rpy:52 #-#-# translate crowdin will_home1_23e40135:
 msgid "[_cedrick_sprite_] ...Вот так отчасти из-за экономической нестабильности и частым нападениям различных племен варваров распалась римская империя.."
-msgstr ""
+msgstr "[_cedrick_sprite_] ...È così che, anche a causa dell'instabilità economica e dei frequenti attacchi di varie tribù barbariche, l'Impero romano crollò."
 
 # game/scripts/quests/will/will_home1.rpy:53 #-#-# translate crowdin will_home1_edcd22a1:
 msgid "[_will_] А это правда, что первые геи появились в Риме?"
-msgstr ""
+msgstr "[_will_] È vero che i primi gay sono arrivati da Roma?"
 
 # game/scripts/quests/will/will_home1.rpy:54 #-#-# translate crowdin will_home1_437f5535:
 msgid "[_cedrick_sprite_] Ну... На этот вопрос у историков нет однозначного ответа, скорее всего геи были и до римской империи, но широкое распространение получили благодаря ей.."
-msgstr ""
+msgstr "[_cedrick_sprite_] Beh... Gli storici non hanno una risposta certa a questa domanda, è probabile che i gay fossero presenti anche prima dell'Impero Romano, ma che si siano diffusi grazie ad esso..."
 
 # game/scripts/quests/will/will_home1.rpy:60 #-#-# translate crowdin will_home1_7b52b9e2:
 msgid "[_will_] Жаль что наши учителя в школе не могут преподавать материал так увлекательно"
-msgstr ""
+msgstr "[_will_] Vorrei che i nostri insegnanti a scuola insegnassero la materia in modo così divertente."
 
 # game/scripts/quests/will/will_home1.rpy:61 #-#-# translate crowdin will_home1_b60f6daf:
 msgid "[_cedrick_sprite_] Что ж... Думаю на сегодня хватит, в следующий раз я расскажу тебе о средневековье"
-msgstr ""
+msgstr "[_cedrick_sprite_] Beh... Penso che per oggi sia sufficiente, la prossima volta vi parlerò del Medioevo."
 
 # game/scripts/quests/will/will_home1.rpy:67 #-#-# translate crowdin will_home1_a00c8e7a:
 msgid "[_will_] Хорошо, спасибо за урок, пока Рик"
-msgstr ""
+msgstr "[_will_] OK, grazie per la lezione, ciao Rick."
 
