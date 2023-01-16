@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:29\n"
+"PO-Revision-Date: 2023-01-16 21:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/dontComeToLilianInMeridian.rpy:5 #-#-# translate crowdin dontComeToLilianInMeridian_7492a7fb:
 msgid "[_cedrick_] Мне лучше прийти в другой день"
-msgstr ""
+msgstr "[_cedrick_] È meglio che torni un altro giorno"
 
