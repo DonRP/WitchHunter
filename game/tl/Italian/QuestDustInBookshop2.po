@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-01-16 21:19\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestDustInBookshop2.rpy:3
 msgid "Пыль в книжном магазине (2)"
-msgstr ""
+msgstr "Polvere in libreria (2)"
 
 # game/scripts/core/quests/QuestDustInBookshop2.rpy:8
 msgid "Попросить элион убрать пыль в магазине еще раз"
-msgstr ""
+msgstr "Chiedete a Elion di spolverare di nuovo il negozio"
 
