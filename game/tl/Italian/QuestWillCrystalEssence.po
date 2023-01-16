@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:23\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestWillCrystalEssence.rpy:3
 msgid "Кристаллическая эссенция для Вилл. Часть I"
-msgstr ""
+msgstr "Essenza di cristallo per le ville. Parte I"
 
 # game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
 msgid "Забрать кристаллическую эссенцию у Миранды"
-msgstr ""
+msgstr "Prendete l'essenza di cristallo da Miranda"
 
 # game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
 msgid "Написать сообщение Вилл"
-msgstr ""
+msgstr "Scrivi un messaggio a Will"
 
 # game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
 msgid "Написать сообщение Сьюзан"
-msgstr ""
+msgstr "Scrivi un messaggio a Susan"
 
 # game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
 msgid "Помочь Вилл с учебой"
-msgstr ""
+msgstr "Aiutare Will negli studi"
 
 # game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
 msgid "Помочь Вилл с учебой. День 2"
-msgstr ""
+msgstr "Aiutate Will a studiare. Giorno 2"
 
 # game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
 msgid "Помочь Вилл с учебой. День 3"
-msgstr ""
+msgstr "Aiutate Will a studiare. Giorno 3"
 
 # game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
 msgid "Помочь Вилл с учебой. День 4"
-msgstr ""
+msgstr "Per aiutare Will negli studi. Giorno 4"
 
