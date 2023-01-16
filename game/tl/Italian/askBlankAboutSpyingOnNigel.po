@@ -10,65 +10,65 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:33\n"
+"PO-Revision-Date: 2023-01-16 21:28\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:10 #-#-# translate crowdin askBlankAboutSpyingOnNigel_1913d733:
 msgid "[_cedrick_sprite_] У меня опять к тебе дело, челядь!"
-msgstr ""
+msgstr "[_cedrick_sprite_] Ho di nuovo affari con te, lacchè!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:11 #-#-# translate crowdin askBlankAboutSpyingOnNigel_7a5bcbb7:
 msgid "[_cedrick_sprite_] Знаешь местного парня по имени Найджел Эшкрофт? Красноволосый патлатый пацан. Среднего роста, носит зеленую куртку, тусуется с бандой Урии."
-msgstr ""
+msgstr "[_cedrick_sprite_] Conosce un ragazzo del posto che si chiama Nigel Ashcroft? Un ragazzo dai capelli rossi e pelosi. Altezza media, indossa una giacca verde, frequenta la banda di Uriah."
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:12 #-#-# translate crowdin askBlankAboutSpyingOnNigel_233e2839:
 msgid "[_blankChar_] Бланк знает! Он видеть!"
-msgstr ""
+msgstr "[_blankChar_] Blank lo sa! Lui vede!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:13 #-#-# translate crowdin askBlankAboutSpyingOnNigel_4a4e8c2d:
 msgid "[_cedrick_sprite_] Мне нужно, чтобы ты проследил за ним и фотографировал все подозрительное!"
-msgstr ""
+msgstr "[_cedrick_sprite_] Ho bisogno che lo seguiate e che facciate foto di qualsiasi cosa sospetta!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:14 #-#-# translate crowdin askBlankAboutSpyingOnNigel_e939d76d:
 msgid "[_blankChar_] Что значит подозрительное??"
-msgstr ""
+msgstr "[_blankChar_] Cosa intende per sospetto?"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:15 #-#-# translate crowdin askBlankAboutSpyingOnNigel_b958fbb1:
 msgid "[_cedrick_] Ну.. знаешь это когда... в общем.. просто следи за ним и фотографируй.."
-msgstr ""
+msgstr "[_cedrick_] Beh... sai che è quando... Beh... basta tenerlo d'occhio e fare delle foto..."
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:16 #-#-# translate crowdin askBlankAboutSpyingOnNigel_af8dfc9d:
 msgid "[_cedrick_] Для этого дела я дам тебе фотоаппарат."
-msgstr ""
+msgstr "[_cedrick_] Per questo caso vi darò una macchina fotografica."
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:17 #-#-# translate crowdin askBlankAboutSpyingOnNigel_4eb7c59a:
 msgid "[_blankChar_] Бланк хотеть за это награду!"
-msgstr ""
+msgstr "[_blankChar_] Il modulo vuole una ricompensa per questo!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:18 #-#-# translate crowdin askBlankAboutSpyingOnNigel_5c051e39:
 msgid "[_cedrick_sprite_] Чего ты хочешь?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Che cosa vuoi?"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:19 #-#-# translate crowdin askBlankAboutSpyingOnNigel_2de0d10e:
 msgid "[_blankChar_] Бланку нужна ноздря дракона!"
-msgstr ""
+msgstr "[_blankChar_] Blank ha bisogno di una narice di drago!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:20 #-#-# translate crowdin askBlankAboutSpyingOnNigel_0726e0c7:
 msgid "[_cedrick_sprite_] Ноздря… Дракона?? Зачем она тебе и где я ее достану!? Ты сдурел?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Nostril… Dragon? A cosa ti serve e dove posso trovarlo? Sei impazzito?"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:21 #-#-# translate crowdin askBlankAboutSpyingOnNigel_b3c58e7b:
 msgid "[_blankChar_] Это забота не Бланка! Принеси ноздрю дракона и Бланк сделает то, что ты просишь!"
-msgstr ""
+msgstr "[_blankChar_] Non è un problema di Blank! Portate la narice del drago e Blanc farà ciò che chiedete!"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:23 #-#-# translate crowdin askBlankAboutSpyingOnNigel_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:24 #-#-# translate crowdin askBlankAboutSpyingOnNigel_af41b674:
 msgid "[_cedrick_sprite_] (Фотоаппарат можно купить в магазине у вокзала..)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Potete acquistare una macchina fotografica nel negozio vicino alla stazione...)"
 
 # game/scripts/quests/tarani/askBlankAboutSpyingOnNigel.rpy:25 #-#-# translate crowdin askBlankAboutSpyingOnNigel_7ad42174:
 msgid "[_cedrick_sprite_] (А вот с ноздрей дракона сложнее… нужно будет попросить помощи у Миранды. Наверное только она знает, где можно найти эту ноздрю..)"
-msgstr ""
+msgstr "[_cedrick_sprite_] (La narice del drago è più difficile, anche se… . Dovrete chiedere aiuto a Miranda. Probabilmente è l'unica che sa dove trovare la narice...)."
 
