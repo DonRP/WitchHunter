@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:20\n"
+"PO-Revision-Date: 2023-01-16 21:17\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_porn_magazine.rpy:9 #-#-# translate crowdin bookshop_porn_magazine_242958c3:
 msgid "[_cedrick_] {i}(Я не могу воспользоваться этим, так как Элион сейчас в магазине){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}(Non posso usarlo perché Elion è in negozio al momento)."
 
 # game/scripts/bookshop/imagemaplabels/bookshop_porn_magazine.rpy:11 #-#-# translate crowdin bookshop_porn_magazine_a6d0b473:
 msgid "[_cedrick_] {i}(Не думаю, что мне стоит разглядывать подобные журналы посреди дня.){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}(Non credo che dovrei guardare riviste del genere a metà giornata)."
 
 # game/scripts/bookshop/imagemaplabels/bookshop_porn_magazine.rpy:12 #-#-# translate crowdin bookshop_porn_magazine_3bd3ab31:
 msgid "[_cedrick_] {i}(Если зайдут покупатели, будет очень неловко.){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}(Se entrano dei clienti, sarà molto imbarazzante)."
 
