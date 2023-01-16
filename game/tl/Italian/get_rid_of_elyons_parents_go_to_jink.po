@@ -10,49 +10,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:29\n"
+"PO-Revision-Date: 2023-01-16 21:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:4 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_d30c0de9:
 msgid "[_cedrick_] Эй, ты, уродец, у меня к тебе есть поручение"
-msgstr ""
+msgstr "[_cedrick_] Ehi, pazzoide, ho una commissione per te."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:5 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_8bbf540f:
 msgid "[_jink1_] Что угодно, мой лорд, но за определенную плату.. Любой каприз за ваши деньги"
-msgstr ""
+msgstr "[_jink1_] Tutto, mio signore, ma a un prezzo... Qualsiasi cosa per i vostri soldi."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:6 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_527aa6c7:
 msgid "[_cedrick_] Не шути со мной, садовый гном, я здесь по поручению Князя Фобоса. Хочешь залезть ему в карман?"
-msgstr ""
+msgstr "[_cedrick_] Non fare il furbo con me, gnomo da giardino, sono qui per conto del principe Phobos. Volete scassinare le sue tasche?"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:7 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_0a581a4f:
 msgid "[_jink1_] Что вы, совсем нет.. Но и вы поймите Джинка.. Джинк потомственный торговец, религия не позволяет Джинк оказать услугу без какой-либо платы.."
-msgstr ""
+msgstr "[_jink1_] No, per niente... Ma capisci anche Jink... Jink è un mercante ereditario, la religione non gli permette di fare favori senza alcun pagamento..."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:8 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_a755baae:
 msgid "[_cedrick_] Да твою ж.. Что ты хочешь? Золота?"
-msgstr ""
+msgstr "[_cedrick_] Per l'amor del cielo. Che cosa vuoi? Oro?"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:9 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_cda71c21:
 msgid "[_jink1_] Хммм.. В городе ходят слухи слухи, Лорд Седрик, какой вы дамский угодник.. Так что в качестве символической платы, Джинк просит у вас женские трусы.."
-msgstr ""
+msgstr "[_jink1_] Hmmm... Si dice in città, Lord Cedric, che uomo di donne siete... Quindi, come pagamento simbolico, Jink ti chiede dei pantaloni da donna..."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:10 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_a2354760:
 msgid "[_cedrick_] Да ты издеваешься…"
-msgstr ""
+msgstr "[_cedrick_] Mi stai prendendo in giro…"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:11 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_7ff48d7b:
 msgid "[_jink1_] Думаю для вас это не будет проблемой.."
-msgstr ""
+msgstr "[_jink1_] Non credo che questo sia un problema per voi..."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:12 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_5c3b6c7a:
 msgid "[_cedrick_] Черт, у меня мало времени.. Ладно, жди здесь, буду через 5 минут"
-msgstr ""
+msgstr "[_cedrick_] Accidenti, non ho molto tempo. Va bene, aspettate qui, sarò lì tra cinque minuti."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:13 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_8c5a71e9:
 msgid "[_jink1_] Как скажете, мой лорд"
-msgstr ""
+msgstr "[_jink1_] Come dite voi, mio signore."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:14 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_c991ba21:
 msgid "[_cedrick_] (Мне срочно нужно отправиться к Миранде)"
-msgstr ""
+msgstr "[_cedrick_] (Devo andare subito da Miranda)"
 
