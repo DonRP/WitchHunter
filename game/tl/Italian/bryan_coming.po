@@ -10,89 +10,89 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:27\n"
+"PO-Revision-Date: 2023-01-16 21:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/boxWithBooks/bryan_coming.rpy:4 #-#-# translate crowdin bryan_coming_bdc90698:
 msgid "[_elion_] Ладно, Рик. Мне уже пора идти"
-msgstr ""
+msgstr "[_elion_] Va bene, Rick. Ora devo andare."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:5 #-#-# translate crowdin bryan_coming_bdd7fb09:
 msgid "[_cedrick_] До завтра!"
-msgstr ""
+msgstr "[_cedrick_] Ci vediamo domani!"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:6 #-#-# translate crowdin bryan_coming_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:7 #-#-# translate crowdin bryan_coming_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:11 #-#-# translate crowdin bryan_coming_f9adcb39:
 msgid "*звук распахивающейся двери*"
-msgstr ""
+msgstr "# il rumore della porta che si apre #"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:14 #-#-# translate crowdin bryan_coming_e6f0338a:
 msgid "[_cedrick_] вам что-то подсказать, молодой человек?"
-msgstr ""
+msgstr "[_cedrick_] Posso darti un suggerimento, giovanotto?"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:15 #-#-# translate crowdin bryan_coming_76931f2f:
 msgid "[_brayan_] ..."
-msgstr ""
+msgstr "[_brayan_] ..."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:19 #-#-# translate crowdin bryan_coming_b2a5ec06:
 msgid "[_brayan_] Слышь, старпер, надо поговорить!"
-msgstr ""
+msgstr "[_brayan_] Ehi, vecchio mio, dobbiamo parlare!"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:23 #-#-# translate crowdin bryan_coming_2ba460af:
 msgid "[_cedrick_sprite_zol_] Следи за языком, мелкий паршивец или вылетишь из магазина как пробка."
-msgstr ""
+msgstr "[_cedrick_sprite_zol_] Attento a come parli, teppistello, o sarai fuori dal negozio come un tappo di sughero."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:25 #-#-# translate crowdin bryan_coming_387eafe2:
 msgid "[_brayan_] Я видел как ты приставал к моей девушке!"
-msgstr ""
+msgstr "[_brayan_] Ti ho visto provarci con la mia ragazza!"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:26 #-#-# translate crowdin bryan_coming_c6260041:
 msgid "[_cedrick_] Что? О чем ты говоришь?"
-msgstr ""
+msgstr "[_cedrick_] Cosa? Di cosa stai parlando?"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:30 #-#-# translate crowdin bryan_coming_6757f15c:
 msgid "[_brayan_] Элион! Моя девушка! Сегодня ты распускал свои грязные руки..."
-msgstr ""
+msgstr "[_brayan_] Elyon! La mia ragazza! Oggi hai steso le tue sporche mani..."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:31 #-#-# translate crowdin bryan_coming_f7c7280f:
 msgid "[_cedrick_] Ничего подобного не было... Видимо ты что-то попутал, пацан..."
-msgstr ""
+msgstr "[_cedrick_] Non è mai successo niente del genere... Devi essere confuso su qualcosa, ragazzo..."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:35 #-#-# translate crowdin bryan_coming_e0b53dba:
 msgid "[_brayan_] Я все видел!"
-msgstr ""
+msgstr "[_brayan_] Ho visto tutto!"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:36 #-#-# translate crowdin bryan_coming_933b27c2:
 msgid "[_brayan_] Так что если ты и дальше будешь распускать свои руки... я..."
-msgstr ""
+msgstr "[_brayan_] Quindi, se continuate a sporcarvi le mani... я..."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:40 #-#-# translate crowdin bryan_coming_e763ef59:
 msgid "[_brayan_] я сообщу об этом в полицию! Ты меня понял?!"
-msgstr ""
+msgstr "[_brayan_] Lo denuncerò alla polizia! Mi capisci?!"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:41 #-#-# translate crowdin bryan_coming_d2229f0f:
 msgid "[_cedrick_] Воу, у тебя просто башню сорвало! Я ничего не делал!"
-msgstr ""
+msgstr "[_cedrick_] Wow, sei proprio pazzo! Non ho fatto nulla!"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:42 #-#-# translate crowdin bryan_coming_47564a20:
 msgid "[_brayan_] Это мое последнее предупреждение! Другого не будет!"
-msgstr ""
+msgstr "[_brayan_] Questo è il mio ultimo avvertimento! Non ce ne sarà un altro!"
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:45 #-#-# translate crowdin bryan_coming_880e336a:
 msgid "[_cedrick_] (Не знал, что у элион есть парень... да еще и такой нервный..)"
-msgstr ""
+msgstr "[_cedrick_] (Non sapevo che Elion avesse un fidanzato... e per di più così nervoso)."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:46 #-#-# translate crowdin bryan_coming_c2a6bc43:
 msgid "[_cedrick_sprite_zol_] (Он станет мне помехой, нужно найти способ избавиться от него!)"
-msgstr ""
+msgstr "[_cedrick_sprite_zol_] (Sarà una seccatura per me, devo trovare un modo per sbarazzarmene)."
 
 # game/scripts/quests/boxWithBooks/bryan_coming.rpy:47 #-#-# translate crowdin bryan_coming_4fbaecac:
 msgid "[_cedrick_sprite_zol_] (На Меридиане этот хлипкий уродец наверняка бы выступал в качестве шута или в поисках пропитания давал бы в задницу Лурденам за булку хлеба...)"
-msgstr ""
+msgstr "[_cedrick_sprite_zol_] (Su Meridian, questo mostro inconsistente si comporterebbe probabilmente come un buffone o prenderebbe a calci in culo Lourdens per un tozzo di pane in cerca di sostentamento)..."
 
