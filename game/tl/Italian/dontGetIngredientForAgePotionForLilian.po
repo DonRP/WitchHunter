@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-16 21:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/dontGetIngredientForAgePotionForLilian.rpy:8 #-#-# translate crowdin dontGetIngredientForAgePotionForLilian_3683a4bc:
 msgid "[_miranda_] Ты принес ингредиент?"
-msgstr ""
+msgstr "[_miranda_] Hai portato l'ingrediente?"
 
 # game/scripts/quests/growingUpLilian/dontGetIngredientForAgePotionForLilian.rpy:12 #-#-# translate crowdin dontGetIngredientForAgePotionForLilian_e6f6bc07:
 msgid "[_cedrick_] Еще нет"
-msgstr ""
+msgstr "[_cedrick_] Non ancora"
 
 # game/scripts/quests/growingUpLilian/dontGetIngredientForAgePotionForLilian.rpy:16 #-#-# translate crowdin dontGetIngredientForAgePotionForLilian_1bfe9e1d:
 msgid "[_miranda_] Я не смогу сделать тебе зелье без него, возьми его у ведьмака в таверне"
-msgstr ""
+msgstr "[_miranda_] Non posso prepararti una pozione senza, prendila dallo stregone nella taverna."
 
