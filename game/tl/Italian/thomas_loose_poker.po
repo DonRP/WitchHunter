@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:35\n"
+"PO-Revision-Date: 2023-01-16 21:30\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/thomas_loose_poker.rpy:4 #-#-# translate crowdin thomas_loose_poker_73c76c52:
 msgid "[_tomas_] Черт, как я мог проиграть! эти деньги сьюзан мне дала чтобы заплатить за квартиру"
-msgstr ""
+msgstr "[_tomas_] Dannazione, come ho potuto perdere! Susan mi ha dato quei soldi per pagare l'affitto..."
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:5 #-#-# translate crowdin thomas_loose_poker_ae86522a:
 msgid "[_tomas_] Умоляю дай мне отыгратся!"
-msgstr ""
+msgstr "[_tomas_] Per favore, fatemi vincere di nuovo!"
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:6 #-#-# translate crowdin thomas_loose_poker_52375465:
 msgid "[_cedrick_] А тебе есть что поставить... извини.."
-msgstr ""
+msgstr "[_cedrick_] E avete qualcosa da mettere... Mi dispiace..."
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:7 #-#-# translate crowdin thomas_loose_poker_edbf83e4:
 msgid "[_tomas_] Проклятье...."
-msgstr ""
+msgstr "[_tomas_] Maledizione...."
 
 # game/scripts/quests/will/thomas_loose_poker.rpy:8 #-#-# translate crowdin thomas_loose_poker_64215ec7:
 msgid "[_cedrick_] (Пологаю Сьюзан выгонит его как только узнает что он ввязался в азартные игры, и к тому же проиграл деньги)"
-msgstr ""
+msgstr "[_cedrick_] (Immagino che Susan lo caccerà non appena scoprirà che sta giocando d'azzardo e perdendo soldi)"
 
