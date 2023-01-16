@@ -10,85 +10,85 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:27\n"
+"PO-Revision-Date: 2023-01-16 21:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:5 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_d2bda4ab:
 msgid "[_cedrick_] И так, Корнелия, я вернулся. Готова к тому, что в этот раз я тебя выебу?"
-msgstr ""
+msgstr "[_cedrick_] Allora, Cornelia, sono tornato. Sei pronta a farti scopare questa volta?"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:9 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_559d520b:
 msgid "[_cornelia_] Ч-что!? Ты не посмеешь!"
-msgstr ""
+msgstr "[_cornelia_] Cosa? Non oseresti mai!"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:13 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_1f03a658:
 msgid "[_cedrick_] Все еще строишь из себя принцессу? На Земле это еще срабатывало, но здесь я Лорд и мне плевать, против ты или нет. Я просто возьму свое"
-msgstr ""
+msgstr "[_cedrick_] Finge ancora di essere una principessa? Sulla Terra funzionava, ma qui sono il Signore e non mi interessa se siete contrari o meno. Prendo solo quello che è mio."
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:17 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_fedb637e:
 msgid "[_cornelia_] ........."
-msgstr ""
+msgstr "[_cornelia_] ........."
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:19 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:22 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_a2217416:
 msgid "[_cornelia_] У-ублюдок.. Ты не предупредил, что будешь трахать меня прямо в зад!"
-msgstr ""
+msgstr "[_cornelia_] Figlio di puttana... Non mi hai detto che mi avresti scopato nel culo!"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:23 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_e07f1e24:
 msgid "[_cedrick_] А я не ждал приглашения! К тому же, что это вообще значит? То есть в киску ты меня принять была сегодня готова?"
-msgstr ""
+msgstr "[_cedrick_] E non mi aspettavo un invito! E poi, cosa significa? Quindi oggi eri pronta a prendermi nella tua figa?"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:25 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_cf29eff4:
 msgid "[_cornelia_] ..иди к черту"
-msgstr ""
+msgstr "[_cornelia_] ...vai all'inferno"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:26 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_9e1fb005:
 msgid "[_cedrick_] Ох, точно, у нас же на земле было что-то вроде влюбленности. Ты ведь первая меня поцеловала, помнишь"
-msgstr ""
+msgstr "[_cedrick_] Oh, è vero, avevamo una specie di cotta per la terra. Sei stato il primo a baciarmi, ricordi?"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:27 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_cf937600:
 msgid "[_cornelia_] З-заткнись.. Я была пьяна!"
-msgstr ""
+msgstr "[_cornelia_] Zitto... Ero ubriaco!"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:28 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_a3fe044f:
 msgid "[_cedrick_] А сейчас что? Твоя попка так легко меня принимает, потому что ты пьяна от моего члена?"
-msgstr ""
+msgstr "[_cedrick_] E adesso? Il tuo culo mi prende così facilmente perché sei ubriaca del mio cazzo?"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:29 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_e854c8c2:
 msgid "[_cornelia_] П-пошел ты! Ааааа... Это все твой сундучный монстр.."
-msgstr ""
+msgstr "[_cornelia_] Fanculo! Aaah... È tutto il tuo mostro del bagagliaio..."
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:30 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_d693d639:
 msgid "[_cedrick_] Да? Не помню, чтобы он трахал тебя в попку. Мне кажется, все дело в том, что на самом деле наша принцесса любит, когда ее берут против ее воли"
-msgstr ""
+msgstr "[_cedrick_] Sì? Non ricordo che ti abbia scopato nel culo. Credo che alla nostra principessa piaccia davvero essere presa contro la sua volontà..."
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:32 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_03ff0d6e:
 msgid "[_cornelia_] Э-это не так.. Все не так"
-msgstr ""
+msgstr "[_cornelia_] Non è... non è... Non è così."
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:33 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_64798403:
 msgid "[_cedrick_] Тогда хватит подыгрывать мне бедрами!"
-msgstr ""
+msgstr "[_cedrick_] Allora smettila di giocare con i miei fianchi!"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:34 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_e918de29:
 msgid "[_cornelia_] Я... Я просто хочу, чтобы ты быстрее кончил и отвязался от меня"
-msgstr ""
+msgstr "[_cornelia_] Я... Voglio solo che ti sbrighi a togliermi dalle scatole"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:35 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_2fef0929:
 msgid "[_cedrick_] Хах, ну тогда получай!"
-msgstr ""
+msgstr "[_cedrick_] Beh, allora prendi questo!"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:37 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_b0f62a10:
 msgid "[_cornelia_] Аааааааах....."
-msgstr ""
+msgstr "[_cornelia_] Aaaaaaaaah....."
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:40 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_0936b07c:
 msgid "[_cedrick_] Но не думай, что после подобного я от тебя отстану. Ты моя пленница, не забывай. Увидимся до следующего раза. Пойду пока трахать твоих подруг"
-msgstr ""
+msgstr "[_cedrick_] Ma non pensate che vi deluderò dopo una cosa del genere. Sei mio prigioniero, non dimenticarlo. Ci vediamo la prossima volta. Vado a scoparmi le tue ragazze"
 
 # game/scripts/quests/credulousCornelia/visit_cornelia_in_the_dungeon_2.rpy:41 #-#-# translate crowdin visit_cornelia_in_the_dungeon_2_3387e05d:
 msgid "[_cornelia_] ...Ч-чертов мерзавец.. ненавижу..."
-msgstr ""
+msgstr "[_cornelia_] ...maledetto bastardo... odio..."
 
