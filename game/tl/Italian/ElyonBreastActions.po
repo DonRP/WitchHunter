@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:23\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/ElyonBreastActions.rpy:6
 msgid "Покажи грудь"
-msgstr ""
+msgstr "Mostra il tuo seno"
 
 # game/scripts/core/ElyonBreastActions.rpy:20
 msgid "Снять лифчик"
-msgstr ""
+msgstr "Togliersi il reggiseno"
 
 # game/scripts/core/ElyonBreastActions.rpy:28
 msgid "Достаточно"
-msgstr ""
+msgstr "Abbastanza"
 
 # game/scripts/core/ElyonBreastActions.rpy:70
 msgid "Потрогать грудь"
-msgstr ""
+msgstr "Toccare il seno"
 
