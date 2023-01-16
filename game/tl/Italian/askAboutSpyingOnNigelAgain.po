@@ -10,53 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:33\n"
+"PO-Revision-Date: 2023-01-16 21:28\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:6 #-#-# translate crowdin askAboutSpyingOnNigelAgain_307948ad:
 msgid "[_cedrick_] Мне нужно чтобы ты снова проследил за Найджелом!"
-msgstr ""
+msgstr "[_cedrick_] Ho bisogno che tu segua di nuovo Nigel!"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:7 #-#-# translate crowdin askAboutSpyingOnNigelAgain_8bfc82a4:
 msgid "[_blank_] Найкджыл?"
-msgstr ""
+msgstr "[_blank_] Naikjil?"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:8 #-#-# translate crowdin askAboutSpyingOnNigelAgain_111d5d64:
 msgid "[_cedrick_] Красноволосый парень в зеленой куртке.."
-msgstr ""
+msgstr "[_cedrick_] Il ragazzo dai capelli rossi con la giacca verde"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:9 #-#-# translate crowdin askAboutSpyingOnNigelAgain_f89bf498:
 msgid "[_blank_] Найджид! Бланк знает!"
-msgstr ""
+msgstr "[_blank_] Naijid! Blank lo sa!"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:10 #-#-# translate crowdin askAboutSpyingOnNigelAgain_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:11 #-#-# translate crowdin askAboutSpyingOnNigelAgain_5db1ee42:
 msgid "[_cedrick_] Так ты проследишь за ним!? Мне нужно чтобы ты сфотографировал его как и в прошлый раз."
-msgstr ""
+msgstr "[_cedrick_] Allora, lo seguirai? Ho bisogno che tu gli faccia una foto come hai fatto l'ultima volta."
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:12 #-#-# translate crowdin askAboutSpyingOnNigelAgain_cebf9608:
 msgid "[_blank_] Бланк хочет за это..."
-msgstr ""
+msgstr "[_blank_] Blank lo vuole..."
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:13 #-#-# translate crowdin askAboutSpyingOnNigelAgain_cfff9180:
 msgid "[_blank_] Бланк хочет совокупиться с женщиной! Бланк хочет секс!"
-msgstr ""
+msgstr "[_blank_] Blank vuole fare sesso con una donna! Blank vuole fare sesso!"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:14 #-#-# translate crowdin askAboutSpyingOnNigelAgain_4609137c:
 msgid "[_cedrick_] Я.. не уверен, что смогу помочь тебе в этом.."
-msgstr ""
+msgstr "[_cedrick_] Non sono sicuro di poterti aiutare..."
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:15 #-#-# translate crowdin askAboutSpyingOnNigelAgain_30dcedb8:
 msgid "[_blank_] Тогда Бланк хотеть золотую цепь!"
-msgstr ""
+msgstr "[_blank_] Allora Blank vuole una catena d'oro!"
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:16 #-#-# translate crowdin askAboutSpyingOnNigelAgain_2825d1fd:
 msgid "[_cedrick_] Я посмотрю, что я смогу сделать.."
-msgstr ""
+msgstr "[_cedrick_] Vedrò cosa posso fare..."
 
 # game/scripts/quests/tarani/askAboutSpyingOnNigelAgain.rpy:23 #-#-# translate crowdin askAboutSpyingOnNigelAgain_dadf60c6:
 msgid "[_cedrick_] (Что ж, теперь мне нужно найти золотую цепь для этого дебила-имбецила, вероятно я смогу купить краденую цепь у вокзала..)"
-msgstr ""
+msgstr "[_cedrick_] (Beh, ora devo trovare una catena d'oro per questo imbecille ritardato, probabilmente posso comprare una catena rubata fuori dalla stazione ferroviaria...)"
 
