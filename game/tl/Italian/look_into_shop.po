@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:28\n"
+"PO-Revision-Date: 2023-01-16 21:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/exploreTheCity/look_into_shop.rpy:7 #-#-# translate crowdin look_into_shop_ac547774:
 msgid "[_cedrick_] Здесь довольно много людей, и богатый ассортимент товаров.."
-msgstr ""
+msgstr "[_cedrick_] Qui c'è un sacco di gente e una vasta gamma di prodotti..."
 
 # game/scripts/quests/exploreTheCity/look_into_shop.rpy:8 #-#-# translate crowdin look_into_shop_07116556:
 msgid "[_cedrick_] Похоже местные любят закупаться в этом месте"
-msgstr ""
+msgstr "[_cedrick_] Sembra che la gente del posto ami fare acquisti lì"
 
