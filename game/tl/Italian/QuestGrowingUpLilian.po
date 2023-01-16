@@ -10,53 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGrowingUpLilian.rpy:3
 msgid "Большая девочка"
-msgstr ""
+msgstr "Ragazza grande"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Похитить Лилиан"
-msgstr ""
+msgstr "Rapire Lillian"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Поговорить с Корнелией в школе"
-msgstr ""
+msgstr "Parlare con Cornelia a scuola"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Попросить Миранду сварить зелье возраста"
-msgstr ""
+msgstr "Chiedete a Miranda di preparare una pozione di invecchiamento."
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Распросить у Геральда о Феаинневедде"
-msgstr ""
+msgstr "Chiedi all'Araldo di TheaInneved"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Выиграть Феаинневедд у Геральда"
-msgstr ""
+msgstr "Vincere il Feaingnewedd dell'Herald"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Отдать Феаинневедд миранде"
-msgstr ""
+msgstr "Dare il FeaInneved a Miranda"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Отдать Лилиан зелье возраста"
-msgstr ""
+msgstr "Dare a Lillian la pozione dell'età"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Навестить Лилиан в замке"
-msgstr ""
+msgstr "Visita a Lillian al castello"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Провести с Лилиан урок полового воспитания"
-msgstr ""
+msgstr "Dare a Lillian una lezione di educazione sessuale"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Провести с Лилиан урок полового воспитания снова"
-msgstr ""
+msgstr "Riprendete la lezione di educazione sessuale a Lillian"
 
 # game/scripts/core/quests/QuestGrowingUpLilian.rpy:33
 msgid "Провести очередной урок полового воспитания с Лилиан"
-msgstr ""
+msgstr "Avere un'altra lezione di educazione sessuale con Lillian"
 
