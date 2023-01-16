@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-01-16 21:27\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/bookshop_to_alchemy.rpy:39 #-#-# translate crowdin bookshop_need_go_to_alchemy_53945afd:
 msgid "У меня нет времени на ерунду. Я должен проверить, жива ли девчонка"
-msgstr ""
+msgstr "Non ho tempo per le sciocchezze. Devo vedere se la ragazza è viva."
 
