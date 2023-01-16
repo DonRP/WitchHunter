@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-01-16 21:27\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:6 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_38abe73f:
 msgid "[_miranda_] Вот, держи. Я добавила стабилизатор и усилитель. Осталось полить им себя и, уж поверь, Королева Морпионов быстро тебя найдет"
-msgstr ""
+msgstr "[_miranda_] Ecco a voi. Ho aggiunto uno stabilizzatore e un amplificatore. Non dovete far altro che innaffiarvi e, credetemi, la Regina dei Morpioni vi troverà in men che non si dica."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:10 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_4968b817:
 msgid "[_cedrick_] Жду не дождусь.."
-msgstr ""
+msgstr "[_cedrick_] Non vedo l'ora..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:14 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_4c1dd921:
 msgid "[_miranda_] Будь осторожнее, Седрик. Это довольно опасная тварь"
-msgstr ""
+msgstr "[_miranda_] Fai attenzione, Cedric. È una creatura piuttosto pericolosa."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:18 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_d0ecbba6:
 msgid "[_cedrick_] Я справлюсь. Если что, твои зелья меня выручат, как всегда"
-msgstr ""
+msgstr "[_cedrick_] Starò bene. Semmai le tue pozioni mi aiuteranno, come sempre."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:22 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_cf4d23a1:
 msgid "[_miranda_] Ох, не уж то сказал мне что-то приятное?"
-msgstr ""
+msgstr "[_miranda_] Oh, non mi ha detto qualcosa di carino?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:23 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_5f250661:
 msgid "[_cedrick_] ..Я пойду"
-msgstr ""
+msgstr "[_cedrick_] ...andrò"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:27 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_edcc4f4f:
 msgid "[_miranda_] С-скорее возвращайся.."
-msgstr ""
+msgstr "[_miranda_] S... torna presto..."
 
