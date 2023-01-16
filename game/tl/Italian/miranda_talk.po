@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-01-16 21:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/miranda/miranda_talk.rpy:8 #-#-# translate crowdin miranda_talk_bbbe53fc:
 msgid "[_cedrick_sprite_] Чем ты здесь занимаешься?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Cosa fate qui?"
 
 # game/scripts/meridian/miranda/miranda_talk.rpy:14 #-#-# translate crowdin miranda_talk_fb330a4b:
 msgid "[_miranda_] Так как из всех приближенных Князя Фобоса я наиболее разбираюсь в ядах, то он решил, что я наиболее подходящий кандидат на должность.. эм.. зельевара, если можно так выразиться.. "
-msgstr ""
+msgstr "[_miranda_] Dato che, tra tutti i membri dell'entourage del Principe Phobos, sono il più esperto di veleni, ha deciso che ero il candidato più adatto per la posizione di... ehm... pozionista, se così posso dire. "
 
 # game/scripts/meridian/miranda/miranda_talk.rpy:20 #-#-# translate crowdin miranda_talk_5fd74b3c:
 msgid "[_uma_] Умаа.. Ума."
-msgstr ""
+msgstr "[_uma_] Umaa... Uma."
 
 # game/scripts/meridian/miranda/miranda_talk.rpy:21 #-#-# translate crowdin miranda_talk_66f5a252:
 msgid "[_cedrick_sprite_] Господи, а это что за урод..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Gesù, che razza di mostro è quello..."
 
 # game/scripts/meridian/miranda/miranda_talk.rpy:27 #-#-# translate crowdin miranda_talk_19a7ccd3:
 msgid "[_miranda_] Его зовут Ума, наши разведчики нашли его в лесу во время очередной вылазки."
-msgstr ""
+msgstr "[_miranda_] Si chiama Uma e i nostri scout lo hanno trovato nel bosco durante un'altra pattuglia."
 
 # game/scripts/meridian/miranda/miranda_talk.rpy:28 #-#-# translate crowdin miranda_talk_05c75a5a:
 msgid "[_miranda_] Фобос прислал мне его в качестве подопытного. Теперь он помогает мне в приготовлении зелий. Не смотря на свой вид он довольно сообразительный."
-msgstr ""
+msgstr "[_miranda_] Phobos me lo ha mandato come cavia. Ora mi aiuta a preparare le pozioni. Nonostante l'aspetto, è piuttosto intelligente."
 
 # game/scripts/meridian/miranda/miranda_talk.rpy:34 #-#-# translate crowdin miranda_talk_cd1cb701:
 msgid "[_miranda_] Мы так и не смогли определить к какой расе он принадлежит.. У меня есть подозрения, что его прокляли.."
-msgstr ""
+msgstr "[_miranda_] Non siamo mai riusciti a stabilire a quale razza appartenga... Ho il sospetto che sia stato maledetto..."
 
 # game/scripts/meridian/miranda/miranda_talk.rpy:35 #-#-# translate crowdin miranda_talk_641ad2e7:
 msgid "[_cedrick_sprite_] Ясно..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Capisco..."
 
