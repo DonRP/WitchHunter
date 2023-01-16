@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-01-16 21:28\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:7 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_6665365f:
 msgid "[_cedrick_] Да, а я сегодня на взводе.. Не могу отказать себе в удовольствии трахнуть столь сочного монстра. К тому же, как не воспользоваться тем, что ты еще жива"
-msgstr ""
+msgstr "[_cedrick_] Sì, stasera sono in piena attività. Non posso negarmi il piacere di scopare un mostro così succoso. Inoltre, come potrei non approfittare del fatto che sei ancora vivo?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:9 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_b8a76a32:
 msgid "[_queenofmorpions_] Не человек.. Монстр.. Сильный.. Очень сильный.."
-msgstr ""
+msgstr "[_queenofmorpions_] Non una persona... Un mostro... Forte... Molto forte..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:11 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_b0893244:
 msgid "[_cedrick_] Хватит пытаться говорить и приступай к делу. Подчинись тому, кто тебя одолел, так ведь в мире диких монстров все устроено?"
-msgstr ""
+msgstr "[_cedrick_] Smettetela di parlare e passate agli affari. Obbedite a chi vi sovrasta, non è così che funziona nel mondo dei mostri selvaggi?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:13 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_78e92610:
 msgid "[_queenofmorpions_] Одолел.. Повержена.. Подчиниться.."
-msgstr ""
+msgstr "[_queenofmorpions_] Sconfitto... Sconfitto... Sconfitto..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:16 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_2aa85ea9:
 msgid "[_cedrick_] А ты хороша. Твой рот совсем не такой как у людей, он еще больше похож на киску"
-msgstr ""
+msgstr "[_cedrick_] E sei a posto. La tua bocca non assomiglia per niente a quella delle persone, assomiglia ancora di più a una figa"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:17 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_ba34214f:
 msgid "[_cedrick_] Черт, ты стала такой послушной, стоило тебя одолеть. Меня это еще больше заводит"
-msgstr ""
+msgstr "[_cedrick_] Accidenti, sei diventato così obbediente che è valsa la pena di sopraffarti. Mi eccita ancora di più."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:18 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_5784a51a:
 msgid "[_cedrick_] Охо, твой рот сдавливает мой член, совсем как настоящая киска. Не уж то тебя саму это заводит?"
-msgstr ""
+msgstr "[_cedrick_] La tua bocca sta stringendo il mio cazzo, proprio come una vera figa. Questo non ti fa arrabbiare?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:20 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_0ee9de60:
 msgid "[_cedrick_] Я уже на пределе.. Получай сполна, королева!"
-msgstr ""
+msgstr "[_cedrick_] Sono al limite. Prendi questo, regina!"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:22 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_bddc95b1:
 msgid "[_cedrick_] Что ж.. Я получил от тебя все, чего хотел. Теперь, пришло время забрать то, зачем я сюда пришел"
-msgstr ""
+msgstr "[_cedrick_] Beh... Ho avuto tutto quello che volevo da te. Ora è il momento di ottenere ciò per cui sono venuto qui."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/kill_the_morpion_queen_and_extract_the_crystal_essence_from_her.rpy:23 #-#-# translate crowdin kill_the_morpion_queen_and_extract_the_crystal_essence_from_her_bd09e38d:
 msgid "[_queenofmorpions_] Забрать.."
-msgstr ""
+msgstr "[_queenofmorpions_] Togliere..."
 
