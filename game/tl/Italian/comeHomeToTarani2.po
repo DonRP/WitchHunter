@@ -10,369 +10,369 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:33\n"
+"PO-Revision-Date: 2023-01-16 21:29\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/comeHomeToTarani2.rpy:8 #-#-# translate crowdin comeHomeToTarani2_d77d1415:
 msgid "[_cedrick_] Никого нет дома?"
-msgstr ""
+msgstr "[_cedrick_] Non c'è nessuno in casa?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:9 #-#-# translate crowdin comeHomeToTarani2_26924555:
 msgid "Седрик стучит в дверь и через некоторое время Тарани открывает дверь"
-msgstr ""
+msgstr "Cedric bussa alla porta e dopo un po' Tarani apre."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:12 #-#-# translate crowdin comeHomeToTarani2_d3bd5634:
 msgid "[_tarani_] Что ты здесь делаешь?"
-msgstr ""
+msgstr "[_tarani_] Cosa ci fai qui?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:16 #-#-# translate crowdin comeHomeToTarani2_a9503e06:
 msgid "[_cedrick_] О, не переживай, я пришел к твоей маме. Она дома?"
-msgstr ""
+msgstr "[_cedrick_] Non si preoccupi, sono qui per vedere sua madre. È in casa?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:20 #-#-# translate crowdin comeHomeToTarani2_3ce73c19:
 msgid "[_tarani_] Нет, она на работе. Что тебе нужно от нее?"
-msgstr ""
+msgstr "[_tarani_] No, è al lavoro. Cosa vuoi da lei?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:24 #-#-# translate crowdin comeHomeToTarani2_121ab91c:
 msgid "[_cedrick_] Ну, она же судья. У меня есть снимки, которыми она может заинтересоваться"
-msgstr ""
+msgstr "[_cedrick_] Beh, è un giudice. Ho delle immagini che potrebbero interessarle"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:25 #-#-# translate crowdin comeHomeToTarani2_43e20c83:
 msgid "[_cedrick_] На них твой Найджел колется героином и совершает грабеж магазина вместе со своим недавно отсидевшим братом"
-msgstr ""
+msgstr "[_cedrick_] Mostrano il vostro Nigel che si inietta eroina e commette furti con il fratello recentemente incarcerato."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:29 #-#-# translate crowdin comeHomeToTarani2_febc3988:
 msgid "[_tarani_] он.. ЧТО!?"
-msgstr ""
+msgstr "[_tarani_] lui... CHE COSA?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:30 #-#-# translate crowdin comeHomeToTarani2_29f5fb43:
 msgid "[_cedrick_] Думаю твоя мама обрадуется подобному материалу, ведь она очень волнуется о том, как Найджел влияет на ее дочурку"
-msgstr ""
+msgstr "[_cedrick_] Penso che tua madre sarà contenta di questo tipo di materiale, perché è molto preoccupata dell'influenza di Nigel sulla sua bambina."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:34 #-#-# translate crowdin comeHomeToTarani2_95c4ba13:
 msgid "[_tarani_] Ты.. Ублюдок!.. Так то фото у школы тоже твоих рук дело? С самого начала.."
-msgstr ""
+msgstr "[_tarani_] Tu... Bastardo! Quindi anche la foto fuori dalla scuola è opera tua? Fin dall'inizio..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:38 #-#-# translate crowdin comeHomeToTarani2_4de0cefd:
 msgid "[_cedrick_] Не все ли равно? Ты уже в моих руках, Тарани Кук, и мы оба знаем, что ты сделаешь все, чтобы эти фото не получили огласки, иначе твой парень отсидит в тюрьме. Знаешь, что делают в тюрячке? Долбят в задницу!"
-msgstr ""
+msgstr "[_cedrick_] Chi se ne frega? Sei già nelle mie mani, Tarany Cook, e sappiamo entrambi che farai di tutto per tenere quelle foto lontane dall'opinione pubblica, altrimenti il tuo ragazzo finirà in prigione. Sai cosa fanno in prigione? Ti scopano nel culo!"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:42 #-#-# translate crowdin comeHomeToTarani2_98f84176:
 msgid "[_tarani_] ..."
-msgstr ""
+msgstr "[_tarani_] ..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:43 #-#-# translate crowdin comeHomeToTarani2_155ab204:
 msgid "[_cedrick_] Давай, девчонка, проходи в дом, ты же не хочешь, чтобы твои соседи увидели, как ты отсасываешь?"
-msgstr ""
+msgstr "[_cedrick_] Dai, ragazza, entra in casa, non vuoi che i tuoi vicini ti vedano mentre ti succhi il cazzo, vero?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:47 #-#-# translate crowdin comeHomeToTarani2_334e57fc:
 msgid "[_tarani_] О-отсасываю..."
-msgstr ""
+msgstr "[_tarani_] Succhiare..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:49 #-#-# translate crowdin comeHomeToTarani2_7da63bf5:
 msgid "[_centered_] {size=37}В доме Тарани Кук{/size}"
-msgstr ""
+msgstr "[_centered_] {Nella casa di Tarany Cook{/size}"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:54 #-#-# translate crowdin comeHomeToTarani2_d2a9cd47:
 msgid "[_cedrick_] Так, вставай на колени. Будем работать над твоей брезгливостью"
-msgstr ""
+msgstr "[_cedrick_] Bene, mettetevi in ginocchio. Lavoreremo sulla tua timidezza."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:57 #-#-# translate crowdin comeHomeToTarani2_cf93af55:
 msgid "[_centered_] {size=37}тарани встает на колени, предварительно снимая трусы. Расстегнув ширинку седрика, она обхватывает его член своими трусами и начинает дрочить его{/size}"
-msgstr ""
+msgstr "[_centered_] {Tarani si inginocchia e si toglie preventivamente le mutandine. Slacciandosi la cerniera, avvolge le mutandine intorno al suo cazzo e inizia a masturbarlo{/size}."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:61 #-#-# translate crowdin comeHomeToTarani2_be35dbaa:
 msgid "[_tarani_] Я не хочу, чтобы ты всю меня забрызгал, как в прошлый раз.. Это было отвратительно"
-msgstr ""
+msgstr "[_tarani_] Non voglio che mi schizzi addosso come l'ultima volta... È stato disgustoso."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:64 #-#-# translate crowdin comeHomeToTarani2_63f1a7b2:
 msgid "[_cedrick_] Какая предусмотрительная. Но так ты же не сможешь мне отсосать"
-msgstr ""
+msgstr "[_cedrick_] Che pensiero gentile. Ma non puoi farmi un pompino in questo modo."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:67 #-#-# translate crowdin comeHomeToTarani2_75c57a9e:
 msgid "[_tarani_] Я уже говорила, я не собираюсь тебе сосать!"
-msgstr ""
+msgstr "[_tarani_] Ti ho già detto che non ti succhierò il cazzo!"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:70 #-#-# translate crowdin comeHomeToTarani2_7c5e7c05:
 msgid "[_cedrick_] Ну, тогда, видимо, придется сосать Найджелу в тюрячке"
-msgstr ""
+msgstr "[_cedrick_] Beh, immagino che dovrò succhiare il cazzo di Nigel in prigione, allora."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:73 #-#-# translate crowdin comeHomeToTarani2_222148db:
 msgid "[_tarani_] ...он не влезет мне"
-msgstr ""
+msgstr "[_tarani_] ...non mi va bene."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:76 #-#-# translate crowdin comeHomeToTarani2_2bad3a2b:
 msgid "[_cedrick_] Что ты там мямлишь?"
-msgstr ""
+msgstr "[_cedrick_] Cosa stai borbottando?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:79 #-#-# translate crowdin comeHomeToTarani2_16ca942c:
 msgid "[_tarani_] Я говорю он не поместится в мой рот! Твой член слишком здоровый, черт.."
-msgstr ""
+msgstr "[_tarani_] Io dico che non mi entra in bocca! Il tuo cazzo è troppo grande, dannazione..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:82 #-#-# translate crowdin comeHomeToTarani2_1a971dfb:
 msgid "[_cedrick_] Ахах, как мило. Размышляешь и вправду как та, кто еще ни разу никому не отсасывала.."
-msgstr ""
+msgstr "[_cedrick_] Ahhhh, che bello. Pensi davvero come uno che non ha mai fatto un pompino a nessuno prima d'ora..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:85 #-#-# translate crowdin comeHomeToTarani2_e15d8876:
 msgid "[_cedrick_] Ладно, для первого раза, можешь просто полизать его"
-msgstr ""
+msgstr "[_cedrick_] OK, per la prima volta, potete semplicemente leccarlo"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:88 #-#-# translate crowdin comeHomeToTarani2_48051049:
 msgid "[_tarani_] Ч-что?!"
-msgstr ""
+msgstr "[_tarani_] Cosa?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:91 #-#-# translate crowdin comeHomeToTarani2_55f9d2e0:
 msgid "[_cedrick_] Ты меня услышала, Тарани. Лижи."
-msgstr ""
+msgstr "[_cedrick_] Mi hai sentito, Tarani. Leccare."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:94 #-#-# translate crowdin comeHomeToTarani2_98f84176_1:
 msgid "[_tarani_] ..."
-msgstr ""
+msgstr "[_tarani_] ..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:98 #-#-# translate crowdin comeHomeToTarani2_355b6618:
 msgid "[_cedrick_] О да.. Так-то лучше"
-msgstr ""
+msgstr "[_cedrick_] Oh, sì... È meglio."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:100 #-#-# translate crowdin comeHomeToTarani2_6950de09:
 msgid "[_tarani_] (Черт, я попробовала его. Я впервые попробовала член и это не был Найджел..)"
-msgstr ""
+msgstr "[_tarani_] (Dannazione, l'ho assaggiato. Ho assaggiato il cazzo per la prima volta e non era Nigel...)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:101 #-#-# translate crowdin comeHomeToTarani2_b625ee9c:
 msgid "[_cedrick_] Ну как оно?"
-msgstr ""
+msgstr "[_cedrick_] Com'è?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:104 #-#-# translate crowdin comeHomeToTarani2_8c6f069c:
 msgid "[_tarani_] ..Омерзительно"
-msgstr ""
+msgstr "[_tarani_] ...Disgustoso."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:105 #-#-# translate crowdin comeHomeToTarani2_bad622e1:
 msgid "[_cedrick_] Ох, не переживай, скоро тебе начнет нравится. Ты, главное, продолжай, иначе так я точно не кончу"
-msgstr ""
+msgstr "[_cedrick_] Non preoccupatevi, presto inizierà a piacervi. Continua così, o non sborrerò più così."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:108 #-#-# translate crowdin comeHomeToTarani2_950e67f8:
 msgid "[_cedrick_] Хорошая девочка.."
-msgstr ""
+msgstr "[_cedrick_] Brava ragazza..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:109 #-#-# translate crowdin comeHomeToTarani2_9630c569:
 msgid "[_cedrick_] Ооо, я уже близок.."
-msgstr ""
+msgstr "[_cedrick_] Oh, mi sto avvicinando..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:110 #-#-# translate crowdin comeHomeToTarani2_e837cbc3:
 msgid "[_cedrick_] Черт, больше не могу.."
-msgstr ""
+msgstr "[_cedrick_] Merda, non ce la faccio più..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:113 #-#-# translate crowdin comeHomeToTarani2_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:116 #-#-# translate crowdin comeHomeToTarani2_44787147:
 msgid "[_tarani_] Мои трусы теперь.. Все в сперме.."
-msgstr ""
+msgstr "[_tarani_] I miei pantaloni ora... Tutti cum..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:119 #-#-# translate crowdin comeHomeToTarani2_85623099:
 msgid "[_tarani_] ..Мы закончили!?"
-msgstr ""
+msgstr "[_tarani_] ...abbiamo finito!?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:120 #-#-# translate crowdin comeHomeToTarani2_0a77ad38:
 msgid "[_cedrick_] Не так быстро, дорогуша. Не уж то ты думала так легко отделаться за столь ценную информацию?"
-msgstr ""
+msgstr "[_cedrick_] Non così in fretta, cara. Non pensavate di poterla fare franca con informazioni così preziose, vero?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:124 #-#-# translate crowdin comeHomeToTarani2_4169f59d:
 msgid "[_tarani_] Что? Ублюдок, что тебе еще надо!?"
-msgstr ""
+msgstr "[_tarani_] Cosa? Bastardo, cosa vuoi di più!?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:128 #-#-# translate crowdin comeHomeToTarani2_052fd048:
 msgid "[_cedrick_] Тарани, ты по собственной воле решила мне вздрочнуть за фото, где твой Найджел курит возле школы"
-msgstr ""
+msgstr "[_cedrick_] Tarani, hai deciso volontariamente di masturbarmi per una foto del tuo Nigel che fuma fuori dalla scuola"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:129 #-#-# translate crowdin comeHomeToTarani2_9773da5b:
 msgid "[_cedrick_] А здесь он колется героином и грабит магазин! Неужели ты думаешь, что полизать мой член будет достаточно?"
-msgstr ""
+msgstr "[_cedrick_] Ed eccolo che si spara eroina e rapina un negozio! Pensi davvero che leccare il mio cazzo sia sufficiente?"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:133 #-#-# translate crowdin comeHomeToTarani2_385e9136:
 msgid "[_tarani_] ...."
-msgstr ""
+msgstr "[_tarani_] ...."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:134 #-#-# translate crowdin comeHomeToTarani2_dd37ea02:
 msgid "[_cedrick_] Пора повышать ставки. Теперь я тебя трахну!"
-msgstr ""
+msgstr "[_cedrick_] È ora di alzare la posta. Ora ti scopero'!"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:138 #-#-# translate crowdin comeHomeToTarani2_624fbf94:
 msgid "[_tarani_] Н-нет.. Я еще ни разу ни с кем не спала, даже с Найджелом, ты же знаешь!"
-msgstr ""
+msgstr "[_tarani_] N-no... Non sono mai andata a letto con nessuno, nemmeno con Nigel, sai!"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:139 #-#-# translate crowdin comeHomeToTarani2_a8483862:
 msgid "[_tarani_] Я собираюсь сохранить свою невинность для него.."
-msgstr ""
+msgstr "[_tarani_] Conserverò la mia innocenza per lui..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:143 #-#-# translate crowdin comeHomeToTarani2_6ac5970f:
 msgid "[_cedrick_] Бедная девочка.. Что ж, думаю, мы найдем решение этой задачи"
-msgstr ""
+msgstr "[_cedrick_] Povera ragazza... Penso che troveremo una soluzione a questo problema."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:147 #-#-# translate crowdin comeHomeToTarani2_ca40c505:
 msgid "[_cedrick_] Снимай юбку, если не хочешь, чтобы твоя мать увидела, как я трахаю тебя сзади"
-msgstr ""
+msgstr "[_cedrick_] Togliti la gonna se non vuoi che tua madre mi veda mentre ti scopo da dietro."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:151 #-#-# translate crowdin comeHomeToTarani2_180a19d0:
 msgid "[_tarani_] ..Но как ты собираешься.."
-msgstr ""
+msgstr "[_tarani_] ...ma come farai a..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:155 #-#-# translate crowdin comeHomeToTarani2_193e66a5:
 msgid "[_cedrick_] Сегодня я научу тебя анальному сексу"
-msgstr ""
+msgstr "[_cedrick_] Oggi vi insegnerò a conoscere il sesso anale"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:159 #-#-# translate crowdin comeHomeToTarani2_4bf6d99b:
 msgid "[_tarani_] Аналь.. ному"
-msgstr ""
+msgstr "[_tarani_] Anale... nomu"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:161 #-#-# translate crowdin comeHomeToTarani2_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:163 #-#-# translate crowdin comeHomeToTarani2_3e179882:
 msgid "[_cedrick_] Черт, у тебя потрясающая задница.. Но знаешь.."
-msgstr ""
+msgstr "[_cedrick_] Accidenti, hai un culo fantastico... Ma, sai..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:165 #-#-# translate crowdin comeHomeToTarani2_03e51d44:
 msgid "[_cedrick_] Как ты и сама отметила, он у меня великоват.. Но не переживай, ты быстро привыкнешь"
-msgstr ""
+msgstr "[_cedrick_] Come avete sottolineato, è un po' grande. Ma non preoccupatevi, vi abituerete in poco tempo."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:167 #-#-# translate crowdin comeHomeToTarani2_9c06498c:
 msgid "[_tarani_] Ааа..."
-msgstr ""
+msgstr "[_tarani_] Ahh..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:170 #-#-# translate crowdin comeHomeToTarani2_f78fbfaf:
 msgid "[_tarani_] Н-нет.. Стой.. Вытащи.. Мне больно!"
-msgstr ""
+msgstr "[_tarani_] N-no... Aspetta... Tiralo fuori... Mi stai facendo male!"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:172 #-#-# translate crowdin comeHomeToTarani2_2b7b8792:
 msgid "[_cedrick_] Это твой первый урок анального секса на дому. Со временем ты научишься получать от этого удовольствие, не все сразу"
-msgstr ""
+msgstr "[_cedrick_] Questa è la vostra prima lezione di sesso anale a casa. Con il tempo imparerete a godervelo, non tutto in una volta."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:174 #-#-# translate crowdin comeHomeToTarani2_ec658a40:
 msgid "[_tarani_] Эта штука.. Она словно таранит меня изнутри.."
-msgstr ""
+msgstr "[_tarani_] Questa cosa... E' come se mi stessero colpendo dall'interno..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:176 #-#-# translate crowdin comeHomeToTarani2_f33cf400:
 msgid "[_cedrick_] О да, восхитительное чувство.."
-msgstr ""
+msgstr "[_cedrick_] Oh sì, una sensazione deliziosa..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:178 #-#-# translate crowdin comeHomeToTarani2_74128948:
 msgid "[_tarani_] Ааах..."
-msgstr ""
+msgstr "[_tarani_] Aaah..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:180 #-#-# translate crowdin comeHomeToTarani2_ec54a423:
 msgid "[_cedrick_] Чувствую, твоя попка начинает привыкать к моему члену. Это происходит даже быстрее, чем я думал. Может, ты была создана для анального секса?"
-msgstr ""
+msgstr "[_cedrick_] Sento che il tuo culo comincia ad abituarsi al mio cazzo. Sta accadendo ancora più velocemente di quanto pensassi. Forse siete fatti per il sesso anale."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:182 #-#-# translate crowdin comeHomeToTarani2_50409485:
 msgid "[_tarani_] П-пошел ты... уххх..."
-msgstr ""
+msgstr "[_tarani_] Fanculo... Uhhhh..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:184 #-#-# translate crowdin comeHomeToTarani2_22c7de0d:
 msgid "[_cedrick_] Ох.. я.. уже почти..."
-msgstr ""
+msgstr "[_cedrick_] Oh... io... quasi..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:187 #-#-# translate crowdin comeHomeToTarani2_d84f639d:
 msgid "*Звук открывшейся двери..*"
-msgstr ""
+msgstr "*Il suono della porta che si apre...*"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:191 #-#-# translate crowdin comeHomeToTarani2_301159f4:
 msgid "[_tarani_] Ааа... ммм... я скоро..."
-msgstr ""
+msgstr "[_tarani_] Ahh... mmm... sarò lì presto..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:194 #-#-# translate crowdin comeHomeToTarani2_195c57e5:
 msgid "[_nigel_] ....."
-msgstr ""
+msgstr "[_nigel_] ....."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:197 #-#-# translate crowdin comeHomeToTarani2_3b1a8a80:
 msgid "[_tarani_] Н-Найджел... оххх... Э-это не то.. О чем ты.. аааххх... Думаешь..."
-msgstr ""
+msgstr "[_tarani_] N-Nigel... ohhhh... Non è che... Cosa stai... aaahhhh... Pensi che..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:198 #-#-# translate crowdin comeHomeToTarani2_b9bdb90c:
 msgid "[_cedrick_] (ага, Найджел, мы просто занимаемся..)"
-msgstr ""
+msgstr "[_cedrick_] (Sì, Nigel, stiamo solo studiando...)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:200 #-#-# translate crowdin comeHomeToTarani2_7969f9d8:
 msgid "[_centered_] {size=37}Найджел убегает не закрыв за собой дверь{/size}"
-msgstr ""
+msgstr "[_centered_] {Nigel scappa senza chiudersi la porta alle spalle."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:204 #-#-# translate crowdin comeHomeToTarani2_4057b087:
 msgid "[_tarani_] Чертов ублюдок, это ты во всем виноват!"
-msgstr ""
+msgstr "[_tarani_] Maledetto bastardo, è tutta colpa tua!"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:207 #-#-# translate crowdin comeHomeToTarani2_d410c737:
 msgid "[_tarani_] Найджел.. Подожди.."
-msgstr ""
+msgstr "[_tarani_] Nigel... Aspettate..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:208 #-#-# translate crowdin comeHomeToTarani2_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:209 #-#-# translate crowdin comeHomeToTarani2_bb9ff2b6:
 msgid "[_cedrick_] (Мда, неловко вышло.. А ведь если бы он не вбежал, она успела бы кончить)"
-msgstr ""
+msgstr "[_cedrick_] (Sì, è imbarazzante. Se lui non fosse entrato, lei sarebbe venuta)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:210 #-#-# translate crowdin comeHomeToTarani2_b903fb55:
 msgid "[_cedrick_] (На удивление развратная девчонка, хоть сама того не подозревает..)"
-msgstr ""
+msgstr "[_cedrick_] (Una ragazza sorprendentemente troia, anche se lei stessa non lo sa...)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:211 #-#-# translate crowdin comeHomeToTarani2_51cfb855:
 msgid "[_cedrick_] (Но да ладно.. Что же мне делать с этим Найджелом?)"
-msgstr ""
+msgstr "[_cedrick_] (Ma dai, cosa dovrei fare con questo Nigel?)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:212 #-#-# translate crowdin comeHomeToTarani2_c542df9a:
 msgid "[_cedrick_] (Учитывая его героиновую зависимость, он может быть психически нестабилен..)"
-msgstr ""
+msgstr "[_cedrick_] (Data la sua dipendenza dall'eroina, potrebbe essere mentalmente instabile...)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:217 #-#-# translate crowdin comeHomeToTarani2_b5251b3d:
 msgid "[_cedrick_] (Да плевать на пацана. Он уже слишком давно смотрит прямо в бездну. Но когда бездна вдруг посмотрела на него, он обделался)"
-msgstr ""
+msgstr "[_cedrick_] (Chi si preoccupa del bambino? Da troppo tempo ormai guarda dritto nell'abisso. Ma quando l'abisso lo guardò all'improvviso, si cagò addosso)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:218 #-#-# translate crowdin comeHomeToTarani2_e3ad6e9b:
 msgid "[_cedrick_] (Пусть дальше живет своей жизнью наркомана и преступника. Так он все равно рано или поздно помрет, Тарани не сможет вытащить его из этого дерьма)"
-msgstr ""
+msgstr "[_cedrick_] (Lasciatelo continuare a vivere la sua vita di tossicodipendente e criminale. In questo modo morirà comunque prima o poi, Tarani non sarà in grado di tirarlo fuori da questa merda)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:219 #-#-# translate crowdin comeHomeToTarani2_215cdae8:
 msgid "[_cedrick_] (А если он придет с пушкой в мой магазин после того, как я трахнул в зад его подружку, тогда мой дробовик к его услугам)"
-msgstr ""
+msgstr "[_cedrick_] (E se viene nel mio negozio con una pistola dopo che ho scopato il culo alla sua ragazza, allora il mio fucile è al suo servizio)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:220 #-#-# translate crowdin comeHomeToTarani2_c5f84e98:
 msgid "[_cedrick_] (Найджела найдут мертвым у меня на пороге от выстрела в живот, а я скажу, что это была самооборона)"
-msgstr ""
+msgstr "[_cedrick_] (Nigel sarà trovato morto sulla soglia di casa mia per aver ricevuto un colpo di pistola allo stomaco e io dirò che si è trattato di autodifesa)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:221 #-#-# translate crowdin comeHomeToTarani2_d3de86e1:
 msgid "[_cedrick_] (Песенка этого пацана давно уже спета и без моего участия. Ситуация с Тарани лишь ускорит неизбежное)"
-msgstr ""
+msgstr "[_cedrick_] (La canzone di questo bambino è stata cantata da tempo e senza il mio coinvolgimento. La situazione di Tarani non farà altro che accelerare l'inevitabile)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:223 #-#-# translate crowdin comeHomeToTarani2_a20cefa7_3:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:228 #-#-# translate crowdin comeHomeToTarani2_224e1437:
 msgid "[_cedrick_] (Хм.. Этот пацан ходил по краю и без моей помощи, а после увиденного он может совсем слететь с катушек)"
-msgstr ""
+msgstr "[_cedrick_] (Hmmm... Questo ragazzo ha camminato sul filo del rasoio senza il mio aiuto, e dopo quello che ha visto, potrebbe uscire completamente dai binari)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:229 #-#-# translate crowdin comeHomeToTarani2_bf7632cd:
 msgid "[_cedrick_] (Думаю, ему не повредит отсидеть в тюрьме, вместе со своим братом. Он все равно оказался бы там рано или поздно, Тарани никак не могла ему помочь)"
-msgstr ""
+msgstr "[_cedrick_] (Immagino che non gli farebbe male scontare la pena in prigione, insieme a suo fratello). Sarebbe comunque finito lì prima o poi, non c'era modo che Tarani potesse aiutarlo)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:232 #-#-# translate crowdin comeHomeToTarani2_41052c6b:
 msgid "[_cedrick_] (В тюрьме за ним присмотрят лучше, чем на свободе. Мама Тарани скоро вернется. Думаю, я могу просто оставить фото на кофейном столике и уйти)"
-msgstr ""
+msgstr "[_cedrick_] (In prigione sarà curato meglio che fuori. La mamma di Tarani tornerà presto. Immagino che potrei lasciare la foto sul tavolino e andarmene)."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:235 #-#-# translate crowdin comeHomeToTarani2_012ad8eb:
 msgid "[_cedrick_] (Так будет лучше и для Тарани, и для Найджела)"
-msgstr ""
+msgstr "[_cedrick_] (È meglio sia per Tarani che per Nigel)"
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:237 #-#-# translate crowdin comeHomeToTarani2_a20cefa7_4:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/tarani/comeHomeToTarani2.rpy:215
 msgid "Плевать на мальчишку, пусть подыхает"
-msgstr ""
+msgstr "Non importa del ragazzo, lasciamolo morire."
 
 # game/scripts/quests/tarani/comeHomeToTarani2.rpy:215
 msgid "Пусть отсидит в тюрьме то, что ему положено"
-msgstr ""
+msgstr "Lasciategli scontare la sua pena in prigione, come è giusto che sia."
 
