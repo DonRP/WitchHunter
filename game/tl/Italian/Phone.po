@@ -10,117 +10,117 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:25\n"
+"PO-Revision-Date: 2023-01-16 21:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/interface/phone/Phone.rpy:14
 msgid "Сообщения"
-msgstr ""
+msgstr "Messaggi"
 
 # game/scripts/interface/phone/Phone.rpy:14
 msgid "Контакты"
-msgstr ""
+msgstr "Contatto"
 
 # game/scripts/interface/phone/Phone.rpy:14
 msgid "Список дел"
-msgstr ""
+msgstr "Elenco dei casi"
 
 # game/scripts/interface/phone/Phone.rpy:14
 msgid "Статистика"
-msgstr ""
+msgstr "Statistiche"
 
 # game/scripts/interface/phone/Phone.rpy:14
 msgid "Браузер"
-msgstr ""
+msgstr "Browser"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Любимый"
-msgstr ""
+msgstr "Amato"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Позвонить"
-msgstr ""
+msgstr "Chiamata"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Дорогой, я сегодня задержусь. Пельмени в холодильнике, целую."
-msgstr ""
+msgstr "Tesoro, stasera farò tardi. Ci sono gnocchi in frigo, baci."
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Хорошо, целую."
-msgstr ""
+msgstr "Ok, baci."
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Я ушла гулять с подругой, твой обед в холодильнике."
-msgstr ""
+msgstr "Sono uscita con un'amica, il tuo pranzo è in frigo."
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "XXXMOTHERFUCKER2000XXX"
-msgstr ""
+msgstr "XXXMOTHERFUCKER2000XXX"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Привет, красавица! как насчет жаркого секса?"
-msgstr ""
+msgstr "Ciao, bellezza! Che ne dici di un po' di sesso bollente?"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Классический\\анальный. Выезд на дом или у нас в офисе?"
-msgstr ""
+msgstr "Classico/anale. Visita a domicilio o in ufficio?"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Анальный, на дом!"
-msgstr ""
+msgstr "Anale, a casa!"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "100 баксов час…"
-msgstr ""
+msgstr "100 sterline all'ora…"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Эй, шлюха, ты ахуела с такими ценами? Да я за такие деньги сниму пять телочек и они все сделают красиво!"
-msgstr ""
+msgstr "Ehi, puttana, sei fuori di testa con questi prezzi del cazzo? Per quella cifra posso avere cinque pulcini che lo faranno benissimo!"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Ken"
-msgstr ""
+msgstr "Ken"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Привет! Как насчет того, чтобы мой жезл любви вошел в твою шоколадную фабрику Вилли Вонки и тысячи Умпа-Лумпов ласкали его! А, сучка?)"
-msgstr ""
+msgstr "Ehi! Che ne dite se il mio bastone dell'amore finisse nella vostra fabbrica di cioccolato di Willy Wonka e migliaia di Umpa-Lumpa lo accarezzassero! Eh, puttana?)"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Хах, Кен… Ты такой извращенец)) Я сегодня допоздна на работе… давай в четверг)"
-msgstr ""
+msgstr "Huh, Ken… Sei proprio un pervertito)) Stasera lavoro fino a tardi… Facciamo giovedì)"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "как скажеш, детка, гатовь задницу) мой .i. уже на взводе…"
-msgstr ""
+msgstr "qualunque cosa tu dica, baby, tieni il culo pronto) il mio .i. è già in tilt…"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid ";* .i."
-msgstr ""
+msgstr ";* .i."
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Брайан.. мне очень плохо"
-msgstr ""
+msgstr "Brian... mi sento davvero in colpa."
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Томас"
-msgstr ""
+msgstr "Tommaso"
 
 # game/scripts/interface/phone/Phone.rpy:23
 msgid "Позвать играть в покер"
-msgstr ""
+msgstr "Chiamata per giocare a poker"
 
 # game/scripts/interface/phone/Phone.rpy:274
 msgid "Такой контакт уже существует"
-msgstr ""
+msgstr "Tale contatto esiste già"
 
 # game/scripts/interface/phone/Phone.rpy:279
 msgid "Добавлен новый контакт в телефоне:"
-msgstr ""
+msgstr "È stato aggiunto un nuovo contatto al telefono:"
 
 # game/scripts/interface/phone/Phone.rpy:287
 msgid "Такой контакт в списке телефона уже существует"
-msgstr ""
+msgstr "Questo contatto esiste già nell'elenco telefonico"
 
 # game/scripts/interface/phone/Phone.rpy:295
 msgid "Контакт в телефоне не найден"
-msgstr ""
+msgstr "Nessun contatto trovato nel telefono"
 
