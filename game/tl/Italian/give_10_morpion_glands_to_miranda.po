@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-01-16 21:28\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:6 #-#-# translate crowdin give_10_morpion_glands_to_miranda_c1c2186f:
 msgid "[_cedrick_] Миранда, где тебя носило? Почему у тебя было закрыто?"
-msgstr ""
+msgstr "[_cedrick_] Miranda, dove diavolo sei stata? Perché siete stati chiusi?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:10 #-#-# translate crowdin give_10_morpion_glands_to_miranda_107a1d6c:
 msgid "[_miranda_] Я, эм, ну.."
-msgstr ""
+msgstr "[_miranda_] Io... beh..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:14 #-#-# translate crowdin give_10_morpion_glands_to_miranda_0c4c30f5:
 msgid "[_cedrick_] ...Я принес железы"
-msgstr ""
+msgstr "[_cedrick_] ...ho portato le ghiandole"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:18 #-#-# translate crowdin give_10_morpion_glands_to_miranda_658e7be9:
 msgid "[_miranda_] Отлично.. Сейчас, сделаю остальное.. Мне нужно немного времени, зайдешь попозже"
-msgstr ""
+msgstr "[_miranda_] Grande, uh... Lasciate che sia io a fare il resto. Ho bisogno di tempo, torna più tardi."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:22 #-#-# translate crowdin give_10_morpion_glands_to_miranda_503d4ab1:
 msgid "[_cedrick_] Да, без проблем.. Эм, Миранда, с тобой все нормально"
-msgstr ""
+msgstr "[_cedrick_] Sì, nessun problema. Miranda, non c'è niente che non vada in te."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:26 #-#-# translate crowdin give_10_morpion_glands_to_miranda_0abfbdd8:
 msgid "[_miranda_] Д-да.. Приготовление эссенции отнимает много сил, знаешь ли"
-msgstr ""
+msgstr "[_miranda_] Sì... Creare l'essenza richiede un grande sforzo, sai?"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:30 #-#-# translate crowdin give_10_morpion_glands_to_miranda_710c1914:
 msgid "[_cedrick_] Окей, надеюсь ты будешь в порядке"
-msgstr ""
+msgstr "[_cedrick_] OK, spero che tu stia bene."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:34 #-#-# translate crowdin give_10_morpion_glands_to_miranda_5c5b8aa6:
 msgid "[_miranda_] (Ох, он что, только что побеспокоился обо мне? Может, стоило чаще ему не открывать?)"
-msgstr ""
+msgstr "[_miranda_] (Oh, si è appena preoccupato per me? Forse avrei dovuto lasciarlo fuori più spesso)."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:35 #-#-# translate crowdin give_10_morpion_glands_to_miranda_1c8461f2:
 msgid "[_cedrick_] (Думаю самое время наведаться к Алхими)"
-msgstr ""
+msgstr "[_cedrick_] (Credo sia giunto il momento di visitare Alchemy)."
 
