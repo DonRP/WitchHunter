@@ -10,65 +10,65 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:23\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestMeetWill.rpy:3
 msgid "Сблизиться с семьей Вэндомов"
-msgstr ""
+msgstr "Avvicinarsi alla famiglia Wendom"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Заказать игрушки лягушки для Вилл (при помощи телефона)"
-msgstr ""
+msgstr "Ordinare giocattoli a forma di rana per le Ville (per telefono)"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться когда доставят игрушки лягушки в книжный магазин"
-msgstr ""
+msgstr "In attesa che i giocattoli a forma di rana vengano consegnati in libreria"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться когда Вилл придет в книжный магазин"
-msgstr ""
+msgstr "Aspettando che Will arrivi in libreria"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться следующей встречи с Вилл"
-msgstr ""
+msgstr "In attesa del prossimo incontro con Will"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Поднять навык истории и позаниматься с Вилл"
-msgstr ""
+msgstr "Aumentate le vostre abilità in storia e studiate con Will"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Поднять навык истории и позаниматься с Вилл (снова)"
-msgstr ""
+msgstr "Aumentare l'abilità di storia e studiare con Will (di nuovo)"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Устранить Колинза"
-msgstr ""
+msgstr "Eliminare Collins"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Поднять навык истории и позаниматься с Вилл (еще раз)"
-msgstr ""
+msgstr "Aumentare l'abilità di storia e studiare con Will (di nuovo)"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Поговорить со Сьюзан у нее дома"
-msgstr ""
+msgstr "Parlando con Susan a casa sua"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться вечера и сводить Сьюзан в ресторан"
-msgstr ""
+msgstr "Aspettate la sera e portate Susan al ristorante."
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Навестить Сьюзан и расспросить о ее муже"
-msgstr ""
+msgstr "Per visitare Susan e chiedere informazioni su suo marito"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Найти способ доказать Сьюзан что ее муж остался азартным игроком"
-msgstr ""
+msgstr "Trovare un modo per dimostrare a Susan che il marito è rimasto un giocatore d'azzardo."
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Дождаться случайной встречи с Томасом Вэндомом"
-msgstr ""
+msgstr "In attesa di un incontro casuale con Thomas Wendome"
 
 # game/scripts/core/quests/QuestMeetWill.rpy:28
 msgid "Сводить Сьюзан в кино"
-msgstr ""
+msgstr "Portare Susan al cinema"
 
