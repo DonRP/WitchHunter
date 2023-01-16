@@ -10,61 +10,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-16 21:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:12 #-#-# translate crowdin alchemy_pre_check_bookshop_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:13 #-#-# translate crowdin alchemy_pre_check_bookshop_01a37b21:
 msgid "[_alchemy_] Эм, здравствуйте.. Это вы владелец магазина?"
-msgstr ""
+msgstr "[_alchemy_] Ehm, salve... Lei è il proprietario del negozio?"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:14 #-#-# translate crowdin alchemy_pre_check_bookshop_45c9eff9:
 msgid "[_cedrick_] Все верно, я чем то могу помочь?"
-msgstr ""
+msgstr "[_cedrick_] Esatto, c'è qualcosa che posso fare per aiutarvi?"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:15 #-#-# translate crowdin alchemy_pre_check_bookshop_c75bf78e:
 msgid "[_alchemy_] Да, знаете, мой брат недавно пропал..."
-msgstr ""
+msgstr "[_alchemy_] Sì, sai, mio fratello è scomparso di recente..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:16 #-#-# translate crowdin alchemy_pre_check_bookshop_db12eba4:
 msgid "[_cedrick_] (Не знал что у него есть сестра, это может быть проблемой...)"
-msgstr ""
+msgstr "[_cedrick_] (Non sapevo che avesse una sorella, questo potrebbe essere un problema...)"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:17 #-#-# translate crowdin alchemy_pre_check_bookshop_ada749af:
 msgid "[_cedrick_] Я уже разговаривал с офицером полиции по этому поводу, я ничего не знаю об этом..."
-msgstr ""
+msgstr "[_cedrick_] Ne ho già parlato con un agente di polizia, non ne so nulla..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:18 #-#-# translate crowdin alchemy_pre_check_bookshop_105a082e:
 msgid "[_alchemy_] Незадолго до своей пропажи он сказал что у него есть к вам какое то дело..."
-msgstr ""
+msgstr "[_alchemy_] Poco prima di scomparire, ha detto di avere degli affari con te..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:19 #-#-# translate crowdin alchemy_pre_check_bookshop_8808e546:
 msgid "[_cedrick_] ничего не знаю об этом, возможно ты что то не так поняла.."
-msgstr ""
+msgstr "[_cedrick_] Non ne so nulla, forse ti sei sbagliato..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:23 #-#-# translate crowdin alchemy_pre_check_bookshop_0cb0b7bb:
 msgid "[_alchemy_] Я все правильно поняла! он сказал что вы приставали к Элион!"
-msgstr ""
+msgstr "[_alchemy_] Ho capito bene! Ha detto che ci stavi provando con Elion!"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:24 #-#-# translate crowdin alchemy_pre_check_bookshop_edf9df3e:
 msgid "[_cedrick_] Это просто большое недоразумение.. Прости но я ничем не могу тебе помочь..."
-msgstr ""
+msgstr "[_cedrick_] È solo un grande malinteso... Mi dispiace, ma non posso aiutarla..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:28 #-#-# translate crowdin alchemy_pre_check_bookshop_b17fc04b:
 msgid "[_alchemy_] Я знаю вы этом как-то замешаны! Я все равно все выясню и ты окажешься за решеткой!"
-msgstr ""
+msgstr "[_alchemy_] So che sei coinvolto in qualche modo! Lo scoprirò comunque e finirai dietro le sbarre!"
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:29 #-#-# translate crowdin alchemy_pre_check_bookshop_1acc5c5d:
 msgid "[_cedrick_] Я бы с радостью поболтал с тобой еще, но мне нужно работать.."
-msgstr ""
+msgstr "[_cedrick_] Mi piacerebbe chiacchierare di più con te, ma devo lavorare..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:30 #-#-# translate crowdin alchemy_pre_check_bookshop_7a9de5be:
 msgid "[_cedrick_] До свидания..."
-msgstr ""
+msgstr "[_cedrick_] Addio..."
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_pre_check_bookshop.rpy:33 #-#-# translate crowdin alchemy_pre_check_bookshop_33ee59a4:
 msgid "[_cedrick_] (Эта мелкая... Она создает мне проблемы.. Похоже у них с братом это семейное...)"
-msgstr ""
+msgstr "[_cedrick_] (Questo piccolo... Mi sta dando problemi... Sembra che lei e suo fratello siano di famiglia...)."
 
