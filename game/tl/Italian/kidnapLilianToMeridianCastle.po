@@ -10,409 +10,409 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-01-16 21:32\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:2 #-#-# translate crowdin kidnapLilianToMeridianCastle_79d6a34e:
 msgid "[_cedrick_] (Да к черту. Я воспользуюсь любой возможностью, чтобы сокрушить моральный дух стражниц)"
-msgstr ""
+msgstr "[_cedrick_] (Al diavolo. Coglierò ogni occasione per distruggere il morale delle guardie)."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:3 #-#-# translate crowdin kidnapLilianToMeridianCastle_3f9c50cb:
 msgid "[_cedrick_] (И даже если речь идет о том, чтобы совратить младшую сестру Корнелии – этот вариант мне подойдет, если это поможет сокрушить стражницу)"
-msgstr ""
+msgstr "[_cedrick_] (E anche se si tratta di sedurre la sorellina di Cornelia, questa opzione mi va bene se serve a distruggere il guardiano)."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:4 #-#-# translate crowdin kidnapLilianToMeridianCastle_f654ef22:
 msgid "[_cedrick_] (Вот только.. Я точно не стану ничего с ней делать, пока она находится в таком виде..)"
-msgstr ""
+msgstr "[_cedrick_] (Tranne... Non ho certo intenzione di fare qualcosa con lei finché è così...)."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:5 #-#-# translate crowdin kidnapLilianToMeridianCastle_eb62ab93:
 msgid "[_cedrick_] (Возможно Миранда смогла бы изготовить зелье для того, чтобы лилиан подросла...)"
-msgstr ""
+msgstr "[_cedrick_] (Forse Miranda potrebbe preparare una pozione per far crescere Lillian...)"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:6 #-#-# translate crowdin kidnapLilianToMeridianCastle_4a77e45c:
 msgid "[_cedrick_] Возможно, я бы смог тебе в этом помочь... Конечно... Если ты этого действительно хочешь."
-msgstr ""
+msgstr "[_cedrick_] Forse potrei aiutarvi in questo... Naturalmente... Se è questo che volete davvero."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:9 #-#-# translate crowdin kidnapLilianToMeridianCastle_bb84a679:
 msgid "[_lilian_] Конечно! Очень хочу!"
-msgstr ""
+msgstr "[_lilian_] Certo che sì! Davvero!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:10 #-#-# translate crowdin kidnapLilianToMeridianCastle_03577a28:
 msgid "[_cedrick_] А ты... Все еще хочешь попасть в сказочное королевство?"
-msgstr ""
+msgstr "[_cedrick_] E tu... Volete ancora andare nel regno delle fiabe?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:11 #-#-# translate crowdin kidnapLilianToMeridianCastle_b8d181bf:
 msgid "[_lilian_] Ну конееечноо!"
-msgstr ""
+msgstr "[_lilian_] Naturalmente!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:12 #-#-# translate crowdin kidnapLilianToMeridianCastle_cbdecd7c:
 msgid "[_cedrick_] Я могу помочь тебе туда попасть..."
-msgstr ""
+msgstr "[_cedrick_] Posso aiutarvi ad arrivarci..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:15 #-#-# translate crowdin kidnapLilianToMeridianCastle_51abdb4a:
 msgid "[_lilian_] Правда? Ты врешь! Я тебе не верю!"
-msgstr ""
+msgstr "[_lilian_] Davvero? Stai mentendo! Non ti credo!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:18 #-#-# translate crowdin kidnapLilianToMeridianCastle_f9fbcab3:
 msgid "[_lilian_] Взрослые постоянно обманывают детей..."
-msgstr ""
+msgstr "[_lilian_] Gli adulti ingannano sempre i bambini..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:19 #-#-# translate crowdin kidnapLilianToMeridianCastle_254e5e2b:
 msgid "[_cedrick_] Я не обманываю тебя, Лилиан. Но... Если ты мне не веришь, то тогда я тебе это докажу... Хех, скорее покажу..."
-msgstr ""
+msgstr "[_cedrick_] Non ti sto ingannando, Lillian. Ma... Se non mi credete, ve lo dimostrerò... Più che altro, ti faccio vedere..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:20 #-#-# translate crowdin kidnapLilianToMeridianCastle_83f683da:
 msgid "[_cedrick_] Пойдем со мной..."
-msgstr ""
+msgstr "[_cedrick_] Vieni con me..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:22 #-#-# translate crowdin kidnapLilianToMeridianCastle_03161030:
 msgid "[_centered_] {size=37}Спустя некоторое время на Миридиане{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {Qualche tempo dopo su Miridian{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:27 #-#-# translate crowdin kidnapLilianToMeridianCastle_6b1fab5b:
 msgid "[_lilian_] Так это... Это... Правда..."
-msgstr ""
+msgstr "[_lilian_] Quindi è... E'... La verità è che..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:28 #-#-# translate crowdin kidnapLilianToMeridianCastle_2a250543:
 msgid "[_cedrick_] Конечно, пойдем в замок."
-msgstr ""
+msgstr "[_cedrick_] Certo, andiamo al castello."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:29 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:33 #-#-# translate crowdin kidnapLilianToMeridianCastle_6f2f96ae:
 msgid "[_cedrick_] Это будет твоя комната..."
-msgstr ""
+msgstr "[_cedrick_] Questa sarà la vostra stanza..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:37 #-#-# translate crowdin kidnapLilianToMeridianCastle_37375be1:
 msgid "[_lilian_] Как у настоящей принцессы из мультика!"
-msgstr ""
+msgstr "[_lilian_] Proprio come una vera principessa di un cartone animato!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:38 #-#-# translate crowdin kidnapLilianToMeridianCastle_8dd91a00:
 msgid "[_cedrick_] Да, когда-то эта комната и правда принадлежала принцессе..."
-msgstr ""
+msgstr "[_cedrick_] Sì, questa stanza un tempo apparteneva a una principessa..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:39 #-#-# translate crowdin kidnapLilianToMeridianCastle_fa154ff2:
 msgid "[_cedrick_] Скоро я смогу сделать тебя взрослой, но тебе придется немного подождать..."
-msgstr ""
+msgstr "[_cedrick_] Presto potrò renderti adulto, ma dovrai aspettare un po'..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:43 #-#-# translate crowdin kidnapLilianToMeridianCastle_60f455fe:
 msgid "[_lilian_] Хорошо..."
-msgstr ""
+msgstr "[_lilian_] Beh..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:45 #-#-# translate crowdin kidnapLilianToMeridianCastle_7f2e60e0:
 msgid "[_centered_] {size=37}Позже в доме хейлов{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {Più tardi alla Hale House{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:51 #-#-# translate crowdin kidnapLilianToMeridianCastle_4bed1894:
 msgid "[_cornelia_] Где ты был? А где Лилиан?"
-msgstr ""
+msgstr "[_cornelia_] Dove sei stato? Dov'è Lillian?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:52 #-#-# translate crowdin kidnapLilianToMeridianCastle_ae0b10cd:
 msgid "[_cedrick_] Твоя сестра на Меридиане..."
-msgstr ""
+msgstr "[_cedrick_] Tua sorella sulla Meridian..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:56 #-#-# translate crowdin kidnapLilianToMeridianCastle_629ff112:
 msgid "[_cornelia_] Меридиане!? Откуда ты..."
-msgstr ""
+msgstr "[_cornelia_] Meridian!? Come hai..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:60 #-#-# translate crowdin kidnapLilianToMeridianCastle_93e7d3f7:
 msgid "[_cedrick_] Дело в том, что я... Лорд Седрик! Правая рука князя Фобоса..."
-msgstr ""
+msgstr "[_cedrick_] Il fatto è che... Lord Cedric! Il braccio destro del principe Phobos..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:65 #-#-# translate crowdin kidnapLilianToMeridianCastle_7b76cf3b:
 msgid "[_cornelia_] Что!? Но как это возможно!?"
-msgstr ""
+msgstr "[_cornelia_] Cosa? Ma come è possibile?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:69 #-#-# translate crowdin kidnapLilianToMeridianCastle_7cf2588a:
 msgid "[_cedrick_] Твоей сестре не очень нравилось... Как ты с ней обращалась... И я предложил ей отправиться со мной на Меридиан, хехе..."
-msgstr ""
+msgstr "[_cedrick_] A tua sorella non è piaciuto molto... Il modo in cui l'hai trattata... Così le ho proposto di venire con me a Meridian..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:73 #-#-# translate crowdin kidnapLilianToMeridianCastle_b46b1810:
 msgid "[_cornelia_] Ах ты... Ублюдок!"
-msgstr ""
+msgstr "[_cornelia_] Tu... Bastardo!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:77 #-#-# translate crowdin kidnapLilianToMeridianCastle_127ba140:
 msgid "[_cedrick_] Не беспокойся, дорогая... С твоей сестрой ничего не сделают, но только до тех пор, пока ты никому не расскажешь о моей тайне... И о том, куда исчезла Лилиан..."
-msgstr ""
+msgstr "[_cedrick_] Non preoccuparti, tesoro... Non sarà fatto nulla a tua sorella, ma solo a patto che tu non dica a nessuno del mio segreto... E su dove sia sparita Lillian..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:81 #-#-# translate crowdin kidnapLilianToMeridianCastle_63448721:
 msgid "[_cornelia_] Я... Я никому не скажу! Только не трогай Лилиан!"
-msgstr ""
+msgstr "[_cornelia_] Я... Non lo dirò a nessuno! Ma non toccate Lillian!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:85 #-#-# translate crowdin kidnapLilianToMeridianCastle_c635921b:
 msgid "[_cedrick_] Я бы рад тебе поверить... Но только этого недостаточно..."
-msgstr ""
+msgstr "[_cedrick_] Mi piacerebbe crederti... Ma non è sufficiente..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:86 #-#-# translate crowdin kidnapLilianToMeridianCastle_c13c67eb:
 msgid "[_cedrick_] Я хочу, чтобы ты дала клятву... Непреложный обет... "
-msgstr ""
+msgstr "[_cedrick_] Voglio che tu faccia un voto... Un voto infrangibile... "
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:90 #-#-# translate crowdin kidnapLilianToMeridianCastle_21f65e12:
 msgid "[_cornelia_] Ты... Просто чудовище..."
-msgstr ""
+msgstr "[_cornelia_] Tu sei... Solo un mostro..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:94 #-#-# translate crowdin kidnapLilianToMeridianCastle_04ad9bfd:
 msgid "[_cedrick_] Конечно... Если ты не хочешь, чтобы с твоей сестрой ненароком что-то случилось..."
-msgstr ""
+msgstr "[_cedrick_] Naturalmente... Se non vuoi che succeda qualcosa a tua sorella inavvertitamente..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:95 #-#-# translate crowdin kidnapLilianToMeridianCastle_13c717d6:
 msgid "[_cornelia_] ..."
-msgstr ""
+msgstr "[_cornelia_] ..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:99 #-#-# translate crowdin kidnapLilianToMeridianCastle_7025ab34:
 msgid "[_cornelia_] Ладно... я сделаю это..."
-msgstr ""
+msgstr "[_cornelia_] OK... Lo farò..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:103 #-#-# translate crowdin kidnapLilianToMeridianCastle_5a9f5f5c:
 msgid "[_cedrick_] Протяни свою руку!"
-msgstr ""
+msgstr "[_cedrick_] Tendete la mano!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:106 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:107 #-#-# translate crowdin kidnapLilianToMeridianCastle_fa9e7811:
 msgid "[_cedrick_] Клянешься ли ты, Корнелия Хейл, сохранить в секрете то, куда пропала твоя сестра!?"
-msgstr ""
+msgstr "[_cedrick_] Tu, Cornelia Hale, giuri di mantenere il segreto su dove è andata tua sorella!?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:110 #-#-# translate crowdin kidnapLilianToMeridianCastle_597c923c:
 msgid "[_cornelia_] Клянусь..."
-msgstr ""
+msgstr "[_cornelia_] Lo giuro..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:111 #-#-# translate crowdin kidnapLilianToMeridianCastle_f73ae76a:
 msgid "[_cedrick_] Клянешься ли ты сохранить мою тайну и..."
-msgstr ""
+msgstr "[_cedrick_] Giuri di mantenere il mio segreto e..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:112 #-#-# translate crowdin kidnapLilianToMeridianCastle_c2f1b60f:
 msgid "[_cornelia_] Клянусь......"
-msgstr ""
+msgstr "[_cornelia_] Giuro......"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:113 #-#-# translate crowdin kidnapLilianToMeridianCastle_d44b5f66:
 msgid "[_cedrick_] Отсосать мой член..."
-msgstr ""
+msgstr "[_cedrick_] Succhiami il cazzo..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:116 #-#-# translate crowdin kidnapLilianToMeridianCastle_8bd06156:
 msgid "[_cornelia_] ЧТО!?"
-msgstr ""
+msgstr "[_cornelia_] CHE COSA?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:117 #-#-# translate crowdin kidnapLilianToMeridianCastle_ff8f0012:
 msgid "[_cedrick_] Это обязательное условия клятвы..."
-msgstr ""
+msgstr "[_cedrick_] È un prerequisito del giuramento..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:120 #-#-# translate crowdin kidnapLilianToMeridianCastle_16979837:
 msgid "[_cornelia_] Мы так не договаривались!"
-msgstr ""
+msgstr "[_cornelia_] Non era questo il nostro accordo!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:121 #-#-# translate crowdin kidnapLilianToMeridianCastle_d3451db7:
 msgid "[_cedrick_] Или ты не очень дорожишь своей сестрой?"
-msgstr ""
+msgstr "[_cedrick_] O non ti importa molto di tua sorella?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:122 #-#-# translate crowdin kidnapLilianToMeridianCastle_b6255974:
 msgid "[_cedrick_] Знаешь, пока что с твоей сестренкой очень хорошо обращаются, но это также может очень быстро изменится... Все зависит от твоего решения..."
-msgstr ""
+msgstr "[_cedrick_] Per ora la tua sorellina è stata trattata molto bene, ma anche questo può cambiare molto rapidamente... Tutto dipende dalla vostra decisione..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:123 #-#-# translate crowdin kidnapLilianToMeridianCastle_f2a766b6:
 msgid "[_cornelia_] Я..."
-msgstr ""
+msgstr "[_cornelia_] Я..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:124 #-#-# translate crowdin kidnapLilianToMeridianCastle_43723072:
 msgid "[_cornelia_] Ладно, я клянусь!"
-msgstr ""
+msgstr "[_cornelia_] Va bene, lo giuro!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:127 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:128 #-#-# translate crowdin kidnapLilianToMeridianCastle_d56bf768:
 msgid "[_cedrick_] Вот и славно"
-msgstr ""
+msgstr "[_cedrick_] È una buona cosa"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:129 #-#-# translate crowdin kidnapLilianToMeridianCastle_78aa6560:
 msgid "[_cedrick_] Ты же знаешь что случится... Если нарушить непреложный обет?"
-msgstr ""
+msgstr "[_cedrick_] Sai cosa succede... Se si infrange un voto immutabile?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:130 #-#-# translate crowdin kidnapLilianToMeridianCastle_a722bb53:
 msgid "[_cornelia_] Да..."
-msgstr ""
+msgstr "[_cornelia_] Sì..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:131 #-#-# translate crowdin kidnapLilianToMeridianCastle_be88e838:
 msgid "[_cedrick_] Тогда начинай сосать мой член."
-msgstr ""
+msgstr "[_cedrick_] Allora inizia a succhiare il mio cazzo."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:132 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_3:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:133 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_4:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:134 #-#-# translate crowdin kidnapLilianToMeridianCastle_13c717d6_1:
 msgid "[_cornelia_] ..."
-msgstr ""
+msgstr "[_cornelia_] ..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:135 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_5:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:136 #-#-# translate crowdin kidnapLilianToMeridianCastle_e5f4a938:
 msgid "[_cedrick_] Ну же! Давай!"
-msgstr ""
+msgstr "[_cedrick_] Forza! Forza!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:139 #-#-# translate crowdin kidnapLilianToMeridianCastle_13c717d6_2:
 msgid "[_cornelia_] ..."
-msgstr ""
+msgstr "[_cornelia_] ..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:140 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_6:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:141 #-#-# translate crowdin kidnapLilianToMeridianCastle_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:142 #-#-# translate crowdin kidnapLilianToMeridianCastle_a1371d32:
 msgid "[_cedrick_] О-о-о-о... Да..."
-msgstr ""
+msgstr "[_cedrick_] Oh-oh... Sì..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:143 #-#-# translate crowdin kidnapLilianToMeridianCastle_07bdde05:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:144 #-#-# translate crowdin kidnapLilianToMeridianCastle_d1ddaffa:
 msgid "........"
-msgstr ""
+msgstr "........"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:145 #-#-# translate crowdin kidnapLilianToMeridianCastle_07bdde05_1:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:146 #-#-# translate crowdin kidnapLilianToMeridianCastle_5f9b772e_1:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:147 #-#-# translate crowdin kidnapLilianToMeridianCastle_07bdde05_2:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:151 #-#-# translate crowdin kidnapLilianToMeridianCastle_0358fbdf:
 msgid "Стук в дверь"
-msgstr ""
+msgstr "Bussare alla porta"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:153 #-#-# translate crowdin kidnapLilianToMeridianCastle_95fa08e9:
 msgid "[_cedrick_] Это что!? Твои родители вернулись!?"
-msgstr ""
+msgstr "[_cedrick_] E' così? I tuoi genitori sono tornati!?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:155 #-#-# translate crowdin kidnapLilianToMeridianCastle_f6c2bfb4:
 msgid "[_cornelia_] Нет, это не они... Они не должны..."
-msgstr ""
+msgstr "[_cornelia_] No, non lo sono... Non dovrebbero..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:158 #-#-# translate crowdin kidnapLilianToMeridianCastle_0358fbdf_1:
 msgid "Стук в дверь"
-msgstr ""
+msgstr "Bussare alla porta"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:159 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:160 #-#-# translate crowdin kidnapLilianToMeridianCastle_5c2e132c:
 msgid "[_cornelia_] Я... Я открою!"
-msgstr ""
+msgstr "[_cornelia_] Я... Lo prendo io!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:161 #-#-# translate crowdin kidnapLilianToMeridianCastle_2fa9cb02:
 msgid "[_cedrick_] Нет, прошу, продолжай!"
-msgstr ""
+msgstr "[_cedrick_] No, ti prego, vai avanti!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:165 #-#-# translate crowdin kidnapLilianToMeridianCastle_8dabefc6:
 msgid ".."
-msgstr ""
+msgstr ".."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:166 #-#-# translate crowdin kidnapLilianToMeridianCastle_0358fbdf_2:
 msgid "Стук в дверь"
-msgstr ""
+msgstr "Bussare alla porta"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:167 #-#-# translate crowdin kidnapLilianToMeridianCastle_8dabefc6_1:
 msgid ".."
-msgstr ""
+msgstr ".."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:168 #-#-# translate crowdin kidnapLilianToMeridianCastle_ef423857:
 msgid "[_caleb_] Корнелия, это я, Калеб!"
-msgstr ""
+msgstr "[_caleb_] Cornelia, sono io, Caleb!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:169 #-#-# translate crowdin kidnapLilianToMeridianCastle_97e056c0:
 msgid "[_caleb_] Я знаю, что ты дома! У тебя горит свет, открывай..."
-msgstr ""
+msgstr "[_caleb_] So che sei a casa! La tua luce è accesa, apri..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:170 #-#-# translate crowdin kidnapLilianToMeridianCastle_13c717d6_3:
 msgid "[_cornelia_] ..."
-msgstr ""
+msgstr "[_cornelia_] ..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:171 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_8:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:173 #-#-# translate crowdin kidnapLilianToMeridianCastle_0358fbdf_3:
 msgid "Стук в дверь"
-msgstr ""
+msgstr "Bussare alla porta"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:174 #-#-# translate crowdin kidnapLilianToMeridianCastle_cb803e4a:
 msgid "[_caleb_] Нам надо поговорить..."
-msgstr ""
+msgstr "[_caleb_] Dobbiamo parlare..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:175 #-#-# translate crowdin kidnapLilianToMeridianCastle_b5f54bc0:
 msgid "[_caleb_] Послушай... Я был не прав когда наговорил тебе все это..."
-msgstr ""
+msgstr "[_caleb_] Guarda... Ho sbagliato a dirvi tutto questo..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:176 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_9:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:178 #-#-# translate crowdin kidnapLilianToMeridianCastle_fe9045f7:
 msgid "[_cedrick_] Это твой парень?"
-msgstr ""
+msgstr "[_cedrick_] È il tuo ragazzo?"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:179 #-#-# translate crowdin kidnapLilianToMeridianCastle_13c717d6_4:
 msgid "[_cornelia_] ..."
-msgstr ""
+msgstr "[_cornelia_] ..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:180 #-#-# translate crowdin kidnapLilianToMeridianCastle_3addbc0f:
 msgid "[_cedrick_] Понятно... Значит твой щенок пришел извиняться... Хехе..."
-msgstr ""
+msgstr "[_cedrick_] Capisco... Così il vostro cucciolo è venuto a scusarsi... Hehe..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:181 #-#-# translate crowdin kidnapLilianToMeridianCastle_c3a421eb:
 msgid "[_cedrick_] А в это время ты отсасываешь мой член... Не знал, что ты такая..."
-msgstr ""
+msgstr "[_cedrick_] Nel frattempo, stai succhiando il mio cazzo... Non sapevo che fossi così..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:182 #-#-# translate crowdin kidnapLilianToMeridianCastle_608896b0:
 msgid "[_cornelia_] Заткнись... Я делаю это только ради Лилиан..."
-msgstr ""
+msgstr "[_cornelia_] Zitto... Lo faccio solo per Lillian..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:183 #-#-# translate crowdin kidnapLilianToMeridianCastle_3ac36bbe:
 msgid "[_cedrick_] Ну Конечно.. Не смей останавливаться!"
-msgstr ""
+msgstr "[_cedrick_] Beh, naturalmente... Non osare fermarti!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:186 #-#-# translate crowdin kidnapLilianToMeridianCastle_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:188 #-#-# translate crowdin kidnapLilianToMeridianCastle_6e90b5bc:
 msgid "[_cedrick_] О да..."
-msgstr ""
+msgstr "[_cedrick_] Oh sì..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:189 #-#-# translate crowdin kidnapLilianToMeridianCastle_a20cefa7_10:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:192 #-#-# translate crowdin kidnapLilianToMeridianCastle_e4f65fe3:
 msgid "[_cedrick_] А у тебя неплохо получается!"
-msgstr ""
+msgstr "[_cedrick_] Sei molto bravo!"
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:193 #-#-# translate crowdin kidnapLilianToMeridianCastle_849d81a0:
 msgid "[_cornelia_] Ага..."
-msgstr ""
+msgstr "[_cornelia_] Già..."
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:194 #-#-# translate crowdin kidnapLilianToMeridianCastle_daedc4dc:
 msgid "[_cedrick_] Кажется, что твой дружок ушел... Ну, я должен идти... "
-msgstr ""
+msgstr "[_cedrick_] Sembra che il vostro amico sia andato... Beh, devo andare... "
 
