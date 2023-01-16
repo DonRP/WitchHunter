@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:23\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestNewStudent.rpy:3
 msgid "Новая ученица"
-msgstr ""
+msgstr "Nuovo studente"
 
 # game/scripts/core/quests/QuestNewStudent.rpy:15
 msgid "Проведать новую ученицу в школе"
-msgstr ""
+msgstr "Visitare un nuovo alunno a scuola"
 
 # game/scripts/core/quests/QuestNewStudent.rpy:15
 msgid "Провести урок в школе"
-msgstr ""
+msgstr "Tenere una lezione a scuola"
 
 # game/scripts/core/quests/QuestNewStudent.rpy:15
 msgid "Объявить о школьной поездке на следующий день"
-msgstr ""
+msgstr "Annunciare una gita scolastica per il giorno successivo"
 
 # game/scripts/core/quests/QuestNewStudent.rpy:15
 msgid "Купить теплую одежду"
-msgstr ""
+msgstr "Comprare vestiti caldi"
 
 # game/scripts/core/quests/QuestNewStudent.rpy:15
 msgid "Дождаться поездки на гору хезерфилд на выходных"
-msgstr ""
+msgstr "In attesa di una gita al monte Heatherfield nel fine settimana"
 
 # game/scripts/core/quests/QuestNewStudent.rpy:15
 msgid "Наведаться в школу на следующей неделе"
-msgstr ""
+msgstr "Visita alla scuola la prossima settimana"
 
