@@ -10,69 +10,69 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-01-16 21:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Зелье для Ян Лин"
-msgstr ""
+msgstr "Una pozione per Yang Lin"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Попросить клонировать Тома Леира"
-msgstr ""
+msgstr "Chiedere a Tom Leir di essere clonato"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Отдать клок волос для приготовления зелья"
-msgstr ""
+msgstr "Regalare una ciocca di capelli per fare una pozione"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Попросить зелье возраста у миранды"
-msgstr ""
+msgstr "Chiedete a Miranda una pozione d'invecchiamento"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Попросить ноздрю дракона"
-msgstr ""
+msgstr "Chiedete la narice del drago"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Узнать о девушке в колбе"
-msgstr ""
+msgstr "Scoprire la ragazza nella fiaschetta"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "10 Желез морпионов"
-msgstr ""
+msgstr "10 Ferro di Morpione"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Поиск королевы морпионов"
-msgstr ""
+msgstr "Alla ricerca della regina dei morpioni"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Я добыл Кристаллическую эссенцию"
-msgstr ""
+msgstr "Ho estratto l'Essenza di Cristallo"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Афродизиак для элион"
-msgstr ""
+msgstr "Afrodisiaco per l'elione"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Попросить трусы"
-msgstr ""
+msgstr "Chiedere i pantaloni"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Забрать кристаллическую эссенцию"
-msgstr ""
+msgstr "Togliere l'essenza cristallina"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Приготовить зелья"
-msgstr ""
+msgstr "Preparare pozioni"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Купить зелье"
-msgstr ""
+msgstr "Comprare una pozione"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Продать ингредиенты"
-msgstr ""
+msgstr "Vendere ingredienti"
 
 # game/scripts/meridian/miranda/miranda.rpy:12
 msgid "Где мне достать золото?"
-msgstr ""
+msgstr "Dove posso trovare l'oro?"
 
