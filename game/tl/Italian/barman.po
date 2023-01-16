@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-01-16 21:22\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/tavern/labels/barman.rpy:2 #-#-# translate crowdin barman_f521398f:
 msgid "[_barman_] Возможно хочешь освежить горло после долгой дороги?"
-msgstr ""
+msgstr "[_barman_] Forse volete rinfrescarvi la gola dopo un lungo viaggio?"
 
 # game/scripts/meridian/tavern/labels/barman.rpy:3 #-#-# translate crowdin barman_3e3d72df:
 msgid "[_cedrick_sprite_] Нет, спасибо.."
-msgstr ""
+msgstr "[_cedrick_sprite_] No, grazie..."
 
