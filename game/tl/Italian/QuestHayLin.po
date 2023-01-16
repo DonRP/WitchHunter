@@ -10,49 +10,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestHayLin.rpy:3
 msgid "Стражница Воздуха"
-msgstr ""
+msgstr "Guardiano dell'aria"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Посетить князя Фобоса"
-msgstr ""
+msgstr "Visitare il Principe Phobos"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Узнать как идут дела в ресторане (после того как Калеб попадет в плен)"
-msgstr ""
+msgstr "Scoprire come vanno le cose al ristorante (dopo la cattura di Caleb)"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Помочь в ресторане семье Лин. День первый"
-msgstr ""
+msgstr "Aiuto al ristorante per la famiglia di Lin. Primo giorno"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Помочь в ресторане семье Лин. День второй"
-msgstr ""
+msgstr "Aiuto al ristorante per la famiglia di Lin. Secondo giorno"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Помочь в ресторане семье Лин. День третий"
-msgstr ""
+msgstr "Aiuto al ristorante per la famiglia di Lin. Terzo giorno"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Прийти в ресторан и как следует развлечься с Хайлин"
-msgstr ""
+msgstr "Andare in un ristorante e divertirsi con Heylin"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Попросить Миранду приготовить лекарство для Ян Лин"
-msgstr ""
+msgstr "Chiedete a Miranda di preparare una cura per Yang Lin."
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Отдать лекарство для Ян Лин, Хай Лин"
-msgstr ""
+msgstr "Dare la medicina a Yang Lin, Hai Ling"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Наполнить волшебный сосуд в замке князя фобоса"
-msgstr ""
+msgstr "Riempire il vaso magico nel castello del principe Phobos"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Принести наполненный сосуд с лекарством для Ян лин в серебряный дракон , снова"
-msgstr ""
+msgstr "Portate di nuovo al drago d'argento il recipiente riempito con la medicina per Yang Lin."
 
