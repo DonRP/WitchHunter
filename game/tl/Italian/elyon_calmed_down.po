@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:29\n"
+"PO-Revision-Date: 2023-01-16 21:25\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giveElionUsedTo/elyon_calmed_down.rpy:5 #-#-# translate crowdin elyon_calmed_down_8ef3f6b1:
 msgid "[_cedrick_] (Что ж, самое время заняться понижением репутации Элион. Но как это сделать.. Может слить ее интимные фото?)"
-msgstr ""
+msgstr "[_cedrick_] (È ora di lavorare per ridurre la reputazione di Elion). Ma come fare... Magari facendo trapelare foto intime di lei?)"
 
 # game/scripts/quests/giveElionUsedTo/elyon_calmed_down.rpy:6 #-#-# translate crowdin elyon_calmed_down_380aacbc:
 msgid "[_cedrick_] (Хм, нет, это не создаст должного эффекта, к тому же так я сам могу подставиться под удар..)"
-msgstr ""
+msgstr "[_cedrick_] (Hmmm, no, non avrebbe l'effetto che vorrei, e potrebbe mettermi in pericolo io stesso...)"
 
 # game/scripts/quests/giveElionUsedTo/elyon_calmed_down.rpy:7 #-#-# translate crowdin elyon_calmed_down_6839ec25:
 msgid "[_cedrick_] (Может использовать на ней зелье разврата в школе, чтобы поставить ее в неловкое положение?)"
-msgstr ""
+msgstr "[_cedrick_] (Forse usare una pozione di dissolutezza su di lei a scuola per metterla in imbarazzo?)."
 
 # game/scripts/quests/giveElionUsedTo/elyon_calmed_down.rpy:8 #-#-# translate crowdin elyon_calmed_down_55ac00da:
 msgid "[_cedrick_] (Да, в целом, это может сработать. Если ее застукают за мастурбацией в школе, слухи распустятся сами собой.. Надо обратиться за помощью к Миранде)"
-msgstr ""
+msgstr "[_cedrick_] (Sì, nel complesso potrebbe funzionare. Se viene sorpresa a masturbarsi a scuola, le voci si diffonderanno da sole... Dobbiamo chiedere aiuto a Miranda)"
 
