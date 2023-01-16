@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-01-16 21:19\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestCredulousCornelia.rpy:3
 msgid "Легковерная Корнелия"
-msgstr ""
+msgstr "Cornelia ingenua"
 
 # game/scripts/core/quests/QuestCredulousCornelia.rpy:12
 msgid "Поиграть в прятки с лилиан"
-msgstr ""
+msgstr "Giocare a nascondino con Lillian"
 
 # game/scripts/core/quests/QuestCredulousCornelia.rpy:12
 msgid "Посетить Корнелию в темнице на меридиане"
-msgstr ""
+msgstr "Visitate Cornelia nel sotterraneo di Meridian."
 
