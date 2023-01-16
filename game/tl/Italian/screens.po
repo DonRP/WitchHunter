@@ -1,27 +1,122 @@
 msgid ""
 msgstr ""
-"Выбрать цель:\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: witch-hunter\n"
 "X-Crowdin-Project-ID: 557133\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/fight/screens.po\n"
-"X-Crowdin-File-ID: 4991\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 4753\n"
 "Project-Id-Version: witch-hunter\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-01-16 21:21\n"
+"PO-Revision-Date: 2023-01-16 21:31\n"
 
-# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/fight/screens.rpy:57
-msgid "Выбрать цель:"
-msgstr "Scegliere un obiettivo:"
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:71
+msgid "[tooltip]"
+msgstr "[tooltip]"
 
-# game/scripts/fight/screens.rpy:163
-msgid "(ур. {player_level}) "
-msgstr "(url {player_level}) "
+# game/screens.rpy:92
+msgid "Нашел опечатку"
+msgstr "Trovato un errore di battitura"
 
-# game/scripts/fight/screens.rpy:332
-msgid "Загрузка"
+# game/screens.rpy:203
+msgid "Пропуск"
+msgstr "Passo"
+
+# game/screens.rpy:439
+msgid "Начать"
+msgstr "Inizio"
+
+# game/screens.rpy:440
+msgid "Загрузить"
 msgstr "Scaricare"
+
+# game/screens.rpy:441
+msgid "Настройки"
+msgstr "Impostazioni"
+
+# game/screens.rpy:442
+msgid "Галерея"
+msgstr "Galleria"
+
+# game/screens.rpy:443
+msgid "Поддержать"
+msgstr "Supporto"
+
+# game/screens.rpy:444
+msgid "Титры"
+msgstr "Titoli"
+
+# game/screens.rpy:445
+msgid "Выйти"
+msgstr "Vai a"
+
+# game/screens.rpy:460
+msgid "Доступна новая версия Witch Hunter [version]!"
+msgstr "La nuova versione di Witch Hunter [version]è disponibile!"
+
+# game/screens.rpy:507
+msgid "Вернуться в игру"
+msgstr "Di nuovo in gioco"
+
+# game/screens.rpy:510
+msgid "Сохранить"
+msgstr "Risparmiare"
+
+# game/screens.rpy:518
+msgid "Главное меню"
+msgstr "Menu principale"
+
+# game/screens.rpy:609
+msgid "Empty Slot."
+msgstr "Slot vuoto."
+
+# game/screens.rpy:646
+msgid "Это сохранение не поддерживает текущую версию игры [game_version]. Загрузка этого сохранения может привести к ошибкам!"
+msgstr "Questo salvataggio non supporta la versione attuale del gioco [game_version]. Il download di questo salvataggio può causare errori!"
+
+# game/screens.rpy:686
+msgid "Авто"
+msgstr "Auto"
+
+# game/screens.rpy:691
+msgid "Быстро"
+msgstr "Veloce"
+
+# game/screens.rpy:712
+msgid "Далее"
+msgstr "Avanti"
+
+# game/screens.rpy:824
+msgid "Да"
+msgstr "Sì"
+
+# game/screens.rpy:828
+msgid "Нет"
+msgstr "No"
+
+# game/screens.rpy:860
+msgid "Меню"
+msgstr "Menu"
+
+# game/screens.rpy:861
+msgid "Быстрое сохранение"
+msgstr "Salvataggio rapido"
+
+# game/screens.rpy:862
+msgid "Быстрая Загрузка"
+msgstr "Caricamento rapido"
+
+# game/screens.rpy:864
+msgid "Быстрый пропуск"
+msgstr "Passaggio veloce"
+
+# game/screens.rpy:865
+msgid "Авто пропуск"
+msgstr "Passaggio automatico"
+
+# game/screens.rpy:866
+msgid "Скрыть"
+msgstr "Nascondere"
 
