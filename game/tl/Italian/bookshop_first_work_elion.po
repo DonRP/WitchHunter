@@ -10,61 +10,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:20\n"
+"PO-Revision-Date: 2023-01-16 21:17\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/bookshop_first_work_elion.rpy:8 #-#-# translate crowdin bookshop_first_work_elion_b81ec53a:
 msgid "[_elion_] Привет, Рик... Твое предложение по поводу работы еще в силе?"
-msgstr ""
+msgstr "[_elion_] Ciao, Rick... L'offerta di lavoro è ancora valida?"
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:14 #-#-# translate crowdin bookshop_first_work_elion_b0e1689c:
 msgid "[_cedrick_sprite_] Здравствуй, Элион! Конечно! Как я уже говорил, мне не помешает пара лишних рук..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Ciao, Elyon! Naturalmente! Come ho già detto, mi servirebbe un paio di mani in più..."
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:20 #-#-# translate crowdin bookshop_first_work_elion_2e7c2874:
 msgid "[_elion_] Отлично..."
-msgstr ""
+msgstr "[_elion_] Grande..."
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:21 #-#-# translate crowdin bookshop_first_work_elion_4f5c5907:
 msgid "[_elion_] Честно говоря, я никогда раньше не работала. Что мне нужно будет делать?"
-msgstr ""
+msgstr "[_elion_] A dire il vero, non ho mai lavorato prima. Cosa dovrò fare?"
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:22 #-#-# translate crowdin bookshop_first_work_elion_5ae85eca:
 msgid "[_cedrick_sprite_] Ничего особенного. Вытирать пыль, выкладывать книги, иногда прибираться и помогать клиентам, если это потребуется..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Non c'è molto da fare. Spolverare, mettere a posto i libri, riordinare occasionalmente e aiutare i clienti se necessario..."
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:28 #-#-# translate crowdin bookshop_first_work_elion_f9ef0274:
 msgid "[_elion_] Думаю, я смогу справиться с этим..."
-msgstr ""
+msgstr "[_elion_] Penso di poterlo gestire..."
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:29 #-#-# translate crowdin bookshop_first_work_elion_64b8fd70:
 msgid "[_cedrick_sprite_] Не сомневаюсь..."
-msgstr ""
+msgstr "[_cedrick_sprite_] Non ne dubito..."
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:35 #-#-# translate crowdin bookshop_first_work_elion_afcf3a99:
 msgid "[_elion_] Эм... А сколько вы будете платить мне за работу?"
-msgstr ""
+msgstr "[_elion_] Ehm... Quanto mi pagherete per il mio lavoro?"
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:36 #-#-# translate crowdin bookshop_first_work_elion_7ed3fbe5:
 msgid "[_cedrick_sprite_] Ну, около 50 баксов в неделю."
-msgstr ""
+msgstr "[_cedrick_sprite_] Beh, circa 50 sterline a settimana."
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:37 #-#-# translate crowdin bookshop_first_work_elion_be1df70c:
 msgid "[_cedrick_sprite_] Я не могу позволить себе заплатить тебе больше, но если в будущем мои дела пойдут в гору, то я смогу повысить тебе зарплату."
-msgstr ""
+msgstr "[_cedrick_sprite_] Non posso permettermi di pagarti di più, ma se la mia attività decolla in futuro, posso darti un aumento."
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:43 #-#-# translate crowdin bookshop_first_work_elion_b09d0f14:
 msgid "[_elion_] Что ж, звучит обнадеживающе. Меня устраивает!"
-msgstr ""
+msgstr "[_elion_] Beh, sembra rassicurante. Mi sta bene!"
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:46 #-#-# translate crowdin bookshop_first_work_elion_eaf36f37:
 msgid "[_elion_] И когда я смогу приступить к работе?"
-msgstr ""
+msgstr "[_elion_] E quando posso iniziare a lavorare?"
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:48 #-#-# translate crowdin bookshop_first_work_elion_e2025734:
 msgid "[_cedrick_] Да хоть сегодня, если хочешь."
-msgstr ""
+msgstr "[_cedrick_] Se volete, potete farlo oggi stesso."
 
 # game/scripts/bookshop/bookshop_first_work_elion.rpy:52 #-#-# translate crowdin bookshop_first_work_elion_176ed681:
 msgid "[_elion_] Хорошо, тогда я начну!"
-msgstr ""
+msgstr "[_elion_] Ok, allora inizio!"
 
