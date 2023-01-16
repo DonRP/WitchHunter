@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-01-16 21:18\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/core/dev/developerMenuScreen.rpy:3 #-#-# translate crowdin errors_80e08436:
 msgid "[_error_] `[key]` label is not exist"
-msgstr ""
+msgstr "[_error_][key]` l'etichetta non esiste"
 
