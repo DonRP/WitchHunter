@@ -10,85 +10,85 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-16 21:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_ee19bdf0:
 msgid "[_haylin_] Хех, смотрю работа официантом не отпугнула тебя..."
-msgstr ""
+msgstr "[_haylin_] Vedo che lavorare come cameriere non ti ha scoraggiato..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:7 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_fc18a67f:
 msgid "[_cedrick_] Мне только в радость работать в заведении, где готовят такую вкусную еду!"
-msgstr ""
+msgstr "[_cedrick_] Sono felicissima di lavorare in una struttura che produce cibo così buono!"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:9 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_d815b06c:
 msgid "Седрик приступает к работе и через некоторое время замечает, что в ресторан зашла одна из стражниц"
-msgstr ""
+msgstr "Cedric si mette al lavoro e dopo un po' si accorge che una delle guardie è entrata nel ristorante."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:13 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_6f4cbab2:
 msgid "[_will_] Рик!? Привет! Не знала, что ты здесь работаешь…"
-msgstr ""
+msgstr "[_will_] Rick!? Ciao! Non sapevo che lavorassi qui…"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:14 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_5f2b31bd:
 msgid "[_cedrick_] Просто решил помочь Хай Лин в трудной ситуации..."
-msgstr ""
+msgstr "[_cedrick_] Ha deciso di aiutare Hai Lin in una situazione difficile..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:19 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_bfb395e0:
 msgid "[_will_] Оу... Это так... благородно…"
-msgstr ""
+msgstr "[_will_] Oh... Questo è così... nobile…"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:23 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_c80bd042:
 msgid "[_will_] А Хай Лин здесь?"
-msgstr ""
+msgstr "[_will_] Hai Ling è qui?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:24 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_6efc5ce5:
 msgid "[_cedrick_] Эм..."
-msgstr ""
+msgstr "[_cedrick_] Ehm..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:25 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_4f28ac39:
 msgid "Седрик оглядывается по сторонам…"
-msgstr ""
+msgstr "Cedric si guarda intorno…"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:26 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_3e574ee3:
 msgid "[_cedrick_] Должно быть, она на кухне..."
-msgstr ""
+msgstr "[_cedrick_] Deve essere in cucina..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:30 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_23ecdea8:
 msgid "[_will_] Можешь позвать ее? Если не трудно…"
-msgstr ""
+msgstr "[_will_] Puoi indossarla? Se non è troppo disturbo…"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:31 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_a6f47658:
 msgid "[_cedrick_] Конечно!"
-msgstr ""
+msgstr "[_cedrick_] Naturalmente!"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:33 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_708e9e22:
 msgid "Вы отправляетесь на кухню в поисках Хай Лин"
-msgstr ""
+msgstr "Si dirige in cucina alla ricerca di Hai Ling."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:37 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_17dfeebb:
 msgid "[_cedrick_] (Оу..)"
-msgstr ""
+msgstr "[_cedrick_] (Oh...)"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:38 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_81af40a0:
 msgid "[_cedrick_] (У нее довольно подтянутое тело... Что ж это не удивительно, учитывая то, как она бывает подвижна... Девчонка полна энергии, это точно...)"
-msgstr ""
+msgstr "[_cedrick_] (Ha un corpo abbastanza snello... Beh, non c'è da stupirsi, considerando quanto può essere mobile... La ragazza è piena di energia, questo è sicuro...)"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:39 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_aa609a3d:
 msgid "[_cedrick_] (Я и не думал, что она может быть такой... Сексуальной... Хочу как можно скорее залезть к ней в трусики... Кажется у меня начинает вставать)"
-msgstr ""
+msgstr "[_cedrick_] (Non mi ero reso conto che potesse essere così... Sexy... Voglio entrare nelle sue mutandine il prima possibile... Credo che mi stia venendo un'erezione)."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:40 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_01507355:
 msgid "[_haylin_] Рик!? Что-то искал?"
-msgstr ""
+msgstr "[_haylin_] Rick!? Cercate qualcosa?"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:41 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_0644a24e:
 msgid "[_cedrick_] Ээ... Да! Тебя искала Вилл…"
-msgstr ""
+msgstr "[_cedrick_] Ehm... Sì! Will ti stava cercando…"
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:42 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_3e854889:
 msgid "[_haylin_] Да? Сейчас я к ней подойду, спасибо..."
-msgstr ""
+msgstr "[_haylin_] Sì? Sarò subito da lei, grazie..."
 
 # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:44 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_75dc8672:
 msgid "Доработав остаток дня и поев вкусный ужин, которым вознаградила вас семья Лин за работу, вы отправляетесь в книжный магазин. Вы полны мыслей о том, как бы поскорей трахнуть Хай Лин..."
-msgstr ""
+msgstr "Dopo aver lavorato per il resto della giornata e aver mangiato la deliziosa cena con cui la famiglia di Lin vi ha ricompensato per il vostro lavoro, vi recate in libreria. Sei pieno di pensieri di scopare con Hai Ling il prima possibile..."
 
