@@ -10,117 +10,117 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:28\n"
+"PO-Revision-Date: 2023-01-16 21:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:9 #-#-# translate crowdin cornelia_call_elyon_to_cinema_93829424:
 msgid "[_cornelia_] привет, Элион! пройдемся до школы?"
-msgstr ""
+msgstr "[_cornelia_] Ciao, Elyon! Andiamo a scuola a piedi?"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:12 #-#-# translate crowdin cornelia_call_elyon_to_cinema_0f4ac93f:
 msgid "[_elion_] Я вчера звонила..."
-msgstr ""
+msgstr "[_elion_] Ho chiamato ieri..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:13 #-#-# translate crowdin cornelia_call_elyon_to_cinema_2777e450:
 msgid "[_elion_] твоя мама сказала, что ты ушла с подругами..."
-msgstr ""
+msgstr "[_elion_] tua madre ha detto che sei uscito con le tue amiche..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:17 #-#-# translate crowdin cornelia_call_elyon_to_cinema_58b01b41:
 msgid "[_cornelia_] Надо было закрыть пор.."
-msgstr ""
+msgstr "[_cornelia_] Avrei dovuto chiudere la porta..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:21 #-#-# translate crowdin cornelia_call_elyon_to_cinema_b78fd185:
 msgid "[_cornelia_] Ну это лягушенок вилл заболел..."
-msgstr ""
+msgstr "[_cornelia_] Beh, è il pisello di rana che è malato..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:24 #-#-# translate crowdin cornelia_call_elyon_to_cinema_dc938f60:
 msgid "[_elion_] Это плюшевая игрушка.."
-msgstr ""
+msgstr "[_elion_] È un peluche..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:28 #-#-# translate crowdin cornelia_call_elyon_to_cinema_6e8387aa:
 msgid "[_cornelia_] Это не совсем болезнь.. В машину стиральную засунули, прикинь..."
-msgstr ""
+msgstr "[_cornelia_] Non è una vera e propria malattia... L'hanno messo in lavatrice, pensa un po'..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:31 #-#-# translate crowdin cornelia_call_elyon_to_cinema_7d6b7d94:
 msgid "[_elion_]  Я.. У меня здесь работа.. Я пойду позже.."
-msgstr ""
+msgstr "[_elion_]  Я.. Ho del lavoro qui... Vado più tardi..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:35 #-#-# translate crowdin cornelia_call_elyon_to_cinema_b216b481:
 msgid "[_cornelia_] Ну, прости меня... Я знаю, в последнее время мы не так часто видимся.."
-msgstr ""
+msgstr "[_cornelia_] Beh, mi dispiace... So che non ci siamo visti molto ultimamente..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:38 #-#-# translate crowdin cornelia_call_elyon_to_cinema_3275e7a8:
 msgid "[_elion_] я думала, что мы подруги..."
-msgstr ""
+msgstr "[_elion_] Pensavo fossimo amici..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:39 #-#-# translate crowdin cornelia_call_elyon_to_cinema_1ae26339:
 msgid "[_cornelia_] Давай я попробую загладить свою вину? мы можем сходить в кино.."
-msgstr ""
+msgstr "[_cornelia_] Perché non cerco di farmi perdonare? Potremmo andare al cinema..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:42 #-#-# translate crowdin cornelia_call_elyon_to_cinema_56d11951:
 msgid "[_elion_] ...даже не знаю..."
-msgstr ""
+msgstr "[_elion_] ...non so..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:44 #-#-# translate crowdin cornelia_call_elyon_to_cinema_41f46ac2:
 msgid "[_cornelia_] выбирай фильм... сходим на любой сеанс..."
-msgstr ""
+msgstr "[_cornelia_] scegliere un film... andare a qualsiasi spettacolo..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:47 #-#-# translate crowdin cornelia_call_elyon_to_cinema_0a7ae0ac:
 msgid "[_elion_] даже на Ведьму из Блэр?"
-msgstr ""
+msgstr "[_elion_] anche la Strega di Blair?"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:51 #-#-# translate crowdin cornelia_call_elyon_to_cinema_1ba53958:
 msgid "[_cornelia_] Даже на ведьму из блэр"
-msgstr ""
+msgstr "[_cornelia_] Anche sulla strega di Blair"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:54 #-#-# translate crowdin cornelia_call_elyon_to_cinema_98dd6406:
 msgid "[_elion_] Ты ведь не любишь фильмы ужасов.."
-msgstr ""
+msgstr "[_elion_] Non ti piacciono i film horror, vero?"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:58 #-#-# translate crowdin cornelia_call_elyon_to_cinema_67aa5b8c:
 msgid "[_cornelia_] ну не то, чтобы не люблю... скорее я их боюсь.."
-msgstr ""
+msgstr "[_cornelia_] Non è che non mi piacciano... È più che altro che ho paura di loro..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:63 #-#-# translate crowdin cornelia_call_elyon_to_cinema_a70c4894:
 msgid "[_cornelia_] Ну что, договорились?"
-msgstr ""
+msgstr "[_cornelia_] Abbiamo un accordo?"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:66 #-#-# translate crowdin cornelia_call_elyon_to_cinema_b0ae1029:
 msgid "[_elion_] Хорошо, тогда как насчет завтра вечером?"
-msgstr ""
+msgstr "[_elion_] Ok, allora che ne dite di domani sera?"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:71 #-#-# translate crowdin cornelia_call_elyon_to_cinema_9566f82d:
 msgid "[_cornelia_] Договорились!"
-msgstr ""
+msgstr "[_cornelia_] Affare fatto!"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:75 #-#-# translate crowdin cornelia_call_elyon_to_cinema_69ff6de3:
 msgid "[_cornelia_] Не хочешь пойти со мной в школу?"
-msgstr ""
+msgstr "[_cornelia_] Ti piacerebbe venire a scuola con me?"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:78 #-#-# translate crowdin cornelia_call_elyon_to_cinema_ff226be0:
 msgid "[_elion_] У меня еще работа и мне ко второму уроку.."
-msgstr ""
+msgstr "[_elion_] Ho del lavoro da fare e ho la seconda ora..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:83 #-#-# translate crowdin cornelia_call_elyon_to_cinema_4d1a7c30:
 msgid "[_cedrick_] Элион, если тебе очень нужно, то можешь идти..."
-msgstr ""
+msgstr "[_cedrick_] Elyon, se hai davvero bisogno di andare, puoi andare..."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:86 #-#-# translate crowdin cornelia_call_elyon_to_cinema_ab8c8188:
 msgid "[_elion_] Правда? Спасибо, Рик!"
-msgstr ""
+msgstr "[_elion_] Davvero? Grazie, Rick!"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:89 #-#-# translate crowdin cornelia_call_elyon_to_cinema_e9b92e11:
 msgid "[_elion_] Ну, тогда мы пошли!"
-msgstr ""
+msgstr "[_elion_] Bene, allora si parte!"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:93 #-#-# translate crowdin cornelia_call_elyon_to_cinema_cc1a960c:
 msgid "[_cedrick_] (Похоже сейчас между корнелией и элион очень шаткие отношения.. Было бы неплохо испортить их дружбу!)"
-msgstr ""
+msgstr "[_cedrick_] (Sembra che tra Cornelia ed Elion ci sia un rapporto molto instabile al momento...) Sarebbe bello rovinare la loro amicizia)."
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:94 #-#-# translate crowdin cornelia_call_elyon_to_cinema_ff6559f5:
 msgid "[_cedrick_] (интересно, как отреагирует Элион, если у корнелии опять найдутся важные дела и она не сможет пойти с ней в кино? Хе-хе...)"
-msgstr ""
+msgstr "[_cedrick_] (Chissà come reagirà Elyon se Cornelia avrà di nuovo qualcosa di importante da fare e non potrà andare al cinema con lei? Hehehe...)"
 
 # game/scripts/quests/getCloseToElyon/cornelia_call_elyon_to_cinema.rpy:95 #-#-# translate crowdin cornelia_call_elyon_to_cinema_170eda8b:
 msgid "[_cedrick_] (Я ведь могу это устроить, скажем... нападу завтра вечером на вонючих меридианских крестьян... стражницы будут просто обязаны прийти к ним на помощь..)"
-msgstr ""
+msgstr "[_cedrick_] (Posso organizzarlo, non è vero, diciamo...). attaccare i contadini puzzolenti di Meridian domani sera... le guardie dovranno solo venire in loro soccorso...)"
 
