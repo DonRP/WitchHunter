@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-01-16 21:26\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/irma/substituteIrma.rpy:9 #-#-# translate crowdin substituteIrma_d5b77853:
 msgid "[_cedrick_] (Ирма Лэир.. Одна из стражниц.. Возможно это мой шанс.. Я бы смог подставить и шантажировать ее, подкинув к ней в сумку одну из коллекционных фигурок... К счастью, я избавился от ее отца полицейского, который мог бы ее оправдать...)"
-msgstr ""
+msgstr "[_cedrick_] (Irma Lair. Una delle guardie... Questa potrebbe essere la mia occasione... Potrei incastrarla e ricattarla infilando una delle statuette da collezione nella sua borsa... Per fortuna mi sono liberato del padre poliziotto, che poteva scagionarla...)."
 
