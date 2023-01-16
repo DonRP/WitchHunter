@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:20\n"
+"PO-Revision-Date: 2023-01-16 21:17\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/thomas_comes_to_play.rpy:5 #-#-# translate crowdin thomas_comes_to_play_fa425594:
 msgid "Приходит Томас чтобы сыграть в покер."
-msgstr ""
+msgstr "Thomas viene a giocare a poker."
 
 # game/scripts/bookshop/thomas_comes_to_play.rpy:8 #-#-# translate crowdin thomas_comes_to_play_8b062288:
 msgid "[_cedrick_] Привет Томас, извини, я потратил деньги днем и поэтому не смогу с тобой сейчас сыграть."
-msgstr ""
+msgstr "[_cedrick_] Ciao Thomas, mi dispiace, ho speso i soldi oggi pomeriggio quindi non posso giocare con te ora."
 
 # game/scripts/bookshop/thomas_comes_to_play.rpy:9 #-#-# translate crowdin thomas_comes_to_play_34dddcc5:
 msgid "[_tomas_] Плохо, не делай так больше."
-msgstr ""
+msgstr "[_tomas_] Peccato, non fatelo più."
 
