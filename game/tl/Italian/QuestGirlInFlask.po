@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGirlInFlask.rpy:5
 msgid "Девушка в колбе"
-msgstr ""
+msgstr "La ragazza nella fiaschetta"
 
 # game/scripts/core/quests/QuestGirlInFlask.rpy:19
 msgid "Узнать о девушке в колбе у Миранды"
-msgstr ""
+msgstr "Scopri la ragazza nella fiaschetta da Miranda"
 
 # game/scripts/core/quests/QuestGirlInFlask.rpy:19
 msgid "Расспросить о цветке с красной сердцевиной у Амалии"
-msgstr ""
+msgstr "Chiedete ad Amalia del fiore rosso"
 
 # game/scripts/core/quests/QuestGirlInFlask.rpy:19
 msgid "Показать цветок миранде"
-msgstr ""
+msgstr "Mostra il fiore a Miranda"
 
 # game/scripts/core/quests/QuestGirlInFlask.rpy:19
 msgid "Навестить  Амалию и Евангелину в таверне"
-msgstr ""
+msgstr "Visitate Amalia ed Evangeline nella taverna."
 
