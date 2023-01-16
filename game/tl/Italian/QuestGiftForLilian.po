@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGiftForLilian.rpy:3
 msgid "Наполеон"
-msgstr ""
+msgstr "Napoleone"
 
 # game/scripts/core/quests/QuestGiftForLilian.rpy:12
 msgid "Купить кота у Бланка"
-msgstr ""
+msgstr "Comprare un gatto da Blank"
 
 # game/scripts/core/quests/QuestGiftForLilian.rpy:12
 msgid "Дождаться когда Корнелия попросит посидеть с Лилиан"
-msgstr ""
+msgstr "Aspettiamo che Cornelia chieda di sedersi con Lillian."
 
 # game/scripts/core/quests/QuestGiftForLilian.rpy:12
 msgid "Дождаться вечера и посидеть с Лилиан"
-msgstr ""
+msgstr "Aspettare la sera e sedersi con Lillian"
 
