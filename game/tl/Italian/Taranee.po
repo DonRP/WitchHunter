@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-01-16 21:18\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/enemies/Taranee.rpy:57
 msgid "Тарани"
-msgstr ""
+msgstr "Tarani"
 
 # game/scripts/core/Fight/enemies/Taranee.rpy:108
 msgid "Горение"
-msgstr ""
+msgstr "Bruciatura"
 
 # game/scripts/core/Fight/enemies/Taranee.rpy:116
 msgid "Огненный выстрел"
-msgstr ""
+msgstr "Colpo di fuoco"
 
