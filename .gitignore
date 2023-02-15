@@ -139,3 +139,16 @@ game/cache
 
 # Templete files
 .renpy-sdk
+game/fonts
+game/images
+/renpy
+gamereport.json
+WitchHunter.exe
+WitchHunter.py
+WitchHunter.sh
+WitchHunter-32.exe
+game/script_version.txt
+game/presplash.png
+game/audio.rpa
+game/images.rpa
+game/scripts.rpa
