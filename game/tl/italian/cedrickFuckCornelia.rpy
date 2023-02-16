@@ -51,8 +51,8 @@ translate italian cedrickFuckCornelia_a20cefa7:
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:32
 translate italian cedrickFuckCornelia_e63d7c21:
 
-    # centered "{size=37}Спустя несколько минут в кладовой{/size} [withDissolve1]"
-    centered "{Pochi minuti dopo nella dispensa{/size} [withDissolve1]"
+    # centered "{size=37}Спустя несколько минут в кладовой{/size}" with Dissolve(1)
+    centered "{Pochi minuti dopo nella dispensa{/size}" with Dissolve(1)
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:35
 translate italian cedrickFuckCornelia_d2a9ab06:

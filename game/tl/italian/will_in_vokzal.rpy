@@ -99,8 +99,8 @@ translate italian will_in_vokzal_a20cefa7:
 # game/scripts/quests/will/will_in_vokzal.rpy:105
 translate italian will_in_vokzal_11e09b0c:
 
-    # susan "А вот и наш дом [withDissolvey3]"
-    susan "Ecco la nostra casa [withDissolvey3]"
+    # susan "А вот и наш дом" with Dissolve(.3)
+    susan "Ecco la nostra casa" with Dissolve(.3)
 
 # game/scripts/quests/will/will_in_vokzal.rpy:106
 translate italian will_in_vokzal_3010b9c1:

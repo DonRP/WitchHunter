@@ -195,8 +195,8 @@ translate italian sitWithLilian_5f9b772e_1:
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:94
 translate italian sitWithLilian_ccf0063e:
 
-    # centered "{size=37}Спустя пару часов{/size} [withDissolve1]"
-    centered "{Un paio d'ore più tardi{/size} [withDissolve1]"
+    # centered "{size=37}Спустя пару часов{/size}" with Dissolve(1)
+    centered "{Un paio d'ore più tardi{/size}" with Dissolve(1)
 
 # game/scripts/quests/giftForLilian/sitWithLilian.rpy:99
 translate italian sitWithLilian_37a4f383:

@@ -57,8 +57,8 @@ translate italian exchange_flower_for_elf_8b1fda06:
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:36
 translate italian exchange_flower_for_elf_1d458c43:
 
-    # centered "{size=37}Cедрик осматривает вещи Евангелины и находит среди них странную голубую Каплю, которую он забирает себе. Миранда ставит Евангелину на ноги. Мутноватая жидкость каплями стекает с еe дрожащего тела, а глаза бешено рыскают по комнате, словно пытаясь найти кого-то{/size} [withDissolve1]"
-    centered "{Cedric esamina gli oggetti di Evangeline e trova tra questi uno strano Blob blu, che prende per sé. Miranda mette Evangeline in piedi. Il liquido torbido cola dal suo corpo tremante e i suoi occhi si aggirano freneticamente per la stanza come se cercassero di trovare qualcuno{/size} [withDissolve1]"
+    # centered "{size=37}Cедрик осматривает вещи Евангелины и находит среди них странную голубую Каплю, которую он забирает себе. Миранда ставит Евангелину на ноги. Мутноватая жидкость каплями стекает с еe дрожащего тела, а глаза бешено рыскают по комнате, словно пытаясь найти кого-то{/size}" with Dissolve(1)
+    centered "{Cedric esamina gli oggetti di Evangeline e trova tra questi uno strano Blob blu, che prende per sé. Miranda mette Evangeline in piedi. Il liquido torbido cola dal suo corpo tremante e i suoi occhi si aggirano freneticamente per la stanza come se cercassero di trovare qualcuno{/size}" with Dissolve(1)
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:43
 translate italian exchange_flower_for_elf_a72e4ba0:
@@ -87,8 +87,8 @@ translate italian exchange_flower_for_elf_9fddf854:
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:54
 translate italian exchange_flower_for_elf_714f062c:
 
-    # centered "{size=37}Евангелина оделась и спустя некоторое время вы добрались в таверну и встретились с принцессой Амалией{/size} [withDissolve1]"
-    centered "{Evangeline si vestì e dopo un po' arrivò alla taverna e incontrò la principessa Amalia{/size} [withDissolve1]"
+    # centered "{size=37}Евангелина оделась и спустя некоторое время вы добрались в таверну и встретились с принцессой Амалией{/size}" with Dissolve(1)
+    centered "{Evangeline si vestì e dopo un po' arrivò alla taverna e incontrò la principessa Amalia{/size}" with Dissolve(1)
 
 # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:59
 translate italian exchange_flower_for_elf_0246b923:

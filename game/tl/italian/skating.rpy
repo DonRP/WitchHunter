@@ -15,8 +15,8 @@ translate italian skating_f3943ab7:
 # game/scripts/quests/skating/skating.rpy:10
 translate italian skating_576d0f1d:
 
-    # centered "{size=37}Спустя некоторое время на катке{/size} [withDissolve1]"
-    centered "{Dopo un po' di tempo alla pista di pattinaggio{/size} [withDissolve1]"
+    # centered "{size=37}Спустя некоторое время на катке{/size}" with Dissolve(1)
+    centered "{Dopo un po' di tempo alla pista di pattinaggio{/size}" with Dissolve(1)
 
 # game/scripts/quests/skating/skating.rpy:18
 translate italian skating_340eedad:

@@ -69,8 +69,8 @@ translate italian comeToLilianInMeridian4_5f9b772e_1:
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian4.rpy:42
 translate italian comeToLilianInMeridian4_b61046c3:
 
-    # centered "{size=37}Спустя какое-то время{/size} [withDissolve1]"
-    centered "{Dopo un po' di tempo{/size} [withDissolve1]"
+    # centered "{size=37}Спустя какое-то время{/size}" with Dissolve(1)
+    centered "{Dopo un po' di tempo{/size}" with Dissolve(1)
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian4.rpy:44
 translate italian comeToLilianInMeridian4_a20cefa7:

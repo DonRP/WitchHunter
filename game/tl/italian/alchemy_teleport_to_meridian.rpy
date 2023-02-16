@@ -75,8 +75,8 @@ translate italian alchemy_teleport_to_meridian_be28dde8:
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:44
 translate italian alchemy_teleport_to_meridian_42236375:
 
-    # centered "{size=37}Вы незамедлительно \n отправляетесь на Меридиан{/size} [withDissolve1]"
-    centered "{Vai immediatamente \n a Meridian{/size} [withDissolve1]"
+    # centered "{size=37}Вы незамедлительно \n отправляетесь на Меридиан{/size}" with Dissolve(1)
+    centered "{Vai immediatamente \n a Meridian{/size}" with Dissolve(1)
 
 # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:49
 translate italian alchemy_teleport_to_meridian_a20cefa7_3:

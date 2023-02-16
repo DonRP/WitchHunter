@@ -81,8 +81,8 @@ translate italian kidnapLilianToMeridianCastle_83f683da:
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:22
 translate italian kidnapLilianToMeridianCastle_03161030:
 
-    # centered "{size=37}Спустя некоторое время на Миридиане{/size} [withDissolve1]"
-    centered "{Qualche tempo dopo su Miridian{/size} [withDissolve1]"
+    # centered "{size=37}Спустя некоторое время на Миридиане{/size}" with Dissolve(1)
+    centered "{Qualche tempo dopo su Miridian{/size}" with Dissolve(1)
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:27
 translate italian kidnapLilianToMeridianCastle_6b1fab5b:
@@ -135,8 +135,8 @@ translate italian kidnapLilianToMeridianCastle_60f455fe:
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:45
 translate italian kidnapLilianToMeridianCastle_7f2e60e0:
 
-    # centered "{size=37}Позже в доме хейлов{/size} [withDissolve1]"
-    centered "{Più tardi alla Hale House{/size} [withDissolve1]"
+    # centered "{size=37}Позже в доме хейлов{/size}" with Dissolve(1)
+    centered "{Più tardi alla Hale House{/size}" with Dissolve(1)
 
 # game/scripts/quests/growingUpLilian/kidnapLilianToMeridianCastle.rpy:51
 translate italian kidnapLilianToMeridianCastle_4bed1894:

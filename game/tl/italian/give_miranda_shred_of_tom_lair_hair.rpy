@@ -39,8 +39,8 @@ translate italian give_miranda_shred_of_tom_lair_hair_scenes_190e2d29:
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:31
 translate italian give_miranda_shred_of_tom_lair_hair_scenes_ece6bd4b:
 
-    # centered "{size=37}Спустя 10 минут{/size} [withDissolve1]"
-    centered "{Per 10 minuti{/size} [withDissolve1]"
+    # centered "{size=37}Спустя 10 минут{/size}" with Dissolve(1)
+    centered "{Per 10 minuti{/size}" with Dissolve(1)
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:37
 translate italian give_miranda_shred_of_tom_lair_hair_scenes_ac69f219:
@@ -81,8 +81,8 @@ translate italian give_miranda_shred_of_tom_lair_hair_scenes_488ab97d:
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:54
 translate italian give_miranda_shred_of_tom_lair_hair_scenes_df1659e2:
 
-    # centered "{size=37}Спустя несколько мгновений{/size} [withDissolve1]"
-    centered "{Pochi istanti dopo{/size} [withDissolve1]"
+    # centered "{size=37}Спустя несколько мгновений{/size}" with Dissolve(1)
+    centered "{Pochi istanti dopo{/size}" with Dissolve(1)
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:58
 translate italian give_miranda_shred_of_tom_lair_hair_scenes_935c9d4d:
@@ -555,8 +555,8 @@ translate italian give_miranda_shred_of_tom_lair_hair_scenes_e636fc30:
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:255
 translate italian give_miranda_shred_of_tom_lair_hair_scenes_e5cb8d7d:
 
-    # centered "{size=37}Спустя несколько минут{/size} [withDissolve1]"
-    centered "{Pochi minuti dopo [withDissolve1]"
+    # centered "{size=37}Спустя несколько минут{/size}" with Dissolve(1)
+    centered "{Pochi minuti dopo" with Dissolve(1)
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:258
 translate italian give_miranda_shred_of_tom_lair_hair_scenes_37b3eda2:
@@ -723,8 +723,8 @@ translate italian give_miranda_shred_of_tom_lair_hair_scenes_ce617998_5:
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:300
 translate italian give_miranda_shred_of_tom_lair_hair_scenes_e5cb8d7d_1:
 
-    # centered "{size=37}Спустя несколько минут{/size} [withDissolve1]"
-    centered "{Pochi minuti dopo [withDissolve1]"
+    # centered "{size=37}Спустя несколько минут{/size}" with Dissolve(1)
+    centered "{Pochi minuti dopo" with Dissolve(1)
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:306
 translate italian give_miranda_shred_of_tom_lair_hair_scenes_4e1e8928:

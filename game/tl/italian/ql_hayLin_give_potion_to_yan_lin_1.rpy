@@ -459,8 +459,8 @@ translate italian ql_hayLin_give_potion_to_yan_lin_1_cea57eae:
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:248
 translate italian ql_hayLin_give_potion_to_yan_lin_1_2206b40d:
 
-    # centered "{size=36}СПУСТИВШИСЬ В ПОДВАЛ, ДЖОАН СРАЗУ ВСТАЕТ НА КОЛЕНИ И ДОСТАЕТ ЧЛЕН СЕДРИКА{/size} [withDissolve1]"
-    centered "{Scendendo nel seminterrato, JOAN si inginocchia e tira fuori il cazzo di CEDRIC{/size} [withDissolve1]"
+    # centered "{size=36}СПУСТИВШИСЬ В ПОДВАЛ, ДЖОАН СРАЗУ ВСТАЕТ НА КОЛЕНИ И ДОСТАЕТ ЧЛЕН СЕДРИКА{/size}" with Dissolve(1)
+    centered "{Scendendo nel seminterrato, JOAN si inginocchia e tira fuori il cazzo di CEDRIC{/size}" with Dissolve(1)
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:251
 translate italian ql_hayLin_give_potion_to_yan_lin_1_4cb15459:
@@ -585,8 +585,8 @@ translate italian ql_hayLin_give_potion_to_yan_lin_1_2db9d88f:
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:279
 translate italian ql_hayLin_give_potion_to_yan_lin_1_df2e8be3:
 
-    # centered "{size=36}СЕДРИК ДЕЛАЕТ ФОТО ДЖОАН ЛИН С ЧЛЕНОМ ВО РТУ НА ТЕЛЕФОН{/size} [withDissolve1]"
-    centered "{SEDRICK FOTO DI JOAN LYN CON I MEMBRI SUL TELEFONO{/size} [withDissolve1]"
+    # centered "{size=36}СЕДРИК ДЕЛАЕТ ФОТО ДЖОАН ЛИН С ЧЛЕНОМ ВО РТУ НА ТЕЛЕФОН{/size}" with Dissolve(1)
+    centered "{SEDRICK FOTO DI JOAN LYN CON I MEMBRI SUL TELEFONO{/size}" with Dissolve(1)
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:284
 translate italian ql_hayLin_give_potion_to_yan_lin_1_78f12923:

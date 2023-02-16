@@ -225,8 +225,8 @@ translate italian corneliaComeToLilianInMeridian_b6f17eb7:
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/corneliaComeToLilianInMeridian.rpy:88
 translate italian corneliaComeToLilianInMeridian_e5cb8d7d:
 
-    # centered "{size=37}Спустя несколько минут{/size} [withDissolve1]"
-    centered "{Pochi minuti dopo [withDissolve1]"
+    # centered "{size=37}Спустя несколько минут{/size}" with Dissolve(1)
+    centered "{Pochi minuti dopo" with Dissolve(1)
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/corneliaComeToLilianInMeridian.rpy:93
 translate italian corneliaComeToLilianInMeridian_a20cefa7_2:

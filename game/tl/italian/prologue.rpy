@@ -3,8 +3,8 @@
 # game/scripts/quests/singles/prologue.rpy:10
 translate italian prologue_659381e6:
 
-    # centered "{size=37}Меридиан\nЗамок Князя Фобоса{/size} [withDissolve1]"
-    centered "{size=37} Meridiano\nIl castello del principe Phobos{/size} [withDissolve1]"
+    # centered "{size=37}Меридиан\nЗамок Князя Фобоса{/size}" with Dissolve(1)
+    centered "{size=37} Meridiano\nIl castello del principe Phobos{/size}" with Dissolve(1)
 
 # game/scripts/quests/singles/prologue.rpy:43
 translate italian prologue_60da2d23:

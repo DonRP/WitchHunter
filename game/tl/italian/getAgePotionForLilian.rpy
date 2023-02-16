@@ -33,8 +33,8 @@ translate italian getAgePotionForLilian_2d5e12c4:
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:26
 translate italian getAgePotionForLilian_4eba94e3:
 
-    # centered "{size=37}Спустя некоторое время{/size} [withDissolve1]"
-    centered "{Dopo un po' di tempo{/size} [withDissolve1]"
+    # centered "{size=37}Спустя некоторое время{/size}" with Dissolve(1)
+    centered "{Dopo un po' di tempo{/size}" with Dissolve(1)
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:33
 translate italian getAgePotionForLilian_4fc08c69:

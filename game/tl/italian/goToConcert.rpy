@@ -273,8 +273,8 @@ translate italian goToConcert_a20cefa7_6:
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:104
 translate italian goToConcert_54328b6b:
 
-    # centered "{size=37}Через некоторое время...{/size} [withDissolve1]"
-    centered "{Dopo un po'...{/size} [withDissolve1]"
+    # centered "{size=37}Через некоторое время...{/size}" with Dissolve(1)
+    centered "{Dopo un po'...{/size}" with Dissolve(1)
 
 # game/scripts/quests/getConcertTickets/goToConcert.rpy:108
 translate italian goToConcert_2251f16f:

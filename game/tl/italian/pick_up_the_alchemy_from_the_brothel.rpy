@@ -1011,8 +1011,8 @@ translate italian pick_up_the_alchemy_from_the_brothel_a20cefa7_8:
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:528
 translate italian pick_up_the_alchemy_from_the_brothel_c86b4a42:
 
-    # centered "{size=37}Тем временем в полицейском участке{/size} [withDissolve1]"
-    centered "{Intanto alla stazione di polizia{/size} [withDissolve1]"
+    # centered "{size=37}Тем временем в полицейском участке{/size}" with Dissolve(1)
+    centered "{Intanto alla stazione di polizia{/size}" with Dissolve(1)
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:533
 translate italian pick_up_the_alchemy_from_the_brothel_e9d9259d:

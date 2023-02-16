@@ -45,8 +45,8 @@ translate italian elyonFoundBooks_cf01c344:
 # game/scripts/quests/singles/elyonFoundBooks.rpy:32
 translate italian elyonFoundBooks_5c32ff77:
 
-    # cedrick "... [withDissolvey3]"
-    cedrick "... [withDissolvey3]"
+    # cedrick "..." with Dissolve(.3)
+    cedrick "..." with Dissolve(.3)
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:36
 translate italian elyonFoundBooks_bbf11c6d:
@@ -171,8 +171,8 @@ translate italian elyonFoundBooks_cf01c344_1:
 # game/scripts/quests/singles/elyonFoundBooks.rpy:106
 translate italian elyonFoundBooks_0f79efd7:
 
-    # cornelia "Ну... Как там дела у Элион в магазине? [withDissolvey3]"
-    cornelia "Beh... Come sta Elion al negozio? [withDissolvey3]"
+    # cornelia "Ну... Как там дела у Элион в магазине?" with Dissolve(.3)
+    cornelia "Beh... Come sta Elion al negozio?" with Dissolve(.3)
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:107
 translate italian elyonFoundBooks_c6d3e406:
