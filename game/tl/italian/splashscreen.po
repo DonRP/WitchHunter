@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-02-15 18:20\n"
+"PO-Revision-Date: 2023-02-16 19:24\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/splashscreen.rpy:76 #-#-# translate crowdin splashscreen_f3db2f9c:
 msgid "[_attention_] {size=80}{color=#f00}ВНИМАНИЕ!{/color}{/size}\n"
@@ -47,4 +47,12 @@ msgstr "[_attention_] {size=80}{color=#f00}ATTENZIONE!{/color}{/size}\n"
 "TUTTI I PERSONAGGI DEL GIOCO HANNO ALMENO 18 ANNI.\n"
 "HAI PIÙ DI 18 ANNI?\n"
 "{/size}"
+
+# TODO: Translation updated at 2023-02-16 23:23 #|#|# # §translate crowdin strings: #|#|# # game/scripts/splashscreen.rpy:43
+msgid "Да, я совершеннолетний."
+msgstr "Sì, sono adulto."
+
+# game/scripts/splashscreen.rpy:50
+msgid "Нет, я несовершеннолетний."
+msgstr "No, sono minorenne."
 
