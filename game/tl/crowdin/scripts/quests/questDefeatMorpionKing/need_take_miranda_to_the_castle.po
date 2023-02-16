@@ -1,4 +1,0 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/need_take_miranda_to_the_castle.rpy:2 #-#-# translate crowdin need_take_miranda_to_the_castle_83595932:
-msgid "[_cedrick_] Сначала я должен отнести Миранду в замок"
-msgstr "[_cedrick_] Сначала я должен отнести Миранду в замок"
-

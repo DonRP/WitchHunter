@@ -1,8 +1,0 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/exploreTheCity/dont_look_into_any.rpy:5 #-#-# translate crowdin dont_look_into_any_2751bb5b:
-msgid "[_cedrick_sprite_] Мне лучше осмотреть это место днем"
-msgstr "[_cedrick_sprite_] Мне лучше осмотреть это место днем"
-
-# game/scripts/quests/exploreTheCity/dont_look_into_any.rpy:7 #-#-# translate crowdin dont_look_into_any_3e3e1668:
-msgid "[_cedrick_sprite_] Мне лучше осмотреть это место вечером"
-msgstr "[_cedrick_sprite_] Мне лучше осмотреть это место вечером"
-

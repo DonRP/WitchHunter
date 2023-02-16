@@ -1,4 +1,0 @@
-﻿# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/interface/phone/labels/phone_cannot_call.rpy:2 #-#-# translate crowdin phone_cannot_call_4a74e457:
-msgid "[_cedrick_] Не подходящее время чтобы кому-то щас звонить"
-msgstr "[_cedrick_] Не подходящее время чтобы кому-то щас звонить"
-
