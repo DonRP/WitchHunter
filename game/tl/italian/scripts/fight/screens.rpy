@@ -13,5 +13,5 @@ translate italian strings:
 
     # game/scripts/fight/screens.rpy:332
     old "Загрузка"
-    new "Scaricare"
+    new "Carica"
 

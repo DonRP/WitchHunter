@@ -20,7 +20,7 @@ translate italian strings:
 
     # game/screens.rpy:440
     old "Загрузить"
-    new "Scaricare"
+    new "Carica"
 
     # game/screens.rpy:441
     old "Настройки"
@@ -48,11 +48,11 @@ translate italian strings:
 
     # game/screens.rpy:507
     old "Вернуться в игру"
-    new "Di nuovo in gioco"
+    new "Riprendi la partita"
 
     # game/screens.rpy:510
     old "Сохранить"
-    new "Risparmiare"
+    new "Salvare"
 
     # game/screens.rpy:518
     old "Главное меню"
@@ -80,7 +80,7 @@ translate italian strings:
 
     # game/screens.rpy:824
     old "Да"
-    new "Sì"
+    new "Si"
 
     # game/screens.rpy:828
     old "Нет"
