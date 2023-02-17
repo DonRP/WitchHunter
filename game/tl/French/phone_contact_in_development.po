@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:24\n"
+"PO-Revision-Date: 2023-02-17 06:55\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/interface/phone/labels/phone_contact_in_development.rpy:2 #-#-# translate crowdin phone_contact_in_development_3958290b:
 msgid "Контент в разработке"
-msgstr ""
+msgstr "Contenu en cours de développement"
 
