@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-02-17 06:59\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:5 #-#-# translate crowdin getIngredientForAgePotionForLilian_54034955:
 msgid "[_herald_] Ну что ж, ты выиграл... забирай цветок и проваливай! "
-msgstr ""
+msgstr "[_herald_] Eh bien, vous gagnez... prenez la fleur et partez ! "
 
 # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:6 #-#-# translate crowdin getIngredientForAgePotionForLilian_94f0bf58:
 msgid "[_cedrick_] И что с тобой не так?"
-msgstr ""
+msgstr "[_cedrick_] Et qu'est-ce qui ne va pas chez toi ?"
 
 # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:7 #-#-# translate crowdin getIngredientForAgePotionForLilian_4ac5c82b:
 msgid "[_herald_] Я потерял всех близких мне людей и теперь застрял в этом поганом месте... что тут может быть не так?"
-msgstr ""
+msgstr "[_herald_] J'ai perdu tous mes proches et maintenant je suis coincé dans cet endroit de merde... qu'est-ce qui pourrait être mal à ça ?"
 
 # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:8 #-#-# translate crowdin getIngredientForAgePotionForLilian_4d202c19:
 msgid "[_cedrick_] Ага, очень трогательно. Я пошел."
-msgstr ""
+msgstr "[_cedrick_] Ouais, très touchant. Je m'en vais."
 
 # game/scripts/quests/growingUpLilian/getIngredientForAgePotionForLilian.rpy:9 #-#-# translate crowdin getIngredientForAgePotionForLilian_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
