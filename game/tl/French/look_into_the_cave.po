@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:28\n"
+"PO-Revision-Date: 2023-02-17 06:57\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/exploreTheCity/look_into_the_cave.rpy:6 #-#-# translate crowdin look_into_the_cave_ef9f41f7:
 msgid "[_cedrick_] Ого! Какая большая пещ… ФУ..! Вот это вонь..!"
-msgstr ""
+msgstr "[_cedrick_] Wow ! Quelle grande grotte… FU... ! Ça pue... !"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave.rpy:7 #-#-# translate crowdin look_into_the_cave_f27d4883:
 msgid "[_cedrick_] Видимо... Сюда выкидывают мусор…"
-msgstr ""
+msgstr "[_cedrick_] Apparemment... C'est ici que les ordures sont jetées…"
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave.rpy:8 #-#-# translate crowdin look_into_the_cave_0a06ddcc:
 msgid "[_cedrick_] Или же здесь кто-то живет… Хм..."
-msgstr ""
+msgstr "[_cedrick_] Ou quelqu'un vit-il ici… Hm..."
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave.rpy:9 #-#-# translate crowdin look_into_the_cave_173504f7:
 msgid "[_cedrick_] Пожалуй, мне стоит заглянуть сюда вечером..."
-msgstr ""
+msgstr "[_cedrick_] Je devrais peut-être venir ici ce soir..."
 
 # game/scripts/quests/exploreTheCity/look_into_the_cave.rpy:10 #-#-# translate crowdin look_into_the_cave_09ebd26e:
 msgid "[_cedrick_] Не хочу здесь задерживаться…"
-msgstr ""
+msgstr "[_cedrick_] Je ne veux pas m'attarder ici…"
 
