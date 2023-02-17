@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-02-17 06:56\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:6 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_79b9062c:
 msgid "[_directris_] Ага, а вот и вы, м-р Хоффман!"
-msgstr ""
+msgstr "[_directris_] Oui, vous êtes là, M. Hoffman !"
 
 # game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:7 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_fa65483d:
 msgid "[_cedrick_] Да?"
-msgstr ""
+msgstr "[_cedrick_] Oui ?"
 
 # game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:10 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_d891ec47:
 msgid "[_directris_] Так как вы не присутствовали на учительском собрании, я продублирую для вас информацию персонально!"
-msgstr ""
+msgstr "[_directris_] Comme vous n'avez pas assisté à la réunion des enseignants, je vais reproduire l'information pour vous personnellement !"
 
 # game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:13 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_ec544a32:
 msgid "[_directris_] Через несколько дней проводится наш ежегодный родительский день!"
-msgstr ""
+msgstr "[_directris_] Dans quelques jours aura lieu notre journée annuelle des parents !"
 
 # game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:14 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_3e88636c:
 msgid "[_directris_] И нужно, чтобы ученики заполнили родословное древо и приклеили к нему фотографии своих родственников…"
-msgstr ""
+msgstr "[_directris_] Et vous demandez aux élèves de remplir un arbre généalogique et d'y coller les photos de leurs proches…."
 
 # game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:15 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_616a3b41:
 msgid "[_directris_] Сообщите об этом своим ученикам! анкеты для родословного древа вы сможете взять в учительской… а теперь идите, не тратьте больше мое время…"
-msgstr ""
+msgstr "[_directris_] Faites-le savoir à vos élèves ! Des questionnaires sur l'arbre généalogique sont disponibles dans la salle des professeurs… . Maintenant, partez, ne me faites pas perdre plus de temps…."
 
