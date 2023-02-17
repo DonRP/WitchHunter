@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2023-01-01 20:31\n"
+"PO-Revision-Date: 2023-02-17 05:14\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:169
 msgid "Играть с читами"
@@ -22,5 +22,5 @@ msgstr "Play without cheats"
 
 # game/script.rpy:169
 msgid "Назад"
-msgstr ""
+msgstr "Go back"
 
