@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:25\n"
+"PO-Revision-Date: 2023-02-17 06:55\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/interface/phone/screens/phone_browser.rpy:27
 msgid "Купить билеты"
-msgstr ""
+msgstr "Acheter des billets"
 
 # game/scripts/interface/phone/screens/phone_browser.rpy:32
 msgid "Лягушки Пеппа 200$"
-msgstr ""
+msgstr "Grenouilles Peppa $200"
 
 # game/scripts/interface/phone/screens/phone_browser.rpy:35
 msgid "Провести публичные чтения"
-msgstr ""
+msgstr "Organiser des lectures publiques"
 
 # game/scripts/interface/phone/screens/phone_browser.rpy:56
 msgid "Заказать пижаму (300$)"
-msgstr ""
+msgstr "Commander un pyjama (300 $)"
 
 # game/scripts/interface/phone/screens/phone_browser.rpy:61
 msgid "Заказать форму служанки (500$)"
-msgstr ""
+msgstr "Commander un uniforme de femme de chambre (500 $)"
 
