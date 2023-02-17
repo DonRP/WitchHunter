@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:25\n"
+"PO-Revision-Date: 2023-02-17 06:55\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/map/locations/will_home.rpy:33 #-#-# translate crowdin will_home_b94380c4:
 msgid "Думаю, не стоит приходить к ним в столь позднее время"
-msgstr ""
+msgstr "Je ne pense pas que vous devriez venir les voir à cette heure tardive."
 
 # game/scripts/map/locations/will_home.rpy:36 #-#-# translate crowdin will_home_2f5ad671:
 msgid "Скорей всего дома никого нет"
-msgstr ""
+msgstr "Il n'y a probablement personne à la maison."
 
 # game/scripts/map/locations/will_home.rpy:39 #-#-# translate crowdin will_home_9ddaceaf:
 msgid "[_cedrick_sprite_] Мне сюда путь закрыт"
-msgstr ""
+msgstr "[_cedrick_sprite_] Je n'ai pas le droit de venir ici."
 
 # game/scripts/map/locations/will_home.rpy:42 #-#-# translate crowdin will_home_7f046d2b:
 msgid "[_cedrick_sprite_] Мне нечего там делать"
-msgstr ""
+msgstr "[_cedrick_sprite_] Je n'ai rien à faire là-bas."
 
