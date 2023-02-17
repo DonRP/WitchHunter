@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:33\n"
+"PO-Revision-Date: 2023-02-17 07:01\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:8 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_4388583e:
 msgid "[_cedrick_] Элион, привет!"
-msgstr ""
+msgstr "[_cedrick_] Elyon, bonjour !"
 
 # game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:11 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_5df8c0fe:
 msgid "[_elion_] Эм... привет, Рик"
-msgstr ""
+msgstr "[_elion_] Hum... Hey, Rick."
 
 # game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:14 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_29446723:
 msgid "[_cedrick_] Насчет того, что ты видела вчера... это недоразумение... я понимаю, что это может звучать странно, просто я..."
-msgstr ""
+msgstr "[_cedrick_] A propos de ce que vous avez vu hier... c'est un malentendu... Je sais que ça peut paraître étrange, mais je..."
 
 # game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:17 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_23cc1b30:
 msgid "[_elion_] Я... Давай не будем это обсуждать..."
-msgstr ""
+msgstr "[_elion_] Я... Ne parlons pas de ça..."
 
 # game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:19 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_677063a4:
 msgid "[_cedrick_] Хорошо, просто я разбирал старые журналы и...."
-msgstr ""
+msgstr "[_cedrick_] OK, c'est juste que j'ai parcouru de vieux magazines et....."
 
 # game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:22 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_d5040f78:
 msgid "[_elion_] Рик! Я правда не хочу это обсуждать! "
-msgstr ""
+msgstr "[_elion_] Rick ! Je n'ai vraiment pas envie d'en parler ! "
 
