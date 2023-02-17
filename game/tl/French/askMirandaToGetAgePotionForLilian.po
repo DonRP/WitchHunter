@@ -10,73 +10,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:29\n"
+"PO-Revision-Date: 2023-02-17 06:58\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:11 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_593f4a08:
 msgid "[_cedrick_] Мне нужна от тебя еще одна услуга..."
-msgstr ""
+msgstr "[_cedrick_] J'ai besoin d'une autre faveur de votre part..."
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:15 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_d550ca7c:
 msgid "[_miranda_] Да?"
-msgstr ""
+msgstr "[_miranda_] Oui ?"
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:19 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_b6700ba8:
 msgid "[_cedrick_] Мне нужно зелье, которое ускоряет человеческий рост!"
-msgstr ""
+msgstr "[_cedrick_] J'ai besoin d'une potion qui accélère la croissance humaine !"
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:23 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_897c7c0b:
 msgid "[_miranda_] На сколько ускоряет?"
-msgstr ""
+msgstr "[_miranda_] Plus rapide de combien ?"
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:27 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_35b581f4:
 msgid "[_cedrick_] Значительно... Даже очень..."
-msgstr ""
+msgstr "[_cedrick_] De manière significative... Très bien..."
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:28 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_392dc39e:
 msgid "[_cedrick_] Мне необходимо, чтобы одна девочка подросла... Лет на десять и в кратчайшие сроки"
-msgstr ""
+msgstr "[_cedrick_] J'ai besoin qu'une fille grandisse... De dix ans et en un rien de temps"
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:32 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_ead78552:
 msgid "[_miranda_] Зачем тебе это? Ты собираешься ее трахнуть!? "
-msgstr ""
+msgstr "[_miranda_] Pourquoi tu fais ça ? Tu vas la baiser ? "
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:36 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_f5dd0b4d:
 msgid "[_cedrick_] Задание князя Фобоса, сама понимаешь... Очень секретно... Я не могу делится подробностями..."
-msgstr ""
+msgstr "[_cedrick_] Une mission pour le Prince Phobos, vous savez... Très secrète... Je ne peux pas partager les détails..."
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:40 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_9d8f4026:
 msgid "[_miranda_] Ну смотри..."
-msgstr ""
+msgstr "[_miranda_] Ecoutez..."
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:44 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_36ec1088:
 msgid "[_miranda_] В общем... Есть у меня один рецепт... Но мне не хватает одного очень нужного ингредиента..."
-msgstr ""
+msgstr "[_miranda_] Enfin... J'ai une recette... Mais il me manque un ingrédient indispensable..."
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:45 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_a1d8d941:
 msgid "[_miranda_] Мне нужен Феаинневедд"
-msgstr ""
+msgstr "[_miranda_] J'ai besoin d'un PheaInneved"
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:49 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_3deb2ede:
 msgid "[_cedrick_] Феании.. что?"
-msgstr ""
+msgstr "[_cedrick_] Feanee... quoi ?"
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:53 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_ebf08014:
 msgid "[_miranda_] Феаинневедд... это цветок... Но только ведьмаки знают где добыть его."
-msgstr ""
+msgstr "[_miranda_] Pheaennevedd... est une fleur... Mais seules les sorcières savent où la trouver."
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:57 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_4d281384:
 msgid "[_cedrick_] В таком случае... Возможно ты сама знаешь, где бы я мог найти одного из них?"
-msgstr ""
+msgstr "[_cedrick_] Dans ce cas... Peut-être savez-vous vous-même où je pourrais trouver l'un d'eux ?"
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:61 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_ad4f2829:
 msgid "[_miranda_] Если честно, то без понятий... "
-msgstr ""
+msgstr "[_miranda_] Honnêtement, je n'en ai aucune idée... "
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:62 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_078b7c23:
 msgid "[_cedrick_] Мда, ну спасибо тебе за помощь..."
-msgstr ""
+msgstr "[_cedrick_] Oui, eh bien, merci pour votre aide..."
 
 # game/scripts/quests/growingUpLilian/askMirandaToGetAgePotionForLilian.rpy:67 #-#-# translate crowdin askMirandaToGetAgePotionForLilian_1777be7f:
 msgid "[_cedrick_] (По-моему я видел кого-то очень похожего на ведьмака в таверне...)"
-msgstr ""
+msgstr "[_cedrick_] (Je crois avoir vu quelqu'un qui ressemblait beaucoup à une sorcière dans la taverne...)"
 
