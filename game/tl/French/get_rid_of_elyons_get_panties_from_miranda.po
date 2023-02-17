@@ -10,57 +10,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:28\n"
+"PO-Revision-Date: 2023-02-17 06:58\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:5 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_e133d835:
 msgid "[_miranda_] Ох, привет, Седрик.. Не ждала тебя так позд.."
-msgstr ""
+msgstr "[_miranda_] Oh, bonjour, Cédric... Je ne t'attendais pas si tard..."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:6 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_60b9d510:
 msgid "[_cedrick_] Нет времени объяснять! Миранда, снимай трусы!"
-msgstr ""
+msgstr "[_cedrick_] On n'a pas le temps d'expliquer ! Miranda, enlève ton pantalon !"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:10 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_a037b123:
 msgid "[_miranda_] Ч-что.. Ох, Седрик, какой ты ненасытный.."
-msgstr ""
+msgstr "[_miranda_] Q-Quoi... Oh, Cédric, comme tu es insatiable..."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:11 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_affc6ffb:
 msgid "[_cedrick_] Быстро я сказал!!"
-msgstr ""
+msgstr "[_cedrick_] C'était rapide j'ai dit ! !!"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:13 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_d383e8f8:
 msgid "[_miranda_] Уфф, люблю, когда ты так мною командуешь"
-msgstr ""
+msgstr "[_miranda_] Ugh, j'adore quand tu me donnes des ordres comme ça."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:15 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_f085799b:
 msgid "[_centered_] {size=37}МИРАНДА СНИМАЕТ ТРУСЫ{/size}"
-msgstr ""
+msgstr "[_centered_] {Miranda enlève son pantalon{/size}."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:18 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_ce2025c4:
 msgid "[_miranda_] Ну что, жеребец, нравится моя попка?"
-msgstr ""
+msgstr "[_miranda_] Alors, tombeur, tu aimes mon cul ?"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:19 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_2389366a:
 msgid "[_miranda_] Наверное уже так и хочешь вцепиться в нее и как следует трахнуть меня.."
-msgstr ""
+msgstr "[_miranda_] Tu dois vraiment avoir envie de l'attraper et de me baiser..."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:20 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_f191b82d:
 msgid "[_miranda_] Ну, давай же, не сдерживайся!"
-msgstr ""
+msgstr "[_miranda_] Allez, ne vous retenez pas !"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:25 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_f53171e3:
 msgid "[_cedrick_] Отлично! То, что надо, я пошел!"
-msgstr ""
+msgstr "[_cedrick_] Oh, c'est génial ! C'est ça, je suis parti !"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:29 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_d1f0303a:
 msgid "[_miranda_] Ч-что.. Н-но, как же.."
-msgstr ""
+msgstr "[_miranda_] Q-Quoi... M-mais qu'en est-il..."
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:30 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_2748d386:
 msgid "[_cedrick_] Мало времени! Это все по поручению Фобоса!"
-msgstr ""
+msgstr "[_cedrick_] Pas beaucoup de temps ! C'est au nom de Phobos !"
 
 # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_get_panties_from_miranda.rpy:34 #-#-# translate crowdin get_rid_of_elyons_get_panties_from_miranda_25be37f2:
 msgid "[_miranda_] (Фобосу что, срочно понадобились мои трусы?.. Лучше не думать об этом..)"
-msgstr ""
+msgstr "[_miranda_] (Est-ce que Phobos a eu besoin de mon pantalon en urgence ?... Mieux vaut ne pas y penser...)"
 
