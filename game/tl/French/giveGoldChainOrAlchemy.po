@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-01-02 17:24\n"
+"PO-Revision-Date: 2023-02-17 07:02\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:5 #-#-# translate crowdin giveGoldChainOrAlchemy_97a4e5a0:
 msgid "[_cedrick_] (Что ж, пожалуй я могу устроить ему секс с Алхими..)"
-msgstr ""
+msgstr "[_cedrick_] (Eh bien, je suppose que je pourrais lui donner du sexe avec les Alchimies...)"
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:6 #-#-# translate crowdin giveGoldChainOrAlchemy_bdf4a062:
 msgid "[_cedrick_] Что ж, у меня есть одна женщина для тебя, пошли за мной!"
-msgstr ""
+msgstr "[_cedrick_] Eh bien, j'ai une femme pour vous, venez me chercher !"
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:11 #-#-# translate crowdin giveGoldChainOrAlchemy_9ff07a41:
 msgid "[_blank_] Ты принести золотую цепь для Бланка?"
-msgstr ""
+msgstr "[_blank_] Apporterez-vous une chaîne en or pour Blanc ?"
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:15 #-#-# translate crowdin giveGoldChainOrAlchemy_6c6d60b0:
 msgid "[_cedrick_] Вот, держи."
@@ -30,21 +30,21 @@ msgstr "[_cedrick_] Voici, attends."
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:16 #-#-# translate crowdin giveGoldChainOrAlchemy_62f0b8d7:
 msgid "[_cedrick_] (Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
-msgstr ""
+msgstr "[_cedrick_] (Il ne nous reste plus qu'à attendre les photos...). J'espère que le frère de Nigel est vraiment aussi mauvais que la mère de Tarani l'a dit)."
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:25 #-#-# translate crowdin giveGoldChainOrAlchemy_ff72afdb:
 msgid "[_blankChar_] Тогда приходи как добудешь"
-msgstr ""
+msgstr "[_blankChar_] Alors reviens quand tu l'auras"
 
 # §translate crowdin strings: #|#|# # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
 msgid "Отдать алхими"
-msgstr ""
+msgstr "Redonner aux alchimistes"
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
 msgid "Отдать цепочку"
-msgstr ""
+msgstr "Remettre la chaîne"
 
 # game/scripts/quests/tarani/giveGoldChainOrAlchemy.rpy:3
 msgid "У меня ничего нет"
-msgstr ""
+msgstr "Je n'ai rien."
 
