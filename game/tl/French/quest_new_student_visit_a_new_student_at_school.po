@@ -10,325 +10,325 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:31\n"
+"PO-Revision-Date: 2023-02-17 07:00\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:7 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_51e77407:
 msgid "[_physteacher_] Рик Хоффман! Дружище"
-msgstr ""
+msgstr "[_physteacher_] Rick Hoffman ! Mate"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:8 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_29891500:
 msgid "[_cedrick_] (Кто он вообще такой, мы знакомы?..)"
-msgstr ""
+msgstr "[_cedrick_] (Qui est-il d'ailleurs, nous sommes-nous rencontrés... ?)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:9 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_65e2fef5:
 msgid "[_cedrick_] (Ах да, это же местный учитель физкультуры. И как я сразу не догадался..)"
-msgstr ""
+msgstr "[_cedrick_] (Oh oui, c'est le professeur d'éducation physique local. Comment je n'ai pas réalisé...)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:10 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_b49f037c:
 msgid "[_cedrick_] Мы виделись с вами всего пару раз.."
-msgstr ""
+msgstr "[_cedrick_] On ne s'est vus que deux fois..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:11 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_ef53f233:
 msgid "[_physteacher_] Ерунда ..ик.. в наше время любой, кто может выручить тебя в беде ..ик .. твой друг"
-msgstr ""
+msgstr "[_physteacher_] C'est absurde ...eek ...de nos jours, toute personne qui peut vous aider en cas de problème ...eek ...est votre ami."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:13 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_e92dcb38:
 msgid "[_physteacher_] вооообщем... по мне ..ик .. может и не видно, но я изрядно надрался..."
-msgstr ""
+msgstr "[_physteacher_] Enfin... Je ne suis peut-être pas capable de le dire, mais je suis assez bourré..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:14 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_cf626d46:
 msgid "[_cedrick_] (Он явно чего-то от меня хочет, надо от него избавиться)"
-msgstr ""
+msgstr "[_cedrick_] (Il veut manifestement quelque chose de moi, nous devons nous débarrasser de lui)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:15 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_eac68414:
 msgid "[_cedrick_] Ох, что, правда? А вы держитесь молодцом, не подаете виду"
-msgstr ""
+msgstr "[_cedrick_] Oh, vraiment ? Vous faites un bon travail en gardant un profil bas."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:19 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f29b5476:
 msgid "[_physteacher_] Да ты что, дружииище, меня ноги еле держат.."
-msgstr ""
+msgstr "[_physteacher_] Allez, mon pote, je peux à peine garder mes jambes..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:23 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_bc13af2f:
 msgid "[_physteacher_] Короче.. не могу я перед ребятишками в таком.. икк.. состоянии показаться... Не мог бы ты меня подменить сегодня???"
-msgstr ""
+msgstr "[_physteacher_] Quoi qu'il en soit... je ne peux pas me montrer devant les enfants dans cet... état. Tu peux me remplacer aujourd'hui ?"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:24 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_d2060af8:
 msgid "[_cedrick_] Не уверен, что справлюсь. Это не моя специализация, к тому же это не в моей компетенции. Не думаю, что Миссис Никербокер останется в восторге"
-msgstr ""
+msgstr "[_cedrick_] Je ne suis pas sûr de pouvoir le faire. Ce n'est pas ma spécialité, et ce n'est pas non plus mon domaine d'expertise. Je ne pense pas que Mme Knickerbocker serait ravie..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:28 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_79a99acc:
 msgid "[_physteacher_] Да ерунда, никто ничего не узнает! ик.. ты справишься"
-msgstr ""
+msgstr "[_physteacher_] Ce n'est pas grave, personne ne va le découvrir ! eek... tu peux le faire."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:29 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_b65c3ebc:
 msgid "[_physteacher_] Детишки тебя любят! К тому же они сами знают, чем им заняться. Проведешь разминку, побегают, поиграют...ик.. ничего сложного"
-msgstr ""
+msgstr "[_physteacher_] Les enfants t'aiment ! En plus, ils savent ce qu'il faut faire. Tu les réchauffes, tu cours, tu joues... heu... rien de difficile."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:30 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_85107601:
 msgid "[_cedrick_] Действительно.."
-msgstr ""
+msgstr "[_cedrick_] En effet..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:34 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_fa54759f:
 msgid "[_physteacher_] Спасибо, дружище.. ик..."
-msgstr ""
+msgstr "[_physteacher_] Merci, mon pote... eek..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:35 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_db5c9184:
 msgid "[_cedrick_] Постой.. я же ещe даже не соглашался.."
-msgstr ""
+msgstr "[_cedrick_] Attends... Je n'ai même pas encore dit oui..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:36 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_3f0ca3ea:
 msgid "[_physteacher_] Я твой должнииик!"
-msgstr ""
+msgstr "[_physteacher_] Je vous en dois une !"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:37 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_e19e6587:
 msgid "[_cedrick_] (Гребаный пьянчуга.. Не думаю, что это хорошая идея... Но, с другой стороны, он сможет быть мне полезным... Что ж, у меня как раз нет уроков)"
-msgstr ""
+msgstr "[_cedrick_] (Putain d'ivrogne... Je ne pense pas que ce soit une bonne idée... Mais, d'un autre côté, il pourrait m'être utile... C'est juste que je n'ai pas de leçons à donner)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:43 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_939fef8a:
 msgid "[_centered_] {size=37} Урок физкультуры {/size}"
-msgstr ""
+msgstr "[_centered_] {classe PE {/size}"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:48 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_49279a30:
 msgid "[_cedrick_] И так, класс, сегодня у мистера Бартона возникли неотложные дела .."
-msgstr ""
+msgstr "[_cedrick_] Et donc, aujourd'hui, M. Barton a des affaires urgentes à régler."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:49 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_73dff37e:
 msgid "[_guy_] Это точно, я видел как он лежит бухой у себя в подсобке!!"
-msgstr ""
+msgstr "[_guy_] C'est vrai, je l'ai vu allongé, ivre, dans mon arrière-boutique ! !!"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:50 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_1dd9ee47:
 msgid "[_cedrick_] кхм.. В общем, мистер Бартон не в состоянии вести занятия, так что вместо него урок физкультуры провожу я"
-msgstr ""
+msgstr "[_cedrick_] Hum... Bref, M. Barton ne peut pas assurer le cours, donc je prends le cours d'EPS à la place."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:51 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_8f8ea6f6:
 msgid "[_cedrick_] В связи с этим у вас сегодня свободный урок.."
-msgstr ""
+msgstr "[_cedrick_] À ce propos, vous avez une leçon gratuite aujourd'hui..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:52 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_cc29f09c:
 msgid "[_cedrick_] Проведите разминку и можете поиграть в волейбол или что-нибудь в этом духе"
-msgstr ""
+msgstr "[_cedrick_] Fais un échauffement et tu peux jouer au volley-ball ou quelque chose comme ça."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:54 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f1cbbdef:
 msgid "[_centered_] {size=37} Некоторое время спустя {/size}"
-msgstr ""
+msgstr "[_centered_] {Quelque temps plus tard..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:57 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:58 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_9b243e85:
 msgid "[_cedrick_] Я сказал что у вас свободный урок но это не значит что вы можете сидеть без дела"
-msgstr ""
+msgstr "[_cedrick_] J'ai dit que vous avez une classe libre mais ça ne veut pas dire que vous pouvez rester assis sans rien faire."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:59 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_0b0ec36d:
 msgid "[_uria_] ..Так, а она чо?"
-msgstr ""
+msgstr "[_uria_] ...Alors, qu'en est-il d'elle ?"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:60 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_918574c4:
 msgid "[_guy_] А она короч мне и говорит..."
-msgstr ""
+msgstr "[_guy_] Et elle me dit..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:61 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_ca5b1441:
 msgid "[_cedrick_] Урия! Пятьдесят кругов по залу... и дружков прихвати с собой, а то больно у них довольные лица.."
-msgstr ""
+msgstr "[_cedrick_] Uriah ! Cinquante tours de la salle... ...et emmène tes amis avec toi, ils ont des visages heureux..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:62 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_dedc197d:
 msgid "[_cedrick_] (Что ж в работе учителем физкультуры определенно есть свои плюсы...)"
-msgstr ""
+msgstr "[_cedrick_] (Eh bien, être un professeur d'éducation physique a certainement ses avantages...)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:63 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_7b91a7c2:
 msgid "[_cedrick_] (..Я бы даже сказал много плюсов.. вы только посмотрите на них)"
-msgstr ""
+msgstr "[_cedrick_] (...je dirais même beaucoup de plus...il suffit de les regarder)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:65 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_68c31ed4:
 msgid "[_centered_] {size=37} После урока {/size}"
-msgstr ""
+msgstr "[_centered_] {Après le cours..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:68 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_7c75ccd5:
 msgid "[_cedrick_] На этом занятие окончено... Можете идти в раздевалку..."
-msgstr ""
+msgstr "[_cedrick_] C'est la fin du cours... Vous pouvez aller au vestiaire..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:69 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_1dc5b17f:
 msgid "[_cedrick_] Ах да, и не забудьте сложить весь спортинвентарь.."
-msgstr ""
+msgstr "[_cedrick_] Oh oui, et n'oubliez pas d'emballer tous les équipements sportifs..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:72 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a230cca8:
 msgid "[_guy_] Сондра, тебе не нужно нести это. Давай я тебе помогу!"
-msgstr ""
+msgstr "[_guy_] Sondra, tu n'as pas besoin de porter ça. Laissez-moi vous aider !"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:73 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_9d685e04:
 msgid "[_guy2_] И я , Давай помогу тебе, я тоже могу!"
-msgstr ""
+msgstr "[_guy2_] Et moi, laisse-moi t'aider, je peux le faire aussi !"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:74 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_8dd44f9b:
 msgid "[_sondra_] Не стоит мальчики.. спасибо.. я справлюсь сама"
-msgstr ""
+msgstr "[_sondra_] Pas besoin les garçons... Merci... Je peux me débrouiller toute seule."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:75 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f417bc8a:
 msgid "[_guy_] Тогда я подожду тебя!"
-msgstr ""
+msgstr "[_guy_] Alors je t'attendrai !"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:76 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_92d42551:
 msgid "[_sondra_] Не нужно, не ждите меня, я только сложу спортинвентарь и пойду в раздевалку..."
-msgstr ""
+msgstr "[_sondra_] Pas besoin, ne m'attendez pas, je vais juste poser mon équipement sportif et aller au vestiaire..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:77 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:78 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:79 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_d1ddaffa:
 msgid "........"
-msgstr ""
+msgstr "........"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:80 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_91047a3a:
 msgid ".........."
-msgstr ""
+msgstr ".........."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:81 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_bba4cc1d:
 msgid "[_cedrick_] (Что-то она там долго...)"
-msgstr ""
+msgstr "[_cedrick_] (Il y a quelque chose qui lui prend beaucoup de temps là...)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:82 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_23137bfe:
 msgid "[_sondra_] Профессор хоффман вы бы не могли мне помочь??"
-msgstr ""
+msgstr "[_sondra_] Professeur Hoffman, pouvez-vous m'aider ?"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:83 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_47ace6eb:
 msgid "хм.."
-msgstr ""
+msgstr "hmm..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:84 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:86 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7_3:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:93 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_8240d241:
 msgid "[_cedrick_] (Что она здесь делает.. в такой позе..)"
-msgstr ""
+msgstr "[_cedrick_] (Que fait-elle ici... dans cette pose...)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:94 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_c6c4f51e:
 msgid "[_sondra_] Мистер Хоффман... я и не подозревала, что вы помимо истории ведете еще и физкультуру"
-msgstr ""
+msgstr "[_sondra_] Mr. Hoffman... Je ne savais pas que vous étiez à la fois professeur d'histoire et d'éducation physique."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:95 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_ed843afb:
 msgid "[_cedrick_] Это скорее исключение из правил"
-msgstr ""
+msgstr "[_cedrick_] Il s'agit plutôt d'une exception à la règle"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:96 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_23b7bdac:
 msgid "[_sondra_] Так вы у нас нарушаете правила? А не проведете со мной сегодня сеанс специальной тренировки.."
-msgstr ""
+msgstr "[_sondra_] Alors tu enfreins les règles ? Auriez-vous une séance d'entraînement spéciale avec moi aujourd'hui..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:97 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_03dd1e7b:
 msgid "[_cedrick_] Специальной тренировки?? Что ты имеешь ввиду.."
-msgstr ""
+msgstr "[_cedrick_] Une formation spéciale ? Qu'est-ce que tu veux dire..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:98 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_b7ae3fbf:
 msgid "[_sondra_] Ну же.. Я видела каким извращенным вглядом вы смотрели на меня во время урока.."
-msgstr ""
+msgstr "[_sondra_] Allez... J'ai vu le regard tordu que tu m'as lancé pendant le cours..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:99 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_d821c0d3:
 msgid "[_sondra_] Думали я не заметила?"
-msgstr ""
+msgstr "[_sondra_] Tu pensais que je n'avais pas remarqué ?"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:100 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_67f6966d:
 msgid "[_cedrick_] Ничего подобного.."
-msgstr ""
+msgstr "[_cedrick_] Il n'y a pas de telle chose..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:101 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_96d83ca3:
 msgid "[_sondra_] Я же вижу, как вы смотрите на меня, мистер Хоффман.. Я знаю чего вы хотите.."
-msgstr ""
+msgstr "[_sondra_] Je vois la façon dont vous me regardez, M. Hoffman. Je sais ce que vous voulez."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:103 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_90a9aa13:
 msgid "[_sondra_] ...Вы можете достать его.."
-msgstr ""
+msgstr "[_sondra_] ...Vous pouvez l'obtenir..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:104 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_55c93b1f:
 msgid "[_sondra_] Ну же..."
-msgstr ""
+msgstr "[_sondra_] Allez..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:108 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_9e178363:
 msgid "[_cedrick_] Я.. Я не думаю, что это будет уместно, ведь я учитель. Я не могу воспользоваться своим положением..."
-msgstr ""
+msgstr "[_cedrick_] Я.. Je ne pense pas que ce serait approprié, puisque je suis un enseignant. Je ne peux pas profiter de ma position..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:109 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f19b5c49:
 msgid "[_sondra_] Давай, покажите мне свой член… а не то я скажу, что вы ко мне приставали..."
-msgstr ""
+msgstr "[_sondra_] Allez, montre-moi ta bite… ou je dirai que tu me draguais..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:111 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_5f9b772e_1:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:114 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_297ec669:
 msgid "[_sondra_] Огооо, так вот он какой.."
-msgstr ""
+msgstr "[_sondra_] Wow, alors c'est comme ça qu'il est."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:115 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_ee235912:
 msgid "[_sondra_] Вам наверное было тяжело сдерживать такой огромный стояк.."
-msgstr ""
+msgstr "[_sondra_] Ça a dû être difficile pour toi de contenir une telle érection..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:116 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_e87c9524:
 msgid "[_cedrick_] Если нас кто-нибудь увидит.."
-msgstr ""
+msgstr "[_cedrick_] Si quelqu'un nous voit..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:117 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_29984e3d:
 msgid "[_sondra_] Это навряд ли. Учитывая что здесь сейчас никого и все ушли на урок.."
-msgstr ""
+msgstr "[_sondra_] Je ne pense pas. Vu que personne n'est là en ce moment et que tout le monde est parti en cours..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:118 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_3078c1af:
 msgid "[_sondra_] Только глянь, какой твердый он стал..."
-msgstr ""
+msgstr "[_sondra_] Regarde comme il est devenu dur..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:119 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_f637c254:
 msgid "[_sondra_] А вы еще тот извращенец, не так ли?.."
-msgstr ""
+msgstr "[_sondra_] Vous êtes un vrai pervers, n'est-ce pas... ?"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:120 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_cd62a954:
 msgid "[_sondra_] Признайтесь, вам же нравится это…"
-msgstr ""
+msgstr "[_sondra_] Admettez-le, vous l'aimez…"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:121 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_911cec74:
 msgid "[_cedrick_] (Чего вообще она добивается..)"
-msgstr ""
+msgstr "[_cedrick_] (Qu'est-ce qu'elle essaie d'obtenir...)"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:122 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a60368ce:
 msgid "[_cedrick_] Да..... чертовски хорошо"
-msgstr ""
+msgstr "[_cedrick_] Oui..... sacrément bien"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:124 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_14fc9239:
 msgid "[_sondra_] Ну, пожалуй, мне пора идти"
-msgstr ""
+msgstr "[_sondra_] Eh bien, je suppose que je ferais mieux d'y aller."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:126 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_8ebf0bb1:
 msgid "[_sondra_] А не то я могу опоздать на урок"
-msgstr ""
+msgstr "[_sondra_] Sinon, je risque d'être en retard en classe."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:127 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_06fd0a82:
 msgid "[_cedrick_] П-постой.."
-msgstr ""
+msgstr "[_cedrick_] Attendez..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:128 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_01d8da36:
 msgid "[_sondra_] Ммм?"
-msgstr ""
+msgstr "[_sondra_] Hmm ?"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:129 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_367515e4:
 msgid "[_cedrick_] Ты не можешь меня так оставить!.."
-msgstr ""
+msgstr "[_cedrick_] Tu ne peux pas me laisser comme ça !"
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:130 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_26c2a4ca:
 msgid "[_sondra_] Еще как могу! Вы ведь не хотели пользоваться своим положением, учитель.."
-msgstr ""
+msgstr "[_sondra_] Si, je peux ! Vous ne vouliez pas profiter de votre position, professeur..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:132 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_a20cefa7_4:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/newStudent/quest_new_student_visit_a_new_student_at_school.rpy:133 #-#-# translate crowdin quest_new_student_visit_a_new_student_at_school_ba571c88:
 msgid "[_cedrick_] (Вот.. Сука.. Она просто играла со мной....)"
-msgstr ""
+msgstr "[_cedrick_] (Ici... Salope... Elle jouait juste avec moi....)"
 
