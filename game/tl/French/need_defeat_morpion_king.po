@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-02-17 07:01\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/need_defeat_morpion_king.rpy:2 #-#-# translate crowdin need_defeat_morpion_king_4bec4e7b:
 msgid "[_cedrick_] Я должен идти в лес и сразиться с Королем Морпионов, пока он там всех не перебил и не направился в сторону замка.."
-msgstr ""
+msgstr "[_cedrick_] Je dois aller dans la forêt et combattre le Roi Morpion avant qu'il ne tue tout le monde et ne se dirige vers le château."
 
