@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:24\n"
+"PO-Revision-Date: 2023-02-17 06:54\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/fight/defeateds/defeated_policeman.rpy:5 #-#-# translate crowdin defeated_policeman_e1469d3b:
 msgid "[_cedrick_sprite_] Черт, пришлось избавится еще и от полицейского, это неприменно привлечет ко мне лишние подозрение"
-msgstr ""
+msgstr "[_cedrick_sprite_] Merde, j'ai dû me débarrasser du policier aussi, ça va attirer les soupçons sur moi."
 
 # game/scripts/fight/defeateds/defeated_policeman.rpy:6 #-#-# translate crowdin defeated_policeman_8f8061e2:
 msgid "[_cedrick_sprite_] Чтож, в любом случае на угольных шахтах будут рады еще одному \"работнику\""
-msgstr ""
+msgstr "[_cedrick_sprite_] En tout cas, les mines de charbon seront heureuses d'avoir un autre \"travailleur\"."
 
