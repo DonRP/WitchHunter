@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:29\n"
+"PO-Revision-Date: 2023-02-17 06:58\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giftForLilian/buyCat.rpy:6 #-#-# translate crowdin buyCat_42bc4d4f:
 msgid "[_cedrick_] Отдай кота"
-msgstr ""
+msgstr "[_cedrick_] Rendre le chat"
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:7 #-#-# translate crowdin buyCat_d7afd430:
 msgid "[_blank_] Ты принес деньги?"
-msgstr ""
+msgstr "[_blank_] Tu as apporté l'argent ?"
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:8 #-#-# translate crowdin buyCat_e6f6bc07:
 msgid "[_cedrick_] Еще нет"
-msgstr ""
+msgstr "[_cedrick_] Pas encore."
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:9 #-#-# translate crowdin buyCat_c4611fa0:
 msgid "[_blank_] Тогда не отдам"
-msgstr ""
+msgstr "[_blank_] Alors je ne le donnerai pas."
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:13 #-#-# translate crowdin buyCat_5d217dfa:
 msgid "[_cedrick_] Вот тебе 100 баксов, теперь отдай мне кота"
-msgstr ""
+msgstr "[_cedrick_] Voici 100 livres, maintenant donnez-moi le chat."
 
 # game/scripts/quests/giftForLilian/buyCat.rpy:14 #-#-# translate crowdin buyCat_472a1882:
 msgid "[_blank_] Забирай"
-msgstr ""
+msgstr "[_blank_] Emportez-le"
 
