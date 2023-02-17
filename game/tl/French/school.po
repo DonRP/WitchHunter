@@ -10,65 +10,65 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/school/school.rpy:13 #-#-# translate crowdin school_2ff9a1c5:
 msgid "[_cedrick_] Пожалуй.. Не стоит взрослому мужику ошиваться в школе..."
-msgstr ""
+msgstr "[_cedrick_] Je suppose... Un homme adulte ne devrait pas traîner dans une école..."
 
 # game/scripts/school/school.rpy:14 #-#-# translate crowdin school_e60bfe69:
 msgid "[_cedrick_] Вот если бы я работал в ней..."
-msgstr ""
+msgstr "[_cedrick_] Si seulement je travaillais dedans..."
 
 # game/scripts/school/school.rpy:18 #-#-# translate crowdin school_ec539a95:
 msgid "[_cedrick_] Сегодня выходной, школа закрыта"
-msgstr ""
+msgstr "[_cedrick_] Aujourd'hui est un jour de congé, l'école est fermée."
 
 # game/scripts/school/school.rpy:80 #-#-# translate crowdin school_c20ab24a:
 msgid "[_cedrick_] Элион не в школе, она еще работает в книжном магазине. Нужно дождаться учебное время"
-msgstr ""
+msgstr "[_cedrick_] Elion n'est pas à l'école, elle travaille toujours à la librairie. Nous devons attendre l'heure de l'école"
 
 # game/scripts/school/school.rpy:93 #-#-# translate crowdin school_e5aa5c86:
 msgid "Вы проводите урок"
-msgstr ""
+msgstr "Vous donnez une leçon"
 
 # game/scripts/school/school.rpy:99 #-#-# translate crowdin school_b40737f5:
 msgid "[_cedrick_] Я не могу в это время преподавать"
-msgstr ""
+msgstr "[_cedrick_] Je ne peux pas enseigner en ce moment"
 
 # game/scripts/school/school.rpy:109 #-#-# translate crowdin school_32c39970:
 msgid "[_cedrick_sprite_] Школа закрыта"
-msgstr ""
+msgstr "[_cedrick_sprite_] L'école est fermée"
 
 # §translate crowdin strings: #|#|# # game/scripts/school/school.rpy:2
 msgid "Заработок за преподавание:"
-msgstr ""
+msgstr "Rémunération pour l'enseignement :"
 
 # game/scripts/school/school.rpy:66
 msgid "Поговорить с корнелией"
-msgstr ""
+msgstr "Parler à Cornelia"
 
 # game/scripts/school/school.rpy:66
 msgid "Объявить о ежегодном родительском собрании"
-msgstr ""
+msgstr "Annoncer la réunion annuelle parents-enseignants"
 
 # game/scripts/school/school.rpy:66
 msgid "Устроиться учителем"
-msgstr ""
+msgstr "Trouver un emploi d'enseignant"
 
 # game/scripts/school/school.rpy:66
 msgid "Объявить о школьной поездке"
-msgstr ""
+msgstr "Annoncer un voyage scolaire"
 
 # game/scripts/school/school.rpy:66
 msgid "Подбросить афродизиак Элион"
-msgstr ""
+msgstr "Plantez l'aphrodisiaque Elion"
 
 # game/scripts/school/school.rpy:66
 msgid "Преподавать"
-msgstr ""
+msgstr "Enseigner"
 
 # game/scripts/school/school.rpy:66
 msgid "Комната журналистики"
-msgstr ""
+msgstr "Salle de journalisme"
 
