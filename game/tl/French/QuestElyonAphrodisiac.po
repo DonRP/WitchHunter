@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-02-17 06:51\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestElyonAphrodisiac.rpy:5
 msgid "Афродизиак для Элион"
-msgstr ""
+msgstr "Aphrodisiaque pour Elion"
 
 # game/scripts/core/quests/QuestElyonAphrodisiac.rpy:17
 msgid "Сходить к Миранде"
-msgstr ""
+msgstr "Aller à Miranda"
 
 # game/scripts/core/quests/QuestElyonAphrodisiac.rpy:17
 msgid "Купить афродизиак в Магазине"
-msgstr ""
+msgstr "Acheter un aphrodisiaque dans la boutique"
 
 # game/scripts/core/quests/QuestElyonAphrodisiac.rpy:17
 msgid "Подбросить афродизиак Элион в школе"
-msgstr ""
+msgstr "Plantez un Elion aphrodisiaque à l'école"
 
 # game/scripts/core/quests/QuestElyonAphrodisiac.rpy:17
 msgid "Проведать Элион в школе"
-msgstr ""
+msgstr "Visiter Elyon à l'école"
 
