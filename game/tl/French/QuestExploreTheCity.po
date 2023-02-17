@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestExploreTheCity.rpy:4
 msgid "Осмотреть город"
-msgstr ""
+msgstr "Voir la ville"
 
 # game/scripts/core/quests/QuestExploreTheCity.rpy:19
 msgid "Осмотреть ресторан Серебряный дракон"
-msgstr ""
+msgstr "Découvrez le restaurant Silver Dragon"
 
 # game/scripts/core/quests/QuestExploreTheCity.rpy:19
 msgid "Заглянуть в пещеру на окраине"
-msgstr ""
+msgstr "Regarder dans une grotte à la périphérie"
 
 # game/scripts/core/quests/QuestExploreTheCity.rpy:19
 msgid "Заглянуть в пещеру на окраине вечером"
-msgstr ""
+msgstr "Regarder dans une grotte à la périphérie le soir"
 
 # game/scripts/core/quests/QuestExploreTheCity.rpy:19
 msgid "Осмотреть магазин"
-msgstr ""
+msgstr "Inspecter l'atelier"
 
 # game/scripts/core/quests/QuestExploreTheCity.rpy:19
 msgid "Осмотреть школу"
-msgstr ""
+msgstr "Pour voir l'école"
 
 # game/scripts/core/quests/QuestExploreTheCity.rpy:19
 msgid "Осмотреть спортивный зал"
-msgstr ""
+msgstr "Visiter la salle de sport"
 
 # game/scripts/core/quests/QuestExploreTheCity.rpy:19
 msgid "Осмотреть полицейский участок"
-msgstr ""
+msgstr "Inspecter le commissariat de police"
 
 # game/scripts/core/quests/QuestExploreTheCity.rpy:19
 msgid "Осмотреть вокзал"
-msgstr ""
+msgstr "Pour visiter la station"
 
