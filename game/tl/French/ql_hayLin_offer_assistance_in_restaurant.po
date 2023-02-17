@@ -10,101 +10,101 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:30\n"
+"PO-Revision-Date: 2023-02-17 06:59\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:6 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:7 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_142251f7:
 msgid "[_cedrick_] (Меня никто не встречает... Нужно занять столик...)"
-msgstr ""
+msgstr "[_cedrick_] (Personne ne me rencontre... Je dois obtenir une table...)"
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:8 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:9 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_121d1e04:
 msgid "[_cedrick_] (И здесь никого не видать...)"
-msgstr ""
+msgstr "[_cedrick_] (Et il n'y a personne en vue...)"
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:10 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:11 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:14 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_733eac3e:
 msgid "[_haylin_] Рик! Привет!"
-msgstr ""
+msgstr "[_haylin_] Rick ! Salut !"
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:18 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_d96bac1b:
 msgid "[_haylin_] Ты уже выбрал что-нибудь?"
-msgstr ""
+msgstr "[_haylin_] Avez-vous déjà choisi quelque chose ?"
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:19 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_c44f7051:
 msgid "[_cedrick_] Хочу воспользоваться твоим предыдущим советом и попробовать цыпленка по-сычуански..."
-msgstr ""
+msgstr "[_cedrick_] Je veux suivre votre précédent conseil et essayer le poulet du Sichuan..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:23 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_88fe15a2:
 msgid "[_haylin_] Эм... Цыпленок? Цыплят нам все еще не привезли..."
-msgstr ""
+msgstr "[_haylin_] Hum... Poulets ? Nous n'avons toujours pas les poulets..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:25 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_d155a53c:
 msgid "[_cedrick_] Хмм... Все в порядке? Ты выглядишь очень уставшей..."
-msgstr ""
+msgstr "[_cedrick_] Hmm... Est-ce que tout va bien ? Tu as l'air très fatigué..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:29 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_61e71d8c:
 msgid "[_haylin_] Просто... Калеб куда-то запропостился... Он уже пару дней не появляется на работе... А бабушка..."
-msgstr ""
+msgstr "[_haylin_] C'est juste que... Caleb est hors de vue... Il ne s'est pas présenté au travail depuis deux jours... Et grand-mère..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:30 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_750d3d2e:
 msgid "[_cedrick_] Ей не стало лучше?"
-msgstr ""
+msgstr "[_cedrick_] Ne s'est-elle pas améliorée ?"
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:34 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_6e76497c:
 msgid "[_haylin_] Нет... По правде говоря... Ей становится только хуже... Мы едва справляемся..."
-msgstr ""
+msgstr "[_haylin_] Non... La vérité est que... Elle ne fait qu'empirer... On s'en sort à peine..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:35 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_84790a5e:
 msgid "[_cedrick_] Я бы мог помоч вам... Ну с работой в ресторане..."
-msgstr ""
+msgstr "[_cedrick_] Je pourrais t'aider... Tu sais, pour le boulot au restaurant..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:39 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_d63b9459:
 msgid "[_haylin_] Спасибо за предложение, ты очень добр... Но... К сожалению... Нам будет нечем тебе платить... Мы едва сводим концы с концами... Разве что... Можем покормить тебя..."
-msgstr ""
+msgstr "[_haylin_] Merci pour l'offre, vous êtes très gentil... Mais... Malheureusement... Nous ne serons pas en mesure de vous payer. Nous arrivons à peine à joindre les deux bouts... Sauf que... Nous pouvons vous nourrir..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:40 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_efb0a293:
 msgid "[_cedrick_] Большего мне и не надо, Я и не собирался брать плату за свою работу, просто хотел помочь тебе в трудной ситуации"
-msgstr ""
+msgstr "[_cedrick_] C'est tout ce dont j'ai besoin, je n'allais pas vous faire payer mon travail, je voulais juste vous aider dans une situation difficile."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:41 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_090a8e7f:
 msgid "[_cedrick_] Я также не могу позволить такой прилежной ученице отставать в учебе из-за того что ей приходится много работать..."
-msgstr ""
+msgstr "[_cedrick_] Je ne peux pas non plus permettre à une élève aussi assidue de prendre du retard dans ses études parce qu'elle doit travailler dur..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:42 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_41fba4fc:
 msgid "[_haylin_] Рик... Ты такой хороший... Я была бы очень тебе признательна... Но я смогу справиться сама, а ты уже и так работаешь на двух работах.."
-msgstr ""
+msgstr "[_haylin_] Rick... Tu es si bon... J'apprécierais vraiment... Mais je peux me débrouiller tout seul, et tu as déjà deux emplois..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:43 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_e6bcef81:
 msgid "[_cedrick_] Мне совсем не в тягость, да и не так уж и много я работаю. Элион справляется почти со всеми обязанностями, а в школе мне ставят не так много уроков..."
-msgstr ""
+msgstr "[_cedrick_] Ce n'est pas du tout une charge pour moi, et je ne travaille pas tant que ça. Elyon fait presque tout le travail, et je n'ai pas beaucoup de leçons à l'école..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:47 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_8955dc2d:
 msgid "[_haylin_] Ну... Если так, то тогда я согласна! Приходи как сможешь! Даже не знаю, как тебя отблагодарить..."
-msgstr ""
+msgstr "[_haylin_] Eh bien... Si c'est le cas, alors je suis d'accord ! Viens dès que tu peux ! Je ne sais pas comment vous remercier..."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:51 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_3a674fe2:
 msgid "[_cedrick_] Для меня лучшей благодарностью будет то, если моя ученица не растеряет весь свой потенциал. Что ж...И я бы не отказался от утки по пикински"
-msgstr ""
+msgstr "[_cedrick_] Pour moi, le meilleur remerciement serait que mon élève ne perde pas tout son potentiel. Bien... Et je ne dirais pas non à un canard pikin."
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:52 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_4af2d70f:
 msgid "[_haylin_] Конечно! Сейчас принесу!"
-msgstr ""
+msgstr "[_haylin_] Bien sûr ! Je vais le chercher !"
 
 # game/scripts/quests/haylin/ql_hayLin_offer_assistance_in_restaurant.rpy:54 #-#-# translate crowdin ql_hayLin_offer_assistance_in_restaurant_92b612a2:
 msgid "Отведав китайское блюдо вы возвращаетесь в книжный магазин"
-msgstr ""
+msgstr "Après avoir mangé de la nourriture chinoise, vous retournez à la librairie."
 
