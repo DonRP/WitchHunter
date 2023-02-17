@@ -10,83 +10,83 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-02-17 04:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:6 #-#-# translate crowdin elyon_blowjob_in_bookshop_380afb6d:
 msgid "[_cedrick_] Элион, у меня к тебе есть серьезный разговор"
-msgstr ""
+msgstr "[_cedrick_] Elyon, we need to have a serious talk"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:11 #-#-# translate crowdin elyon_blowjob_in_bookshop_1556e974:
 msgid "[_elion_] Д-да, Рик, что-то стряслось?"
-msgstr ""
+msgstr "[_elion_] Y-yes, Rick, is something wrong?"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:12 #-#-# translate crowdin elyon_blowjob_in_bookshop_985eb14c:
 msgid "[_cedrick_] Мне не хотелось этого признавать, Элион, но последнее время ты очень плохо справляешься со своими обязанностями"
-msgstr ""
+msgstr "[_cedrick_] At first I didn’t want to admit it, Elyon, but lately you've been very bad at your job"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:15 #-#-# translate crowdin elyon_blowjob_in_bookshop_c4608af3:
 msgid "[_elion_] Ч-что?! Что ты имеешь ввиду, Рик?"
-msgstr ""
+msgstr "[_elion_] W-what?! What are you talking about, Rick?"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:16 #-#-# translate crowdin elyon_blowjob_in_bookshop_58a32c40:
 msgid "[_cedrick_] Подожди, дай мне договорить. Например, пыль на верхней полке – я проверил ее сегодня, ее там чертовски много"
-msgstr ""
+msgstr "[_cedrick_] Hold on, let me finish. First, the top shelf is still dusty — I checked earlier today and there's a lot of it."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:19 #-#-# translate crowdin elyon_blowjob_in_bookshop_2c7b8b9f:
 msgid "[_elion_] Но ты же постоянно лапаешь меня, когда я пытаюсь там прибраться.."
-msgstr ""
+msgstr "[_elion_] But every time I try to reach for it, you start touching me.."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:20 #-#-# translate crowdin elyon_blowjob_in_bookshop_364f570c:
 msgid "[_cedrick_] Так же, я заметил, что все наши книги не отсортированы в алфавитном порядке"
-msgstr ""
+msgstr "[_cedrick_] Second, I noticed the books are not alphabetically aligned."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:23 #-#-# translate crowdin elyon_blowjob_in_bookshop_87afeec8:
 msgid "[_elion_] Потому что я отсортировала их по жанрам.."
-msgstr ""
+msgstr "[_elion_] That's because I sorted them by genre.."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:24 #-#-# translate crowdin elyon_blowjob_in_bookshop_30d4dbd3:
 msgid "[_cedrick_] И самое главное, Элион.. За все время работы ты не продала ни единой книги. А это же книжный магазин, как вообще такое возможно?"
-msgstr ""
+msgstr "[_cedrick_] And most importantly, Elyon.. You haven't sold a single book in the time you've been working here. This is a book store after all, how is this possible?"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:27 #-#-# translate crowdin elyon_blowjob_in_bookshop_f7a923a8:
 msgid "[_elion_] Но ты же никогда не просил меня продавать книги и сам всегда стоишь за прилавком.."
-msgstr ""
+msgstr "[_elion_] But you never asked me to sell any books and you stand behind the counter all the time yourself.."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:28 #-#-# translate crowdin elyon_blowjob_in_bookshop_18ebc686:
 msgid "[_cedrick_] В свете всех этих событий, мне ничего не остается, кроме как уволить тебя"
-msgstr ""
+msgstr "[_cedrick_] In light of all this, I have no choice but to fire you"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:31 #-#-# translate crowdin elyon_blowjob_in_bookshop_89c59728:
 msgid "[_elion_] ..."
-msgstr ""
+msgstr "[_elion_] ..."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:32 #-#-# translate crowdin elyon_blowjob_in_bookshop_64f38a43:
 msgid "[_cedrick_] Но, подожди, не паникуй. Я готов простить тебя и закрывать в дальнейшем глаза на твое халатное отношение к работе, если.."
-msgstr ""
+msgstr "[_cedrick_] Wait, there's no need for panic. I'm willing to forgive you and your negligent attitude, if..."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:35 #-#-# translate crowdin elyon_blowjob_in_bookshop_ec519dda:
 msgid "[_elion_] ...Если?"
-msgstr ""
+msgstr "[_elion_] ... If?"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:36 #-#-# translate crowdin elyon_blowjob_in_bookshop_f5bee51b:
 msgid "[_cedrick_] Если ты прямо сейчас мне отсосешь"
-msgstr ""
+msgstr "[_cedrick_] If you suck my cock right here and now."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:39 #-#-# translate crowdin elyon_blowjob_in_bookshop_14ebd1d8:
 msgid "[_elion_] ...Ты просто хотел, чтобы я тебе отсосала, но не смог найти достойный предлог?"
-msgstr ""
+msgstr "[_elion_] ... You just wanted a blowjob and couldn't find a decent excuse, did you?"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:40 #-#-# translate crowdin elyon_blowjob_in_bookshop_4ad81dea:
 msgid "[_cedrick_] Совсем не.."
-msgstr ""
+msgstr "[_cedrick_] Absolutely not..."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:43 #-#-# translate crowdin elyon_blowjob_in_bookshop_a9808e58:
 msgid "[_elion_] Ты же мог просто попросить меня.."
-msgstr ""
+msgstr "[_elion_] All you had to do was ask.."
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:44 #-#-# translate crowdin elyon_blowjob_in_bookshop_25b7a4cd:
 msgid "[_cedrick_] Не... Что!? Что ты сейчас сказала?"
-msgstr ""
+msgstr "[_cedrick_] No... Wait, what did you just say?!"
 
 # game/scripts/core/quests/elyonBlowjob/elyon_blowjob_in_bookshop.rpy:47 #-#-# translate crowdin elyon_blowjob_in_bookshop_eb9a7429:
 msgid "[_elion_] Э-эм, ну.. После всего, что мы делали вместе и после того, как много ты помогал мне с развратной стороной моего характера..."
