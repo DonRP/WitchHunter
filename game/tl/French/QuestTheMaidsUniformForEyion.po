@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:23\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:4
 msgid "Форма служанки для Элион"
-msgstr ""
+msgstr "Un uniforme de femme de chambre pour Elion"
 
 # game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:16
 msgid "Заказать форму служанки для Элион с помощью телефона"
-msgstr ""
+msgstr "Commandez un uniforme de bonne pour Elion par téléphone."
 
 # game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:16
 msgid "Дождаться посылки с формой служанки"
-msgstr ""
+msgstr "Attendre le colis avec l'uniforme de la femme de chambre."
 
 # game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:16
 msgid "Попросить Элион протереть пыль в форме служанки"
-msgstr ""
+msgstr "Demandez à Elyon d'essuyer la poussière sur l'uniforme de la femme de chambre."
 
 # game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:16
 msgid "Попросить Элион провести публичные чтения в форме служанки"
-msgstr ""
+msgstr "Demander à Elion de faire une lecture publique sous la forme d'une servante"
 
