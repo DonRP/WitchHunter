@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:25\n"
+"PO-Revision-Date: 2023-02-17 06:55\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/map/locations/tarani.rpy:19 #-#-# translate crowdin tarani_for_evening_quests_836c5db7:
 msgid "[_cedrick_] Мне стоит зайти к Тарани вечером"
-msgstr ""
+msgstr "[_cedrick_] Je devrais passer chez Tarani ce soir."
 
