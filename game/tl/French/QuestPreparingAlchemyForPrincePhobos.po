@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:23\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:3
 msgid "Подготовка Алхими для князя Фобоса"
-msgstr ""
+msgstr "Préparation de l'alchimie pour le Prince Phobos"
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Проверить Алхими в темнице"
-msgstr ""
+msgstr "Vérifiez l'alchimie dans le donjon."
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Сообщить Миранде о поручении князя Фобоса"
-msgstr ""
+msgstr "Informez Miranda de la mission du prince Phobos."
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Добыть 10 желез морпионов"
-msgstr ""
+msgstr "Obtenir 10 glandes morpion"
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Отдать 10 желез морпионов миранде"
-msgstr ""
+msgstr "Donne 10 glandes de morpions à Miranda."
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Проверить как там Алхими в борделе"
-msgstr ""
+msgstr "Vérifier Alchemy dans le bordel."
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Проверить готов ли сок из желез морпионов у миранды"
-msgstr ""
+msgstr "Vérifiez si le jus de la glande morpide est prêt dans un miranda."
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Убить королеву морпионов и добыть с нее кристаллическую эссенцию"
-msgstr ""
+msgstr "Tuez la reine des morpions et extrayez-lui de l'essence de cristal."
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Принести Кристаллическую эссенцию королевы морпионов Миранде"
-msgstr ""
+msgstr "Apportez l'essence de cristal de la reine Morpion à Miranda."
 
 # game/scripts/core/quests/QuestPreparingAlchemyForPrincePhobos.rpy:24
 msgid "Забрать Алхими из борделя"
-msgstr ""
+msgstr "Récupérez les alchimistes de la maison close."
 
