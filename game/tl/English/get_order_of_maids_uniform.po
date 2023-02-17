@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-12-22 22:34\n"
+"PO-Revision-Date: 2023-02-17 05:14\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:3 #-#-# translate crowdin get_order_of_maids_uniform_c0bc3184:
 msgid "[_cedrick_] Элион, твоя новая рабочая форма пришла, готова примерить?"
@@ -54,7 +54,7 @@ msgstr ""
 
 # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:27 #-#-# translate crowdin get_order_of_maids_uniform_97bc3510:
 msgid "[_elion_] П-правда?"
-msgstr ""
+msgstr "[_elion_] R-Really?"
 
 # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:28 #-#-# translate crowdin get_order_of_maids_uniform_f7da0f4b:
 msgid "[_cedrick_] Да, эта форма была специально разработана лучшими дизайнерами, с учетом всех сложных задач профессиональных горничных"
