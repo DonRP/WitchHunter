@@ -10,105 +10,105 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-02-17 06:56\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:81 #-#-# translate crowdin poker_dice_game_b4e4591c:
 msgid "Седрик бросил кости"
-msgstr ""
+msgstr "Cedric a lancé les dés"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:87 #-#-# translate crowdin poker_dice_game_748fecff:
 msgid "Враг бросил кости"
-msgstr ""
+msgstr "L'ennemi a lancé les dés"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:268 #-#-# translate crowdin poker_dice_player2_reroll_0d7a27a2:
 msgid "Враг перекинул кости"
-msgstr ""
+msgstr "L'ennemi a lancé les dés"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:279 #-#-# translate crowdin poker_dice_player2_reroll_fdf0c096:
 msgid "Ничья"
-msgstr ""
+msgstr "Cravate"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:316 #-#-# translate crowdin end_game_fdf0c096:
 msgid "Ничья"
-msgstr ""
+msgstr "Cravate"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:323 #-#-# translate crowdin end_game_825e1285:
 msgid "Вы выиграли [bet_value]$"
-msgstr ""
+msgstr "Vous gagnez [bet_value]$"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:329 #-#-# translate crowdin end_game_2e19ab8f:
 msgid "Вы выиграли [bet_value] золота"
-msgstr ""
+msgstr "Vous gagnez [bet_value] or"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:334 #-#-# translate crowdin end_game_157f98e6:
 msgid "Вы проиграли [bet_value]$"
-msgstr ""
+msgstr "Vous avez perdu [bet_value]$"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:337 #-#-# translate crowdin end_game_ca57b78e:
 msgid "Вы проиграли [bet_value] золота"
-msgstr ""
+msgstr "Vous avez perdu [bet_value] or"
 
 # §translate crowdin strings: #|#|# # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:16
 msgid "Начать играть"
-msgstr ""
+msgstr "Commencer à jouer"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
 msgid "Сделайте ставку"
-msgstr ""
+msgstr "Placez votre pari"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
 msgid "10 золота"
-msgstr ""
+msgstr "10 or"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
 msgid "20 золота"
-msgstr ""
+msgstr "20 or"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
 msgid "30 золота"
-msgstr ""
+msgstr "30 or"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
 msgid "Я передумал"
-msgstr ""
+msgstr "J'ai changé d'avis."
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:56
 msgid "100$"
-msgstr ""
+msgstr "100$"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:56
 msgid "150$"
-msgstr ""
+msgstr "150$"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:56
 msgid "200$"
-msgstr ""
+msgstr "200$"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:91
 msgid "Перебросить кости?"
-msgstr ""
+msgstr "Lancer les dés ?"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:147
 msgid "Перебросить"
-msgstr ""
+msgstr "Relocaliser"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:240
 msgid "Посмотреть комбинации"
-msgstr ""
+msgstr "Voir les combinaisons"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:242
 msgid "Скрыть комбинации"
-msgstr ""
+msgstr "Masquer les combinaisons"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:275
 msgid "Возврат из-за ничьи:"
-msgstr ""
+msgstr "Les retours sont dus à un tirage au sort :"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:321
 msgid "Выигрыш:"
-msgstr ""
+msgstr "Gagnant :"
 
 # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:351
 msgid "Продолжить играть"
-msgstr ""
+msgstr "Continuer à jouer"
 
