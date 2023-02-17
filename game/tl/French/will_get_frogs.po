@@ -10,29 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:35\n"
+"PO-Revision-Date: 2023-02-17 07:03\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_get_frogs.rpy:10 #-#-# translate crowdin will_get_frogs_53cfee56:
 msgid "[_will_] Привет"
-msgstr ""
+msgstr "[_will_] Bonjour"
 
 # game/scripts/quests/will/will_get_frogs.rpy:11 #-#-# translate crowdin will_get_frogs_c18a96f9:
 msgid "[_cedrick_sprite_] А Вилл, ты за игрушкой? Они как раз пришли"
-msgstr ""
+msgstr "[_cedrick_sprite_] Et Will, tu es après le jouet ? Ils arrivaient juste."
 
 # game/scripts/quests/will/will_get_frogs.rpy:17 #-#-# translate crowdin will_get_frogs_36549ad7:
 msgid "[_will_] Отлично, сколько я тебе должна?"
-msgstr ""
+msgstr "[_will_] Super, combien je vous dois ?"
 
 # game/scripts/quests/will/will_get_frogs.rpy:18 #-#-# translate crowdin will_get_frogs_c16b8a91:
 msgid "[_cedrick_sprite_] Эээм... 50 долларов"
-msgstr ""
+msgstr "[_cedrick_sprite_] Erm... 50 dollars"
 
 # game/scripts/quests/will/will_get_frogs.rpy:26 #-#-# translate crowdin will_get_frogs_bb832851:
 msgid "[_will_] Благодарю"
-msgstr ""
+msgstr "[_will_] Merci."
 
 # game/scripts/quests/will/will_get_frogs.rpy:27 #-#-# translate crowdin will_get_frogs_bb371710:
 msgid "[_cedrick_] Не за что, приходи еще"
-msgstr ""
+msgstr "[_cedrick_] Vous êtes les bienvenus, revenez nous voir."
 
