@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:25\n"
+"PO-Revision-Date: 2023-02-17 06:55\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/interface/phone/labels/write_to_bryan.rpy:3 #-#-# translate crowdin write_to_bryan_a0344803:
 msgid "[_cedrick_] Лучше будет написать ему вечером, когда Элион будет спать"
-msgstr ""
+msgstr "[_cedrick_] Il serait préférable de lui écrire le soir, quand Elyon est endormi."
 
 # §translate crowdin strings: #|#|# # game/scripts/interface/phone/labels/write_to_bryan.rpy:12
 msgid "эм.. так поздно? Ну, давай… а что случилось?"
-msgstr ""
+msgstr "Hum... si tard ? Eh bien, allez… qu'est-ce qu'il y a ?"
 
 # game/scripts/interface/phone/labels/write_to_bryan.rpy:13
 msgid "Раскажу при встрече..."
-msgstr ""
+msgstr "Je te le dirai quand je te verrai..."
 
