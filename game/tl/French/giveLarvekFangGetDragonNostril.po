@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-01-02 17:24\n"
+"PO-Revision-Date: 2023-02-17 07:02\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:7 #-#-# translate crowdin giveLarvekFangGetDragonNostril_780643a3:
 msgid "[_miranda_] Ты принес Клык Лаврека?"
-msgstr ""
+msgstr "[_miranda_] As-tu apporté le croc du laurier ?"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:13 #-#-# translate crowdin giveLarvekFangGetDragonNostril_341864d2:
 msgid "[_cedrick_] Я принес клык ларвека!"
-msgstr ""
+msgstr "[_cedrick_] J'ai apporté un croc de larvek !"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:14 #-#-# translate crowdin giveLarvekFangGetDragonNostril_c0fdbeb3:
 msgid "[_miranda_] Отлично!"
@@ -26,137 +26,137 @@ msgstr "[_miranda_] Excellent!"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:18 #-#-# translate crowdin giveLarvekFangGetDragonNostril_6a781b9b:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:19 #-#-# translate crowdin giveLarvekFangGetDragonNostril_8364d812:
 msgid "[_cedrick_] Теперь выполни свою часть сделки.."
-msgstr ""
+msgstr "[_cedrick_] Maintenant, faites votre part du marché..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:23 #-#-# translate crowdin giveLarvekFangGetDragonNostril_bdbc8b31:
 msgid "[_miranda_] Не так быстро… мне нужна от тебя еще одна услуга.."
-msgstr ""
+msgstr "[_miranda_] Pas si vite… J'ai besoin d'une autre faveur de votre part..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:27 #-#-# translate crowdin giveLarvekFangGetDragonNostril_8cd62a45:
 msgid "[_cedrick_] Услуга? Мы ведь договорились!.."
-msgstr ""
+msgstr "[_cedrick_] Une faveur ? Nous avions un accord, n'est-ce pas ?"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:31 #-#-# translate crowdin giveLarvekFangGetDragonNostril_2ab4f88d:
 msgid "[_miranda_] Я подумала и решила, что отдавать столь ценный ингредиент только за клык Ларвека это, по меньшей мере, смешно.."
-msgstr ""
+msgstr "[_miranda_] J'y ai réfléchi et j'ai décidé que donner un ingrédient aussi précieux juste pour un croc de Larvek était pour le moins ridicule."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:35 #-#-# translate crowdin giveLarvekFangGetDragonNostril_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:36 #-#-# translate crowdin giveLarvekFangGetDragonNostril_c4e48987:
 msgid "[_cedrick_] Ох.. Чего ты еще хочешь?"
-msgstr ""
+msgstr "[_cedrick_] Oh... Qu'est-ce que tu veux de plus ?"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:40 #-#-# translate crowdin giveLarvekFangGetDragonNostril_d9a56e51:
 msgid "[_miranda_] Понимаешь, в нашем замке бывает так одиноко..."
-msgstr ""
+msgstr "[_miranda_] Vous voyez, notre château peut être si solitaire..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:41 #-#-# translate crowdin giveLarvekFangGetDragonNostril_bb8fb9ba:
 msgid "[_miranda_] Здесь сложно найти того, кто смог бы помочь удовлетворить мне мои потребности… Эти чертовы солдаты никуда не годятся.."
-msgstr ""
+msgstr "[_miranda_] C'est difficile de trouver quelqu'un ici qui puisse répondre à mes besoins… Ces satanés soldats ne sont pas bons..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:42 #-#-# translate crowdin giveLarvekFangGetDragonNostril_bcb69814:
 msgid "[_miranda_] Ну же Седрик, ты же понимаешь к чему я клоню… Не заставляй меня говорить это.."
-msgstr ""
+msgstr "[_miranda_] Allez Cédric, tu sais où je veux en venir avec ce… Ne me force pas à le dire..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:46 #-#-# translate crowdin giveLarvekFangGetDragonNostril_bd8c3f50:
 msgid "[_uma_] УМА!"
-msgstr ""
+msgstr "[_uma_] WOW !"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:47 #-#-# translate crowdin giveLarvekFangGetDragonNostril_f6a4b8a0:
 msgid "[_cedrick_] Этот дебил останется здесь!?"
-msgstr ""
+msgstr "[_cedrick_] Ce crétin reste ici ! ?"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:51 #-#-# translate crowdin giveLarvekFangGetDragonNostril_b324b57b:
 msgid "[_miranda_] Он все равно никому не расскажет…"
-msgstr ""
+msgstr "[_miranda_] Il ne le dira à personne de toute façon…"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:54 #-#-# translate crowdin giveLarvekFangGetDragonNostril_ced32463:
 msgid "Спустя несколько минут…"
-msgstr ""
+msgstr "Quelques minutes plus tard,…"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:58 #-#-# translate crowdin giveLarvekFangGetDragonNostril_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:61 #-#-# translate crowdin giveLarvekFangGetDragonNostril_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:62 #-#-# translate crowdin giveLarvekFangGetDragonNostril_d93d72a6:
 msgid "[_miranda_] ах..."
-msgstr ""
+msgstr "[_miranda_] ah..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:63 #-#-# translate crowdin giveLarvekFangGetDragonNostril_4f213b5d:
 msgid "[_miranda_] …..."
-msgstr ""
+msgstr "[_miranda_] …..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:64 #-#-# translate crowdin giveLarvekFangGetDragonNostril_bc97e79b:
 msgid "[_miranda_] Да… Седрик… Я так давно этого хотела…."
-msgstr ""
+msgstr "[_miranda_] Oui… Cedric… Je le voulais depuis si longtemps…."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:65 #-#-# translate crowdin giveLarvekFangGetDragonNostril_f31580f0:
 msgid "….."
-msgstr ""
+msgstr "….."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:66 #-#-# translate crowdin giveLarvekFangGetDragonNostril_6a781b9b_1:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:67 #-#-# translate crowdin giveLarvekFangGetDragonNostril_0c0586b6:
 msgid "[_miranda_] Я больше… я больше этого не выдержу.."
-msgstr ""
+msgstr "[_miranda_] Je n'en peux plus…"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:70 #-#-# translate crowdin giveLarvekFangGetDragonNostril_6a781b9b_2:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:71 #-#-# translate crowdin giveLarvekFangGetDragonNostril_a39b8859:
 msgid "[_cedrick_]  Блять!.. Миранда!.. Какого хуя!?.."
-msgstr ""
+msgstr "[_cedrick_]  Putain ! Miranda ! C'est quoi ce bordel ?"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:72 #-#-# translate crowdin giveLarvekFangGetDragonNostril_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:77 #-#-# translate crowdin giveLarvekFangGetDragonNostril_2c184bb3:
 msgid "[_miranda_] Хех.. Прости.. Я перевозбудилась и не смогла сохранить свой человеческий облик.. Ты ведь не обиделся на меня?"
-msgstr ""
+msgstr "[_miranda_] Heh... Je suis désolé, um... J'étais surexcité et je n'ai pas pu garder mon visage humain. Tu n'es pas en colère contre moi, n'est-ce pas ?"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:78 #-#-# translate crowdin giveLarvekFangGetDragonNostril_f31580f0_1:
 msgid "….."
-msgstr ""
+msgstr "….."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:79 #-#-# translate crowdin giveLarvekFangGetDragonNostril_ef7751a8:
 msgid "[_uma_] УМА!!"
-msgstr ""
+msgstr "[_uma_] WOW ! !!"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:80 #-#-# translate crowdin giveLarvekFangGetDragonNostril_f895c241:
 msgid "[_cedrick_] Больше так не делай..."
-msgstr ""
+msgstr "[_cedrick_] Ne refais pas ça..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:81 #-#-# translate crowdin giveLarvekFangGetDragonNostril_dedaf390:
 msgid "[_miranda_] Прости.."
-msgstr ""
+msgstr "[_miranda_] Je suis désolé..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:86 #-#-# translate crowdin giveLarvekFangGetDragonNostril_cd29073c:
 msgid "[_miranda_] Приходи ко мне, если захочешь это повторить.."
-msgstr ""
+msgstr "[_miranda_] Viens me voir si tu veux le refaire..."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:87 #-#-# translate crowdin giveLarvekFangGetDragonNostril_bd8c3f50_1:
 msgid "[_uma_] УМА!"
-msgstr ""
+msgstr "[_uma_] WOW !"
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:90 #-#-# translate crowdin giveLarvekFangGetDragonNostril_d5491921:
 msgid "[_cedrick_] (Что ж я отлизал Миранде… И ушел неудовлетворенным… Но зато мне удалось добыть Ноздрю дракона и мне осталось только отдать ее Бланку.)"
-msgstr ""
+msgstr "[_cedrick_] (Bon, j'ai léché Miranda… Et je suis parti insatisfait… Mais j'ai réussi à obtenir le narine du dragon et tout ce que j'avais à faire était de le donner à Blanca)."
 
 # game/scripts/quests/tarani/giveLarvekFangGetDragonNostril.rpy:95 #-#-# translate crowdin giveLarvekFangGetDragonNostril_47d4b5d9:
 msgid "[_miranda_] В таком случае рекомендую тебе заняться ее поисками"
-msgstr ""
+msgstr "[_miranda_] Dans ce cas, je vous recommande de chercher son"
 
