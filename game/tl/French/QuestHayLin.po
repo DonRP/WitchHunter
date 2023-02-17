@@ -10,49 +10,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestHayLin.rpy:3
 msgid "Стражница Воздуха"
-msgstr ""
+msgstr "Gardien de l'air"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Посетить князя Фобоса"
-msgstr ""
+msgstr "Visite du Prince Phobos"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Узнать как идут дела в ресторане (после того как Калеб попадет в плен)"
-msgstr ""
+msgstr "Découvrez comment les choses se passent dans le restaurant (après la capture de Caleb)."
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Помочь в ресторане семье Лин. День первый"
-msgstr ""
+msgstr "Aide au restaurant pour la famille de Lin. Premier jour"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Помочь в ресторане семье Лин. День второй"
-msgstr ""
+msgstr "Aide au restaurant pour la famille de Lin. Deuxième jour"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Помочь в ресторане семье Лин. День третий"
-msgstr ""
+msgstr "Aide au restaurant pour la famille de Lin. Troisième jour"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Прийти в ресторан и как следует развлечься с Хайлин"
-msgstr ""
+msgstr "Aller au restaurant et passer un bon moment avec Heylin"
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Попросить Миранду приготовить лекарство для Ян Лин"
-msgstr ""
+msgstr "Demandez à Miranda de préparer un remède pour Yang Lin."
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Отдать лекарство для Ян Лин, Хай Лин"
-msgstr ""
+msgstr "Donnez le médicament à Yang Lin, Hai Ling."
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Наполнить волшебный сосуд в замке князя фобоса"
-msgstr ""
+msgstr "Remplissez le récipient magique dans le château du prince Phobos."
 
 # game/scripts/core/quests/QuestHayLin.rpy:29
 msgid "Принести наполненный сосуд с лекарством для Ян лин в серебряный дракон , снова"
-msgstr ""
+msgstr "Apportez le récipient rempli avec le médicament pour Yang Lin au dragon d'argent, encore une fois."
 
