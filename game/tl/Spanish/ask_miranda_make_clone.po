@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/questNotGuilty/ask_miranda_make_clone.po\n"
+"X-Crowdin-File-ID: 5423\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:38\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:4 #-#-# translate crowdin ask_miranda_make_clone_2a014d11:
+msgid "[_cedrick_] Мне нужна твоя помощь, Миранда…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:7 #-#-# translate crowdin ask_miranda_make_clone_f69fe78f:
+msgid "[_miranda_] Ну конечно… Приходишь только тогда, когда тебе что-то нужно…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:8 #-#-# translate crowdin ask_miranda_make_clone_ce617998:
+msgid "…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:12 #-#-# translate crowdin ask_miranda_make_clone_a6fd8953:
+msgid "[_miranda_] Ну…?"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:14 #-#-# translate crowdin ask_miranda_make_clone_5a07a592:
+msgid "[_cedrick_] Ты можешь клонировать человека?"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:18 #-#-# translate crowdin ask_miranda_make_clone_c4170934:
+msgid "[_miranda_] Ха-ха-ха, шутишь? Ты серьезно?"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:22 #-#-# translate crowdin ask_miranda_make_clone_57718985:
+msgid "[_miranda_] Извини, но я на такое не способна… Но… Ты можешь, пожалуй, поймать и выдрессировать моргрифа."
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:26 #-#-# translate crowdin ask_miranda_make_clone_169ebed3:
+msgid "[_cedrick_] У меня нету столько времени…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:30 #-#-# translate crowdin ask_miranda_make_clone_b6d467df:
+msgid "[_miranda_] А для чего тебе это нужно?"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:34 #-#-# translate crowdin ask_miranda_make_clone_f88c7619:
+msgid "[_cedrick_] Один полицейский, ну… Эм… Стражник..."
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:38 #-#-# translate crowdin ask_miranda_make_clone_77bc5ad3:
+msgid "[_miranda_] Не держи меня за дуру! Я не раз уже была на земле и знаю, кто такие полицейские…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:39 #-#-# translate crowdin ask_miranda_make_clone_75e74c18:
+msgid "[_cedrick_] Прости… В общем… Он начал задавать слишком много вопросов и мне пришлось его похитить..."
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:40 #-#-# translate crowdin ask_miranda_make_clone_e611ba96:
+msgid "[_cedrick_] Теперь его разыскивают другие полицейские и похоже, что я… Главный подозреваемый..."
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:41 #-#-# translate crowdin ask_miranda_make_clone_2a4ab579:
+msgid "[_cedrick_] И мне нужно привести похищенного мною полицейского в полицейский участок, чтобы все увидели, что на деле он жив и здоров, и я его не похищал. Естественно, что его самого я привести туда не могу…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:46 #-#-# translate crowdin ask_miranda_make_clone_f02f2de8:
+msgid "[_miranda_] А где же он сейчас?"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:47 #-#-# translate crowdin ask_miranda_make_clone_164ce92e:
+msgid "[_cedrick_] Должно быть работает киркой в подводной шахте…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:52 #-#-# translate crowdin ask_miranda_make_clone_b4a554f0:
+msgid "[_miranda_] Хм…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:53 #-#-# translate crowdin ask_miranda_make_clone_9931c44a:
+msgid "[_miranda_] А что, если ты..."
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:57 #-#-# translate crowdin ask_miranda_make_clone_c2da742a:
+msgid "[_miranda_] Точно! Оборотное зелье!"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:61 #-#-# translate crowdin ask_miranda_make_clone_cea82b6d:
+msgid "[_cedrick_] Оборотное зелье?"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:65 #-#-# translate crowdin ask_miranda_make_clone_23e5aec0:
+msgid "[_miranda_] С помощью оборотного зелья ты сможешь перевоплотиться в полицейского, которого ты похитил. Но только на несколько часов…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:69 #-#-# translate crowdin ask_miranda_make_clone_15cfe697:
+msgid "[_cedrick_] Хм... А это может сработать…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:70 #-#-# translate crowdin ask_miranda_make_clone_e3b1ece5:
+msgid "[_cedrick_] Что от меня требуется?"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:74 #-#-# translate crowdin ask_miranda_make_clone_752c3367:
+msgid "[_miranda_] По правде говоря… Процесс приготовления оборотного зелья занимает достаточно много времени, а ингредиенты для его создания — достаточно сложно достать… К твоему счастью… У меня еще остался небольшой запас готового зелья…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:78 #-#-# translate crowdin ask_miranda_make_clone_a83e985a:
+msgid "[_miranda_] Тебе только нужно достать частицу… этого полицейского..."
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:82 #-#-# translate crowdin ask_miranda_make_clone_6352df7d:
+msgid "[_cedrick_] Частицу? Мне нужно отрезать и принести тебе его палец или вроде того?"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:86 #-#-# translate crowdin ask_miranda_make_clone_9fd91c11:
+msgid "[_miranda_] Будет достаточно клочка волос или ногтя…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:90 #-#-# translate crowdin ask_miranda_make_clone_a8787eff:
+msgid "[_miranda_] И да, не забудь взять с собой другую одежду... зелье будет действовать лишь несколько часов…"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:92 #-#-# translate crowdin ask_miranda_make_clone_edd4cc7f:
+msgid "[_cedrick_] (Что ж, придется навестить нашего любопытного друга в подводной шахте)"
+msgstr ""
+
+# game/scripts/quests/questNotGuilty/ask_miranda_make_clone.rpy:93 #-#-# translate crowdin ask_miranda_make_clone_749924d9:
+msgid "[_cedrick_] (Одежду я смогу купить в магазине Хитерфилда)"
+msgstr ""
+
