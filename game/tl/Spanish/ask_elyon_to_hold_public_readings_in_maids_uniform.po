@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.po\n"
+"X-Crowdin-File-ID: 5507\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:39\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:3 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_db823e8f:
+msgid "[_cedrick_] Я уже предложил Элион провести вечер чтения в форме служанки"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:7 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_697d0ac9:
+msgid "[_cedrick_] Элион как насчет того чтобы устроить сегодня публичный чтения?"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:11 #-#-# translate crowdin ask_elyon_to_hold_public_readings_in_maids_uniform_f7c66284:
+msgid "[_elion_] да конечно рик, отличная идея"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_hold_public_readings_in_maids_uniform.rpy:16
+msgid "У меня пока есть дела, подойду ближе к вечеру в книжный магазин"
+msgstr ""
+
