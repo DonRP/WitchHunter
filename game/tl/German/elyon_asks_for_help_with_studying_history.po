@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.po\n"
+"X-Crowdin-File-ID: 5569\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:45\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:4 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_a236c3e0:
+msgid "[_cedrick_] (Что ж, для начала, нужна причина для того, чтобы регулярно появляться рядом с Вилл у нее дома. Уверен, Сьюзан будет не против моих постоянных визитов, но для постоянного присутствия наедине с Вилл нужна достойная причина..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:12 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_d53dc83f:
+msgid "[_elion_] Рик, у нас скоро итоговые экзамены в школе. Поможешь подготовиться, ты же как-никак один из преподавателей"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:13 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_a440134a:
+msgid "[_cedrick_] (О, точно, подготовка к итоговым экзаменам - то, что надо)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:14 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_584b52b2:
+msgid "[_cedrick_] Эм, да, Элион, обязательно помогу, как будет время. Займемся с тобой подготовкой.. наедине"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:17 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_babaf568:
+msgid "[_elion_] А-ам.. Я не совсем это имела ввиду, но.. это меня тоже вполне устроит"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:20 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_e95696ae:
+msgid "[_cedrick_] (Хах, а она уже вполне легко подыгрывает моим намекам, хоть и не готова пока к полноценному сексу. Ну ничего, доведем до этой стадии Вилл, а потом возьмемся как следует за Элион)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:23 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_4efdef0a:
+msgid "[_elion_] Н-ну я пойду? В книжном еще надо полки протереть"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:24 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_edab646c:
+msgid "[_cedrick_] Да, конечно, спасибо, Элион"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:30 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_9b34a759:
+msgid "[_elion_] (Ох.. Я думала в этот раз он пойдет вместе со мной, чтобы, как обычно, уххх.. Ладно, видимо, в следующий раз)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:31 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:32 #-#-# translate crowdin elyon_asks_for_help_with_studying_history_57224c01:
+msgid "[_cedrick_] (Так, для начала, нужно написать Вилл и Сьюзан о том, что я скоро к ним наведаюсь)"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence/elyon_asks_for_help_with_studying_history.rpy:44
+msgid "Вилл, привет..."
+msgstr ""
+
