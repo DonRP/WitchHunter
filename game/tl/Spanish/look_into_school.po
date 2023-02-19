@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/exploreTheCity/look_into_school.po\n"
+"X-Crowdin-File-ID: 5165\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:36\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/exploreTheCity/look_into_school.rpy:3 #-#-# translate crowdin look_into_school_35254b8c:
+msgid "[_cedrick_] Место, где дети и подростки проводят большую часть своей юности, получают новые знания и социализируются…"
+msgstr ""
+
+# game/scripts/quests/exploreTheCity/look_into_school.rpy:4 #-#-# translate crowdin look_into_school_0b5aeeca:
+msgid "[_cedrick_] Если бы на Меридиане были такие школы, то местные крестьяне были бы намного умнее и это смогло бы доставить нам не мало проблем… ведь чем глупее люд, тем проще его запугать и контролировать…"
+msgstr ""
+
