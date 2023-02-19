@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/stats/ElyonStats.po\n"
+"X-Crowdin-File-ID: 4957\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:41\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/stats/ElyonStats.rpy:17
+msgid "Настроение"
+msgstr ""
+
+# game/scripts/core/stats/ElyonStats.rpy:23
+msgid "Доверие"
+msgstr ""
+
+# game/scripts/core/stats/ElyonStats.rpy:29
+msgid "Развратность"
+msgstr ""
+
+# game/scripts/core/stats/ElyonStats.rpy:35
+msgid "Репутация"
+msgstr ""
+
+# game/scripts/core/stats/ElyonStats.rpy:70
+msgid "У Элион не достаточно статистики: {stats}"
+msgstr ""
+
+# game/scripts/core/stats/ElyonStats.rpy:84
+msgid "Подарен подарок:"
+msgstr ""
+
+# game/scripts/core/stats/ElyonStats.rpy:95
+msgid "Выберите одежду, которую будет носить Элион"
+msgstr ""
+
