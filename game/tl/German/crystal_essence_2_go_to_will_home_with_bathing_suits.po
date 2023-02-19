@@ -1,0 +1,1130 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.po\n"
+"X-Crowdin-File-ID: 5583\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:45\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:7 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_babdf96a:
+msgid "[_susan_] Ну что, ты купил нам костюмы для бассейна?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:17 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a657394b:
+msgid "[_susan_] Отлично! Тогда самое время собираться"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:25 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_945a1206:
+msgid "[_susan_] Ох, ну ничего, мы подождем"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:31 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_183927f3:
+msgid "[_centered_] {size=37}СПУСТЯ НЕКОТОРОЕ ВРЕМЯ В БАССЕЙНЕ{/size}"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:36 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_89ec3983:
+msgid "[_cedrick_] Ну что, вот мы и в бассейне. Хах, столько времени уже в этом городе, но в этом месте я впервые. Какое упущение"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:40 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_3f31a912:
+msgid "[_will_] Хах, да, тут довольно приятно.. Плавать.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:44 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4f81c78c:
+msgid "[_will_] (Черт, я пыталась этого избежать.. Но теперь Рик прямо здесь, в одних трусах.. И почему мне так сложно с ним)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:55 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_14157e7f:
+msgid "[_susan_] А вот и я.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:56 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_2e66d00d:
+msgid "[_will_] О боже.. Что это на тебе.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:60 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_73c50fbc:
+msgid "[_susan_] Что такого, Вилл? Тебе не нравится?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:64 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_82b348c8:
+msgid "[_will_] Оно все такое.. Открытое.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:70 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_482c896c:
+msgid "[_cedrick_] А по-моему Сьюзан очень идет. Вилл, могла бы порадоваться за то, что у твоей мамы такая хорошая фигура, нечего тут стесняться"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:74 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_81fde36a:
+msgid "[_susan_] Ахах.. Ну, я.. Да, меня этот костюм вполне устраивает.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:78 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_2d1dc75c:
+msgid "[_will_] (Еще б тебя не устраивало.. Сиськи чуть ли не вываливаются.. Она явно довольна тем, что сможет привлекать Рика подобным образом.. А у меня только это жалкое школьное боди..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:82 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6fa889ef:
+msgid "[_will_] (Стоп.. Черт, Вилл, о чем ты вообще думаешь.. Неужели я уже сама хочу, чтобы он ко мне приставал..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:88 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_625a11db:
+msgid "[_will_] Знаете, я пожалуй пойду пока разомнусь и немного поплаваю. Оставлю вас наедине"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:98 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a2f08f02:
+msgid "[_susan_] Ох, Вилл, постой.. Черт, она ушла.. Я надеялась провести время всем вместе и как-то наладить общение"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:102 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_9b3bb279:
+msgid "[_cedrick_] Я думаю ей все еще надо дать время для того, чтобы остыть. Видимо ей и вправду непросто дается тот факт, что мы с тобой теперь вместе"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:106 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_1b5ad580:
+msgid "[_susan_] Это странно.. Раньше она не вела себя так.. Ни с Деном, ни с Томасом.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:110 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bf3a3265:
+msgid "[_susan_] Так она ведет себя только с тобой. Если бы я ее не знала, то даже сказала бы, что это похоже на ревность.. Но это так не похоже на мою Вилл"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:111 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_60e97510:
+msgid "[_cedrick_] (Хм, она начинает что-то подозревать. Нужно как-то увести эти мысли в другое русло)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:112 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0c6f234a:
+msgid "[_cedrick_] Ну, все дети вырастают, она уже давно не ребенок. Но, да, ты права, с каждым днем ей все сложнее принять наши с тобой отношения"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:113 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_7d50ff52:
+msgid "[_cedrick_] Думаешь дело во мне? Ну знаешь, раньше мы с Вилл довольно хорошо ладили, но тогда я был для нее всего лишь преподавателем и репетитором.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:117 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_e4c0ca8a:
+msgid "[_susan_] Ох, нет, Рик, ты прекрасный челов.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:121 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6c3985b7:
+msgid "[_cedrick_] А теперь я трахаю ее мать.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:125 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_e95e0209:
+msgid "[_susan_] Уууф.. Рик, не будь таким резким, мне становится неловко.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:126 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a00a32f9:
+msgid "[_cedrick_] Хах, а я думал тебе это нравится"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:130 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6a7550b7:
+msgid "[_susan_] Нравится, но.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:134 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_1416f609:
+msgid "[_susan_] Так, вообще мы не о том говорили"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:135 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_23743d00:
+msgid "[_cedrick_] Да.. Вилл. Думаешь мне стоит наладить с ней контакт? Начать с чистого листа?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:139 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_cb22936c:
+msgid "[_susan_] Да, возможно. Я постараюсь помочь с этим. Хочу, чтобы все наладилось"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:143 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_163967a2:
+msgid "[_susan_] Только, пожалуйста, не говори при ней о том, как ты трахаешь ее мать.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:144 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_39f9ca55:
+msgid "[_cedrick_] Хахаха, я постараюсь, но будет сложно удержаться"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:148 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a3252f3c:
+msgid "[_susan_] Ах ты негодник.. Вы же с Вилл изначально так хорошо ладили. Просто напомни ей, каким хорошим человеком ты можешь быть"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:149 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b4f96dc9:
+msgid "[_cedrick_] Хм.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:151 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_9dc5ac3f:
+msgid "[_cedrick_] (Кстати говоря об этом.. По плану, после разминки Вилл выпьет из бутылки, которую я ей оставил. Время для еще одной дозы эссенции)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:156 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_548f5a7d:
+msgid "[_will_] (Фух.. Наконец смогла выпустить пар.. Вроде теперь мне стало немного легче)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:157 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_caa894ec:
+msgid "[_will_] (Да, плаванье всегда помогало привести мысли в порядок. Если мастурбация уже не помогает, то хотя бы так выплесну накопившуюся во мне энергию..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:159 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bc2b7350:
+msgid "[_will_] (И все же.. Почему я так реагирую на все.. На маму, на их отношения с Риком.. На Рика..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:160 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_287e0471:
+msgid "[_will_] (Неужели я правда ревную? Рик, он.. Он порой такой мудак. Но все же.. Все же он поддерживал меня. Был рядом, когда это было необходимо)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:161 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b53dc29b:
+msgid "[_will_] (Поддерживал так, как меня никогда не поддерживал ни один парень.. Да и подруги не были так близки и честны последнее время. А Рик..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:162 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_248e74b8:
+msgid "[_will_] (Он чертов извращенец.. Постоянно распускает руки и пытается ухватить меня за все пикантные места, никогда от меня не отлипает.. Но вместе с этим, он всегда рядом)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:163 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_26b94539:
+msgid "[_will_] (Да и от его прикосновений, даже нежелательных, я все больше сама не своя.. Вот черт, я правда ревную парня своей мамы и хочу его.. Что со мной не так..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:164 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_5802f250:
+msgid "[_will_] (Ох, почему я опять так возбуждена, становится жарко.. Нужно слегка охладиться. Хорошо, что Рик оставил мне воды у шезлонга)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:172 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_8d70b5ba:
+msgid "[_susan_] Вилл, ты уже вернулась?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:177 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ede9ad88:
+msgid "[_will_] М? А, да, я же только размялась и выпустила немного пар"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:178 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d4995c7e:
+msgid "[_cedrick_] (Отлично, бутылка опустошена. Скоро начнется веселье)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:182 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a5e7970e:
+msgid "[_susan_] О, отлично, значит ты еще устроишь несколько заплывов. Не хочешь поплавать вместе с Риком?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:186 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_82012f1e:
+msgid "[_will_] Что?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:187 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_50bc4edc:
+msgid "[_cedrick_] ..Что?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:191 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0b842912:
+msgid "[_susan_] Хах, ну, я думаю это было бы интересно - посмотреть на ваше соревнование"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:195 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_8c4cd8f4:
+msgid "[_cedrick_] Сьюзан, да я ж проиграю в сухую.. несмотря на то, что это бассейн.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:199 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_8a02594c:
+msgid "[_susan_] Пс, Рик, это повод снова сблизиться с ней"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:203 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0d53b329:
+msgid "[_will_] Хм, ну даже не знаю. Рик, ты не против?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:207 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_32aab69a:
+msgid "[_cedrick_] Хах, ну.. Когда-то я учил тебя кататься на лыжах, хотя и сам кататься не умел. Вдруг у меня сейчас откроется такой же талант к плаванию?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:211 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0a3951d5:
+msgid "[_will_] Ахахах.. Я бы не удивилась. К тому же у тебя есть фора, ведь я только что проплыла несколько сотен метров и уже истратила часть сил"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:212 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_02392659:
+msgid "[_cedrick_] Ох, не скромничай. Это у тебя передо мной фора, ведь ты уже размялась, а я нет, так что у тебя все шансы на победу"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:216 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_5e405a33:
+msgid "[_will_] Ууу, вот значит как выкрутил? А что на счет того, что ты мужчина и физически сильнее?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:222 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ea588293:
+msgid "[_cedrick_] Нууу знаешь ли, не будем забывать, сколько лет ты до этого практиковалась"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:223 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_30e265e3:
+msgid "[_susan_] (Ох, они так забавно пререкаются.. Как в старые добрые, это хороший знак)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:227 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_68592e1f:
+msgid "[_susan_] Значит решено. Устроим заплыв с того конца досюда и обратно. Кто придет к дальнему концу бассейна первым - тот и победил"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:231 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ab1109ce:
+msgid "[_will_] Идет"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:232 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_46f894c4:
+msgid "[_cedrick_] По рукам!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:236 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_683ad0ed:
+msgid "[_will_] Если я выигрываю, то ты выполнишь мое желание!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:237 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bd021cba:
+msgid "[_cedrick_] Хах, ну тогда если выиграю я, то ты выполнишь мое"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:241 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b13c58c2:
+msgid "[_will_] Х.. Хорошо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:245 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_465a2978:
+msgid "[_susan_] Тогда на позиции! Начинаем на счет три"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:247 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6b89ac76:
+msgid "[_cedrick_] (Думаю решающее преимущество на моей стороне, ведь эссенция скоро подействует и затуманит ее разум, она не сможет нормально соображать и действовать)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:248 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bb917fc5:
+msgid "[_cedrick_] (Но даже с учетом этого, она довольно опасный соперник, я должен выбрать правильную тактику..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:249 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c8a034be:
+msgid "[_cedrick_] (Хм.. Вспомним теорию о стилях и видах плавания, я же что-то читал об этом. Как же там было...)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:250 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_2a32d1c1:
+msgid "[_cedrick_] (Есть вольный стиль на груди - самый быстрый. Это тот стиль, которым плавает Вилл. Даже ее увесистая грудь не мешает ее аэродинамике)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:251 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_05ca6459:
+msgid "[_cedrick_] (Есть техника плавания брассом. Руки вперед, всегда над головой. Самый распространенный стиль)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:252 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d6913fbb:
+msgid "[_cedrick_] (Еще есть баттерфляй - самый позерский стиль. Считается довольно сложным и требующим много сил. Тело совершает волнообразные движения, ноги всегда вместе)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:253 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a2cf9a95:
+msgid "[_cedrick_] (Какой же выбрать.. Эссенция скорее всего подействует, когда мы будем плыть в обратную сторону. До этого я просто не должен отставать. На обратном пути я могу поменять стиль)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:257 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ed7c823b:
+msgid "[_cedrick_] (Но какой стиль должен быть вначале?)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:261 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_540dd648:
+msgid "[_cedrick_] (Вольный стиль считается самым быстрым. Пожалуй не буду изощряться и просто выберу его)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:265 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_408c8ccf:
+msgid "[_cedrick_] (Раньше я никогда не плавал в бассейне и не использовал какой-то стиль. Техника брассом самая простая в освоении, использую ее)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:270 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_56d56630:
+msgid "[_cedrick_] (Вольный стиль - это тот, в котором плавает Вилл, в нем я ей не соперник. Брасс легок в освоении, но он самый медленный из трех..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:271 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6e3230f5:
+msgid "[_cedrick_] (Баттерфляй, каким бы позерским не казался, единственный может посоперничать с вольным стилем)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:272 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c1143521:
+msgid "[_cedrick_] (К тому же его основа в том, чтобы держать руки и корпус над водой, а ногами делать плавные движения, всегда держа их вместе)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:273 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c863a6ef:
+msgid "[_cedrick_] (Это очень похоже на то, как я плаваю в форме змея, так что этот стиль больше всего мне подходит. Для начала выберу его)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:282 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4f583bfe:
+msgid "[_will_] (Хм, он неплохо держится, хоть по его словам он раньше никогда не плавал.. Черт, он в отличной форме, так я могу и проиграть..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:283 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_63b51ef3:
+msgid "[_will_] (Ох, у меня начинает кружиться голова.. Неужели это из-за волнения?)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:290 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_7d0afba9:
+msgid "[_will_] (Хм, несмотря на то, что он хорошо держится, у него не получится меня догнать. Все же отсутствие опыта стало решающим фактором. А значит, я смогу загадать ему желание!)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:291 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4e425ac0:
+msgid "[_will_] (Ох, от этих мыслей у меня даже начинает кружиться голова.. Это нехорошо..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:293 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6c45342d:
+msgid "[_cedrick_] (Половина пути пройдена. На Вилл уже начинает действовать эссенция, ее рефлексы и движения становятся заторможенными. Но я тоже уже устал, все же отсутствие опыта дает о себе знать)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:297 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_9541f834:
+msgid "[_cedrick_] (Какой стиль мне выбрать теперь?)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:300 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_311263b4:
+msgid "[_cedrick_] (Вилл уже на пределе, она не сможет плыть в своем стиле так же хорошо, как до этого. А я как раз перераспределю нагрузку, так что вольный стиль - это отличный выбор)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:304 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b60fcd3d:
+msgid "[_cedrick_] (Техника брассом сохранит мне силы и на обратном пути я смогу держать нужный темп до самого финиша)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:308 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0006aa03:
+msgid "[_cedrick_] (Стиль Баттерфляй больше остальных мне подходит, стоит придерживаться его, если я хочу достигнуть финиша первым!)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:321 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a98e3181:
+msgid "[_will_] (Он что, сменил стиль на мой собственный? Не уж то догадался, что я выбилась из сил..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:322 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f13a7ffe:
+msgid "[_will_] (Черт, а Рик хорош.. Несмотря на весь мой опыт, боюсь, в моем нынешнем состоянии против него у меня нет шансов..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:325 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_e0533972:
+msgid "Вилл проиграла. Рик пришел к финишу первым"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:327 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b8f9e4ab:
+msgid "[_cedrick_] Хах, да, я победил!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:328 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6e4fd283:
+msgid "[_will_] (Вот черт.. Как я могла проиграть.. Со всем моим опытом, несмотря на все мои тренировки, Рик меня просто размазал.. Он действительно невероятный мужчина..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:329 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f8f6dcf1:
+msgid "[_will_] (Оххх, я полностью без сил, ноги не держат.. Я сейчас пойду ко дну..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:330 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_522336eb:
+msgid "[_cedrick_] Вилл!? Эй, что с тобой? Держись!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:334 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ddd4ff2f:
+msgid "[_cedrick_] Вилл, все в порядке? Ты вдруг так резко начала терять равновесие.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:336 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6a7d918a:
+msgid "[_will_] Я, да.. Совсем выбилась из сил.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:337 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_55aafc16:
+msgid "[_cedrick_] Хах, это объясняет, почему я смог тебя победить.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:338 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a7defc4d:
+msgid "[_will_] Нет, ты.. Ты выиграл честно и абсолютно заслуженно.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:340 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_44c22f43:
+msgid "[_will_] (Оооох, что со мной.. Мне так жарко, я буквально таю.. Таю в руках Рика.. Так хорошо и приятно..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:341 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_654fb7a7:
+msgid "[_will_] (Черт.. Когда он схватил меня за зад, чтобы удержать на воде, я инстинктивно взялась за него бедрами..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:342 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f886328e:
+msgid "[_will_] (Значит, теперь так мое тело реагирует на него?.. Впрочем, это уже не удивительно.. Побеждена и унижена, моему телу остается только пресмыкаться...)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:343 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a646b657:
+msgid "[_cedrick_] (Отлично, Вилл полностью беспомощна, а я буквально держу ее на плаву, она в моей власти. Как дальше поступить?)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:347 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_3bc0ca0a:
+msgid "[_cedrick_] (Что ж, не буду пока перегибать палку. Для этого еще найдется время. А пока..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:349 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_3dee621b:
+msgid "[_cedrick_] Ох, Вилл, тебе совсем не хорошо. Бросьте кто-нибудь спасательный круг!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:353 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d1ba57d5:
+msgid "[_cedrick_] Все, ты на спасательном круге, можешь расслабиться. Я донесу тебя до берега"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:355 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_80c9cf45:
+msgid "[_will_] Спасибо, Рик, но, кхм.. Как тут расслабишься, когда в меня упирается такая штуковина..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:356 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b3e9aaed:
+msgid "[_cedrick_] Ох, черт, прости, это видимо результат выработанного тестостерона во время плавания.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:358 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_1f1163ef:
+msgid "[_will_] Или это ты настолько рад своей победе.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:359 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0fd48aaa:
+msgid "[_cedrick_] Ахахах, рад что ты все такая же бодрая в плане юмора, значит не все так плохо. Но уж прости, придется потерпеть данное, кхм, неудобство, пока я несу тебя до берега.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:361 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_98ccc8f2:
+msgid "[_will_] Все, ммм.. Все в порядке.. К тому же это уже не первый раз, когда я сталкиваюсь с этой твоей... штукой.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:363 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_5b77ad18:
+msgid "[_will_] (Ооооох.. Черт, такими темпами я начну привыкать к тому, что он тычет в меня своим членом.. Он же так и норовит выскочить у него из трусов..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:364 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c9791113:
+msgid "[_will_] (Ааааах, я чувствую, как он пульсирует, даже через одежду.. Такой горячий.. Игрушки никогда не смогут дать таких же ощущений..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:365 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0ccd596e:
+msgid "[_will_] (Ахх.. Ахх.. У меня, кажется, начинают мозги плавиться..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:366 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_e6963d07:
+msgid "[_cedrick_] (Хмм, у нее участилось дыхание. Видимо ей уже сложно себя контролировать. Самое время воспользоваться ее положением)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:367 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_619a179e:
+msgid "[_cedrick_] Кстати, Вилл, к вопросу о нашем пари. Я выиграл, так что я теперь могу загадать тебе желание"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:369 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6454497d:
+msgid "[_will_] Ааххх.. И ч-чего ты хочешь?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:370 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_90e728fa:
+msgid "[_cedrick_] Хммм.. Дай подумать.. Ну, когда ты в таком положении и я вижу тебя во всей красе, мысли могут быть лишь об одном"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:371 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f29ecc3f:
+msgid "[_will_] Опять, ууф.. Опять что-то извращенное?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:372 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_e761be88:
+msgid "[_cedrick_] Хах, ну, ты и сама сейчас в довольно извращенной позе, так что не тебе тут жаловаться"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:374 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_396f788a:
+msgid "[_will_] Чего.. Чего ты хочешь?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:375 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b0bc12cf:
+msgid "[_cedrick_] Хм.. Давай так, пока мы не добрались до берега и Сьюзан нас не увидела.. Я хочу увидеть твою грудь. Здесь и сейчас"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:376 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_9d01df35:
+msgid "[_will_] Ч-чертов извращенец.. Хочешь, ааххх.. Хочешь сделать это за спиной у Сьюзан?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:377 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_8d600836:
+msgid "[_cedrick_] А что я еще могу поделать, если ты такая горячая сейчас?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:378 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c920c584:
+msgid "[_will_] Ахх.. Ахх.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:379 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bcd124bf:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:380 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4b5c406a:
+msgid "[_will_] Только быстро!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:381 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_930a4f11:
+msgid "[_cedrick_] (Хах, я так и знал, что она не сможет отказать)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:386 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_81c49886:
+msgid "[_will_] Ааахх.. Прямо здесь.. В общественном месте.. Рик, какой же ты извращенец.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:388 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_1daa506e:
+msgid "[_cedrick_] Твое роскошное тело делает меня таким. Только посмотри на эту прекрасную грудь, как тут не стать извращенцем?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:390 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_638cb367:
+msgid "[_will_] П-прекрати говорить такие похабные вещи.. Особенно, когда ты тычешь в меня своим членом.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:391 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0bc04a6d:
+msgid "[_cedrick_] Хах, ничего такого, если это через одежду"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:392 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_de1ba905:
+msgid "[_will_] Н-ничего такого, значит.. Не неси чушь.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:394 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d40b5115:
+msgid "[_cedrick_] Ох, не злись, я просто подшучиваю над тобой. Ладно, я плыл так медленно, как только мог, но мы уже почти у берега"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:396 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f3f64099:
+msgid "[_cedrick_] Нельзя позволить, чтобы тебя еще кто-то застал в таком виде. Считай, что желание исполнено"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:398 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_77dda826:
+msgid "[_will_] ...Извращенец.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:403 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_cc6cfa35:
+msgid "[_cedrick_] (Хах, она такая беспомощная сейчас, что сложно устоять. Пожалуй, я и не стану сдерживаться)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:405 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d5a76a96:
+msgid "[_cedrick_] Вилл, давай я помогу тебе добраться до берега. Пойдем, я поддержу тебя сзади"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:407 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:411 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bdb07156:
+msgid "[_will_] Рик! Что.. Ааах.. Что ты делаешь!?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:412 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f09e88f1:
+msgid "[_cedrick_] А что такого? Просто пользуюсь своим правом победителя"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:413 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ebf9b73b:
+msgid "[_will_] Н-но не так же.. Я не разрешала тебе трогать мою грудь.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:414 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b05f2e84:
+msgid "[_will_] К тому же.. Прямо между моих бедер в меня упирается твой.. Твой.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:416 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_5b989b11:
+msgid "[_cedrick_] Что такое, Вилл? Тебя что-то не устраивает?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:418 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_9a780007:
+msgid "[_will_] Т-твой чл.. Это неправильно! Нельзя делать такое прямо за спиной у Сьюзан.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:419 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_24f0ed61:
+msgid "[_cedrick_] Ох, а я думал, ты уже к нему привыкаешь. По крайней мере, сейчас самое время. А что касается Сьюзан, она сама захотела, чтобы мы с тобой сблизились. Вот я и иду на сближение"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:420 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_804b5d58:
+msgid "[_will_] Сьюзан.. Сама захотела.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:422 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_48b8a11b:
+msgid "[_cedrick_] К тому же, не стоит скрывать, я знаю, что ты ревнуешь. Просто признай это и получишь свою долю наслаждения"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:424 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_231dee81:
+msgid "[_will_] (Чертов засранец.. Он давит на самые больные места.. Но.. Но я правда тоже хочу получить немного наслаждения.. Не честно, что все достается одной Сьюзан..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:425 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f561aff3:
+msgid "[_cedrick_] В общем, Вилл, пока мы не добрались до берега, я хочу получить свое желание, исполни его"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:427 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_eeaeb715:
+msgid "[_will_] Ч-чего ты хочешь, извращенец. Разве тебе мало того, что сейчас?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:429 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_8f37b42c:
+msgid "[_cedrick_] А я разве сказал, что желаю этого? Нет, я просто лапаю тебя, а ты мне позволяешь, причем не в первый раз"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:431 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_009f2168:
+msgid "[_will_] Пф.. Да как ты.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:433 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b0fcd5c3:
+msgid "[_cedrick_] Я хочу, чтобы ты потрогала мой член, там, под водой"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:435 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_344a32eb:
+msgid "[_will_] Ч-что!?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:436 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ffe3e366:
+msgid "[_cedrick_] Ты меня слышала"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:437 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_63d36c1c:
+msgid "[_will_] Я.. Я не стану, Рик"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:439 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_232759d8:
+msgid "[_cedrick_] Вилл, ты дала слово, так что исполняй его. Девочка, ты проиграла, так что прими поражение с гордостью"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:440 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_04dcfc95:
+msgid "[_cedrick_] Я не делаю ничего плохого, просто беру свое по праву"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:442 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_090919ee:
+msgid "[_will_] (Пф.. Черт, он относится ко мне, как к какой-то вещи.. Это раздражает.. Но еще больше возбуждает.. Ох, черт, не уж то я сама этого хочу? Хочу член Рика..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:443 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0c13634a:
+msgid "[_cedrick_] Ну же"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:444 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bcd124bf_1:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:449 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_af9c6d40:
+msgid "[_cedrick_] Хорошая девочка"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:451 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_40c11fc8:
+msgid "[_will_] З-зачем ты оголил мою грудь.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:452 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_8fadb4df:
+msgid "[_cedrick_] Чтобы было приятно не только мне, очевидно же"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:454 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4bd914c5:
+msgid "[_will_] Ч-чертов извращенец"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:456 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_48b71c31:
+msgid "[_cedrick_] Не лукавь, этой ситуации не было бы, если бы ты сама того не хотела. Ничто не мешало тебе отказать мне в этот раз, как и в предыдущие"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:458 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4db00754:
+msgid "[_will_] Замолчи.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:460 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f872f52b:
+msgid "[_cedrick_] Но ты здесь, трогаешь мой член с грудью напоказ, тогда как твоя мама в десятках метров от нас"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:462 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4ccf5bbb:
+msgid "[_will_] Заткнись..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:464 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bb6eb483:
+msgid "[_cedrick_] Настоящий изращенец здесь только один и это ты, Вилл"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:466 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d7939b1d:
+msgid "[_will_] Ах ты чертов.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:467 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_81388b92:
+msgid "[_cedrick_] ..Мы закончили"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:469 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b6db4a6a:
+msgid "[_will_] ...Ч-что? Я думала.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:471 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6d9a257c:
+msgid "[_cedrick_] Ты думала я кончу? Или скорее дам кончить тебе?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:473 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bcd124bf_2:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:474 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a6248fc9:
+msgid "[_cedrick_] Не так быстро, Вилл. Все же мы в общественном месте и уже почти у берега. Прикрой грудь, не хочу, чтобы тебя видел в таком виде кто-то, кроме меня"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:476 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b482f75a:
+msgid "[_will_] ..Чертов засранец.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:478 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ee67a6ea:
+msgid "[_will_] (Я.. Я не извращенка.. Я просто..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:479 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_90837489:
+msgid "[_will_] (…)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:480 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_cf61e793:
+msgid "[_will_] (Черт, нет.. Я купила себе дилдо и использую его, представляя, парня моей мамы, потому что последнее время только так у меня получается кончить..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:481 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_52ba2b11:
+msgid "[_will_] (Он прав, я долбаная извращенка..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:487 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_946ada62:
+msgid "[_will_] (Я выбилась из сил, но к счастью для меня, Рик выбрал неправильную тактику)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:488 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_23070a5e:
+msgid "[_will_] (Возможно у него был бы шанс меня победить, выбери он правильную последовательность стилей. Но победа в моих руках!)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:491 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_371900b3:
+msgid "Рик проиграл. Вилл пришла к финишу первой"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:494 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_551b0c7f:
+msgid "[_will_] Да! Я победила, хаха! Столько времени тренировок не прошли даром!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:495 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_1e4b6338:
+msgid "[_will_] Ох.. Черт.. Что-то мне.. Совсем не хорошо, я едва держусь на воде.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:496 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0bb34426:
+msgid "[_cedrick_] Вилл, я тебя держу!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:501 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_2af46a2e:
+msgid "[_will_] Рик.. Ты поймал меня.. Спасибо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:502 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_909ecced:
+msgid "[_cedrick_] Без проблем. Все нормально?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:504 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_7acdc8b6:
+msgid "[_will_] Да, я просто..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:506 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c3e82f29:
+msgid "[_will_] (Черт.. Я горю.. Мне чертовски жарко.. Такое чувство, что сейчас вся вода в бассейне испарится..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:507 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d7f1f9bf:
+msgid "[_will_] (Я победила, но какой ценой, я же теперь без сил.. Но дело явно не только в этом.. Как только Рик схватил меня за зад, я инстинктивно зажала его бедрами.. Боже, что я делаю..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:508 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ec144e01:
+msgid "[_cedrick_] (Черт.. Эта маленькая сучка победила меня.. Даже при том, что она была ослаблена эссенцией, я все равно проиграл..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:509 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_67897994:
+msgid "[_cedrick_] (Это меня очень злит..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:510 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c3d13783:
+msgid "[_cedrick_] (Но, даже при том, что она победила.. Теперь она слаба и беспомощна. Уж теперь то я точно отыграюсь. После своего поражения нежности она от меня не дождется. Сейчас будет только жестко)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:512 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_62ee6d9b:
+msgid "[_will_] Р-рик.. Все нормально? Ты так крепко сжал мои.. Кхм, мои ягодицы..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:514 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ec0cc3de:
+msgid "[_cedrick_] Да, все в порядке. Давай помогу добраться тебе до берега, я поддержу тебя сзади"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:516 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_94c00c08:
+msgid "[_will_] С-спасибо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:523 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_430f6250:
+msgid "[_will_] Р-Рик! Что.. Что ты делаешь.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:525 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0d605035:
+msgid "[_cedrick_] Ох, прости, Вилл, это все тестостерон. Во время плавания кровь так и приливает туда, куда не следует, хах.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:526 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_6ae736dc:
+msgid "[_will_] (Ооо, черт, я чувствую его своими бедрами.. Он упирается мне через костюм прямо в киску.. Член.. Это член Рика..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:527 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b40ad05d:
+msgid "[_will_] (Уууууф, спокойно, Вилл.. Держи себя в руках...)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:529 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_7b19f1ee:
+msgid "[_will_] Э.. Кхм.. Я.. Я понимаю, Рик, но.. Но не мог бы ты не сжимать так мою грудь.. Это уже переходит все границы.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:531 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_452605fd:
+msgid "[_cedrick_] А что такого, Вилл? Твоя мать на другой стороне бассейна, нас никто не увидит"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:533 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4c0dfaa6:
+msgid "[_will_] Дело не в этом.. Просто.. Это неправильно.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:535 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_56463f63:
+msgid "[_cedrick_] Что такого? Я просто помогаю тебе переплыть бассейн до берега.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:537 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_04e8f3ce:
+msgid "[_will_] Н-не держи меня за дуру, Рик.. Ты просто.. Просто пользуешься моим положением.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:539 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_33ed118e:
+msgid "[_cedrick_] Хах, может и так, мне же надо как-то компенсировать проигрыш. Только не говори, что тебе не нравится"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:540 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d1bf94eb:
+msgid "[_will_] (Вот засранец.. Я.. Ааах.. Я должна это прекратить..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:542 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_e00c351b:
+msgid "[_will_] Рик. Ты проиграл и ты должен выполнить мое желание, ты ведь помнишь об этом?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:544 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a4bc16f5:
+msgid "[_cedrick_] ...Допустим."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:546 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_678cdad0:
+msgid "[_will_] Мое желание.. Оох.. Мое желание заключается в том, чтобы ты немедленно прекратил меня лапать и просто донес меня до берега."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:548 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_1674a060:
+msgid "[_cedrick_] Пф... Черт.. Что ж, как тебе будет угодно, свое желание ты потратила"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:549 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b8783395:
+msgid "[_cedrick_] (Что ж, пока не стоит переходить эту грань. Я могу ее грязно домогаться, пока она не даст отпор, но не стоит прямо нарушать наши договоренности)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:550 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_59dba450:
+msgid "[_cedrick_] (Пока что просто отпущу ее..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:557 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f197d7e5:
+msgid "РИК ДОВОДИТ ВИЛЛ ДО БЕРЕГА"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:563 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_90523c8b:
+msgid "[_susan_] Вилл!? Все хорошо? Я видела, как вы замедлились вдруг на другом конце бассейна"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:567 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_36b89dd7:
+msgid "[_will_] Да, я просто.. Я вымоталась, мне срочно надо пойти.. Отдохнуть.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:573 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_28c17f7f:
+msgid "[_susan_] Ох, дорогая, если хочешь, я могу пойти с тобой"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:577 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4dd8675e:
+msgid "[_will_] Н-нет! Все нормально, я справлюсь.. Можете пока побыть тут, все хорошо. Проводите вместе время, мне просто.. Просто надо отлучиться.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:581 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_1e0d2478:
+msgid "[_susan_] Х-хорошо, Вилл, я тебя поняла"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:585 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_11f72e1c:
+msgid "[_will_] (И какого черта я не догадалась взять дилдо в бассейн)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:588 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:592 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d4970408:
+msgid "[_susan_] Рик, все правда прошло хорошо?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:593 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_36fefb0a:
+msgid "[_cedrick_] Да, все отлично, мы смогли, кхм, сблизиться. Вилл просто утомилась, может голову напекло на открытом солнце. Ей нужно отдохнуть в тени"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:597 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0ffbfa5b:
+msgid "[_susan_] Я поняла.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:601 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_bee3999c:
+msgid "[_susan_] Что ж, получается, мы с тобой теперь одни"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:602 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_d58a44ea:
+msgid "[_cedrick_] Хах, получается так"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:606 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_38e2e0b1:
+msgid "[_susan_] Отлично, давай тогда пока просто полежим на шезлонгах, думаю ты тоже сильно устал"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:608 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:611 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_364f8d2c:
+msgid "[_cedrick_] Ох, черт, да как тут отдохнешь, когда открываются такие виды"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:612 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_cee722ab:
+msgid "[_susan_] Что, нравится?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:613 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_0bdd5e10:
+msgid "[_cedrick_] Хах, а ты что же, дразнишь меня, чертовка? Играешь с огнем, знаешь ли?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:614 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a28a8d77:
+msgid "[_susan_] Ох, и что же вы сделаете со мной, школьный учитель? Оставите после уроков?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:618 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:619 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_53d39014:
+msgid "[_susan_] Ауф! Рик, вокруг же люди.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:620 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b3ac5df6:
+msgid "[_cedrick_] И что? Пусть все знают, что ты моя женщина и что оставить после уроков — это не единственное, как я могу тебя наказать"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:621 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_581147a9:
+msgid "[_susan_] Оххх, после таких слов я начинаю вся течь"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:622 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_cf8f5828:
+msgid "[_cedrick_] А у меня от твоего костюма начинается жесткий стояк"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:623 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ffd7540e:
+msgid "[_susan_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:624 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_026aa63b:
+msgid "[_susan_] Может пойдем поплаваем?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:625 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_3f3ad977:
+msgid "[_cedrick_] ..Отличная идея, дорогая"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:629 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c52207e7:
+msgid "[_cedrick_] Ох, теперь я точно возьму твой зад и мне никто не помешает"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:630 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_e1ebd007:
+msgid "[_susan_] Рик, здесь же люди.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:631 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c2967d03:
+msgid "[_cedrick_] Да плевать, никто не увидит нас в воде"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:636 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_270c4959:
+msgid "[_susan_] Ооох, да, Рик, да! Возьми мою задницу!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:637 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b772d1af:
+msgid "[_cedrick_] Черт, она такая тугая.. Мне нравится"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:638 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_07f11ce7:
+msgid "[_susan_] Да, ммм, сильнее.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:639 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_8af5b46f:
+msgid "[_cedrick_] Как же хорошо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:640 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ec31aae7:
+msgid "[_susan_] Долби меня сильнее.. Сильнее!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:641 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_e0ef9aeb:
+msgid "[_cedrick_] Сьюзан, нас могут услышать.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:642 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_f6d76e77:
+msgid "[_susan_] Да плевать, долби мою задницу сильнее!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:643 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_8af3cf8b:
+msgid "[_cedrick_] Ах ты долбаная извращенка, ну тогда получай!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:644 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4d42fb73:
+msgid "[_susan_] Ммммх.. Дааа.. О дааа.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:645 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c1f8feca:
+msgid "[_cedrick_] Уууух, я близок.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:646 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_3d59f7c8:
+msgid "[_susan_] Ааав, да, кончи в меня.. Я тоже уже почти.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:652 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4b45cd3e:
+msgid "[_cedrick_] Кончаю!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:653 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_4b193e03:
+msgid "[_susan_] Уухххх... и я..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:657 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:659 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_ffd7540e_1:
+msgid "[_susan_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:660 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_9fc2cd58:
+msgid "[_susan_] Думаешь я и вправду была слишком громкой?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:661 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_98fd6a15:
+msgid "[_cedrick_] Ну, несколько людей на нас пялились определенно не просто так"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:662 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_5bc9998c:
+msgid "[_susan_] Ох, черт.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:663 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_412f3173:
+msgid "[_cedrick_] Ничего, пусть все знают, что теперь ты моя женщина и я могу тебя трахать, где захочу"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:664 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_c76796ed:
+msgid "[_susan_] Ооох, Рик, ты долбаный извращенец, но мне это нравится. Я и сама такая.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:665 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_b8ff01d7:
+msgid "[_susan_] Что ж, давай найдем Вилл и отправимся домой"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:666 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_faf6640a:
+msgid "[_cedrick_] Да, без проблем. Я немного задержусь, можете меня не ждать. Увидимся дома"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:667 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_cc658496:
+msgid "[_susan_] Ох, хорошо. Тогда до скорого, Рик"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:669 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_bathing_suits_a20cefa7_4:
+msgid "..."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:9
+msgid "Конечно"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:9
+msgid "Еще нет"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:259
+msgid "Вольный стиль"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:259
+msgid "Техника брассом"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:259
+msgid "Баттерфляй"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:345
+msgid "Нежно"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_bathing_suits.rpy:345
+msgid "Жестко"
+msgstr ""
+
