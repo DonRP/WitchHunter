@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.po\n"
+"X-Crowdin-File-ID: 5231\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:37\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:6 #-#-# translate crowdin get_a_flower_with_a_red_core_74ddd4ae:
+msgid "[_amalia_] Вы нашли ее? "
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:10 #-#-# translate crowdin get_a_flower_with_a_red_core_cde04e51:
+msgid "[_cedrick_] Да, однако, есть плохая новость. Евангелина подверглась древнему заклятию, теперь она стала агрессивной и бросается на всех, кого видит. Ее нужно расколдовать"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:14 #-#-# translate crowdin get_a_flower_with_a_red_core_6c38a3d8:
+msgid "[_amalia_] Скажи, где она, я обязана ее спасти!"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:18 #-#-# translate crowdin get_a_flower_with_a_red_core_ac615048:
+msgid "[_cedrick_] Не торопись. Единственный способ ее спасти - это добыть очень редкий цветок. Но проблема в том, что его невероятно трудно найти"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:22 #-#-# translate crowdin get_a_flower_with_a_red_core_c7c1096b:
+msgid "[_amalia_] Как он выглядит?"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:26 #-#-# translate crowdin get_a_flower_with_a_red_core_c217fffd:
+msgid "[_cedrick_] Красная сердцевина и белые лепестки"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:30 #-#-# translate crowdin get_a_flower_with_a_red_core_5b1974d9:
+msgid "[_amalia_] Один момент... странно, но я ничего найти не могу"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:31 #-#-# translate crowdin get_a_flower_with_a_red_core_a79f0ca6:
+msgid "[_cedrick_] Ты маг?!"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:35 #-#-# translate crowdin get_a_flower_with_a_red_core_bf79a065:
+msgid "[_amalia_] Я просто управляю природой и растениями. Давай еще раз..."
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:39 #-#-# translate crowdin get_a_flower_with_a_red_core_c3b589ea:
+msgid "[_amalia_] нашла! Я знаю, где этот цветок!"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:41 #-#-# translate crowdin get_a_flower_with_a_red_core_bbf43d2a:
+msgid "[_centered_] {size=37}Спустя некоторое время в лесу меридиана {/size}"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:47 #-#-# translate crowdin get_a_flower_with_a_red_core_b8b2302f:
+msgid "[_cedrick_] Что вас связывает с Евангелиной?"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:50 #-#-# translate crowdin get_a_flower_with_a_red_core_5f39d9b0:
+msgid "[_amalia_] Мы... Друзья. А еще она мой телохранитель. Сначала нам было трудно, мы спорили и конфликтовали, но потом..."
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:51 #-#-# translate crowdin get_a_flower_with_a_red_core_db548a33:
+msgid "[_cedrick_] (Я вижу, как ваши сладкие ротики вздыхают с предвкушением и желают лишь одного: моей горячей спермы...)"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:55 #-#-# translate crowdin get_a_flower_with_a_red_core_534cd8fc:
+msgid "[_amalia_] А этого делать не стоит"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:59 #-#-# translate crowdin get_a_flower_with_a_red_core_71e2fb3a:
+msgid "[_cedrick_] Что?!"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:63 #-#-# translate crowdin get_a_flower_with_a_red_core_001fd066:
+msgid "[_amalia_] Я говорю не стоит нас предавать. Иначе будешь как тот парень, о котором я рассказывала"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:67 #-#-# translate crowdin get_a_flower_with_a_red_core_4110d9fc:
+msgid "[_cedrick_] А, ты об этом? Это я понял, не беспокойся"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:70 #-#-# translate crowdin get_a_flower_with_a_red_core_9322108f:
+msgid "[_amalia_] Вот мы и пришли. Это те цветки, которые нам нужны"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:71 #-#-# translate crowdin get_a_flower_with_a_red_core_b96b7370:
+msgid "[_cedrick_] Видимо"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:72 #-#-# translate crowdin get_a_flower_with_a_red_core_12a3ef61:
+msgid "Вместо одного цветка Седрик находит сразу два"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:73 #-#-# translate crowdin get_a_flower_with_a_red_core_cdc407a3:
+msgid "[_amalia_] Ох, а как они пахнут..."
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:76 #-#-# translate crowdin get_a_flower_with_a_red_core_f29ae7ed:
+msgid "Амалия принюхивается"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:77 #-#-# translate crowdin get_a_flower_with_a_red_core_49f8c501:
+msgid "[_amalia_] Какой приятный запах... только странный. Очень странный. Но такой приятный, терпкий и... приятный"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:78 #-#-# translate crowdin get_a_flower_with_a_red_core_19e2c25f:
+msgid "[_cedrick_] У тебя все хорошо?"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:79 #-#-# translate crowdin get_a_flower_with_a_red_core_d523ffa4:
+msgid "[_amalia_] Да, только дай еще немного насладиться этот сладкий, манящий и такой пьянящий..."
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:80 #-#-# translate crowdin get_a_flower_with_a_red_core_db10aad3:
+msgid "[_cedrick_] Амалия, пошли, Евангелина ждет"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:81 #-#-# translate crowdin get_a_flower_with_a_red_core_eb2999d9:
+msgid "[_cedrick_] (И мой член тоже)"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:82 #-#-# translate crowdin get_a_flower_with_a_red_core_0046127d:
+msgid "[_amalia_] Точно. Уже иду... хотя нет, я вернусь в таверну, в моей голове каша. Как освободишь Евангелину, то возвращайся быстрее"
+msgstr ""
+
+# game/scripts/quests/girlInFlask/get_a_flower_with_a_red_core.rpy:83 #-#-# translate crowdin get_a_flower_with_a_red_core_f68381f3:
+msgid "[_cedrick_] (Что же это за цветок такой? Но нюхать его явно не стоит)"
+msgstr ""
+
