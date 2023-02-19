@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.po\n"
+"X-Crowdin-File-ID: 5141\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:36\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:4 #-#-# translate crowdin elion_is_being_groped_at_school_9c285532:
+msgid "[_centered_] {size=37}Тем временем в женском туалете{/size}"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:8 #-#-# translate crowdin elion_is_being_groped_at_school_ff781da1:
+msgid "[_uria_] Хей-хей, приветики, Элион.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:11 #-#-# translate crowdin elion_is_being_groped_at_school_6cd266d0:
+msgid "[_elion_] Урия, что тебе надо? Это, между прочим, женский туалет?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:12 #-#-# translate crowdin elion_is_being_groped_at_school_2dd09850:
+msgid "[_uria_] Ох, что, правда? А мы с ребятами и не заметили. Совсем как ты не заметила то, что находишься в классе, когда начала мастурбировать пару дней назад"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:15 #-#-# translate crowdin elion_is_being_groped_at_school_abfe8520:
+msgid "[_elion_] Ч-что? Откуда ты знаешь..."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:16 #-#-# translate crowdin elion_is_being_groped_at_school_329e207d:
+msgid "[_uria_] Да уже вся школа об этом трезвонит, детка. А я и подумать не мог, что наша тихоня Элион на самом деле такая развратница"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:19 #-#-# translate crowdin elion_is_being_groped_at_school_0f63f6fb:
+msgid "[_elion_] Э-это вышло случайно.. Я сама не знаю, что на меня нашло.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:20 #-#-# translate crowdin elion_is_being_groped_at_school_60dacb0b:
+msgid "[_uria_] Да не оправдывайся ты. На самом деле я пришел, чтобы предложить тебе стать моей девушкой. Такая малышка, да еще и развратница – все как я люблю"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:23 #-#-# translate crowdin elion_is_being_groped_at_school_fe4f808f:
+msgid "[_elion_] Урия, не шути так.. Дай пройти, я ухожу"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:24 #-#-# translate crowdin elion_is_being_groped_at_school_e275a718:
+msgid "[_uria_] Отказать мне решила? Ну и куда ты пойдешь? Подруги все тебя кинули, парень пропал, родители, по слухам, вообще…"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:27 #-#-# translate crowdin elion_is_being_groped_at_school_b30ef44b:
+msgid "[_elion_] Да пошел ты! Отвали, Урия!"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:28 #-#-# translate crowdin elion_is_being_groped_at_school_148a9d15:
+msgid "[_uria_] Ишь как завелась.. А такой ты мне даже больше нравишься. Окружай ее, парни. Сейчас сделаем тебе приятно, прямо как на перемене"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:31 #-#-# translate crowdin elion_is_being_groped_at_school_260c5bd0:
+msgid "[_elion_] Н-не надо…"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:36 #-#-# translate crowdin elion_is_being_groped_at_school_19018254:
+msgid "[_uria_] Ну же, детка, не стесняйся ты так.. В тот раз тебя ничего не смущало. Дай лучше хорошенько ощупать твои формы"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:37 #-#-# translate crowdin elion_is_being_groped_at_school_08b0d1cf:
+msgid "[_bully1_] Ооо, черт, какие у нее отпадные сиськи на ощупь.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:38 #-#-# translate crowdin elion_is_being_groped_at_school_2a866db3:
+msgid "[_bully2_] Дааа, кажись у меня встал, пацаны"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:39 #-#-# translate crowdin elion_is_being_groped_at_school_339a60d0:
+msgid "[_uria_] Это точно, формы что надо.. Интересно, что под одеждой"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:40 #-#-# translate crowdin elion_is_being_groped_at_school_de2e1bbd:
+msgid "[_elion_] Перестаньте, хватит.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:41 #-#-# translate crowdin elion_is_being_groped_at_school_ff871000:
+msgid "[_uria_] А ты не очень то и сопротивляешься. Что, уже начинает нравиться?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:42 #-#-# translate crowdin elion_is_being_groped_at_school_b9414324:
+msgid "[_elion_] Нет, это не так.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:43 #-#-# translate crowdin elion_is_being_groped_at_school_755446eb:
+msgid "[_uria_] Все так, чего ты скромничаешь. Все тут уже знают твою похотливую натуру, ты та еще развратница, Элион, признай это уже"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:44 #-#-# translate crowdin elion_is_being_groped_at_school_7ceb8339:
+msgid "[_elion_] Я не такая.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:45 #-#-# translate crowdin elion_is_being_groped_at_school_4f0806d4:
+msgid "[_elion_] (Н-не такая ведь? Правда? Но почему я тогда..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:46 #-#-# translate crowdin elion_is_being_groped_at_school_b6aaa790:
+msgid "*ЗВЕНИТ ЗВОНОК НА УРОК*"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:47 #-#-# translate crowdin elion_is_being_groped_at_school_a253efa0:
+msgid "[_uria_] Черт, нам пора сваливать. Если нас не будет на уроке, учителя начнут нас искать"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:48 #-#-# translate crowdin elion_is_being_groped_at_school_f4bbeff4:
+msgid "[_uria_] Так и хочется разорвать на тебе одежду, словно обертку на новогоднем подарке. Но, мы сделаем это в следующий раз"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:49 #-#-# translate crowdin elion_is_being_groped_at_school_59ae4901:
+msgid "[_elion_] (Спасена..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:51 #-#-# translate crowdin elion_is_being_groped_at_school_da07004b:
+msgid "[_uria_] Эй, толстый, подними-ка ее юбку"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:54 #-#-# translate crowdin elion_is_being_groped_at_school_d043bf37:
+msgid "[_elion_] Ч-что!?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:55 #-#-# translate crowdin elion_is_being_groped_at_school_51a51f1e:
+msgid "[_uria_] Сейчас будет отличный кадр"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:59 #-#-# translate crowdin elion_is_being_groped_at_school_2a861b6a:
+msgid "[_uria_] Отлиииично, заснял?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:60 #-#-# translate crowdin elion_is_being_groped_at_school_ad1c6755:
+msgid "[_bully2_] Ага-ага"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:63 #-#-# translate crowdin elion_is_being_groped_at_school_f5182272:
+msgid "[_uria_] Если не хочешь, чтобы этот снимок разлетелся по всей школе и все знали, какого цвета носит трусы наша извращенка – лучше помалкивай о случившемся, поняла?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:64 #-#-# translate crowdin elion_is_being_groped_at_school_89c59728:
+msgid "[_elion_] ..."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:65 #-#-# translate crowdin elion_is_being_groped_at_school_8a1d81ce:
+msgid "[_uria_] Ты поняла?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:66 #-#-# translate crowdin elion_is_being_groped_at_school_725cc736:
+msgid "[_elion_] Д-да.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_is_being_groped_at_school.rpy:67 #-#-# translate crowdin elion_is_being_groped_at_school_dcda2f79:
+msgid "[_uria_] Вот и славно. Увидимся, Элион"
+msgstr ""
+
