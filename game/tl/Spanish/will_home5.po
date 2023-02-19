@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/will/will_home5.po\n"
+"X-Crowdin-File-ID: 5553\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:39\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home5.rpy:8 #-#-# translate crowdin will_home5_5a4eb973:
+msgid "[_cedrick_] Привет"
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:14 #-#-# translate crowdin will_home5_ab312e04:
+msgid "[_susan_] Рик, прости за вчерашнее..."
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:15 #-#-# translate crowdin will_home5_808f6774:
+msgid "[_susan_] Это мой бывший муж... Хотя по правде говоря мы еще не развелись с ним"
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:21 #-#-# translate crowdin will_home5_074e9b31:
+msgid "[_susan_] Раньше он был очень азартным игроком и проигрывал очень много денег, он проиграл наш дом и мне пришлось уйти от него... Я больше не могла этого выносить"
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:22 #-#-# translate crowdin will_home5_80900558:
+msgid "[_susan_] Но теперь он исправился...По крайней мере он так говорит..."
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:28 #-#-# translate crowdin will_home5_0507585d:
+msgid "[_susan_] Я должна дать ему второй шанс... в конце концов он отец Вилл.."
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:34 #-#-# translate crowdin will_home5_0fde023a:
+msgid "[_susan_] Извини... То что произошло между нами вчера было ошибкой..."
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:40 #-#-# translate crowdin will_home5_86709c64:
+msgid "[_cedrick_] Я все понимаю... Не переживай из-за этого"
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:44 #-#-# translate crowdin will_home5_9f6a88e1:
+msgid "[_cedrick_] (Этот... Чертов ублюдок...)"
+msgstr ""
+
+# game/scripts/quests/will/will_home5.rpy:45 #-#-# translate crowdin will_home5_46bb023d:
+msgid "[_cedrick_] (Говоришь он исправился, нужно найти способ доказать ей обратное...)"
+msgstr ""
+
