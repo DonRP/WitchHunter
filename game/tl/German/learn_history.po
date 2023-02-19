@@ -1,0 +1,542 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/bookshop/learn_history.po\n"
+"X-Crowdin-File-ID: 4789\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:40\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/learn_history.rpy:366 #-#-# translate crowdin learn_history_c9230321:
+msgid "[_cedrick_] Сегодня я устал, лучше продолжу завтра"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:368 #-#-# translate crowdin learn_history_4d38ecca:
+msgid "[_cedrick_] Я уже знаю всю историю"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/bookshop/learn_history.rpy:2
+msgid "Бог солнца в Древнем Египте"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Ра-Атум"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Осирис"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Аллах"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Красный бог"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Кто стал первым римским императором?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Октавиан Август"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Лютиус Малфой"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Сенека"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Спартак"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Он был убит заговорщиками из ближайшего окружения несколькими десятками ударов мечей?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Калигула"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Гитлер"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Марк Аврелий"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Эдд Старк"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Как называли первых правителей Рима?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Царь"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Вождь"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Император"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Князь"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "\"Отец истории\" в Древней Греции"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Геродот"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Аристотель"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Сократ"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Микеланджело"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Как назывался \"Храм всех богов\" в Древнем Риме?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Пантеон"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Колизей"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Храм Артемиды"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Храм Арестотеля"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Этот правитель Великой Римской Империи умел делать одновременно 7 никак не связанных между собой дел"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Юлий Цезарь"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Дольмен"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "князь Фобос"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Тумулус"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Государство, которому принадлежало все побережье Средиземного моря?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Римская империя"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Византийская империя"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Османская империя"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Арабский халифат"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Что положено в основу латинского алфавита?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Греческая грамота"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Клинопись"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Древнеегипетские иероглифы"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Латинский алфавит"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Как называли рабов, которым давали оружие и заставляли драться друг с другом на смерть?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Гладиаторы"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Домашние"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Животные"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:2
+msgid "Храмовые"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Из чего были построены первые замки?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Дерева"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Камня"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Песка"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Костей"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Кто такие трубадуры?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Бродячие поэты и музыканты"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Чистильщики дымовых труб"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Придворные поэты"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Музыканты играющие на кожаной флейте"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Кто такие герольды?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Создатели фамильных гербов"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Бродячие музыканты"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Сочинители баллад"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Герольд это Ведьмак из Ривии"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Что такое инквизиция?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Церковный суд"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Земской суд"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Гражданский суд"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "3 часть игры Dragon Age"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Центр православия находился в"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Византии"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Риме"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Москве"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Берлине"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Сколько лет длилась столетняя война?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "116"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "100"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "108"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "119"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Кто такой Феодал?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Землевладелец в эпоху феодализма"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Человек, дающий фей"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Человек, раздающий феоды"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Бродячий музыкант"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Кто такой Пипин Короткий?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Король франков"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Глава христианской церкви"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Так в средневековье называли маленький член"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Бродячий монах"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Религиозно-философское учение, пытающееся познать Бога и мир при помощи логических рассуждений, называется"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "схоластикой"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "мистикой"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "рационализмом"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "аутизмом"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "Когда в Европе начинает формироваться феодальный строй?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "С падения римской империи"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "После захватов франков Галлии"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "После смерти Карла великого"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:104
+msgid "После смерти Роба Старка"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "В каком году началась вторая мировая война?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "1939"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "1488"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "1945"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "1337"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "На кого напала Геpмания 1 сентябpя 1939"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Польша"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "СССР"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Франция"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "На Карла Великого"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Год окончания второй мировой войны"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "5051"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Какой первой стране была объявлена война Гитлером?"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Венгрия"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Чехословакия"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "США"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Перл-Харбор это"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Американская военно-морская база на Гавайских островах"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Место открытия второго фронта в Европе"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Английская крепость, оказавшая упорное сопротивление немецким войскам"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:206
+msgid "Сигареты"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:299
+msgid "Вопросы уровня [historyQuestCurLvl]"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:315
+msgid "Вопрос #"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:323
+msgid "Я достиг всех знаний в истории"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:327
+msgid "Да я гений, нужно продолжать дальше"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:330
+msgid "Черт, не правильно ответил"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:331
+msgid "Ух, что то я сегодня утомился, продолжу завтра"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:345
+msgid "На сегодня хватит, что то я сегодня утомился, продолжу завтра"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:346
+msgid "Вы повысили уровень знаний истории"
+msgstr ""
+
+# game/scripts/bookshop/learn_history.rpy:353
+msgid "Тест"
+msgstr ""
+
