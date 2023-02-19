@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/newspaperSection/newspaper_section_threesome.po\n"
+"X-Crowdin-File-ID: 5359\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:38\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:5 #-#-# translate crowdin newspaper_section_threesome_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:6 #-#-# translate crowdin newspaper_section_threesome_cec0b16a:
+msgid "[_bess_] Мистер Хоффман, н-наш тираж..."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:11 #-#-# translate crowdin newspaper_section_threesome_b0b21967:
+msgid "[_cedrick_] Ваш тираж – это полная катастрофа, девочки. Думали, я не узнаю, что вы задумали!?"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:12 #-#-# translate crowdin newspaper_section_threesome_bda19ec0:
+msgid "[_bess_] ......"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:13 #-#-# translate crowdin newspaper_section_threesome_1f8b5c06:
+msgid "[_courtney_] ......"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:14 #-#-# translate crowdin newspaper_section_threesome_d2fa2d56:
+msgid "[_cedrick_] Женщины прыгают на мой член так рьяно только в двух случаях – либо они конченые шлюхи, либо они от меня чего-то хотят"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:15 #-#-# translate crowdin newspaper_section_threesome_18427e0c:
+msgid "[_cedrick_] (На самом деле может быть и третий вариант, если дело касается Миранды)"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:16 #-#-# translate crowdin newspaper_section_threesome_2a475203:
+msgid "[_cedrick_] И если бы вы были кончеными шлюхами, поверьте мне, вас здесь уже не было бы. Но вы здесь и желание написать сенсацию всегда было у вас на первом месте, на чем вы и попались"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:17 #-#-# translate crowdin newspaper_section_threesome_c8d9c37f:
+msgid "[_bess_] Черт, не думала, что нас раскусят. Нужно было усерднее ему сосать, Кортни, чтобы он ни о чем больше не мог думать"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:21 #-#-# translate crowdin newspaper_section_threesome_fc2f369d:
+msgid "[_courtney_] Н-но я тоже старалась..."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:25 #-#-# translate crowdin newspaper_section_threesome_3e863349:
+msgid "[_cedrick_] Да вы хоть понимаете, к чему бы это привело? За такую статью меня бы уволили, а вас бы исключили, на этом все сенсации бы закончились!"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:29 #-#-# translate crowdin newspaper_section_threesome_b3758c7e:
+msgid "[_courtney_] Ой.. Я не хочу, чтобы нас исключили.. И чтобы вас уволили, тоже не хочется.."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:35 #-#-# translate crowdin newspaper_section_threesome_3cb4a064:
+msgid "[_bess_] Я не думаю, что все закончилось бы так плачевно. В конце-концов, материал то был стоящий"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:39 #-#-# translate crowdin newspaper_section_threesome_8ec907dc:
+msgid "[_cedrick_] (Черт, эти девчонки безумны, они готовы напечатать буквально что угодно, если это будет сенсацией. Абсолютно беспринципные и бесшабашные..)"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:40 #-#-# translate crowdin newspaper_section_threesome_8f6696d4:
+msgid "[_cedrick_] (Хм, я могу это использовать. Главное направить их энергию в нужное русло)"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:41 #-#-# translate crowdin newspaper_section_threesome_8d196bf9:
+msgid "[_cedrick_] Так, знаете что, девочки!"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:47 #-#-# translate crowdin newspaper_section_threesome_69018b4f:
+msgid "[_bess_] Ч-что, Мистер Хоффман?"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:53 #-#-# translate crowdin newspaper_section_threesome_b0bf3df9:
+msgid "[_cedrick_] Я мог бы отнести этот материал к директору прямо сейчас, у меня остался один экземпляр. На этом ваша учеба здесь, как и ваша будущая карьера, на этом закончились бы"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:57 #-#-# translate crowdin newspaper_section_threesome_b160cd5f:
+msgid "[_bess_] Н-но это же вы сделали фото, вас тоже привлекут к ответственности!"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:61 #-#-# translate crowdin newspaper_section_threesome_06c28194:
+msgid "[_cedrick_] Вам никто не поверит. Я учитель, а вы лишь безумные девочки-журналистки. Я и Ирма будем все отрицать, а ваша версия событий будет выглядеть лишь как жалкая попытка оправдаться"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:62 #-#-# translate crowdin newspaper_section_threesome_19ee0739:
+msgid "[_bess_] ......."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:66 #-#-# translate crowdin newspaper_section_threesome_82ad1a60:
+msgid "[_courtney_] Н-не надо, Мистер Хоффмамн.."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:70 #-#-# translate crowdin newspaper_section_threesome_00af1be2:
+msgid "[_cedrick_] Но знаете что? Вы мне нравитесь. Вы абсолютно беспринципны, вы готовы на многое, ради своей цели и вы обе отлично управляетесь с моим членом"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:74 #-#-# translate crowdin newspaper_section_threesome_b2a5a1f2:
+msgid "[_bess_] ..К чему ты клонишь?"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:78 #-#-# translate crowdin newspaper_section_threesome_97efe080:
+msgid "[_cedrick_] К тому, что вам просто повезло, что я курирую ваш клуб. Без меня вас рано или поздно исключили бы и только я могу нормально с вами управиться"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:79 #-#-# translate crowdin newspaper_section_threesome_7788437c:
+msgid "[_cedrick_] Я ничего не скажу про вас двоих и продолжу быть вашим куратором. Но теперь весь материал вы в первую очередь приносите мне. Я – ваш главный редактор, без моего одобрения вы ничего публиковать не станете"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:83 #-#-# translate crowdin newspaper_section_threesome_54cf52f9:
+msgid "[_bess_] Жестоко.."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:87 #-#-# translate crowdin newspaper_section_threesome_5f20ca4a:
+msgid "[_cedrick_] Более того, я не забыл про вашу попытку обмануть меня и, уж поверьте, я вам это припомню. Решили совратить своего куратора? Что ж, в эту игру могут играть трое"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:88 #-#-# translate crowdin newspaper_section_threesome_b5ae0941:
+msgid "[_cedrick_] Не удивляйтесь, если теперь я сам буду приставать к вам в будущем"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:92 #-#-# translate crowdin newspaper_section_threesome_4ed547b6:
+msgid "[_courtney_] Мистер Хоффман.. э-это уже через чур! К-как вы можете.."
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:98 #-#-# translate crowdin newspaper_section_threesome_a459e226:
+msgid "[_bess_] Кортни, все в порядке.. Вспомни всех наших кумиров журналистики. У них всех сначала был босс, который отбирал их материал и домогался их"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:99 #-#-# translate crowdin newspaper_section_threesome_59490d4c:
+msgid "[_bess_] Каждая выдающаяся девушка-журналистка, про которую мы читали, прошла через подобного мужчину. Считай, это отличная практика для нас. С Мистером Хоффманом мы будем куда проще справляться с этим в будущем"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:103 #-#-# translate crowdin newspaper_section_threesome_f1a7ca2c:
+msgid "[_cedrick_] Д-да, девочки, как я и сказал, вы мне нравитесь. Я просто помогаю вам стать лучшими журналистками в вашем нелегком деле!"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:104 #-#-# translate crowdin newspaper_section_threesome_878a8b93:
+msgid "[_cedrick_] (Черт, вот это она загнула. Это девчонка либо и вправду такая безумная, как мне кажется, либо она мне подыгрывает)"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:108 #-#-# translate crowdin newspaper_section_threesome_175ca96b:
+msgid "[_courtney_] Я-я поняла.. Хорошо, Мистер Хоффман. Курируйте нас дальше, мы будем стараться!"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:114 #-#-# translate crowdin newspaper_section_threesome_f6644552:
+msgid "[_bess_] Да, Мистер Хоффман, научите нас!"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:118 #-#-# translate crowdin newspaper_section_threesome_bcf24f30:
+msgid "[_cedrick_] Вот и отлично, девочки. Надеюсь в будущем обойдется без глупостей"
+msgstr ""
+
+# game/scripts/quests/newspaperSection/newspaper_section_threesome.rpy:120 #-#-# translate crowdin newspaper_section_threesome_0d164313:
+msgid "[_cedrick_] (Фух.. Вся эта ситуация с газетой могла привести меня к провалу, не обыграй я все должным образом. Хорошо, что хватило мозгов почувствовать неладное..)"
+msgstr ""
+
