@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.po\n"
+"X-Crowdin-File-ID: 5565\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:45\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:4
+msgid "Хей, Сьюзан, я сегодня загляну к вам, Вилл нужно помочь с подготовкой к экзаменам"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:9
+msgid "Ох, Рик, как мило с твоей стороны, ты такой заботливый"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:14
+msgid "Но, я надеюсь, что ты и ко мне заглянешь на огонёк.. Знаешь, я последнее время много думала о тебе"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:20
+msgid "Хммм..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:22
+msgid "Хммм, и что же пришло тебе в голову?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:27
+msgid "Подожди минутку"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:39
+msgid "Купила это бельё специально для нашей следующей ночи"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:45
+msgid "Думаю, я готова для следующего этапа наших отношений, Рик"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:51
+msgid "Приезжай сегодня, устроим ночной просмотр сериалов"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:57
+msgid "Ммм, а Вилл?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:59
+msgid "Ммм, надеюсь Вилл нас не застукает"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:64
+msgid "Мы будем аккуратны"
+msgstr ""
+
