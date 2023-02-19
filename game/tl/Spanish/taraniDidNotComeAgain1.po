@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/taraniDidNotComeAgain1.po\n"
+"X-Crowdin-File-ID: 5499\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:38\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:8 #-#-# translate crowdin taraniDidNotComeAgain1_a4164703:
+msgid "[_cedrick_] Добрый день, ученики!"
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:9 #-#-# translate crowdin taraniDidNotComeAgain1_a1831e9c:
+msgid "[_cedrick_] Сегодня все здесь?"
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:10 #-#-# translate crowdin taraniDidNotComeAgain1_ee968481:
+msgid "[_haylin_] Тарани нет!"
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:11 #-#-# translate crowdin taraniDidNotComeAgain1_033dec81:
+msgid "[_cedrick_] Никто не знает что с ней?"
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:12 #-#-# translate crowdin taraniDidNotComeAgain1_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:13 #-#-# translate crowdin taraniDidNotComeAgain1_b86705cd:
+msgid "[_cedrick_] Понятно.. Что ж, давайте приступим к уроку.."
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:15 #-#-# translate crowdin taraniDidNotComeAgain1_b8144a93:
+msgid "[_cedrick_] (Хм, Тарани сегодня нет на уроке. Как и на прошлом... Такая зубрила не могла пропустить урок без причины)"
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotComeAgain1.rpy:16 #-#-# translate crowdin taraniDidNotComeAgain1_faa1176a:
+msgid "[_cedrick_] (Может, за этим скрывается то, что мне нужно. Надо разузнать в клубе журналистики, как я понял, они здесь собирают все школьные сплетни)"
+msgstr ""
+
