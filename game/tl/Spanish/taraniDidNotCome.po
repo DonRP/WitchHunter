@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/taraniDidNotCome.po\n"
+"X-Crowdin-File-ID: 5497\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:38\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/taraniDidNotCome.rpy:7 #-#-# translate crowdin taraniDidNotCome_ca4eb251:
+msgid "[_cedrick_] Какой замечательный день для урока истории, не правда ли?"
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotCome.rpy:8 #-#-# translate crowdin taraniDidNotCome_a3305428:
+msgid "[_cedrick_] Тема нашего сегодняшнего урока Вторая мировая война.."
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotCome.rpy:9 #-#-# translate crowdin taraniDidNotCome_82837c08:
+msgid "[_cedrick_] (Похоже, что Тарани сегодня решила не посещать мой урок…)"
+msgstr ""
+
+# game/scripts/quests/tarani/taraniDidNotCome.rpy:12 #-#-# translate crowdin taraniDidNotCome_a20cefa7:
+msgid "..."
+msgstr ""
+
