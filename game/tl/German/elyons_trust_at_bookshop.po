@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.po\n"
+"X-Crowdin-File-ID: 5147\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:42\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:4 #-#-# translate crowdin elyons_trust_at_bookshop_345ab3df:
+msgid "[_elion_] Рик, то, что произошло сегодня.. Я слышала, как жестко ты разговаривал с Урией.. Спасибо тебе, за то, что заступился за меня.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:5 #-#-# translate crowdin elyons_trust_at_bookshop_e65fdc0e:
+msgid "[_cedrick_] Я всегда готов отстоять твою честь, Элион, но с кое-чем нам все же придется разобраться"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:8 #-#-# translate crowdin elyons_trust_at_bookshop_4429c702:
+msgid "[_elion_] О-о чем ты, Рик?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:9 #-#-# translate crowdin elyons_trust_at_bookshop_23dd8b8f:
+msgid "[_cedrick_] (Как я понял по ее состоянию в тот момент, когда нашел ее в туалете, она уже была на грани)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:10 #-#-# translate crowdin elyons_trust_at_bookshop_3a2a301a:
+msgid "[_cedrick_] (Видимо, из-за всего свалившегося на ней стресса, она совершенно запуталась в себе и уже сама начала верить в то, что она извращенка. А может, такой она всегда и была..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:11 #-#-# translate crowdin elyons_trust_at_bookshop_73343cd6:
+msgid "[_cedrick_] (В любом случае, мне ее сомнения только на руку, я смогу это использовать в ее дальнейшем развращении и подчинении)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:12 #-#-# translate crowdin elyons_trust_at_bookshop_253c046b:
+msgid "[_cedrick_] Элион, начнем с того, что о тебе говорят в школе в последнее время"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:15 #-#-# translate crowdin elyons_trust_at_bookshop_c85c6a98:
+msgid "[_elion_] Ч-что.. К чему ты это, Рик.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:16 #-#-# translate crowdin elyons_trust_at_bookshop_e4c89b72:
+msgid "[_cedrick_] К тому, что ты не можешь держать себя в руках, Элион. Ты же понимаешь, что Урия решил домогаться тебя только потому что понял, что ты для него легкая добыча?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:19 #-#-# translate crowdin elyons_trust_at_bookshop_30786498:
+msgid "[_elion_] Легкая добыча? Что это значит?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:20 #-#-# translate crowdin elyons_trust_at_bookshop_b0c855d9:
+msgid "[_cedrick_] Ты осталась без друзей и семьи, такие люди сами по себе в очень шатком положении"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:21 #-#-# translate crowdin elyons_trust_at_bookshop_058f054e:
+msgid "[_cedrick_] Но ты при этом умудрилась выставить свою развратность на всеобщее обозрение. Это было красным флагом для такого, как Урия"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:24 #-#-# translate crowdin elyons_trust_at_bookshop_b7cd441b:
+msgid "[_elion_] …Я не знаю, что тогда на меня нашло"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:25 #-#-# translate crowdin elyons_trust_at_bookshop_9ff384e6:
+msgid "[_cedrick_] Ты не умеешь держать себя в руках, Элион. Твоя развратность так и лезет наружу, ты даже сама этого до конца не осознаешь"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:26 #-#-# translate crowdin elyons_trust_at_bookshop_f8ae6bc2:
+msgid "[_elion_] (Возможно Рик прав.. Я и вправду сама не ожидала от себя того, что вдруг начну мастурбировать посреди класса.. Но мне правда этого очень хотелось)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:27 #-#-# translate crowdin elyons_trust_at_bookshop_3d54fe37:
+msgid "[_cedrick_] А если ты не можешь сдержать себя, значит тебе нужен тот, кто сам будет сдерживать тебя и разберется с твоей неконтролируемой развратностью"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:30 #-#-# translate crowdin elyons_trust_at_bookshop_715437b0:
+msgid "[_elion_] Ч-что ты имеешь ввиду, Рик?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:31 #-#-# translate crowdin elyons_trust_at_bookshop_64a31619:
+msgid "[_cedrick_] А то, что если ты не найдешь для себя опору, нападки таких, как Урия, никогда не прекратятся. И ты сама прекрасно понимаешь, что я единственный, кто может тебя защитить"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:34 #-#-# translate crowdin elyons_trust_at_bookshop_a486c963:
+msgid "[_elion_] Это правда, Рик.. Ты.. Ты и вправду единственный, кто всегда меня защищал и всегда приходил мне на помощь.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:35 #-#-# translate crowdin elyons_trust_at_bookshop_07f6a023:
+msgid "[_cedrick_] Верно. Я единственный остался с тобой, когда тебя все покинули. Так что либо ты полностью доверишься мне, либо рано или поздно станешь игрушкой в руках Урии"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:38 #-#-# translate crowdin elyons_trust_at_bookshop_9b48e5c7:
+msgid "[_elion_] Я.. Я полностью доверяю тебе, Рик.. Ты единственный, кому я теперь могу доверить.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:39 #-#-# translate crowdin elyons_trust_at_bookshop_12cdda03:
+msgid "[_cedrick_] Хорошо, Элион.. Тогда, в свете последних событий, впредь я буду большое внимание уделять твоей.. развращенности"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:42 #-#-# translate crowdin elyons_trust_at_bookshop_4c8f71a1:
+msgid "[_elion_] Ч-что!? Рик, что ты имеешь ввиду!?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:43 #-#-# translate crowdin elyons_trust_at_bookshop_9af15c2a:
+msgid "[_cedrick_] Послушай меня, Элион. Тебе стоит признать – ты извращенка и ничего с этим уже не поделать. Единственное, что остается – это удовлетворять твои позывы"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:44 #-#-# translate crowdin elyons_trust_at_bookshop_f7cd51f6:
+msgid "[_elion_] …Удовлетворять?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:45 #-#-# translate crowdin elyons_trust_at_bookshop_425d6ae2:
+msgid "[_cedrick_] Да. Ты же начала мастурбировать прямо посреди класса, потому что знала, что так тебе станет легче, верно?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:48 #-#-# translate crowdin elyons_trust_at_bookshop_b3892019:
+msgid "[_elion_] Верно…"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:51 #-#-# translate crowdin elyons_trust_at_bookshop_1ce9393b:
+msgid "[_cedrick_] Вот этим мы с тобой и займемся. Я возьму на себя ответственность за то, чтобы твоя развратная сущность никогда не вышла из-под контроля на людях"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:52 #-#-# translate crowdin elyons_trust_at_bookshop_cb40968a:
+msgid "[_cedrick_] Но для этого я буду подавлять и удовлетворять твои позывы здесь, когда мы наедине. Если ты полностью доверишься и будешь во всем слушаться меня. Хорошо, Элион?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:55 #-#-# translate crowdin elyons_trust_at_bookshop_c9a52e11:
+msgid "[_elion_] Твои слова звучат разумно, Рик. Но.. М-мне надо все как следует обдумать, хорошо?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:58 #-#-# translate crowdin elyons_trust_at_bookshop_88a9676a:
+msgid "[_cedrick_] Да, конечно, Элион. Скажи мне, как будешь готова"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elyons_trust_at_bookshop.rpy:61 #-#-# translate crowdin elyons_trust_at_bookshop_e36a2656:
+msgid "[_elion_] Хорошо…"
+msgstr ""
+
