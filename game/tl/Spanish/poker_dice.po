@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/tavern/poker_dice/poker_dice.po\n"
+"X-Crowdin-File-ID: 5087\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:36\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:81 #-#-# translate crowdin poker_dice_game_b4e4591c:
+msgid "Седрик бросил кости"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:87 #-#-# translate crowdin poker_dice_game_748fecff:
+msgid "Враг бросил кости"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:268 #-#-# translate crowdin poker_dice_player2_reroll_0d7a27a2:
+msgid "Враг перекинул кости"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:279 #-#-# translate crowdin poker_dice_player2_reroll_fdf0c096:
+msgid "Ничья"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:316 #-#-# translate crowdin end_game_fdf0c096:
+msgid "Ничья"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:323 #-#-# translate crowdin end_game_825e1285:
+msgid "Вы выиграли [bet_value]$"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:329 #-#-# translate crowdin end_game_2e19ab8f:
+msgid "Вы выиграли [bet_value] золота"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:334 #-#-# translate crowdin end_game_157f98e6:
+msgid "Вы проиграли [bet_value]$"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:337 #-#-# translate crowdin end_game_ca57b78e:
+msgid "Вы проиграли [bet_value] золота"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:16
+msgid "Начать играть"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
+msgid "Сделайте ставку"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
+msgid "10 золота"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
+msgid "20 золота"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
+msgid "30 золота"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:41
+msgid "Я передумал"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:56
+msgid "100$"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:56
+msgid "150$"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:56
+msgid "200$"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:91
+msgid "Перебросить кости?"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:147
+msgid "Перебросить"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:240
+msgid "Посмотреть комбинации"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:242
+msgid "Скрыть комбинации"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:275
+msgid "Возврат из-за ничьи:"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:321
+msgid "Выигрыш:"
+msgstr ""
+
+# game/scripts/meridian/tavern/poker_dice/poker_dice.rpy:351
+msgid "Продолжить играть"
+msgstr ""
+
