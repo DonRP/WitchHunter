@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/miranda/miranda.po\n"
+"X-Crowdin-File-ID: 5071\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:42\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Зелье для Ян Лин"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Попросить клонировать Тома Леира"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Отдать клок волос для приготовления зелья"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Попросить зелье возраста у миранды"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Попросить ноздрю дракона"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Узнать о девушке в колбе"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "10 Желез морпионов"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Поиск королевы морпионов"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Я добыл Кристаллическую эссенцию"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Афродизиак для элион"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Попросить трусы"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Забрать кристаллическую эссенцию"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Приготовить зелья"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Купить зелье"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Продать ингредиенты"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Где мне достать золото?"
+msgstr ""
+
