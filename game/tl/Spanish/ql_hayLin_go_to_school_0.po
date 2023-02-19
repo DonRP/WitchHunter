@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/haylin/ql_hayLin_go_to_school_0.po\n"
+"X-Crowdin-File-ID: 5295\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:37\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:7 #-#-# translate crowdin ql_hayLin_go_to_school_0_3b26d3ac:
+msgid "[_haylin_] Эм... Привет, Эрик!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:8 #-#-# translate crowdin ql_hayLin_go_to_school_0_468c6ae5:
+msgid "[_erik_] Э-э-э, ну привет..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:9 #-#-# translate crowdin ql_hayLin_go_to_school_0_08ba76bf:
+msgid "[_haylin_] Хай Лин…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:10 #-#-# translate crowdin ql_hayLin_go_to_school_0_f3c3ec6c:
+msgid "[_bess_] А сейчас очередной выпуск программы Слухи Шеффилда!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:11 #-#-# translate crowdin ql_hayLin_go_to_school_0_78f0cbf6:
+msgid "[_courtney_] Почему этот новенький, ну знаете, который симпатяга, водит шашни сразу с двумя болельщицами?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:12 #-#-# translate crowdin ql_hayLin_go_to_school_0_851b401a:
+msgid "[_bess_] Скоро узнаете!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:14 #-#-# translate crowdin ql_hayLin_go_to_school_0_a4793216:
+msgid "[_bolelshica1_] Эри-и-ик, дорогой!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:15 #-#-# translate crowdin ql_hayLin_go_to_school_0_14335f7f:
+msgid "[_bolelshica2_] Отвали, стерва! Он мой!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:16 #-#-# translate crowdin ql_hayLin_go_to_school_0_60e46183:
+msgid "[_bolelshica1_] Твой? Ты спишь с ним!?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:17 #-#-# translate crowdin ql_hayLin_go_to_school_0_c1a97e90:
+msgid "[_erik_] Э-э-э…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:19 #-#-# translate crowdin ql_hayLin_go_to_school_0_7c0dcd14:
+msgid "[_bolelshica1_] А ты чего вылупилась, стальная челюсть!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:20 #-#-# translate crowdin ql_hayLin_go_to_school_0_d494ddc8:
+msgid "[_erik_] Ха-ха..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:21 #-#-# translate crowdin ql_hayLin_go_to_school_0_4403f926:
+msgid "[_bolelshica2_] Ты же не думала, что Эрик станет разговаривать с кем-то вроде тебя, лопоухая. Чего встала! Давай, проваливай!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:23 #-#-# translate crowdin ql_hayLin_go_to_school_0_20c5a867:
+msgid "[_uria_] Ха-ха-ха! Вы только поглядите! Щелкунчик скобки свои раскрыла! Ха-ха-ха-ха!!!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:24 #-#-# translate crowdin ql_hayLin_go_to_school_0_a281f702:
+msgid "[_cedrick_] Эй, вы, а ну умолкли! Урия! Останешься после уроков… И вы, трое, тоже! За компанию..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:25 #-#-# translate crowdin ql_hayLin_go_to_school_0_d4d49b12:
+msgid "[_uria_] Вот отсто-о-ой…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:29 #-#-# translate crowdin ql_hayLin_go_to_school_0_6d90decd:
+msgid "[_haylin_] У-учитель..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:30 #-#-# translate crowdin ql_hayLin_go_to_school_0_2bfbdaef:
+msgid "[_cedrick_] Можешь просто звать меня Рик..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:31 #-#-# translate crowdin ql_hayLin_go_to_school_0_4e791b44:
+msgid "[_cedrick_] Тебя ведь зовут Хай Лин, да? Ты как?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:35 #-#-# translate crowdin ql_hayLin_go_to_school_0_67d2d4ba:
+msgid "[_haylin_] Это было… Вам не стоило... Хнык!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:36 #-#-# translate crowdin ql_hayLin_go_to_school_0_315f3c0b:
+msgid "[_cedrick_] Послушай меня, Хай Лин… Эти олухи не имеют какого-либо права унижать тебя. Почему ты это терпишь? В следующий раз ты должна будешь дать им сдачи! Будь сильной..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:37 #-#-# translate crowdin ql_hayLin_go_to_school_0_7ec3a7d1:
+msgid "[_haylin_] Зря я... Разревелась как дура…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:38 #-#-# translate crowdin ql_hayLin_go_to_school_0_96db53eb:
+msgid "[_cedrick_] Не стоит переживать из-за такой глупости. Не хочу врать тебе, но ты еще столкнешься в своей жизни с такой несправедливостью и ты не должна дать кому-либо сломать себя... Давай я тебя успокою..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_go_to_school_0.rpy:40 #-#-# translate crowdin ql_hayLin_go_to_school_0_4e7a9137:
+msgid "Седрик утешает Хай Лин"
+msgstr ""
+
