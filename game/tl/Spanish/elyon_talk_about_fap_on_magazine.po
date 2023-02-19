@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.po\n"
+"X-Crowdin-File-ID: 5431\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:38\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:8 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_4388583e:
+msgid "[_cedrick_] Элион, привет!"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:11 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_5df8c0fe:
+msgid "[_elion_] Эм... привет, Рик"
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:14 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_29446723:
+msgid "[_cedrick_] Насчет того, что ты видела вчера... это недоразумение... я понимаю, что это может звучать странно, просто я..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:17 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_23cc1b30:
+msgid "[_elion_] Я... Давай не будем это обсуждать..."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:19 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_677063a4:
+msgid "[_cedrick_] Хорошо, просто я разбирал старые журналы и...."
+msgstr ""
+
+# game/scripts/quests/see_the_magazine/elyon_talk_about_fap_on_magazine.rpy:22 #-#-# translate crowdin elyon_talk_about_fap_on_magazine_d5040f78:
+msgid "[_elion_] Рик! Я правда не хочу это обсуждать! "
+msgstr ""
+
