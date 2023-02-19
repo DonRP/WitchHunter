@@ -1,0 +1,1586 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.po\n"
+"X-Crowdin-File-ID: 5345\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:37\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:5 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d54f4eca:
+msgid "[_cedrick_] Элион, ты ведь не отправляешься школьную поездку?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:9 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_47aa7bed:
+msgid "[_elion_] Нет, мои родители меня бы не отпустили.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:12 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b591bd2f:
+msgid "[_cedrick_] Я уезжаю на выходные. Оставляю тебя за главную. Сможешь присмотреть за магазином?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:15 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9e28a28f:
+msgid "[_elion_] Да, конечно! Можешь на меня положится!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:18 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_257ff46f:
+msgid "[_cedrick_] Не сомневаюсь. Главное не забывай закрывать магазин и держи его в чистоте."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:21 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ce0c6562:
+msgid "[_elion_] Хорошо!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:24 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_cfda0ebe:
+msgid "[_cedrick_] И еще.. Книги на верхней полке.. Не стоит их трогать, они довольно старые и могут легко повредиться."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:27 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f6babc5b:
+msgid "[_elion_] Хорошо, Рик. Удачной поездки!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:30 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_df6f601c:
+msgid "[_cedrick_] (Что ж, нужно отправляться в школу)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:33 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5580fa0a:
+msgid "[_centered_] {size=37}Через некоторое время у школы{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:36 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_50eb4847:
+msgid "[_cedrick_] Так, кажется уже почти все собрались."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:40 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bde08ccd:
+msgid "[_sondra_] Ох спасибо мальчики..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:41 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8ce9ab9c:
+msgid "[_sondra_] Мерси боку, мерси гарсонс."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:44 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bcd124bf:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:45 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0aa44383:
+msgid "[_cedrick_] Что-то не так?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:49 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ea20e13d:
+msgid "[_will_] Я в порядке.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:53 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_69f1bda6:
+msgid "[_cedrick_] А выглядишь не очень довольной.. Твоя мама говорила, что ты не очень любишь лыжи, так что я был удивлен, когда ты собралась поехать."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:57 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d29cd7ab:
+msgid "[_will_] Просто я никогда не пробовала... и решила, вдруг мне понравится?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:61 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8e93b1ae:
+msgid "[_cedrick_] Понятно.. Надеюсь у тебя все получится, Вилл."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:65 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4f71757f:
+msgid "[_will_] Угу.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:68 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:69 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_877cf37f:
+msgid "[_cedrick_] (Что ж, вроде бы все засранцы собрались, пора отправляться.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:71 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8f85a4cf:
+msgid "[_cedrick_] (Пока я в дороге, нужно успеть прочитать путеводитель по горам Хезерфилд, чтобы не выглядеть идиотом перед толпой школьников.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:72 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_496d3521:
+msgid "[_centered_] {size=37}Через некоторое продолжительное время. На горе Хезерфилд{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:74 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_19506776:
+msgid "[_cedrick_] И помните дети, кататься только по Северному склону!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:75 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_45cb27d9:
+msgid "[_cedrick_] Не пытайтесь пройти Трассу самоубийц.. Это может быть опасно!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:76 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7d77d672:
+msgid "[_guy_] Вот блииин... Обломщик!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:77 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8fbb3746:
+msgid "[_cedrick_] (Идиоты... Мне плевать, если вы подохнете там, но из-за этого у меня будет только больше неприятностей.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:78 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_25b0d9ac:
+msgid "[_cedrick_] Безопасность прежде всего!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:79 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_504e6611:
+msgid "[_cedrick_] На этом все, можете идти."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:80 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:82 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_07bdde05:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:86 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ce094809:
+msgid "[_will_] Кххм, Мэтт вот это да, не знала, что ты лыжник!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:90 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_408bf0d3:
+msgid "[_will_] Ох, верно, ты же спортсмен.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:94 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3efd21ef:
+msgid "[_will_] Н-не хочешь скатится за мной?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:98 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8fef97d7:
+msgid "[_will_] Ээ.. То есть, со мной!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:102 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2b7674e0:
+msgid "[_matt_] Эмм... С радостью"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:108 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d18a8be3:
+msgid "[_will_] Правда!?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:112 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b1da52f8:
+msgid "[_matt_] Только позже.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:116 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d948f803:
+msgid "[_matt_] Сперва помогу Сондре с ботинками."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:122 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_219ba34a:
+msgid "[_will_] Хм..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:128 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_517eed67:
+msgid "[_sondra_] Оо, здесь ты есть, Мэтью.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:133 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f97ce3bb:
+msgid "[_sondra_] А кто подружка ??"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:140 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_12f759bb:
+msgid "[_will_] Я Вилл... Мы уже пересекались на уроках истории и физики..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:146 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f420ee99:
+msgid "[_sondra_] Я не есть помнить каждый всякий..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:150 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9a98ab80:
+msgid "[_sondra_] Оо ты можешь катать лыжи на своих кривеньких ножках?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:158 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_11029d3c:
+msgid "[_will_] Ну ты же можешь встать на лыжи со своим маленьким умишком..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:166 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7fb520fa:
+msgid "[_sondra_] Хехе..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:171 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4ec5b1b4:
+msgid "[_sondra_] Что ты сказать???"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:177 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e45c2dd5:
+msgid "[_will_] Я сказала, что ты потеряешь свои козьи штаны пока меня догонишь... Ты даже ботинки сама надеть не в состоянии!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:185 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_31dca1d6:
+msgid "[_sondra_] Тогда будем делать соревнование!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:189 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3a82aff5:
+msgid "[_sondra_] Кто победит, будет ехать с Мэттом обратно"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:196 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5064d80b:
+msgid "[_will_] Годится!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:202 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c19a5b13:
+msgid "[_matt_] Эмм, девочки..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:210 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2528ad8d:
+msgid "[_wands_] А ты не лезь!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:213 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:215 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_fbe25f32:
+msgid "[_cedrick_] (Ну и представление они тут устроили....)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:216 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9d474dc8:
+msgid "[_cedrick_] (А у Сондры довольно забавная речь..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:217 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_657e65ee:
+msgid "[_cedrick_] (Странно, но когда она просила показать мой член, не было слышно даже акцента. Хах, видимо в некоторых вопросах она учила язык с особым усердием)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:218 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_fdb466ad:
+msgid "[_cedrick_] (А что касается Вилл.. Мне не пойдет на пользу, если у нее что-то получится с Мэттом...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:219 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_df25e217:
+msgid "[_cedrick_] (Что ж, нужно проследить, чтобы все вещи доставили в гостевой домик, ученики расположились в своих комнатах и получили снаряжение.. учительская рутина.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:222 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e5a7cd31:
+msgid "[_centered_] {size=37}вечером{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:224 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_11ed28fe:
+msgid "[_cedrick_] (Что ж, денек выдался не из легких..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:225 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_90972f85:
+msgid "[_cedrick_] (Пожалуй, я заслужил отдых..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:226 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_84feaffe:
+msgid "[_cedrick_] (В путеводителе было что-то написано про горячие источники. Думаю, самое время их опробовать.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:227 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772e:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:228 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3928a113:
+msgid "......."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:231 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_875f0a7d:
+msgid "[_cedrick_] (По правде говоря, эти горячие источники похожи на те, что использует князь Фобос для того, чтобы поддерживать свою магическую силу...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:232 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5ab8117e:
+msgid "[_cedrick_] (Хах, теперь я понимаю, почему он проводит там так много времени, даже когда его магия была на пике возможностей..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:233 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0d0e8292:
+msgid "[_cedrick_] (Эх, давненько я не отдыхал... )"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:234 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_73bdd49d:
+msgid "[_cedrick_] (Это поручение от Фобоса сложнее предыдущих..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:235 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1bbeaa9f:
+msgid "[_cedrick_] (Еще никогда мне не приходилось находиться под прикрытием столь долгое время. Это изрядно выматывает...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:236 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b413b4c1:
+msgid "[_cedrick_] (Ну, во всяком случае это куда интереснее, чем охота и истребление повстанцев. Среди повстанцев никогда не было таких сочных красоток, какие есть на Земле.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:237 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b79ae7a0:
+msgid "[_cedrick_] (Да, этот мир на столько спокоен и беспечен, что большинство живущих в нем девушек выглядят как царицы из знатного рода.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:238 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a319c775:
+msgid "[_cedrick_] (Они всегда были сыты, а их руки не знали тяжелого труда. Нежны и наивны, с телами, словно созданными для секса. Да... Вот почему мне нравится эта работа. Когда-нибудь я обязательно завоюю этот мир.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:240 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_63ff9ad0:
+msgid "*звук открывающейся двери*"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:241 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b7b0452a:
+msgid "[_cedrick_] Ммм?? "
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:242 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_83d79e07:
+msgid "[_cedrick_] (Кто-то из учеников тоже решил воспользоваться горячими источниками?)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:243 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8e61ff9a:
+msgid "[_cedrick_] (Нет, все уже должны спать..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:245 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:246 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_04eca7d6:
+msgid "[_cedrick_] Сондра???"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:247 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_89045365:
+msgid "[_cedrick_] Что ты здесь ..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:248 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7f795df4:
+msgid "[_cedrick_]  ...Делаешь?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:249 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e6877cc1:
+msgid "[_sondra_] Даже не знаю.. меня почему-то потянуло понежиться на горячих источниках."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:251 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7e69a923:
+msgid "[_cedrick_] Но это мужская часть горячих источников.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:252 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5b942fb0:
+msgid "[_cedrick_] Женская за другой перегородкой."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:253 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ab74fcb9:
+msgid "[_sondra_] Охх, я такая невнимательная.. Мне так тяжело дается ваш сложный язык. Должно быть, я перепутала.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:254 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_274947f2:
+msgid "[_sondra_] Но, раз я уже здесь..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:256 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ffaee57b:
+msgid "[_sondra_] Вы не есть против если я присоединюсь к вам?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:258 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a2a72f40:
+msgid "[_cedrick_] (Опять решила меня подразнить?)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:259 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_43a22d42:
+msgid "[_cedrick_] Не думаю, что здесь будет достаточно места для двоих."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:260 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_eeb45f20:
+msgid "[_sondra_] Бросьте, учитель Рик... Мы это уже проходили, не так ли?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:262 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6429529e:
+msgid "[_sondra_] Вы ведь хотели это увидеть?.. Тогда на уроке.. Я видела, как вы на меня смотрели.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:264 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b5a2a5df:
+msgid "[_sondra_] Или может вы хотели чего то большего.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:266 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_63972155:
+msgid "[_sondra_] Ну как, вам нравится?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:267 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_178e9ca5:
+msgid "[_cedrick_] (Я не привык, чтобы девушки лезли ко мне сами... Обычно все происходит ровно наоборот.. Чувствую себя не в своей тарелке..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:268 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_25062bb3:
+msgid "[_cedrick_] (Не думал, что меня сможет заставить смутиться какая-то девка.. Мне это не нравится.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:269 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:270 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_29dfe69e:
+msgid "[_sondra_] Буду считать, что ответ да.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:271 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_68174d9a:
+msgid "[_cedrick_] Наверное мне будет лучше уйти.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:273 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5bc4694a:
+msgid "[_sondra_] Ты хочешь уйти, а он хочет остаться.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:274 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c477ad1a:
+msgid "[_cedrick_] (Черт, все эти мысли о земных девушках. Я настроился еще до прихода Сондры.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:277 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_88163559:
+msgid "[_cedrick_] Ох..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:278 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9f94ad19:
+msgid "[_cedrick_] Я думал тебе нравится мэтт.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:279 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bf57ceac:
+msgid "[_sondra_] Хах .. Мэтью еще слишком молод.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:280 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f559fd31:
+msgid "[_sondra_] С ним весело играть и злить эту девчонку, но.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:281 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e35c5f45:
+msgid "[_sondra_] Меня куда больше привлекают опытные мужчины... Такие, как вы"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:284 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_865bb197:
+msgid "[_sondra_] Вам ведь нравится??"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:285 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_60cd22a4:
+msgid "[_cedrick_] Да...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:286 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_189a52ae:
+msgid "[_cedrick_] (Надеюсь в этот раз она не оставит меня со стояком, иначе я за себя не отвечаю..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:287 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_4:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:288 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e11f0476:
+msgid "[_sondra_] Какой он большой и твердый... Таких мощных у меня еще не было.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:289 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2b9bb891:
+msgid "[_cedrick_] (Ох, черт.. а она знает что делать..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:291 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6dedf780:
+msgid "[_sondra_] Сейчас я сделаю вам приятно..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:293 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_5:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:297 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3f6e3d23:
+msgid "[_sondra_] Ааам.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:298 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4b041436:
+msgid "[_cedrick_] (Да она просто настоящая шлюха в теле молодой девушки..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:299 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_521925e3:
+msgid "[_cedrick_] (Почему я так быстро кончаю.. Возможно это от того, что я не привык к такому напору от девушек?)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:302 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b729a92b:
+msgid "[_cedrick_] ах... "
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:304 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7e5060d4:
+msgid "[_sondra_] Я смотрю вам понравилось.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:305 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bceacfec:
+msgid "[_sondra_] Думаю, мне пора идти. Завтра рано вставать"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:306 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4dd87d5e:
+msgid "[_sondra_] Надеюсь, нам еще удастся повторить это.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:307 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3c413c7e:
+msgid "[_cedrick_] (Что ж, и я на это надеюсь.. Но в следующий раз я не дамся так просто.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:309 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_6:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:311 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e9673c80:
+msgid "[_centered_] {size=37}Утром{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:314 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9cd66fbc:
+msgid "[_cedrick_] (Ох.. Какое хорошее утро..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:315 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0536b3e8:
+msgid "[_cedrick_] (После вчерашних событий мне удалось отлично выспаться. Отсос на горячих источниках на удивление хорошо помогает.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:316 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_26ae2fb6:
+msgid "[_cedrick_] (Нужно как-нибудь поделиться с Князем Фобосом этим открытым средством от усталости, раз уж у него уже есть горячие источники.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:318 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:319 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_40229aa5:
+msgid "[_cedrick_] (Вилл? У нее опять расстроенный вид. Нужно выяснить, что произошло)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:320 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_95a9f5f8:
+msgid "[_cedrick_] Что-то случилось? Ты не важно выглядишь.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:324 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0a280ac0:
+msgid "[_will_] Просто.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:328 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7c34ea73:
+msgid "[_will_] Я такая дура.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:332 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0e75e16d:
+msgid "[_will_] Согласилась гонятся с Сондрой..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:336 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3f61aa75:
+msgid "[_will_] Хотя я ведь совсем не умею ездить на лыжах"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:340 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c387b2bc:
+msgid "[_will_] А Сондра из Швейцарии, там ведь все с пеленок на лыжах.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:344 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7e017f6e:
+msgid "[_cedrick_] (Что, серьезно? А эти швейцарцы не так просты.. Тогда это и вправду был глупый поступок.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:345 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_58075416:
+msgid "[_cedrick_] Очень жаль это слышать.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:349 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_98b4a651:
+msgid "[_will_] Рик... А может.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:353 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_28e0502f:
+msgid "[_will_] Ты бы смог дать мне пару уроков?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:357 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_539ac9db:
+msgid "[_cedrick_] По правде говоря из меня лыжник тоже не очень.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:358 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0455a640:
+msgid "[_cedrick_] (Да я вообще не разу не ездил на лыжах. Использовать две палки на ногах и две палки в руках, чтобы двигаться быстрее – что за глупость, у меня есть хвост!)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:362 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8f8b3893:
+msgid "[_will_] Ну пожалуйстааа... М-мне больше не кого попросить.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:366 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_148bf4c7:
+msgid "[_will_] Девчонки решили не ехать, а я ведь больше толком ни с кем не общаюсь.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:370 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_09bf64b5:
+msgid "[_cedrick_] (Хм, если так подумать я читал об этом на последних страницах в путеводителе по горам Хезерфилд. В теории, все должно быть довольно просто.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:371 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4d9320ff:
+msgid "[_cedrick_] Ну хорошо. Если ты так просишь, я могу попробовать.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:375 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_847f513f:
+msgid "[_will_] Правда?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:379 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_cc9b6ae8:
+msgid "[_will_] Спасибо, Рик!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:381 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_8:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:382 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b4ac8984:
+msgid "[_cedrick_] Ну что ж, сперва давай посмотрим, как уверенно ты стоишь на лыжах..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:383 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1f7571cf:
+msgid "[_cedrick_] Надевай их и приступим!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:384 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_62cb698b:
+msgid "[_will_] Хорошо!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:385 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_9:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:386 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772e_1:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:388 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_51c805a6:
+msgid "[_cedrick_] Вот так... Хорошо.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:389 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_912f3a32:
+msgid "[_cedrick_] Главное, держать равновесие.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:390 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e9e3f083:
+msgid "[_will_] Кажется у меня получается.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:391 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4d167d08:
+msgid "[_cedrick_] Отлично"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:392 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3e527237:
+msgid "[_cedrick_] Теперь попробуй без меня..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:394 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_dcde426c:
+msgid "[_centered_] {size=37}спустя какое-то время...{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:396 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9f589483:
+msgid "[_will_] Ааа...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:397 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ed0a39ff:
+msgid "[_will_] Я еду... Риккк!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:398 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d0f83d81:
+msgid "[_will_] у меня получается!... "
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:399 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_97a571f4:
+msgid "[_cedrick_] Так держать, Вилл, ты молодец!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:400 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ecf14395:
+msgid "[_cedrick_] (Кто бы мог подумать, что принцип езды на лыжах схож с тем, как я управляю своим хвостом во время движения по снегу.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:401 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5e4492d4:
+msgid "[_cedrick_] (Я бы мог двигаться на много быстрее, но не хочу выглядеть слишком странно со стороны для Вилл, виляя бедрами и балансируя взмахами рук без палок...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:402 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b6d17c5b:
+msgid "[_cedrick_] (Так я даже смогу сравниться со швейцарцами в их лыжном искусстве. Они потеряли свое военное преимущество предо мной!)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:404 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_10:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:405 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772e_2:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:406 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8ce84395:
+msgid "[_cedrick_] Вилл, постой!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:407 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d319be53:
+msgid "[_cedrick_] Думаю, нам пора возвращаться.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:408 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1912f517:
+msgid "[_cedrick_] Мы уже и так далеко уехали"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:409 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d3f08350:
+msgid "[_will_] Даа... сейчас."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:411 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bcaf42d4:
+msgid "[_will_] Рик, что это там???"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:412 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9507f54c:
+msgid "[_cedrick_] Кажется.. это..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:413 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5a427ddb:
+msgid "[_cedrick_] Лавина!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:414 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_da649587:
+msgid "[_will_] Божее... Нам нужно скорее найти укрытие..!!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:415 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_34008749:
+msgid "[_cedrick_] Кажется я вижу какой-то домик справа... Вилл, быстро к нему!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:420 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_11:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:421 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772e_3:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:425 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_34b5b40f:
+msgid "[_will_] Ты уверен что он выдержит? Выглядит не очень надежно..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:426 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8ce713e1:
+msgid "[_cedrick_] Будем надеяться.. Не то что бы у нас были другие варианты.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:430 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4f339999:
+msgid "*звук грохочущей лавины ..*"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:431 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4f339999_1:
+msgid "*звук грохочущей лавины ..*"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:432 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4f339999_2:
+msgid "*звук грохочущей лавины ..*"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:434 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2b8bd2f7:
+msgid "[_cedrick_] Фух, это было близко..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:435 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5a9daf63:
+msgid "[_cedrick_] Мы едва успели."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:436 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_deea7997:
+msgid "[_will_] И этот ветхий домик оказывается крепче, чем кажется."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:437 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3dc80c57:
+msgid "[_cedrick_] Хм... Судя по количеству пыли, здесь уже давно никто не появлялся."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:438 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_625a455b:
+msgid "[_will_] Это же летний домик, в это время года им обычно никто не пользуется."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:439 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0c4d2511:
+msgid "[_cedrick_] Да, верно подмечено..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:440 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_31ffa621:
+msgid "[_cedrick_] Черт, дверь совсем не поддается. И даже окна с обратной стороны засыпало..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:441 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bab9e336:
+msgid "[_cedrick_] Вилл, похоже дом полностью накрыло снежной волной. Так просто отсюда нам не выбраться."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:442 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5925e705:
+msgid "[_will_] Ох, какой ужас..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:443 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5b204e4e:
+msgid "[_will_] Я... Я поищу рацию или что-то подобное."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:444 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b2d58228:
+msgid "[_will_] Здесь должна быть хоть какая-то связь с горнолыжным курортом."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:445 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2c0b98cb:
+msgid "[_will_] (Надеюсь мы сможем найти хоть что-то для того, чтобы выбраться. Не хочу, чтобы все дошло до того, что придется использовать свою силу перед учителем.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:446 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_24c65940:
+msgid "[_cedrick_] Верно, давай я помогу тебе с поисками."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:449 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f68a538:
+msgid "[_centered_] {size=37} Спустя какое то время поиски выхода не к чему не привели {/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:454 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c987b9c8:
+msgid "[_cedrick_] Не волнуйся, они точно рано или поздно заметят нашу пропажу и тогда отправят спасателей на наши поиски."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:455 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_175605b6:
+msgid "[_cedrick_] Во время лавины они должны быть особенно обеспокоены о безопасности учеников, так что скоро все поймут, что нас могло накрыть волной."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:459 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6b8d41b9:
+msgid "[_will_] Да, я... Я надеюсь."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:463 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6ed151c8:
+msgid "[_cedrick_] Что ж... Вилл, раз уж мы тут на долго, можешь располагаться."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:467 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_03811a94:
+msgid "[_will_] Точно... Спасибо."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:471 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_75eda4b1:
+msgid "[_will_] (Из-за того, что я не могу использовать свои силы, я сама не своя. Защитница земли, а чувствую себя такой беспомощной. А Рик, будучи обычным человеком, так спокоен и уверен в себе, хоть нас и завалило снегом.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:475 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bc23d7bd:
+msgid "[_will_] (Я начинаю понимать, что мама в нем нашла...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:477 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772e_4:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:478 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0fd4d656:
+msgid "......"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:479 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_278c7e29:
+msgid "........."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:483 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b2e8b28e:
+msgid "[_cedrick_] Знаешь... По правде говоря, я ведь никогда раньше не катался на лыжах. Просто хотел помочь тебе."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:487 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_637f077c:
+msgid "[_will_] Хах, честно говоря, я заметила."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:491 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_37e6884c:
+msgid "[_will_] На самом деле, мне все равно было больше некого попросить"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:495 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_217d3b16:
+msgid "[_will_] Но, спасибо тебе. Я была рада, что ты решил мне помочь. Ты не первый раз меня выручаешь."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:496 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e849cf41:
+msgid "[_cedrick_] А почему ты не поехала вместе со своими подругами? Вы же всегда были так близки..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:500 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_99e0a5f2:
+msgid "[_will_] Они не считают, что я... "
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:504 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a852fecc:
+msgid "[_will_] В общем, последнее время мы не очень-то ладим."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:505 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7d34451e:
+msgid "[_cedrick_] (Если все не ладят даже с хранительницей Сердце Кондракара, значит Стражницы на грани полного распада. Лорд Фобос будет очень рад таким новостям.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:509 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a3dcddcc:
+msgid "[_will_] Я ведь поехала сюда только из-за Мэтта.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:510 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_cbf2ce57:
+msgid "[_will_] По правде говоря, раньше и я ему нравилась... По крайней мере, я так думала."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:514 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6db070fd:
+msgid "[_will_] Но после появления Сондры он совсем перестал обращать на меня внимание, а ведь я приехала сюда только из-за него."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:518 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f4c1ba7c:
+msgid "[_cedrick_] Хм... Если Мэтт так обошелся с тобой и не ценил то, что ты для него делаешь, может, он не лучший для тебя вариант?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:519 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8d2e6225:
+msgid "[_cedrick_] Ведь не появись Сондра сейчас, потом на ее месте могла бы появиться другая и тогда он бы в любом случае перестал обращать на тебя внимание."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:520 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_554b4d85:
+msgid "[_cedrick_] Дело не в Сондре, такие поступки в целом характеризуют Мэтта, как человека. И нужен ли тогда тебе такой человек?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:524 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_28400234:
+msgid "[_will_] Возможно, ты прав... Может я изначально зря так относилась к нему."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:526 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_81645fc1:
+msgid "[_centered_] {size=37} Вечером{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:528 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bddd00b0:
+msgid "[_will_] Рик... Мне холодно..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:529 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b77f97c4:
+msgid "[_cedrick_] Воздух становится холоднее из-за того, что весь дом находится под снегом."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:530 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3078b382:
+msgid "[_cedrick_] А тут даже камин разжечь не выйдет. Дымоход снаружи тоже завалило и если мы разведем костер, то в итоге просто задохнемся от дыма."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:531 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_071b0933:
+msgid "[_cedrick_] Вилл, нам придется раздеться."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:532 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_504e2a07:
+msgid "[_will_] Что?!... Д-думаешь, это хорошая идея? Мы же так только быстрее замерзнем."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:533 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_066880ff:
+msgid "[_cedrick_] Наша одежда промокла и из-за холодного воздуха со временем она заледенеет."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:534 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b973d9cb:
+msgid "[_cedrick_] Так мы намного быстрее замерзнем, если не снимем ее."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:535 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b4368951:
+msgid "[_will_] Да... Наверное, ты прав."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:538 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_12:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:542 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8440ff66:
+msgid "[_will_] РИК!?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:543 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ff36074a:
+msgid "[_will_] Ты... Ты без трусов..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:544 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_98525f60:
+msgid "[_will_] И у тебя... Я вижу твой... Твою штуку."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:545 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bd656b4b:
+msgid "[_will_] (Черт, теперь я точно знаю, что мама в нем нашла.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:546 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_cf9fc7a9:
+msgid "[_cedrick_] Прости... Я ведь не знал, что мы с тобой окажемся в такой ситуации. Надеюсь, это не будет сильно тебя смущать."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:547 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f99a6444:
+msgid "[_will_] Д-да... Иначе ведь ты замерзнешь."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:551 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d32667c3:
+msgid "[_cedrick_] Вилл, нам нужно лечь вместе, так мы дольше сохраним тепло."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:555 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a31d72ec:
+msgid "[_will_] Ты уверен?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:556 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d17d4bb7:
+msgid "[_cedrick_] Вспомни наши с тобой уроки истории. Во время зимы во второй мировой солдаты так же отогревали друг друга, чтобы не замерзнуть насмерть в окопах."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:560 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2e602179:
+msgid "[_will_] Да, ты прав. Наверное, у нас нет другого выхода."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:561 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c45118f9:
+msgid "[_cedrick_] (Кто бы мог подумать, что эта хрень в итоге поможет мне затащить ее в постель!)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:563 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_13:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:565 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_51f0e251:
+msgid "[_cedrick_] Так и вправду стало теплее, не правда ли?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:566 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_75cbf236:
+msgid "[_will_] Да, теплее..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:567 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c2e5b994:
+msgid "[_will_] ...Они ведь смогут нас найти?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:568 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_35f00ff8:
+msgid "[_cedrick_] Уверен, что смогут. После сошедшей лавины первым делом они должны будут искать в засыпанных снегом домах. Так нас и найдут."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:569 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d57dbc3b:
+msgid "[_will_] И откуда только ты знаешь такие детали? Не уж то сам работал спасателем?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:570 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1a13292c:
+msgid "[_cedrick_] (На Меридиане где только мне не приходилось ловить повстанцев и беглецов для Фобоса.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:571 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b2d0ae03:
+msgid "[_cedrick_] (После лавины, которую я на них обрушил, они всегда прятались в ближайших постройках, как крысы. Кто же знал, что я сам окажусь в такой ситуации... да еще и с хранительницей Сердца Кондракара. Хотя из этого я еще могу получить какую-то выгоду.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:572 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_305ea7bf:
+msgid "[_will_] ...Рик?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:573 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e4fed858:
+msgid "[_cedrick_] ...Я же учитель истории, я должен знать такие вещи. История многому учит, знаешь ли."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:574 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_320b9e29:
+msgid "[_will_] Хах, и правда."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:576 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_14:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:578 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_60409178:
+msgid "[_will_] Рииик?!!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:581 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7d399caa:
+msgid "[_will_] То, что я чувствую своими бедрами..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:582 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_92884040:
+msgid "[_will_] Это ведь не то, что я думаю?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:583 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_55002046:
+msgid "[_cedrick_] Прости, я... Я думал ты не заметишь."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:584 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_34642178:
+msgid "[_will_] Черт, Рик, такую штуку сложно не заметить...!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:585 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_892e7eac:
+msgid "[_cedrick_] Это просто биологическая реакция организма на то, что мы так близко лежим друг к другу."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:586 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6d1a2100:
+msgid "[_cedrick_] Ничего не могу с собой поделать."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:587 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d4a7d2c9:
+msgid "[_will_] Да, я... Я понимаю. Это вполне нормальная реакция... Организма."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:589 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_15:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:590 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_317e45ba:
+msgid "[_will_]  Рик... О чем ты думаешь?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:591 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4dbb5e7c:
+msgid "[_cedrick_] Думаю... Что не стоит рассказывать об этом твоей маме... По крайней мере о том, что происходит прямо сейчас."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:593 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_ae9b2f7b:
+msgid "[_will_] Хах... Только представь ее лицо... Нет, в смысле, я бы никогда не смогла бы обсудить с ней нечто подобное..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:596 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_16:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:598 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a4b58902:
+msgid "[_will_] Рик... Я хочу есть... И пить..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:599 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5a47dccc:
+msgid "[_cedrick_] Нам нужно попытаться уснуть... Так время пролетит быстрее..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:600 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f00634c8:
+msgid "[_will_] Я попробую..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:601 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0cea68b5:
+msgid "[_will_] Спокойной ночи, Рик."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:602 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7c4e2c94:
+msgid "[_cedrick_] ...Доброй ночи, Вилл."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:606 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_00e1c1e5:
+msgid "[_centered_] {size=37}Ночью{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:607 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2ab4bf24:
+msgid "[_cedrick_] (Кажется, она заснула...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:608 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_49316299_1:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:609 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_89b3cd52:
+msgid "[_cedrick_] (Так сладко спит, как будто бы ничего и не произошло)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:610 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6e439405:
+msgid "[_cedrick_] (У нее довольно красивая фигура.. Вся в мать)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:611 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1672f117:
+msgid "[_cedrick_] (Кажется, я опять начинаю заводится..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:612 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8b4bb795:
+msgid "[_cedrick_] (Ну, раз уж мы остались наедине.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:613 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_972d92b4:
+msgid "[_cedrick_] (Я не могу не воспользоваться этим...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:614 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6bb05ba0:
+msgid "[_cedrick_] (Давай-ка посмотрим, что у тебя под лифчиком)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:616 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_527bbdfb:
+msgid "[_cedrick_] (Ох.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:617 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_298bb44e:
+msgid "[_cedrick_] (Какие груди..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:618 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e065da3c:
+msgid "[_cedrick_] (Кажется, ее соски затвердели. И не думаю, что дело в холоде. Мы довольно хорошо друг друга согрели.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:620 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_17:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:622 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_07bdde05_1:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:623 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_aeb65e6e:
+msgid "[_cedrick_] (Я сейчас кончу...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:626 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b51a245d:
+msgid "[_cedrick_] (Ох...)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:627 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a87805f6:
+msgid "[_cedrick_] (Нужно убрать это пока она не проснулась.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:629 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_62b8fedd:
+msgid "[_cedrick_] (Хм... Раз уж я здесь, а вокруг никого нет... Не отличная ли это возможность, чтобы украсть Сердце Кондракара? Надо только найти его.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:630 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0155b7df:
+msgid "[_will_] Мх... Р-Рик?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:631 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_17db80f5:
+msgid "[_cedrick_] (Черт, она просыпается.. Не в этот раз, нужно было сразу искать сердце, а не доставать дрочило.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:632 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_54a5e494:
+msgid "[_will_] Мм... Рииик..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:633 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3a2afb62:
+msgid "[_cedrick_] (Что ж, не в этот раз.. Но, думаю, возможность еще представится.. А сейчас, пора спать.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:635 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_18:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:636 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_07bdde05_2:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:638 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0bca8504:
+msgid "[_centered_] {size=37}на следующие утро{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:640 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_fc70fe0a:
+msgid "[_will_] Рик!?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:641 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e39b1351:
+msgid "[_will_] Рик, просыпайся."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:643 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_86fb0aaf:
+msgid "[_cedrick_] Мм??"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:645 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_6133ca23:
+msgid "[_will_] Кажется, я слышала снаружи какие-то звуки.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:650 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_19:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:651 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_dd9953ce:
+msgid "шурх.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:652 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b5b077fa:
+msgid "шурххх.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:653 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4e4aa06e:
+msgid "[_cedrick_] Спасатели?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:657 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4aa1e9d0:
+msgid "[_will_] А может это медведь??"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:661 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4b6af8e6:
+msgid "[_cedrick_] В этой местности почти не водятся медведи.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:662 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2b85858c:
+msgid "[_cedrick_] (По крайней мере так было написано в путеводителе.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:663 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e5013089:
+msgid "шурхх"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:664 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_20:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:665 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c58f92f5:
+msgid "[_cedrick_] Думаю, нам нужно одеться."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:666 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f564dbbc:
+msgid "[_cedrick_] Не хочешь же ты встретить медведя в таком виде?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:668 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772e_5:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:669 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_07bdde05_3:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:670 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_22f4329b:
+msgid "[_will_] Одежда немного высохла но все еще мокрая.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:672 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f71357a7:
+msgid "*звук открывающийся двери*"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:675 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_687822b1:
+msgid "[_spas_] Есть тут кто??"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:676 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bc54f652:
+msgid "[_will_] Да, мы здесь!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:677 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e7d945a8:
+msgid "[_spas_] Слава богу, мы вас нашли..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:678 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_db7b0830:
+msgid "[_spas_] Вам повезло, что мы вас так быстро откопали. Лавина занесла большую часть лыжной трассы."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:679 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_26c7e6b2:
+msgid "[_spas_] Все в порядке?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:681 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772e_6:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:683 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1a0397b4:
+msgid "[_centered_] {size=37}Через какое то время спасатели доставили Седрика и Вилл на лыжный курорт {/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:686 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_670b2307:
+msgid "[_cedrick_] С учениками ничего не произошло? Никто не пропал кроме нас? Все целы?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:687 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_435806b3:
+msgid "[_guy_] Да, все здесь, мы потеряли только вас. Еще пара учеников пропали, но их быстро нашли."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:688 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_00b446af:
+msgid "[_cedrick_] Фух, отлично."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:689 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_792aa655:
+msgid "[_cedrick_] (Если бы хоть кто-то из них помер, мне бы серьезно досталось..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:690 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_706bd46e:
+msgid "[_guy2_] Они заплутали в поисках Трассы самоубийц."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:691 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a539cf74:
+msgid "[_cedrick_] (Мелочь безмозглая..)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:692 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_21:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:696 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_cda75769:
+msgid "[_sondra_] А, вот и ты ..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:700 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_17f1fa74:
+msgid "[_sondra_] Ты не явилась на наше состязание..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:706 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f9caf7c1:
+msgid "[_will_] Конечно я не явилась на соревнование! Ведь я попала под гребаную лавину!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:712 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4b244e02:
+msgid "[_sondra_] Как это у вас говорят.. 'отличная отмазка'?.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:716 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3a9fbd6a:
+msgid "[_sondra_] Ты просто струсила"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:720 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_65310776:
+msgid "[_will_] ррхх...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:724 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_82986f51:
+msgid "[_sondra_] А это значит, что на обратном пути я еду с Мэттом!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:728 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_199cb77c:
+msgid "[_sondra_] Ты проигралаа!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:732 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2cb46637:
+msgid "[_will_] Ну и пожалуйста!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:735 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_5f9b772e_7:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:738 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_65168c9c:
+msgid "[_cedrick_] (Ух, кажется, Вилл очень зла. Что ж, ее гнев тоже можно направить в правильное русло. Но, думаю, все и так идет наилучшим для меня образом.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:739 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_80cbf0c1:
+msgid "[_cedrick_] Что ж, дети, рад, что никто не пострадал. Не позволяйте лавине омрачать поездку и развлекайтесь как следует. Завтра мы отправляемся домой!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:740 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0ee14fbd:
+msgid "[_cedrick_] (...а я пойду отдохну.)"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:742 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_22:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:743 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_07bdde05_4:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:745 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_228026ca:
+msgid "[_centered_] {size=37}На следующий день{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:749 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3e81b8b9:
+msgid "[_cedrick_] Так , Вилма здесь"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:750 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a6f8753b:
+msgid "[_pupils_] Лаурент Хемптон"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:751 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_4a6ee184:
+msgid "[_cedrick_] Проходи..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:755 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_23:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:757 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_966f668b:
+msgid "[_sondra_] охх, Мэтью..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:758 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_bcd124bf_1:
+msgid "[_will_] ..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:761 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_24:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:763 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_07bdde05_5:
+msgid "....."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:764 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_3928a113_1:
+msgid "......."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:766 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_278c7e29_1:
+msgid "........."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:768 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f7a551bf:
+msgid "[_cedrick_] Как ты?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:770 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1d1a7534:
+msgid "[_will_] Сперва я немного расстроилась, но.. теперь все в порядке."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:772 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_25:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:777 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a9aecd65:
+msgid "[_guy_] Как же приятно вернутся домой..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:778 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e955bb5f:
+msgid "[_guy2_] Мы так и не побывали на Трассе Самоубийц.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:779 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_48ec227e:
+msgid "[_guy_] Да заткнись ты..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:780 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b325f4b9:
+msgid "[_guy_] Это было ахуительно!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:781 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_1f3ab103:
+msgid "[_cedrick_] Нилл, не выражайся..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:782 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a28bbc5e:
+msgid "[_guy_] Простите.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:784 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a20cefa7_26:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:788 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_01de633a:
+msgid "[_will_] И все же поездки на лыжах - это не мое.. хех.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:792 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_7746fa56:
+msgid "[_cedrick_] Расстроилась из-за Мэтта?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:796 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_0eded6f9:
+msgid "[_will_] ..Немного"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:800 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_c526c581:
+msgid "[_cedrick_] Не стоит. В конце концов, полно парней и получше него."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:804 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b10eb75b:
+msgid "[_will_] Да.. Пожалуй, что так."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:808 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f08563b7:
+msgid "[_cedrick_] То, что было в домике.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:812 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_116830dd:
+msgid "[_will_] Не переживай. Я буду рассказывать маме... не все подробности"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:813 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_fadf7b97:
+msgid "[_cedrick_] Рад, что это останется между нами. Тебя проводить до дома?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:817 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_848bbb8f:
+msgid "[_will_] Почему бы и нет.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:820 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_9aee60b2:
+msgid "[_centered_] {size=37} В доме семейства Вэндом{/size}"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:824 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_dcacfebf:
+msgid "[_susan_] Вилл!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:825 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_096c9265:
+msgid "[_susan_] Скорей проходи переодевайся"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:829 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_e0f0597f:
+msgid "[_susan_] И ты, Рик! Какой сюрприз!"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:833 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_085649d6:
+msgid "[_cedrick_] Просто решил ее проводить и заодно увидеть тебя."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:837 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_095e19cd:
+msgid "[_susan_] Это хорошо, я рада. Ты давно не заходил.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:841 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f518740e:
+msgid "[_susan_] Но, мне завтра очень рано на работу.. понимаешь?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:845 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d651f197:
+msgid "[_cedrick_] Да, ничего, не буду навязываться."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:849 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_d6898533:
+msgid "[_susan_] Может как-нибудь в другой раз?"
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:850 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_f6c0bf01:
+msgid "[_cedrick_] Обязательно, Сюзан."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:851 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_8f2614e4:
+msgid "[_susan_] Я правда этого хочу, Рик.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:855 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_dd2ec9be:
+msgid "[_susan_] Я позвоню."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:856 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_a24bacf7:
+msgid "[_cedrick_] До встречи."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:860 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_b48defbc:
+msgid "[_will_] Доброй ночи, Рик.."
+msgstr ""
+
+# game/scripts/quests/newStudent/quest_new_student_wait_for_a_trip_to_mount_heatherfield.rpy:861 #-#-# translate crowdin quest_new_student_wait_for_a_trip_to_mount_heatherfield_2b15f896:
+msgid "[_cedrick_] И тебе.. Хорошо, что все обошлось."
+msgstr ""
+
