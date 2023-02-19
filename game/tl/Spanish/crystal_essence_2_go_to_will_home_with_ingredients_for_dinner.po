@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.po\n"
+"X-Crowdin-File-ID: 5585\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:39\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:7 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_eddbb15e:
+msgid "[_susan_] Спасибо, что помог с готовкой, Рик, это было так мило с твоей стороны"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:9 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_6ccf36a6:
+msgid "[_cedrick_] Хах, ну что ты, всегда рад помочь"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:11 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_311f0876:
+msgid "[_will_] И в этот раз обошлись без происшествий.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:13 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_ed72e9d4:
+msgid "[_susan_] Кхм.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:15 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_e0183bd5:
+msgid "[_cedrick_] Ахахах, всегда любил твое чувство юмора, Вилл.. Но могла бы и похвалить наши старания"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:17 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f353dde8:
+msgid "[_will_] Хах.. Ладно ужин действительно вышел что надо"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:19 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2bfa12d8:
+msgid "[_cedrick_] Вооот, другое дело"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:22 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_26556723:
+msgid "[_cedrick_] (На самом деле на стряпню мне все равно. Главное, что Вилл уже отпила эссенцию, что я добавил в ее кружку, пока все отвлеклись)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:23 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_501bf0c8:
+msgid "[_cedrick_] (Это была последняя капля. После этого она не сможет мне сопротивляться)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:24 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2eb2c485:
+msgid "[_will_] (Ч-что со мной.. Черт, снова бросает в жар.. При чем сильнее, чем обычно.. Аааах, что со мной...)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:26 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_4611dbb9:
+msgid "[_will_] Я.. Я, пожалуй, пойду к себе.. Было очень вкусно, всем спасибо.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:27 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_7d77babe:
+msgid "[_cedrick_] Всегда рад помочь с готовкой.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:29 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_28ce1454:
+msgid "[_susan_] Что ж, я пока приберу весь тот бардак, что мы устроили в процессе готовки"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:30 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_071112b8:
+msgid "[_cedrick_] Да, было бы чудесно. А я пока отойду по своим делам"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:34 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_6d4df805:
+msgid "[_cedrick_] (Хмм? В комнате ее нет? Странно, тогда где же она..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:36 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_aac356e4:
+msgid "[_will_] Ч-черт.. Да как же так.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:38 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f5087268:
+msgid "[_cedrick_] Хах, все ясно.. Звуки идут из туалета.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:44 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2d9adce5:
+msgid "[_will_] Р-Рик!? Что ты.. Ааах.. Что ты.. Тут делаешь?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:45 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_c56e21b2:
+msgid "[_cedrick_] Хммм? Что такое, Вилл? Руки не останавливаются, даже после того, как я вошел в туалет?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:47 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_7f3ef0eb:
+msgid "[_will_] Ч-черт... ооооххх.. Выметайся отсюда.. Я ведь могу закричать и тогда Сьюзан все.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:48 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_e22c0acb:
+msgid "[_cedrick_] Ох, Вилл, в твоем нынешнем положении ты можешь разве что застонать, не обманывай себя"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:49 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_8f12d33f:
+msgid "[_cedrick_] Единственное, что сейчас неоднозначно - так это то, что же я с тобой сделаю.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:51 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_03ed1365:
+msgid "[_will_] С-сделаешь.. Не.. Нет, постой.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:57 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_3982efe1:
+msgid "[_cedrick_] Хах, хорошо, Вилл. Я дам тебе шанс сделать все самой"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:58 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_da3f1678:
+msgid "[_will_] Ч-что?.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:59 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a0190eb6:
+msgid "[_cedrick_] Ну же, давай, попробуй кончить самостоятельно, я не буду вмешиваться. Только будь хорошей девочкой и раздвинь для меня ноги"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:61 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_0ac24f32:
+msgid "[_will_] Да ты... ааав.. Ты совсем охренел, Рик.. С чего ты взял, что я буду.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:65 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_eb8c95ff:
+msgid "[_will_] Ч-что.. Нет.. Это.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:66 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_d337558e:
+msgid "[_cedrick_] Вот и умница, Вилл"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:68 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_069ac169:
+msgid "[_will_] (Н-нет, что происходит.. Тело не слушается.. Вернее слушается не меня, а Рика.. Неужели это то, чего я действительно хочу?.. Дрочить перед ним, раздвинув ноги?.. Поверить не могу..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:69 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_152f5d26:
+msgid "[_cedrick_] Ну же, Вилл, давай, делай свое любимое дело"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:71 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_fc4b3a69:
+msgid "[_will_] Я.. М.. Да.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:73 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_4c9dd808:
+msgid "[_will_] ...Аааах.. Ммммв.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:75 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_3ba51e77:
+msgid "[_will_] Оооооххх... Ч-черт.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:76 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_3cc0ef5a:
+msgid "[_cedrick_] Что такое? Не получается кончить?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:78 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_90fb74ca:
+msgid "[_will_] Ах ты.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:79 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_101d3ce7:
+msgid "[_cedrick_] Мы оба понимаем, что одними руками у тебя уже давно не получается довести себя до оргазма, не стоит и пытаться.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:80 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_8d5dba3a:
+msgid "[_cedrick_] Уверен, что даже дилдо тебе уже не помогает"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:82 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_09af50fd:
+msgid "[_will_] (...Он абсолютно прав. Обычных игрушек для меня уже недостаточно.. Пришлось недавно купить анальный стимулятор, с ним хоть как-то получается дойти до оргазма..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:83 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_edb6bcf4:
+msgid "[_cedrick_] Все это лишь баловство, Вилл. Ты же знаешь, что тебе действительно нужно. Чего ты действительно хочешь"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:85 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_e90284fe:
+msgid "[_will_] Н-нет.. Ааав.. Я знаю о чем-ты.. П-подожди.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:89 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_234aee59:
+msgid "[_cedrick_] Вот то, чего ты действительно жаждешь. Толстый мясистый член, а не все эти долбаные игрушки"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:90 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2bb5504b:
+msgid "[_will_] Я... Я..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:91 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_40a66b83:
+msgid "[_will_] (О нет, он сделал это.. Он достал свой член и тычет им прямо в лицо.. Я наконец увидела его.. И не для Сьюзан, как раньше.. Теперь этот член предназначен для меня..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:92 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_8fd9e7c4:
+msgid "[_will_] (Боже, нет, о чем я вообще думаю)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:96 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_12dde0e8:
+msgid "[_cedrick_] Ну же, Вилл, ты вся трепещешь. Ни к чему скрывать тот факт, что ты хочешь мой член. Хочешь меня. Все уже все прекрасно понимают. Думаю даже Сьюзан уже догадалась)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:97 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_91dd3499:
+msgid "[_cedrick_] Никого, кроме себя, ты уже не обманешь"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:98 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_0beb5a99:
+msgid "[_will_] (Не обману?.. Может я все это время обманывала саму себя.. Может я и вправду просто извращенка, которая хочет члена Рика..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:99 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_bbdfe426:
+msgid "[_will_] (Черт, да это и так уже давно было очевидно.. Я начала дрочить из-за него, мне становилось чертовски горячо только рядом с ним, я могла кончить, только думая о нем)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:100 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_da5e1ada:
+msgid "[_will_] (Я просто дура, которая обманывала сама себя. А еще называюсь предводительницей стражниц. Как я могу спасать мир, если сама лгу себе в том, чего хочу.. Лгу себе в том, кто я есть..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:101 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_31354e65:
+msgid "[_will_] (Я просто жалкая извращенка..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:106 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_5ba76745:
+msgid "[_cedrick_] Что ж, я долго терпел. Теперь пришло время жестких решительных действий"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:107 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_ebe4983f:
+msgid "[_will_] Ч-что!?.. Что ты имеешь ввиду.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:108 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f5418208:
+msgid "[_cedrick_] Ты не в состоянии ничего сделать нормально, Вилл. Посмотри на себя, даже кончить сама не можешь. Это просто жалко"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:110 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_0d3fd7c0:
+msgid "[_will_] ..Д-да пошел ты.. Пошел ты, Рик"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:111 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_c8f52b18:
+msgid "[_cedrick_] Хах, ты не в том положении, чтобы меня посылать. Или ты до сих пор этого не поняла? Давай тогда я тебе покажу"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:115 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_0c86f027:
+msgid "[_will_] Ч-что ты делаешь?! Сраный извращенец, а ну прекрати сейчас-же!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:116 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_31aa01a0:
+msgid "[_cedrick_] Так, и что же ты сделаешь, если я не перестану?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:118 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_1e39c1a6:
+msgid "[_will_] Я.. Я.. Ооохх.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:119 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_74dfbed0:
+msgid "[_will_] (Черт, он так грубо со мной обращается.. Я должна дать ему отпор, но вместо этого моя киска еще сильнее начинает течь от его прикосновений.. Как же так..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:120 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_7464cd8d:
+msgid "[_cedrick_] Ты не в состоянии дать мне отпор, Вилл. Более того, ты хочешь, чтобы я прикасался к тебе. И почему же?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:121 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_db67d3c5:
+msgid "[_will_] ...."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:122 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_112f7b30:
+msgid "[_cedrick_] Давай я сам отвечу"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:126 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_8ef50f81:
+msgid "[_will_] Что ты... аааах... оооов..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:127 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f5542313:
+msgid "[_cedrick_] Да потому что ты сама уже даже кончить не в состоянии. Не то что руками, уверен, тебе даже твой дилдо уже не помогает"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:129 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_176f3d9b:
+msgid "[_will_] (Засранец.. Он прав.. Последнее время у меня получалось кончить только за счет того, что я купила себе анальный стимулятор в довесок к дилдо..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:130 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_6d0f3764:
+msgid "[_cedrick_] Но знаешь, что тебе точно помогает? Мои, черт возьми, прикосновения. Ты вся течешь, Вилл. Твоя киска хочет меня, хоть ты сама пытаешься это отрицать"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:132 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_e7b9a859:
+msgid "[_will_] Д-думаешь.. Аааахххх.. Думаешь тебе так просто сойдет это с рук? Я все еще могу сопротивляться.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:133 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_905ce251:
+msgid "[_cedrick_] Ох, Вилл.. Я знал, что ты извращенка, но не думал, что ты еще и дура.. Думаешь, что можешь сопротивляться? Хах, ну давай посмотрим"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:137 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2e8f7c15:
+msgid "[_will_] Да как ты смеешь.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:138 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_76ac1813:
+msgid "[_cedrick_] Ооо, такая недовольная, но такая беспомощная. Вилл, у тебя очень грозное лицо, но посмотри на себя. Я тычу тебе членом прямо в лицо, что же ты не сопротивляешься?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:140 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2bb5504b_1:
+msgid "[_will_] Я... Я..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:141 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_901406c7:
+msgid "[_cedrick_] Хах, а ты не глотай язык, он тебе еще пригодится. Ты не сопротивляешься, потому что это то, чего ты хочешь. Чего давно хотела - моего члена"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:143 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_896b27a8:
+msgid "[_will_] Н-не правда.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:144 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_ea77cae1:
+msgid "[_cedrick_] Вилл, хорош прикидываться! Ты можешь сколько угодно обманывать саму себя, пытаться доказать себе, что ты не такая, но посмотри, в каком ты сейчас положении"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:148 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_de05deea:
+msgid "[_cedrick_] Мой член упирается прямо в твои губы и все, что ты делаешь - это грозно на меня смотришь и что-то пытаешься возразить? Это же смешно"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:149 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_130fbded:
+msgid "[_will_] (Черт.. Почему я ничего не делаю.. Я же предводительница стражниц.. Меня унижают и домогаются, а я не делаю ничего..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:150 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_101297ef:
+msgid "[_will_] (Нет.. Вернее, все, что я делаю - это теку, как сучка в период течки.. Черт, Рик, ты такой мудак.. Но почему, почему я хочу твой член..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:151 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_1a6f19f8:
+msgid "[_will_] (Я поняла.. Поняла, что не сопротивляюсь, потому что хочу его.. Даже если он ведет себя грубо и домогается меня - я не возражаю, даже если мне это не нравится)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:152 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2829e66c:
+msgid "[_will_] (Черт, да даже если этот ублюдок решит прямо сейчас трахнуть меня в задницу, я несомненно стану сопротивляться, но в итоге мне может начать это нравиться..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:153 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_0ecfc7a3:
+msgid "[_will_] (Но что.. Что же мне делать.. Признать свое положение и отдаться ему? Я правда.. Правда готова пойти на это, чтобы наконец получить долгожданное наслаждение? Какая я стражница после этого..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:159 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_de652716:
+msgid "[_cedrick_] Ну же, Вилл. Пора признаться в том, чего ты действительно хочешь. Скажи это."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:163 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_1963f88d:
+msgid "[_will_] Да... Да, черт возьми, да! Я хочу твой член.. Боже, просто вставь его уже в мой рот! Хватит дразнить меня, ты, придурок.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:164 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_fdd9c33c:
+msgid "[_cedrick_] Хммм… И это все?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:165 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_3c151ade:
+msgid "[_will_] Я признаю.. Признаю! Я просто долбаная извращенка!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:166 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_fd63d5b6:
+msgid "[_will_] Даже когда ты тычешь мне своим огромным твердым членом прямо в лицо, я больше не могу сопротивляться!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:168 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_4becd2ea:
+msgid "[_will_] Я больше не могу отрицать своих желаний.. Давай, сделай это, Рик!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:169 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_cf088194:
+msgid "[_cedrick_] Отлично сказано..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:171 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_279344ff:
+msgid "*ПРОНЗИТЕЛЬНЫЙ ЗВОНОК ТЕЛЕФОНА*"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:174 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_9171671b:
+msgid "[_cedrick_] Какого черта, кто еще?.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:175 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_b71fcaea:
+msgid "[_cedrick_] Это Элион? Черт, 12 пропущенных.. Окей, придется взять..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:176 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f0f0c328:
+msgid "[_cedrick_] Я надеюсь это чертовски срочно, потому что я тут занят ооочень важными вещами"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:179 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_cf369d18:
+msgid "[_elion_] Рик, сюда приходили двое детективов и сказали, что у них ордер на твой арест.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:180 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:181 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_be4dcd43:
+msgid "[_cedrick_] ...Что?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:182 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_db3d8ac3:
+msgid "[_elion_] Они что-то говорили про пропажу Корнелии.. И они считают, что это все связано с пропажей Брайана и Алхими.. Они сказали, что ты в этом замешан.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:183 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a94a1b85:
+msgid "[_elion_] Рик, я ничего не понимаю.. Что за ужасные вещи они про тебя считают.. Ты же хороший человек..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:184 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_ebed3d65:
+msgid "[_cedrick_] ......."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:186 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_13c6994e:
+msgid "[_cedrick_] Элион, возле моего магазинчика сейчас несколько машин полиции?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:187 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_4c87e5bf:
+msgid "[_elion_] Да.. Офицеры только вышли из магазина и потрулируют снаружи. Я тут же позвонила тебе"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:188 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_45fc8672:
+msgid "[_cedrick_] А детективы прямо сейчас направляются в дом Вилл?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:189 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2858bd1e:
+msgid "[_elion_] ..Да, они знают, что ты последнее время сблизился с Сьюзан"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:190 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_c8e0684f:
+msgid "[_cedrick_] ..........."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:191 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_25e503b0:
+msgid "[_cedrick_] Элион, никому не верь. Это все ложь. Я.. Я перезвоню..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:193 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_305ea7bf:
+msgid "[_will_] ...Рик?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:194 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f714969a:
+msgid "[_cedrick_] Я.. Эм.. Мне надо идти..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:196 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_4f14bc45:
+msgid "[_will_] Что!? Нет, стой!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:198 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_3ebe6dee:
+msgid "[_cedrick_] Вилл, никому не верь. Это все ложь!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:199 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_86069aa2:
+msgid "[_will_] Что!? Что ты несешь, Рик!? Вернись и трахни меня!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:200 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:202 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_5ce51e14:
+msgid "[_cedrick_] Черт черт черт... Гребаные детективы, да как же все так резко обломалось! Что вообще произошло!? Мне нужно на Меридиан.. Срочно!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:203 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_30ebe15c:
+msgid "[_cedrick_] Миранда.. Точно, Миранда придумает что-нибудь! Зелье, которое стирает всем память или еще какую-нибудь такую срань.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:204 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_df8f81ab:
+msgid "[_cedrick_] На крайний случай можно промыть мозги Алхими, Брайану и Корнелии и притащить их сюда.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:205 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_cfc1b365:
+msgid "[_cedrick_] Черт, да это же все бред... Так... Ладно, первым делом мне нужно найти открытый портал, потому что своим я воспользоваться не могу..... Думай, Седрик, думай!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:206 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:213 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_117a6a47:
+msgid "[_medina_] Миссис Вандом, здравствуйте"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:214 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a7c9dfbd:
+msgid "[_susan_] Эм, вообще то уже давно просто Мисс Вандом"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:219 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_bf85b2e6:
+msgid "[_maktinen_] Рик находится у вас?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:223 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_c607921a:
+msgid "[_susan_] Что? Рик? Зачем он вам? Что вам вообще здесь надо? У вас есть ордер?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:224 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a3bc8715:
+msgid "[_medina_] О, уж поверьте, он у нас есть. А Рик вам кем приходится?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:228 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_d529a875:
+msgid "[_susan_] Ну, он..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:238 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_5c649c0b:
+msgid "[_tarani_] Тетя Сьюзан, простите..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:239 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_20446901:
+msgid "[_irma_] Да, нам просто срочно нужна Вилл, можете пропустить.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:243 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f8551874:
+msgid "[_susan_] Девочки, а вы здесь откуда?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:245 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_05e19830:
+msgid "[_medina_] А это потерпевшие, Мисс Вандом"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:249 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_dd254310:
+msgid "[_susan_] Потерпевшие?.. Так, вы немедленно все мне объясните"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:253 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_fd903f1a:
+msgid "[_maktinen_] Хах, с радостью. Ваш ухажер тот еще монстр.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:255 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_278c7e29:
+msgid "........."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:259 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_15be5713:
+msgid "[_tarani_] Вилл! Впусти нас!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:261 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_6fd35989:
+msgid "[_irma_] Это срочно!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:262 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2b1de6f7:
+msgid "[_tarani_] Рик - это Седрик, прихвостень Фобоса! Он похитил Корнелию"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:267 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a83a0c3e:
+msgid "[_will_] Что? Черт, проваливайте.. Не доставайте меня своим бредом.. Мне.. Мммм, надо сосредоточиться..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:268 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_c3719336:
+msgid "[_irma_] Вилл, это срочно! Ты что нас не слышишь!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:270 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_46dd4d1d:
+msgid "[_will_] Да плевать мне! Ааааахх, от-отстаньте! Мне не до ваших игр в стражниц"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:271 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f3244bbd:
+msgid "[_tarani_] Черт возьми, Вилл! Не хочешь помогать, так хотя бы дай нам превратиться! Нам нужны наши силы!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:272 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2c7831fd:
+msgid "[_irma_] Да! То же мне, предводительница стражниц! Ты даже подруге помочь не можешь!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:274 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_cb38d29c:
+msgid "[_will_] (Конечно, я уже не ваш предводитель.. И уже не стражница.. Я просто... хочу.. Член Рика... Как этот ублюдок мог меня бросить в такой момент..)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:275 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_9bdf91eb:
+msgid "[_tarani_] Вилл, мы сейчас выломаем дверь! Седрик ведь сейчас сбежит!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:277 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_570d104a:
+msgid "[_will_] Черт вас дери... Если я вас превращу, вы уйдете!?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:278 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a0b5c766:
+msgid "[_irma_] Да!!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:279 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f360ec7f:
+msgid "[_tarani_] Да! Давай уже!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:281 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_2370d1b0:
+msgid "[_will_] Аааав... Мы... М-мы едины!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:287 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:293 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_9e289522:
+msgid "[_irma_] Отлично, давай схватим этого засранца!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:297 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_cccbd452:
+msgid "[_tarani_] Да, мы и без этой предательницы справимся!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:298 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_d30407ed:
+msgid "[_irma_] Давай вылетим через окно, пока нас не застали в таком виде"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:303 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_8dabefc6:
+msgid ".."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:307 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:309 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_314c3503:
+msgid "[_cedrick_] Черт, наконец-то.. Долбаный портал, как-же долго до тебя было идти.. В магической форме я бы добрался куда быстрее"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:310 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_7e231dab:
+msgid "[_tarani_] А мы и добрались быстрее!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:317 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_3dfed4a9:
+msgid "[_cedrick_] Что? Какого черта вы..."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:318 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_782da11f:
+msgid "[_cedrick_] ...."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:319 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_5521c213:
+msgid "[_cedrick_] Ах, все ясно.. Это вы подняли на уши тех детективов"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:323 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_5f4d8913:
+msgid "[_irma_] Не стоило тебе трогать Корнелию.. Ты действовал по принципу Разделяй и властвуй, но после пропажи Корнелии мы поняли, что ты домогался каждой из нас!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:329 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_578e74be:
+msgid "[_tarani_] Мы все знаем, что ты служишь Фобосу! Седрик, ты ответишь за то, что я потеряла Найджела!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:333 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_989e48ca:
+msgid "[_cedrick_] (Они что, и Вилл рассказали? Не могла же она встать на их сторону.. Хм, нет, иначе она была бы здесь, но стражниц всего двое.. У меня есть шанс)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:334 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_c41b1e73:
+msgid "[_cedrick_] Ох, так беспокоитесь за своих подруг? А все ли разделяют ваше рвение? где же Хай Лин?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:338 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f3c2fca7:
+msgid "[_irma_] Хай Лин.. Она.. Она отказалась участвовать, боясь за своих родных…"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:342 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_539f960c:
+msgid "[_tarani_] Потому что ты шантажируешь Хай Лин смертью ее бабушки!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:348 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_b3c62b92:
+msgid "[_cedrick_] Эту бабку я спасал от смерти, дура. Она уже давно была бы на том свете, если бы не я"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:352 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_a88c51d8:
+msgid "[_irma_] Это тебя не оправдывает, ублюдок!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:353 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_156e8505:
+msgid "[_cedrick_] А что же Вилл, где ваш предводитель?"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:357 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_f7ad36fd:
+msgid "[_tarani_] Вилл.. Она.."
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:361 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_7230f59f:
+msgid "[_irma_] С тобой мы и вдвоем справимся, ублюдок! Хватит болтать, пришло время получить за все свои злодеяния!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:365 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_4b53fa1f:
+msgid "[_tarani_] Неужели ты думал, что все твои преступления сойдут тебе с рук? Что ты останешься безнаказанным? Больше никто не пострадает от твоей руки!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:366 #-#-# translate crowdin crystal_essence_2_go_to_will_home_with_ingredients_for_dinner_84fc8483:
+msgid "[_cedrick_] Ну давайте! Посмотрим, чего стоит ваш треп!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:394 #-#-# translate crowdin dialoigs_in_fight_with_tarani_and_irma_138606e4:
+msgid "[_cedrick_] Гнусные девчонки, думаете вы сильны? В бою 1 на 1 у вас не было бы и шанса против меня!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:395 #-#-# translate crowdin dialoigs_in_fight_with_tarani_and_irma_b5bafd20:
+msgid "[_tarani_] Думал только тебе можно использовать грязные трюки, ублюдок!? Мы бьем тебя твоим же "
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:396 #-#-# translate crowdin dialoigs_in_fight_with_tarani_and_irma_a155c240:
+msgid "[_irma_] Что, уже вымотался, змей? В форме стражниц тебе с нами не тягаться!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:397 #-#-# translate crowdin dialoigs_in_fight_with_tarani_and_irma_58a0d9ad:
+msgid "[_cedrick_] (Нужно подгадать время и бежать к порталу. Эти мелкие стервы из меня почти все силы вытянули)"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:406 #-#-# translate crowdin dialoigs_in_fight_with_tarani_and_irma_ae1d3204:
+msgid "[_irma_] Вот и настал твой конец, Седрик!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:407 #-#-# translate crowdin dialoigs_in_fight_with_tarani_and_irma_6a300b5e:
+msgid "[_tarani_] Сейчас ты за все поплатишься!"
+msgstr ""
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_go_to_will_home_with_ingredients_for_dinner.rpy:408 #-#-# translate crowdin dialoigs_in_fight_with_tarani_and_irma_1a37bafa:
+msgid "[_cedrick_] (Черт... Эти мелкие сучки из меня весь дух выбили, я остался без сил.. Не думал, что без своей силы я и двух стражниц не потяну..)"
+msgstr ""
+
