@@ -10,203 +10,203 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-01-02 16:15\n"
+"PO-Revision-Date: 2023-02-17 06:59\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:9 #-#-# translate crowdin comeToLilianInMeridian3_86f50510:
 msgid "[_cedrick_] Сегодня я расскажу тебе, как стать по настоящему взрослой девушкой!"
-msgstr ""
+msgstr "[_cedrick_] Aujourd'hui, je vais vous dire comment être une vraie grande fille !"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:13 #-#-# translate crowdin comeToLilianInMeridian3_609a00bb:
 msgid "[_lilian_] Да!?"
-msgstr ""
+msgstr "[_lilian_] Oui !?"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:14 #-#-# translate crowdin comeToLilianInMeridian3_fbc71be9:
 msgid "[_cedrick_] Быть взрослым — это не только иметь взрослое тело... Взрослея, девушки также приобретает различный жизненный опыт... У нее появляются различные потребности, которых не было в детстве..."
-msgstr ""
+msgstr "[_cedrick_] Être adulte, ce n'est pas seulement avoir un corps d'adulte... Lorsqu'une fille grandit, elle a aussi des expériences de vie différentes... Elle a des besoins différents de ceux qu'elle avait lorsqu'elle était enfant..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:18 #-#-# translate crowdin comeToLilianInMeridian3_bf1d00ec:
 msgid "[_lilian_] Я... не совсем понимаю, о чем ты говоришь..."
-msgstr ""
+msgstr "[_lilian_] Я... Je ne sais pas vraiment de quoi tu parles..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:20 #-#-# translate crowdin comeToLilianInMeridian3_f9f2e111:
 msgid "[_cedrick_] Ну, к примеру... Твоя сестра, как я узнал недавно, обладает различными специфическими умениями...."
-msgstr ""
+msgstr "[_cedrick_] Eh bien, par exemple... Votre soeur, comme je l'ai découvert récemment, a diverses compétences spécifiques....."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:21 #-#-# translate crowdin comeToLilianInMeridian3_fae8f782:
 msgid "[_cedrick_] Я могу тебя этому обучить, но... Конечно, ты не обязана быть такой же, как и твоя сестра..."
-msgstr ""
+msgstr "[_cedrick_] Je peux t'apprendre ça, mais... Bien sûr, tu n'as pas à être comme ta soeur..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:25 #-#-# translate crowdin comeToLilianInMeridian3_6ab89892:
 msgid "[_lilian_] Научи меня этим умениям! Пожалуйста!"
-msgstr ""
+msgstr "[_lilian_] Enseignez-moi ces compétences ! S'il te plaît !"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:29 #-#-# translate crowdin comeToLilianInMeridian3_53af0139:
 msgid "[_cedrick_] Ну, если ты этого действительно хочешь..."
-msgstr ""
+msgstr "[_cedrick_] Eh bien, si c'est ce que tu veux vraiment..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:32 #-#-# translate crowdin comeToLilianInMeridian3_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:33 #-#-# translate crowdin comeToLilianInMeridian3_d1a817d2:
 msgid "[_cedrick_] Сядь на колени передо мной и я покажу тебе кое-что (свой член)"
-msgstr ""
+msgstr "[_cedrick_] Assieds-toi à genoux devant moi et je vais te montrer quelque chose (ma bite)."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:34 #-#-# translate crowdin comeToLilianInMeridian3_8ae015e3:
 msgid "[_lilian_]  Хорошо, я тебе доверяю... "
-msgstr ""
+msgstr "[_lilian_]  OK, je te fais confiance... "
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:35 #-#-# translate crowdin comeToLilianInMeridian3_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:36 #-#-# translate crowdin comeToLilianInMeridian3_96e84c4d:
 msgid "Лилиан встает на колени"
-msgstr ""
+msgstr "Lillian s'agenouille"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:37 #-#-# translate crowdin comeToLilianInMeridian3_dddcf9a0:
 msgid "Седрик начинает расстегивать ширинку"
-msgstr ""
+msgstr "Cedric commence à défaire sa braguette"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:38 #-#-# translate crowdin comeToLilianInMeridian3_cd781eb0:
 msgid "[_lilian_] Что? Рик, что ты делаешь? Что это?"
-msgstr ""
+msgstr "[_lilian_] Quoi ? Rick, qu'est-ce que tu fais ? Qu'est-ce que c'est ?"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:39 #-#-# translate crowdin comeToLilianInMeridian3_5a9bbcf4:
 msgid "[_cedrick_] Не волнуйся, Лилиан. Я знаю, что я делаю."
-msgstr ""
+msgstr "[_cedrick_] Ne t'inquiète pas, Lillian. Je sais ce que je fais."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:40 #-#-# translate crowdin comeToLilianInMeridian3_185948d8:
 msgid "[_cedrick_] Я обучал этому твою сестру и у нее определенно есть талант..."
-msgstr ""
+msgstr "[_cedrick_] Je l'ai appris à ta soeur et elle a définitivement le talent..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:41 #-#-# translate crowdin comeToLilianInMeridian3_354c578c:
 msgid "[_lilian_] Эх и здесь она меня опередила..."
-msgstr ""
+msgstr "[_lilian_] Eh et ici elle m'a devancé..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:42 #-#-# translate crowdin comeToLilianInMeridian3_1de4d529:
 msgid "[_cedrick_] Не переживай, ты все еще можешь ее превзойти..."
-msgstr ""
+msgstr "[_cedrick_] Ne vous inquiétez pas, vous pouvez toujours la battre..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:43 #-#-# translate crowdin comeToLilianInMeridian3_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:44 #-#-# translate crowdin comeToLilianInMeridian3_6e456a8f:
 msgid "[_lilian_] А зачем ты достал... Эту штуку?"
-msgstr ""
+msgstr "[_lilian_] Pourquoi as-tu pris... cette chose ?"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:45 #-#-# translate crowdin comeToLilianInMeridian3_f569e996:
 msgid "[_cedrick_] Сейчас ты все поймешь..."
-msgstr ""
+msgstr "[_cedrick_] Maintenant vous allez tout comprendre..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:46 #-#-# translate crowdin comeToLilianInMeridian3_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:47 #-#-# translate crowdin comeToLilianInMeridian3_961a9187:
 msgid "[_cedrick_] Возьми его в руки..."
-msgstr ""
+msgstr "[_cedrick_] Prenez-le dans vos mains..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:48 #-#-# translate crowdin comeToLilianInMeridian3_b74aa992:
 msgid "[_lilian_] Эм, хорошо..."
-msgstr ""
+msgstr "[_lilian_] Hum, et bien..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:51 #-#-# translate crowdin comeToLilianInMeridian3_5f9b772e_1:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:53 #-#-# translate crowdin comeToLilianInMeridian3_c204c32f:
 msgid "[_cedrick_] Теперь ты должна плавно поглаживать его..."
-msgstr ""
+msgstr "[_cedrick_] Maintenant vous devez le caresser doucement..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:54 #-#-# translate crowdin comeToLilianInMeridian3_51d7c466:
 msgid "[_lilian_] ..."
-msgstr ""
+msgstr "[_lilian_] ..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:55 #-#-# translate crowdin comeToLilianInMeridian3_5f9b772e_2:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:56 #-#-# translate crowdin comeToLilianInMeridian3_ae9c3339:
 msgid "[_lilian_] У меня все получается, Рик?"
-msgstr ""
+msgstr "[_lilian_] Est-ce que je me débrouille bien, Rick ?"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:57 #-#-# translate crowdin comeToLilianInMeridian3_ca75121c:
 msgid "[_cedrick_] Попробуй посильнее обхватить его... Так... И начни совершать возвратно поступательные движения руками..."
-msgstr ""
+msgstr "[_cedrick_] Essayer d'avoir une meilleure prise sur elle... Donc... Et commencez à faire des mouvements de va-et-vient avec vos mains..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:58 #-#-# translate crowdin comeToLilianInMeridian3_a20cefa7_3:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:59 #-#-# translate crowdin comeToLilianInMeridian3_07bdde05:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:60 #-#-# translate crowdin comeToLilianInMeridian3_0b6fde70:
 msgid "[_lilian_] Как-то так?"
-msgstr ""
+msgstr "[_lilian_] Comme ça ?"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:61 #-#-# translate crowdin comeToLilianInMeridian3_40c9e00c:
 msgid "[_cedrick_] О да... У тебя отлично получается!"
-msgstr ""
+msgstr "[_cedrick_] Oh oui... Vous vous débrouillez très bien !"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:62 #-#-# translate crowdin comeToLilianInMeridian3_a20cefa7_4:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:63 #-#-# translate crowdin comeToLilianInMeridian3_a20cefa7_5:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:64 #-#-# translate crowdin comeToLilianInMeridian3_985f8aea:
 msgid "[_cedrick_] О да... Хорошо..."
-msgstr ""
+msgstr "[_cedrick_] Oh oui... Eh bien..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:65 #-#-# translate crowdin comeToLilianInMeridian3_a20cefa7_6:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:66 #-#-# translate crowdin comeToLilianInMeridian3_5f9b772e_3:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:67 #-#-# translate crowdin comeToLilianInMeridian3_6170b151:
 msgid "[_cedrick_] А теперь попробуй облизнуть его... Как леденец..."
-msgstr ""
+msgstr "[_cedrick_] Maintenant, essayez de le lécher... Comme une sucette..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:68 #-#-# translate crowdin comeToLilianInMeridian3_a20cefa7_7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:71 #-#-# translate crowdin comeToLilianInMeridian3_5f9b772e_4:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:72 #-#-# translate crowdin comeToLilianInMeridian3_e85a001e:
 msgid "[_cedrick_] О да... "
-msgstr ""
+msgstr "[_cedrick_] Ah oui... "
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:73 #-#-# translate crowdin comeToLilianInMeridian3_51d7c466_1:
 msgid "[_lilian_] ..."
-msgstr ""
+msgstr "[_lilian_] ..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:74 #-#-# translate crowdin comeToLilianInMeridian3_40e78d37:
 msgid "[_cedrick_] У тебе просто прекрасно получается..."
-msgstr ""
+msgstr "[_cedrick_] Vous vous débrouillez très bien..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:75 #-#-# translate crowdin comeToLilianInMeridian3_b14adc0a:
 msgid "[_cedrick_] Хотя... Пока-что не так хорошо, как у твоей сестры... Но для первого раза..."
-msgstr ""
+msgstr "[_cedrick_] Bien que... Pas aussi bon que celui de votre soeur jusqu'à présent... Mais pour la première fois..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:77 #-#-# translate crowdin comeToLilianInMeridian3_51d7c466_2:
 msgid "[_lilian_] ..."
-msgstr ""
+msgstr "[_lilian_] ..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:78 #-#-# translate crowdin comeToLilianInMeridian3_d0d453b0:
 msgid ".... "
-msgstr ""
+msgstr ".... "
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:80 #-#-# translate crowdin comeToLilianInMeridian3_49b49515:
 msgid "[_cedrick_] Отлично...."
@@ -214,33 +214,33 @@ msgstr "[_cedrick_] Excellent...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:81 #-#-# translate crowdin comeToLilianInMeridian3_c5a3472b:
 msgid "[_cedrick_]  ..."
-msgstr ""
+msgstr "[_cedrick_]  ..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:82 #-#-# translate crowdin comeToLilianInMeridian3_79fa4a69:
 msgid "[_cedrick_] А теперь будь готова к тому, что сейчас на твое лицо выльется... эм что-то вроде крема..."
-msgstr ""
+msgstr "[_cedrick_] Maintenant, préparez-vous à avoir un peu de... hum, une sorte de crème..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:84 #-#-# translate crowdin comeToLilianInMeridian3_211c9592:
 msgid "[_cedrick_] Говорят, что он очень полезен для кожи..."
-msgstr ""
+msgstr "[_cedrick_] On dit qu'il est très bon pour la peau..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:88 #-#-# translate crowdin comeToLilianInMeridian3_5f9b772e_5:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:89 #-#-# translate crowdin comeToLilianInMeridian3_a22e304a:
 msgid "[_cedrick_] ... о да..."
-msgstr ""
+msgstr "[_cedrick_] ... oh oui..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:92 #-#-# translate crowdin comeToLilianInMeridian3_149d7b0e:
 msgid "[_cedrick_] Ты молодец, Лилиан... Тебе удалось удовлетворить меня... Взрослые девушки постоянно занимаются этим и теперь ты кое-что умеешь..."
-msgstr ""
+msgstr "[_cedrick_] Tu as bien fait, Lillian... Tu as réussi à me satisfaire... Les grandes filles le font tout le temps et maintenant tu sais comment faire quelque chose..."
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:93 #-#-# translate crowdin comeToLilianInMeridian3_99c5c263:
 msgid "[_lilian_] Спасибо, Рик!"
-msgstr ""
+msgstr "[_lilian_] Merci, Rick !"
 
 # game/scripts/quests/growingUpLilian/comeToLilianInMeridian/comeToLilianInMeridian3.rpy:94 #-#-# translate crowdin comeToLilianInMeridian3_6ec50a60:
 msgid "[_cedrick_] Скоро я вернусь и смогу обучить тебя чему-нибудь новому... А пока отдыхай, мне нужно пойти по делам..."
-msgstr ""
+msgstr "[_cedrick_] Je reviendrai bientôt et je pourrai t'apprendre quelque chose de nouveau... En attendant, repose-toi, j'ai des affaires à régler..."
 

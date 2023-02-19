@@ -10,99 +10,99 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-01-02 16:16\n"
+"PO-Revision-Date: 2023-02-17 06:59\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/irma/directorCall.rpy:9 #-#-# translate crowdin directorCall_d69bf113:
 msgid "[_martin_] Профессор Хоффман?"
-msgstr ""
+msgstr "[_martin_] Professeur Hoffman ?"
 
 # game/scripts/quests/irma/directorCall.rpy:10 #-#-# translate crowdin directorCall_fa65483d:
 msgid "[_cedrick_] Да?"
-msgstr ""
+msgstr "[_cedrick_] Oui ?"
 
 # game/scripts/quests/irma/directorCall.rpy:11 #-#-# translate crowdin directorCall_a12b6508:
 msgid "[_martin_] Миссис Никербокер просит вас пройти к ней в кабинет."
-msgstr ""
+msgstr "[_martin_] Mme Knickerbocker aimerait vous voir dans son bureau."
 
 # game/scripts/quests/irma/directorCall.rpy:12 #-#-# translate crowdin directorCall_356533ba:
 msgid "[_cedrick_] (Хм.. Интересно, что ей понадобилось от меня..)"
-msgstr ""
+msgstr "[_cedrick_] (Hmm... je me demande ce qu'elle attendait de moi...)"
 
 # game/scripts/quests/irma/directorCall.rpy:13 #-#-# translate crowdin directorCall_78605733:
 msgid "[_cedrick_] Хорошо, спасибо"
-msgstr ""
+msgstr "[_cedrick_] OK, merci."
 
 # game/scripts/quests/irma/directorCall.rpy:14 #-#-# translate crowdin directorCall_939675ef:
 msgid "[_martin_] ..."
-msgstr ""
+msgstr "[_martin_] ..."
 
 # game/scripts/quests/irma/directorCall.rpy:22 #-#-# translate crowdin directorCall_ad958741:
 msgid "[_cedrick_] Вы хотели меня видеть?"
-msgstr ""
+msgstr "[_cedrick_] Vous vouliez me voir ?"
 
 # game/scripts/quests/irma/directorCall.rpy:26 #-#-# translate crowdin directorCall_5a0b2c72:
 msgid "[_directris_] Профессор Хоффман,кхм... Рик.."
-msgstr ""
+msgstr "[_directris_] Professeur Hoffman, um... Rick..."
 
 # game/scripts/quests/irma/directorCall.rpy:27 #-#-# translate crowdin directorCall_0047a6fc:
 msgid "[_directris_] Как вы знаете, школа Шефилд не только приобщает учеников к знанию и культуре, но и также прививает социальную ответственность."
-msgstr ""
+msgstr "[_directris_] Comme vous le savez, l'école de Sheffield ne se contente pas d'exposer les étudiants à la connaissance et à la culture, mais encourage également la responsabilité sociale."
 
 # game/scripts/quests/irma/directorCall.rpy:31 #-#-# translate crowdin directorCall_9d89b1fd:
 msgid "[_cedrick_] Вы хотите зачитать мне лекцию о том, что я не справляюсь со своими обязанностями?"
-msgstr ""
+msgstr "[_cedrick_] Tu veux me faire la leçon sur le fait que je ne fais pas mon travail ?"
 
 # game/scripts/quests/irma/directorCall.rpy:35 #-#-# translate crowdin directorCall_b7664dd3:
 msgid "[_directris_] Речь не об этом. Не перебивайте меня..."
-msgstr ""
+msgstr "[_directris_] Ce n'est pas de ça qu'il s'agit. Ne m'interrompez pas..."
 
 # game/scripts/quests/irma/directorCall.rpy:39 #-#-# translate crowdin directorCall_b4e05e70:
 msgid "[_directris_] Каждый год мы проводим день служения обществу.."
-msgstr ""
+msgstr "[_directris_] Chaque année, nous organisons une journée de service à la communauté..."
 
 # game/scripts/quests/irma/directorCall.rpy:41 #-#-# translate crowdin directorCall_e416353b:
 msgid "[_directris_] В этот день наши ученики безвозмездно помогают работникам различных муниципальных заведений и других предприятий с которыми мы сотрудничаем."
-msgstr ""
+msgstr "[_directris_] Ce jour-là, nos élèves donnent de leur temps pour aider les employés de diverses institutions municipales et d'autres entreprises avec lesquelles nous coopérons."
 
 # game/scripts/quests/irma/directorCall.rpy:45 #-#-# translate crowdin directorCall_a986833a:
 msgid "[_directris_] Но, к сожалению, в этом году нам не хватило мест для всех из-за того, что из других школ к нам перевелось немного больше учеников чем мы ожидали."
-msgstr ""
+msgstr "[_directris_] Mais malheureusement, cette année, nous n'avons pas eu assez de places pour tout le monde, car nous avons eu un peu plus d'étudiants transférés d'autres écoles que prévu."
 
 # game/scripts/quests/irma/directorCall.rpy:46 #-#-# translate crowdin directorCall_a99c730a:
 msgid "[_directris_] Я знаю, что вы владеете книжным магазином и возможно вы могли бы позволить паре учеников помочь вам по работе.. Всего на один день.."
-msgstr ""
+msgstr "[_directris_] Je sais que vous possédez une librairie et peut-être pourriez-vous laisser un couple d'apprentis vous aider dans votre travail... Juste pour un jour..."
 
 # game/scripts/quests/irma/directorCall.rpy:47 #-#-# translate crowdin directorCall_6c402d3c:
 msgid "[_cedrick_] Прежде чем я соглашусь.. Можно поинтересоваться, что это за ученики? "
-msgstr ""
+msgstr "[_cedrick_] Avant de donner mon accord... Puis-je vous demander quel genre d'élèves ce sont ? "
 
 # game/scripts/quests/irma/directorCall.rpy:51 #-#-# translate crowdin directorCall_347f766e:
 msgid "[_cedrick_] Я бы не хотел, чтобы кто-то из банды Урии перевернул в моем магазине все с ног на голову..."
-msgstr ""
+msgstr "[_cedrick_] Je ne voudrais pas qu'un membre de la bande d'Uriah mette mon magasin sens dessus dessous..."
 
 # game/scripts/quests/irma/directorCall.rpy:52 #-#-# translate crowdin directorCall_89b968e9:
 msgid "[_directris_] По поводу Урии и его банды можете не беспокоиться... Для них мы нашли место в местном зоопарке..."
-msgstr ""
+msgstr "[_directris_] Tu n'as pas à t'inquiéter pour Uriah et sa bande... Nous leur avons trouvé une place dans le zoo local..."
 
 # game/scripts/quests/irma/directorCall.rpy:56 #-#-# translate crowdin directorCall_565fc974:
 msgid "[_directris_] А те двое.. Это Ирма Лэир и Мартин Таббс.. Спокойные и порядочные ребята.. Они не должны доставить вам много проблем.. Надеюсь.."
-msgstr ""
+msgstr "[_directris_] Et ces deux-là... C'est Irma Leir et Martin Tubbs... Des gars calmes et décents... Ils ne devraient pas vous causer beaucoup de problèmes... J'espère..."
 
 # game/scripts/quests/irma/directorCall.rpy:60 #-#-# translate crowdin directorCall_c77fc162:
 msgid "[_cedrick_] В таком случае я не вижу причин отказаться от небольшой помощи."
-msgstr ""
+msgstr "[_cedrick_] Dans ce cas, je ne vois aucune raison de refuser un peu d'aide."
 
 # game/scripts/quests/irma/directorCall.rpy:61 #-#-# translate crowdin directorCall_4034bb79:
 msgid "[_cedrick_] Когда вы их отправите ко мне?"
-msgstr ""
+msgstr "[_cedrick_] Quand me les enverrez-vous ?"
 
 # game/scripts/quests/irma/directorCall.rpy:62 #-#-# translate crowdin directorCall_5716298d:
 msgid "[_directris_] Очень скоро, Рик.. Благодарю вас за то, что вы согласились, профессор Хоффман! Я не ошиблась в вас, когда дала вам эту работу!"
-msgstr ""
+msgstr "[_directris_] Très bientôt, Rick. Merci d'avoir accepté le poste, professeur Hoffman ! Je ne me suis pas trompé sur vous quand je vous ai donné ce poste !"
 
 # game/scripts/quests/irma/directorCall.rpy:63 #-#-# translate crowdin directorCall_7dac073e:
 msgid "[_cedrick_] Благодарю. Тогда, если мы все решили, я должен идти. У меня есть дела."
-msgstr ""
+msgstr "[_cedrick_] Merci. Alors, si tout est prêt, je dois y aller. J'ai des choses à faire."
 
 # game/scripts/quests/irma/directorCall.rpy:64 #-#-# translate crowdin directorCall_ba070317:
 msgid "[_directris_] Конечно!"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-01-02 16:21\n"
+"PO-Revision-Date: 2023-02-17 07:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:6 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_010d3f43:
 msgid "[_vanessa_] Ох, смотрю дела у тебя стали идти куда лучше, жеребец. Расцвел на глазах, стоило тебе трахнуть пару девиц в моем борделе"
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:80 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:85 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_5b9a22ca:
 msgid "[_vanessa_] О да.. Черт возьми, наконец-то.. Да, трахни меня, мой Лорд"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:105 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:107 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_b5189939:
 msgid "[_vanessa_] ..Вот так бы всегда.. Это были 200 золотых, которые я была бы готова заплатить сама"
@@ -170,7 +170,7 @@ msgstr "[_cedrick_] Obligatoire.."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:138 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:144 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_e53700f0:
 msgid "[_cedrick_] Ну что, Ванесса сказала, что ты делала большие успехи. Похоже, ты стала самой популярной в этом борделе"
@@ -190,11 +190,11 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:157 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_448708d9:
 msgid "[_alchemy_] ..."
-msgstr ""
+msgstr "[_alchemy_] ..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:159 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_3:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:165 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_c544b561:
 msgid "[_cedrick_] Ну что, эссенция готова?"
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:248 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_07bdde05:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:249 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_93391e44:
 msgid "[_cedrick_] Мда, нелегко тебе пришлось.."
@@ -318,7 +318,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:273 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_f89f7db9:
 msgid "[_cedrick_] ....."
-msgstr ""
+msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:274 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_799dc282:
 msgid "[_cedrick_] Фобос не любит, когда его заставляют ждать. Я пойду"
@@ -338,7 +338,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:291 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_4:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:297 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_605e1dd9:
 msgid "[_phobos_] Я смотрю вы не особо торопились"
@@ -386,7 +386,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:335 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_448708d9_1:
 msgid "[_alchemy_] ..."
-msgstr ""
+msgstr "[_alchemy_] ..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:336 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_3c64ae4b:
 msgid "[_cedrick_] Вспомни, зачем ты здесь, Алхими. Без тебя брат никогда не сможет вернуться домой"
@@ -398,11 +398,11 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:344 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_5:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:350 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_6:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:354 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_5c01a173:
 msgid "[_alchemy_] Ч-Что со мной!.. Я.. Я не могу себя контролировать!"
@@ -414,7 +414,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:363 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:366 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_d739f872:
 msgid "[_phobos_] Ох, Алхими, прямо в моем тронном зале, как не стыдно"
@@ -654,7 +654,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:514 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_f88685ee:
 msgid "[_cedrick_] Я кончаю!"
-msgstr ""
+msgstr "[_cedrick_] J'arrive !"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:516 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_5ac02be3:
 msgid "[_miranda_] Аааааах"
@@ -674,7 +674,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:522 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_0fd4d656:
 msgid "......"
-msgstr ""
+msgstr "......"
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:523 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_41d56f47:
 msgid "[_cedrick_] Я использую ее на одной из стражниц"
@@ -682,7 +682,7 @@ msgstr ""
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:524 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_a20cefa7_8:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/preparingAlchemyForPrincePhobos/pick_up_the_alchemy_from_the_brothel.rpy:528 #-#-# translate crowdin pick_up_the_alchemy_from_the_brothel_c86b4a42:
 msgid "[_centered_] {size=37}Тем временем в полицейском участке{/size} [withDissolve1]"

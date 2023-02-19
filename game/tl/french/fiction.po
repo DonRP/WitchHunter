@@ -10,193 +10,193 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Женщины"
-msgstr ""
+msgstr "Femmes"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Чарльз Буковски"
-msgstr ""
+msgstr "Charles Bukowski"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Грязный реализм"
-msgstr ""
+msgstr "Réalisme sale"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Фактотум"
-msgstr ""
+msgstr "Factotum"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Ведьмак Кровь Эльфов"
-msgstr ""
+msgstr "The Witcher Sang d'elfe"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Анджей Сапковский"
-msgstr ""
+msgstr "Andrzej Sapkowski"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Фентези"
-msgstr ""
+msgstr "Fantaisie"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Хоббит"
-msgstr ""
+msgstr "Le Hobbit"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Джон Толкиен"
-msgstr ""
+msgstr "John Tolkien"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Гарри Поттер и философский камень"
-msgstr ""
+msgstr "Harry Potter et la pierre philosophale"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Джоан Роулинг"
-msgstr ""
+msgstr "Joan Rowling"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Шерлок Холмс Этюд в багровых тонах"
-msgstr ""
+msgstr "Sherlock Holmes : une étude en cramoisi"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Артур Конан Дойл"
-msgstr ""
+msgstr "Arthur Conan Doyle"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Детектив"
-msgstr ""
+msgstr "Détective"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Десять негритят"
-msgstr ""
+msgstr "Dix enfants nègres"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Агата Крист"
-msgstr ""
+msgstr "Agatha Crist"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Остров сокровищ"
-msgstr ""
+msgstr "L'île au trésor"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Роберт Льюис Стивенсон"
-msgstr ""
+msgstr "Robert Lewis Stephenson"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Пираты"
-msgstr ""
+msgstr "Pirates"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Гордость и предубеждение"
-msgstr ""
+msgstr "Orgueil et Préjugés"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Джейн Остин"
-msgstr ""
+msgstr "Jane Austen"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Любовный роман"
-msgstr ""
+msgstr "Une histoire d'amour"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Милый друг"
-msgstr ""
+msgstr "Un ami charmant"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Ги де Мопассан"
-msgstr ""
+msgstr "Guy de Maupassant"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Оно"
-msgstr ""
+msgstr "Il"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Стивен Кинг"
-msgstr ""
+msgstr "Stephen King"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Ужасы"
-msgstr ""
+msgstr "Horreurs"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Сияние"
-msgstr ""
+msgstr "Brillant"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Джейн Эйр"
-msgstr ""
+msgstr "Jane Eyre"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Шарлотта Бронте"
-msgstr ""
+msgstr "Charlotte Bronte"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Дракула"
-msgstr ""
+msgstr "Dracula"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Брэм Стокер"
-msgstr ""
+msgstr "Bram Stoker"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Робинзон Крузо"
-msgstr ""
+msgstr "Robinson Crusoé"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Даниель Дефо"
-msgstr ""
+msgstr "Daniel Defoe"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Приключения"
-msgstr ""
+msgstr "Aventures"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Двадцать тысяч лье под водой"
-msgstr ""
+msgstr "Vingt mille lieues sous la mer"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Жюль Верн"
-msgstr ""
+msgstr "Jules Verne"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Научная фантастика"
-msgstr ""
+msgstr "Science-fiction"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Дюна"
-msgstr ""
+msgstr "Dune"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Фрэнк Герберт"
-msgstr ""
+msgstr "Frank Herbert"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Автостопом по Галактике"
-msgstr ""
+msgstr "L'auto-stop à travers la galaxie"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Дуглас Адамс"
-msgstr ""
+msgstr "Douglas Adams"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Красная Шапочка"
-msgstr ""
+msgstr "Le petit chaperon rouge"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Братья Гримм"
-msgstr ""
+msgstr "Les frères Grimm"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Детская литература"
-msgstr ""
+msgstr "Littérature pour enfants"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Русалочка"
-msgstr ""
+msgstr "La petite sirène"
 
 # game/scripts/sell_books_game/books/fiction.rpy:2
 msgid "Ханс Кристиан Андерсен"
-msgstr ""
+msgstr "Hans Christian Andersen"
 

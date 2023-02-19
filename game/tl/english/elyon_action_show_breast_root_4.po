@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-12-22 22:24\n"
+"PO-Revision-Date: 2023-02-17 04:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_4.rpy:5 #-#-# translate crowdin elyon_action_show_breast_root_4_71813479:
 msgid "[_cedrick_] Элион, я хочу видеть твою голую грудь. Покажи ее мне"
@@ -106,7 +106,7 @@ msgstr ""
 
 # game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_4.rpy:70 #-#-# translate crowdin elyon_action_touch_chest_3_89c59728:
 msgid "[_elion_] ..."
-msgstr ""
+msgstr "[_elion_] ..."
 
 # game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_4.rpy:72 #-#-# translate crowdin elyon_action_touch_chest_3_70923e28:
 msgid "[_cedrick_] Они такие приятные на ощупь"

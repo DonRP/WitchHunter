@@ -10,53 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:35\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:4
 msgid "Хей, Сьюзан, я сегодня загляну к вам, Вилл нужно помочь с подготовкой к экзаменам"
-msgstr ""
+msgstr "Hé, Susan, je passe aujourd'hui, Will a besoin d'aide pour réviser ses examens."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:9
 msgid "Ох, Рик, как мило с твоей стороны, ты такой заботливый"
-msgstr ""
+msgstr "Oh, Rick, comme c'est gentil de ta part, tu es si prévenant."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:14
 msgid "Но, я надеюсь, что ты и ко мне заглянешь на огонёк.. Знаешь, я последнее время много думала о тебе"
-msgstr ""
+msgstr "Mais j'espère que tu passeras me voir aussi. Tu sais, j'ai beaucoup pensé à toi ces derniers temps."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:20
 msgid "Хммм..."
-msgstr ""
+msgstr "Hmmm..."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:22
 msgid "Хммм, и что же пришло тебе в голову?"
-msgstr ""
+msgstr "Hmmm, qu'est-ce qui vous est venu à l'esprit ?"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:27
 msgid "Подожди минутку"
-msgstr ""
+msgstr "Attendez une minute."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:39
 msgid "Купила это бельё специально для нашей следующей ночи"
-msgstr ""
+msgstr "J'ai acheté cette lingerie spécialement pour notre prochaine soirée."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:45
 msgid "Думаю, я готова для следующего этапа наших отношений, Рик"
-msgstr ""
+msgstr "Je pense que je suis prête pour la prochaine phase de notre relation, Rick."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:51
 msgid "Приезжай сегодня, устроим ночной просмотр сериалов"
-msgstr ""
+msgstr "Viens ce soir, nous aurons un feuilleton de fin de soirée."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:57
 msgid "Ммм, а Вилл?"
-msgstr ""
+msgstr "Mmm, et Will ?"
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:59
 msgid "Ммм, надеюсь Вилл нас не застукает"
-msgstr ""
+msgstr "Mmm, j'espère que Will ne nous attrape pas."
 
 # game/scripts/quests/willCrystalEssence/crystal_essence_write_message_to_susan.rpy:64
 msgid "Мы будем аккуратны"
-msgstr ""
+msgstr "Nous ferons attention"
 

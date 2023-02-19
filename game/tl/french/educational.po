@@ -10,153 +10,153 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Анатомия человека. Том 1"
-msgstr ""
+msgstr "Anatomie humaine. Volume 1"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Сапин М.Р."
-msgstr ""
+msgstr "Sapin M.R."
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Анатомия человека. Том 2"
-msgstr ""
+msgstr "Anatomie humaine. Volume 2"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Детская неврология"
-msgstr ""
+msgstr "Neurologie pédiatrique"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Бадалян Л.О."
-msgstr ""
+msgstr "Badalyan L.O."
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Основы высшей математики"
-msgstr ""
+msgstr "Fondements des mathématiques supérieures"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Лобоцкая Н.Л."
-msgstr ""
+msgstr "Lobotskaya N.L."
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Введение в математику"
-msgstr ""
+msgstr "Introduction aux mathématiques"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Шиханович Ю.А."
-msgstr ""
+msgstr "Shikhanovich Y.A."
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Математика"
-msgstr ""
+msgstr "Mathématiques"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Наум Виленкин"
-msgstr ""
+msgstr "Naum Vilenkin"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Алгебра"
-msgstr ""
+msgstr "Algèbre"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Аркадий Мерзляк"
-msgstr ""
+msgstr "Arkady Merzlyak"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Геометрия"
-msgstr ""
+msgstr "Géométrie"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Александр Рурукин"
-msgstr ""
+msgstr "Alexander Rurukin"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "История. Учебник"
-msgstr ""
+msgstr "Histoire. Manuel scolaire"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Синова И.В."
-msgstr ""
+msgstr "Sinova I.V."
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Литература. Том 1"
-msgstr ""
+msgstr "La littérature. Volume 1"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Коровин И.В.V."
-msgstr ""
+msgstr "I.V. Korovin"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Литература. Том 2"
-msgstr ""
+msgstr "La littérature. Volume 2"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Английский язык. Том 1"
-msgstr ""
+msgstr "Langue anglaise. Volume 1"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Микхеева А."
-msgstr ""
+msgstr "Mikkheeva A."
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Английский язык. Том 2"
-msgstr ""
+msgstr "Langue anglaise. Volume 2"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "География. Эволюция планет"
-msgstr ""
+msgstr "Géographie. Évolution des planètes"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Девид Флинт"
-msgstr ""
+msgstr "David Flint"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "География Сейчас"
-msgstr ""
+msgstr "Géographie maintenant"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Джон Барвик"
-msgstr ""
+msgstr "John Barwick"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Логика программирования"
-msgstr ""
+msgstr "Logique de programmation"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Кевин Брукхаузер"
-msgstr ""
+msgstr "Kevin Bruckhauser"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Основа композиции"
-msgstr ""
+msgstr "La base de la composition"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Францис Холанд"
-msgstr ""
+msgstr "François Hollande"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Трудности перевода"
-msgstr ""
+msgstr "Difficultés de traduction"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Марк Фолей"
-msgstr ""
+msgstr "Mark Foley"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Основы тестирования ПО"
-msgstr ""
+msgstr "Les bases des tests de logiciels"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Дональд Браун"
-msgstr ""
+msgstr "Donald Brown"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Многообразие любимых видов"
-msgstr ""
+msgstr "Une variété d'espèces favorites"
 
 # game/scripts/sell_books_game/books/educational.rpy:2
 msgid "Джон Смит"
-msgstr ""
+msgstr "John Smith"
 

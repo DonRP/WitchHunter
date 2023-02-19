@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:20\n"
+"PO-Revision-Date: 2023-02-17 06:48\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/bookshop/bookshop.rpy:11
 msgid "{size=37}Спустя некоторое время в книжном магазине{/size}"
-msgstr ""
+msgstr "{size=37}Après un moment dans une librairie{/size}"
 
 # game/scripts/bookshop/bookshop.rpy:43
 msgid "Прогуляться"
-msgstr ""
+msgstr "Faites une promenade"
 
 # game/scripts/bookshop/bookshop.rpy:43
 msgid "Работать"
-msgstr ""
+msgstr "Travail"
 
 # game/scripts/bookshop/bookshop.rpy:43
 msgid "Телепортироваться на меридиан"
-msgstr ""
+msgstr "Téléportation au méridien"
 
 # game/scripts/bookshop/bookshop.rpy:43
 msgid "Посмотреть порножурнал"
-msgstr ""
+msgstr "Regarder un magazine porno"
 
 # game/scripts/bookshop/bookshop.rpy:69
 msgid "Изучить историю"
-msgstr ""
+msgstr "Étudier l'histoire"
 
 # game/scripts/bookshop/bookshop.rpy:81
 msgid "Подойти к Элион"
-msgstr ""
+msgstr "Approche Elion"
 

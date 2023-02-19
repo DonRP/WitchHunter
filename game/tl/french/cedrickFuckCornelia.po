@@ -10,107 +10,107 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-01-02 17:26\n"
+"PO-Revision-Date: 2023-02-17 07:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:8 #-#-# translate crowdin cedrickFuckCornelia_6c4d8c0d:
 msgid "[_cedrick_] Корнелия! Подойди ко мне, есть разговор."
-msgstr ""
+msgstr "[_cedrick_] Cornelia ! Viens par ici, il faut qu'on parle."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:12 #-#-# translate crowdin cedrickFuckCornelia_549273e4:
 msgid "[_cornelia_] Что тебе от меня нужно!?"
-msgstr ""
+msgstr "[_cornelia_] Qu'est-ce que vous voulez de moi ?"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:16 #-#-# translate crowdin cedrickFuckCornelia_55a8b4f6:
 msgid "[_cedrick_] Пойдем в более уединенное место..."
-msgstr ""
+msgstr "[_cedrick_] Allons dans un endroit plus privé..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:20 #-#-# translate crowdin cedrickFuckCornelia_a62f7835:
 msgid "[_cornelia_] Я с тобой никуда не пойду! Подонок..."
-msgstr ""
+msgstr "[_cornelia_] Je ne vais nulle part avec toi ! Salaud..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:24 #-#-# translate crowdin cedrickFuckCornelia_d16647f9:
 msgid "[_cedrick_] Ты забыла про свою клятву? "
-msgstr ""
+msgstr "[_cedrick_] Avez-vous oublié vos vœux ? "
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:28 #-#-# translate crowdin cedrickFuckCornelia_13c717d6:
 msgid "[_cornelia_] ..."
-msgstr ""
+msgstr "[_cornelia_] ..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:29 #-#-# translate crowdin cedrickFuckCornelia_f957166b:
 msgid "[_cedrick_] Так я и думал... У меня есть ключи от кладовой, пойдем..."
-msgstr ""
+msgstr "[_cedrick_] C'est ce que je pensais... J'ai les clés de la salle de stockage, viens..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:30 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:32 #-#-# translate crowdin cedrickFuckCornelia_e63d7c21:
 msgid "[_centered_] {size=37}Спустя несколько минут в кладовой{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}Quelques minutes plus tard dans le garde-manger{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:35 #-#-# translate crowdin cedrickFuckCornelia_d2a9ab06:
 msgid "[_cornelia_] Ну и что мы здесь делаем? Зачем мы сюда пришли!?"
-msgstr ""
+msgstr "[_cornelia_] Alors, qu'est-ce qu'on fait ici ? Pourquoi sommes-nous venus ici ?"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:36 #-#-# translate crowdin cedrickFuckCornelia_c7d2717e:
 msgid "[_cedrick_] Ну... Рассказывай... Как твой парень отреагировал на то, что ты сделала мне минет?"
-msgstr ""
+msgstr "[_cedrick_] Eh bien... Dis-moi... Comment a réagi ton petit ami quand tu m'as taillé une pipe ?"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:37 #-#-# translate crowdin cedrickFuckCornelia_13c717d6_1:
 msgid "[_cornelia_] ..."
-msgstr ""
+msgstr "[_cornelia_] ..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:38 #-#-# translate crowdin cedrickFuckCornelia_312f7ad2:
 msgid "[_cedrick_] Ой... Ты не рассказала ему?Так значит обманываешь своего парня"
-msgstr ""
+msgstr "[_cedrick_] Oh... (gloussements) Tu ne lui as pas dit ? Donc tu trompes ton petit ami."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:39 #-#-# translate crowdin cedrickFuckCornelia_b65aeda5:
 msgid "[_cornelia_] Конечно я не рассказала ему, идиот..."
-msgstr ""
+msgstr "[_cornelia_] Bien sûr que je ne lui ai pas dit, espèce d'idiot..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:40 #-#-# translate crowdin cedrickFuckCornelia_01007c97:
 msgid "[_cedrick_] Знаешь... То, что было у нас в прошлый раз... Мне понравилось"
-msgstr ""
+msgstr "[_cedrick_] Tu sais... Ce que nous avons eu la dernière fois... j'ai adoré."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:41 #-#-# translate crowdin cedrickFuckCornelia_b406b57e:
 msgid "[_cedrick_] Может быть... мы пойдем немножко дальше в этом плане?"
-msgstr ""
+msgstr "[_cedrick_] Peut-être... qu'on pourrait aller un peu plus loin dans ce plan ?"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:42 #-#-# translate crowdin cedrickFuckCornelia_eeda22bf:
 msgid "[_cornelia_] Дальше!?"
-msgstr ""
+msgstr "[_cornelia_] Suivant !"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:43 #-#-# translate crowdin cedrickFuckCornelia_a6904326:
 msgid "[_cedrick_]  Я бы хотел заняться с тобой сексом, Корнелия..."
-msgstr ""
+msgstr "[_cedrick_]  J'aimerais faire l'amour avec toi, Cornelia..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:44 #-#-# translate crowdin cedrickFuckCornelia_8c39cf35:
 msgid "[_cornelia_] С тобой?? Да ни за что!"
-msgstr ""
+msgstr "[_cornelia_] Avec toi ? Pas question !"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:45 #-#-# translate crowdin cedrickFuckCornelia_3aed5c9d:
 msgid "[_cedrick_]  Эх... Жаль... Очень жаль... Тогда мне придется попросить об этом твою сестренку..."
-msgstr ""
+msgstr "[_cedrick_]  Eh... C'est dommage... Dommage... Alors je vais devoir le demander à ta petite soeur..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:46 #-#-# translate crowdin cedrickFuckCornelia_2b8490e9:
 msgid "[_cornelia_] Нет!"
-msgstr ""
+msgstr "[_cornelia_] Non !"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:47 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:48 #-#-# translate crowdin cedrickFuckCornelia_e9c8e37e:
 msgid "[_cedrick_] Тебе решать, дорогая..."
-msgstr ""
+msgstr "[_cedrick_] C'est à toi, chérie..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:49 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:50 #-#-# translate crowdin cedrickFuckCornelia_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:51 #-#-# translate crowdin cedrickFuckCornelia_c9b88d93:
 msgid "[_cornelia_] Ладно... "
@@ -118,101 +118,101 @@ msgstr "[_cornelia_] Ok... "
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:52 #-#-# translate crowdin cedrickFuckCornelia_14dd5d03:
 msgid "[_cornelia_] Только давай быстрее! У меня скоро начинаются уроки..."
-msgstr ""
+msgstr "[_cornelia_] Faites vite ! Mes cours sont sur le point de commencer..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:53 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7_3:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:57 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7_4:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:58 #-#-# translate crowdin cedrickFuckCornelia_07bdde05:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:59 #-#-# translate crowdin cedrickFuckCornelia_7b71eb8a:
 msgid "[_cedrick_] Ох... Трахаешься со своим учителем в школьной подсобке..."
-msgstr ""
+msgstr "[_cedrick_] Oh... Baiser votre professeur à l'arrière de l'école..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:60 #-#-# translate crowdin cedrickFuckCornelia_49a93a9d:
 msgid "[_cedrick_] Такая скромная девушка, а оказалось той еще шлюшкой..."
-msgstr ""
+msgstr "[_cedrick_] Une fille si modeste, mais qui s'est avérée être une sacrée salope..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:61 #-#-# translate crowdin cedrickFuckCornelia_8a52d429:
 msgid "[_cornelia_] Ты можешь заткнутся?..."
-msgstr ""
+msgstr "[_cornelia_] Tu veux bien te taire... ?"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:62 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7_5:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:63 #-#-# translate crowdin cedrickFuckCornelia_0fd4d656:
 msgid "......"
-msgstr ""
+msgstr "......"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:64 #-#-# translate crowdin cedrickFuckCornelia_ac5966d4:
 msgid "[_cornelia_] Ты еще долго? Я же попросила тебя поспешить..."
-msgstr ""
+msgstr "[_cornelia_] Tu vas être long ? Je t'ai dit de te dépêcher..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:65 #-#-# translate crowdin cedrickFuckCornelia_a7d70896:
 msgid "[_cedrick_] Расслабься и получай удовольствие"
-msgstr ""
+msgstr "[_cedrick_] Détendez-vous et amusez-vous"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:66 #-#-# translate crowdin cedrickFuckCornelia_9ae03fee:
 msgid "[_cornelia_] Х-Ах! Удовольствие... Как же..."
-msgstr ""
+msgstr "[_cornelia_] H-Ah ! Le plaisir... Comment..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:67 #-#-# translate crowdin cedrickFuckCornelia_5f9b772e_1:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:68 #-#-# translate crowdin cedrickFuckCornelia_e019eb34:
 msgid "[_cornelia_] Ммм... Ах!"
-msgstr ""
+msgstr "[_cornelia_] Mmm... Ah !"
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:69 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7_6:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:70 #-#-# translate crowdin cedrickFuckCornelia_29bcb210:
 msgid "[_cedrick_] Потише! Ты же не хочешь, чтобы тебя услышали твои одноклассники... Они же сейчас в соседнем кабинете..."
-msgstr ""
+msgstr "[_cedrick_] Baisse la voix ! Tu ne veux pas que tes camarades de classe t'entendent... Ils sont dans la pièce d'à côté..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:71 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7_7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:72 #-#-# translate crowdin cedrickFuckCornelia_5f9b772e_2:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:73 #-#-# translate crowdin cedrickFuckCornelia_f89f7db9:
 msgid "[_cedrick_] ....."
-msgstr ""
+msgstr "[_cedrick_] ....."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:74 #-#-# translate crowdin cedrickFuckCornelia_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:78 #-#-# translate crowdin cedrickFuckCornelia_07bdde05_1:
 msgid "....."
-msgstr ""
+msgstr "....."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:79 #-#-# translate crowdin cedrickFuckCornelia_17212875:
 msgid "[_cedrick_]  О да, так-то лучше..."
-msgstr ""
+msgstr "[_cedrick_]  Oh oui, c'est mieux..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:80 #-#-# translate crowdin cedrickFuckCornelia_a20cefa7_8:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:84 #-#-# translate crowdin cedrickFuckCornelia_c9d88524:
 msgid "[_cornelia_] Я надеюсь, что ты сохранишь это в секрете."
-msgstr ""
+msgstr "[_cornelia_] J'espère que vous garderez le secret."
 
 # game/scripts/quests/growingUpLilian/cedrickFuckCornelia.rpy:85 #-#-# translate crowdin cedrickFuckCornelia_00d2a8e0:
 msgid "[_cedrick_] Посмотрим на твое поведение, а теперь иди на урок."
-msgstr ""
+msgstr "[_cedrick_] Voyons comment tu te comportes, maintenant va en classe."
 

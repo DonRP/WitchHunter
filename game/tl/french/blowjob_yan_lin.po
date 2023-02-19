@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/restaurant/blowjob_yan_lin.rpy:25 #-#-# translate crowdin blowjob_yan_lin_003bddc8:
 msgid "[_Somka108_] Захотел бархатный минет от бабули?"
-msgstr ""
+msgstr "[_Somka108_] Tu veux une pipe de velours de Mamie ?"
 
 # game/scripts/restaurant/blowjob_yan_lin.rpy:26 #-#-# translate crowdin blowjob_yan_lin_9333d22f:
 msgid "[_Somka108_] Вероятно, уже достал член из штанов?.."
-msgstr ""
+msgstr "[_Somka108_] Il a probablement sorti sa bite de son pantalon maintenant... ?"
 
 # game/scripts/restaurant/blowjob_yan_lin.rpy:27 #-#-# translate crowdin blowjob_yan_lin_34c8a14d:
 msgid "[_Somka108_] Больной ублюдок..."
-msgstr ""
+msgstr "[_Somka108_] Espèce de malade..."
 
 # game/scripts/restaurant/blowjob_yan_lin.rpy:28 #-#-# translate crowdin blowjob_yan_lin_7b4f5708:
 msgid "[_Somka108_] И как тебе только это в голову пришло?"
-msgstr ""
+msgstr "[_Somka108_] Comment avez-vous trouvé cette idée ?"
 
 # game/scripts/restaurant/blowjob_yan_lin.rpy:29 #-#-# translate crowdin blowjob_yan_lin_30d2258b:
 msgid "[_Somka108_] Я не собираюсь рисовать это.."
-msgstr ""
+msgstr "[_Somka108_] Je ne vais pas le peindre..."
 

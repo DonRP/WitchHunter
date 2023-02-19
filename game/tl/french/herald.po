@@ -10,55 +10,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-01-02 16:13\n"
+"PO-Revision-Date: 2023-02-17 06:56\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/tavern/labels/herald.rpy:21 #-#-# translate crowdin herald_78013ee1:
 msgid "[_cedrick_] Я принес тебе золото!"
-msgstr ""
+msgstr "[_cedrick_] Je vous ai apporté de l'or !"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:22 #-#-# translate crowdin herald_b538f059:
 msgid "[_herald_] Тогда давай-же сыграем!"
-msgstr ""
+msgstr "[_herald_] Alors, jouons !"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:32 #-#-# translate crowdin herald_d1141bd0:
 msgid "[_herald_] Ты принес золото?"
-msgstr ""
+msgstr "[_herald_] Tu as apporté l'or ?"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:33 #-#-# translate crowdin herald_cbcc2ae8:
 msgid "[_cedrick_] Нет... Еще нет..."
-msgstr ""
+msgstr "[_cedrick_] Non... Pas encore..."
 
 # game/scripts/meridian/tavern/labels/herald.rpy:34 #-#-# translate crowdin herald_6f71cd4c:
 msgid "[_herald_] Тогда не мешай мне запивать свое горе!"
-msgstr ""
+msgstr "[_herald_] Alors ne m'empêchez pas de boire mon chagrin !"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:37 #-#-# translate crowdin herald_1a1d29d6:
 msgid "[_cedrick_] Слушай давай сыграем на твою доску"
-msgstr ""
+msgstr "[_cedrick_] Ecoutez, jouons votre tableau"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:38 #-#-# translate crowdin herald_880c6091:
 msgid "[_herald_] С тебя тогда 200 золотых"
-msgstr ""
+msgstr "[_herald_] Ça fera 200 pièces d'or."
 
 # game/scripts/meridian/tavern/labels/herald.rpy:53 #-#-# translate crowdin herald_91805c1d:
 msgid "[_herald_] Ну тогда в другой раз"
-msgstr ""
+msgstr "[_herald_] Une autre fois, alors."
 
 # §translate crowdin strings: #|#|# # game/scripts/meridian/tavern/labels/herald.rpy:2
 msgid "Играть на золото"
-msgstr ""
+msgstr "Jouer pour l'or"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:2
 msgid "Попросить ингредиент для зелья"
-msgstr ""
+msgstr "Demander un ingrédient pour une potion"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:2
 msgid "Сыграть в покер на ингредиент"
-msgstr ""
+msgstr "Jouer au poker pour un ingrédient"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:2
 msgid "Играть на доску"
-msgstr ""
+msgstr "Jouer sur le tableau"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:2
 msgid "назад"
@@ -66,13 +66,13 @@ msgstr "précédent"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:6
 msgid "Геральд"
-msgstr ""
+msgstr "Le Herald"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:40
 msgid "сыграть за 200 золотых"
-msgstr ""
+msgstr "jouer pour 200 or"
 
 # game/scripts/meridian/tavern/labels/herald.rpy:40
 msgid "Извини пока нету такой суммы"
-msgstr ""
+msgstr "Désolé, je n'ai pas encore ce montant."
 

@@ -10,129 +10,129 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Хранители"
-msgstr ""
+msgstr "Gardiens"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "ДиСи Комикс"
-msgstr ""
+msgstr "DC Comics"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Бэтмен Возвращение темного рыцаря"
-msgstr ""
+msgstr "Le retour de Batman, le chevalier noir"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Бетмен"
-msgstr ""
+msgstr "Batman"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Тетрадь смерти"
-msgstr ""
+msgstr "Cahier de la mort"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Бакуман"
-msgstr ""
+msgstr "Bakuman"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Призрак в доспехах"
-msgstr ""
+msgstr "Un fantôme en armure"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Пастырь"
-msgstr ""
+msgstr "Shepherd"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Вертиго"
-msgstr ""
+msgstr "Vertigo"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Скот пилигрим"
-msgstr ""
+msgstr "Pèlerin du bétail"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Они Пресс"
-msgstr ""
+msgstr "Ils pressent"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Ванпанчмен"
-msgstr ""
+msgstr "Wanpunchman"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "зеленый фонарь"
-msgstr ""
+msgstr "feu vert"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Зеленый фонарь"
-msgstr ""
+msgstr "Green Lantern"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Новые Люди Икс"
-msgstr ""
+msgstr "Les nouveaux X-Men"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Люди Икс"
-msgstr ""
+msgstr "X-Men"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Марвел"
-msgstr ""
+msgstr "Marvel"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Удивительный Человек-паук"
-msgstr ""
+msgstr "The Amazing Spider-Man"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Человек-паук"
-msgstr ""
+msgstr "Spider-Man"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Совершенный Человек-Паук"
-msgstr ""
+msgstr "Perfect Spider-Man"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Сказания"
-msgstr ""
+msgstr "Contes"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Блич"
-msgstr ""
+msgstr "Eau de Javel"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Сорвиголова"
-msgstr ""
+msgstr "Daredevil"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Хеллбой"
-msgstr ""
+msgstr "Hellboy"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Хелбой"
-msgstr ""
+msgstr "Helboy"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Dark Horse"
-msgstr ""
+msgstr "Dark Horse"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Наруто… Саскеее!"
-msgstr ""
+msgstr "Naruto… Sasukee !"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Фантастическая четверка"
-msgstr ""
+msgstr "Les Quatre Fantastiques"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Капитан америка"
-msgstr ""
+msgstr "Captain America"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid " Супермен: Красный Сын"
-msgstr ""
+msgstr " Superman : Red Son"
 
 # game/scripts/sell_books_game/books/comics.rpy:2
 msgid "Супермен"
-msgstr ""
+msgstr "Superman"
 

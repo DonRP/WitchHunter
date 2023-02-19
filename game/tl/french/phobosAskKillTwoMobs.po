@@ -10,53 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:31\n"
+"PO-Revision-Date: 2023-02-17 07:00\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:9 #-#-# translate crowdin phobosAskKillTwoMobs_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:10 #-#-# translate crowdin phobosAskKillTwoMobs_7c2c94f8:
 msgid "[_phobos_] Почему так долго?"
-msgstr ""
+msgstr "[_phobos_] Qu'est-ce qui prend autant de temps ?"
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:11 #-#-# translate crowdin phobosAskKillTwoMobs_b9acd836:
 msgid "[_cedrick_] Простите, мой князь... Но задание, которое вы мне поручили, требует больше времени..."
-msgstr ""
+msgstr "[_cedrick_] Pardonnez-moi, mon prince... Mais la tâche que vous m'avez confiée nécessite plus de temps..."
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:15 #-#-# translate crowdin phobosAskKillTwoMobs_94a137a1:
 msgid "[_phobos_] Довольно оправданий!"
-msgstr ""
+msgstr "[_phobos_] Assez d'excuses !"
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:19 #-#-# translate crowdin phobosAskKillTwoMobs_d18a7f06:
 msgid "[_phobos_] Недавно наши разведчики обнаружили базу повстанцев, именуемым Запретным городом... "
-msgstr ""
+msgstr "[_phobos_] Nos éclaireurs ont récemment découvert une base rebelle appelée la Cité interdite... "
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:20 #-#-# translate crowdin phobosAskKillTwoMobs_74c0bf2c:
 msgid "[_cedrick_] Вы уверены?"
-msgstr ""
+msgstr "[_cedrick_] Vous êtes sûr ?"
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:21 #-#-# translate crowdin phobosAskKillTwoMobs_80b4d4e6:
 msgid "[_phobos_] Командующий Рейтор готовит армию к нападению, но у нас осталось мало солдат и нам бы не помешала помощь Гаргойла и Песчаного демона!"
-msgstr ""
+msgstr "[_phobos_] Le commandant Rator prépare une armée pour attaquer, mais il nous reste peu de soldats et nous aurions besoin de l'aide de Gargoyle et du démon des sables !"
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:22 #-#-# translate crowdin phobosAskKillTwoMobs_7bed0f62:
 msgid "[_phobos_] Они обитают в местном лесу. Твоя задача завербовать их."
-msgstr ""
+msgstr "[_phobos_] Ils vivent dans les bois locaux. Votre travail consiste à les recruter."
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:23 #-#-# translate crowdin phobosAskKillTwoMobs_bbd6957c:
 msgid "[_cedrick_] И как это сделать?"
-msgstr ""
+msgstr "[_cedrick_] Et comment faites-vous cela ?"
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:24 #-#-# translate crowdin phobosAskKillTwoMobs_4f72e292:
 msgid "[_phobos_] Полагаю, что у них не останется выбора кроме как примкнуть ко мне на службу... После того, как ты победишь их в бою."
-msgstr ""
+msgstr "[_phobos_] Je suppose qu'ils n'auront d'autre choix que de rejoindre mon service... Après que vous les ayez battus au combat."
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:25 #-#-# translate crowdin phobosAskKillTwoMobs_ea47d3ad:
 msgid "[_cedrick_] Будет сделано, мой князь"
-msgstr ""
+msgstr "[_cedrick_] Ce sera fait, mon prince."
 
 # game/scripts/quests/phobosAskKillTwoMobs/phobosAskKillTwoMobs.rpy:26 #-#-# translate crowdin phobosAskKillTwoMobs_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 

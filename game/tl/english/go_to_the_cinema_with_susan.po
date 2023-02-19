@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2022-12-22 22:35\n"
+"PO-Revision-Date: 2023-02-17 05:14\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:7 #-#-# translate crowdin go_to_the_cinema_with_susan_a8338db7:
 msgid "[_cedrick_] Привет Сьюзан... Понимаю ты сказала что у нас не чего не получится но..."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:24 #-#-# translate crowdin go_to_the_cinema_with_susan_0b79aaff:
 msgid "[_cedrick_] Прямо сейчас"
-msgstr ""
+msgstr "[_cedrick_] Now"
 
 # game/scripts/quests/will/go_to_the_cinema_with_susan.rpy:30 #-#-# translate crowdin go_to_the_cinema_with_susan_c015b547:
 msgid "[_susan_] Но я не готова, мне нужно переодеться и.."

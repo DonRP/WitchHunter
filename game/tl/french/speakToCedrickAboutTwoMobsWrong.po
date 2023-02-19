@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:32\n"
+"PO-Revision-Date: 2023-02-17 07:01\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobsWrong.rpy:10 #-#-# translate crowdin speakToCedrickAboutTwoMobsWrong_632260c8:
 msgid "[_phobos_] Ты выполнил мое поручение?"
-msgstr ""
+msgstr "[_phobos_] Avez-vous fait ma course ?"
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobsWrong.rpy:11 #-#-# translate crowdin speakToCedrickAboutTwoMobsWrong_f67fd1ba:
 msgid "[_cedrick_] Еще нет..."
-msgstr ""
+msgstr "[_cedrick_] Pas encore..."
 
 # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobsWrong.rpy:15 #-#-# translate crowdin speakToCedrickAboutTwoMobsWrong_5c0f45fd:
 msgid "[_phobos_] Тогда не трать мое время, и займись этим"
-msgstr ""
+msgstr "[_phobos_] Alors ne me faites pas perdre mon temps et faites-le."
 

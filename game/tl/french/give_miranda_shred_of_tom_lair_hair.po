@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-02-17 07:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:4 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_e23f3887:
 msgid "[_miranda_] Ты достал образец волос твоего полицейского?"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:5 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_e6f6bc07:
 msgid "[_cedrick_] Еще нет"
-msgstr ""
+msgstr "[_cedrick_] Pas encore."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:7 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_50cb3a93:
 msgid "[_miranda_] Не забыл взять одежду подходящего размера? У тебя будет не так много времени после перевоплощения"
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:64 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_6a781b9b:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:65 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_44834f38:
 msgid "[_miranda_] ох.."
@@ -102,7 +102,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:70 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_6a781b9b_1:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:72 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_7924ec00:
 msgid "[_cedrick_] Что ж, раз уж мы закончили…"
@@ -114,7 +114,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:78 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:88 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_52e3310e:
 msgid "[_cedrick_] Ну и запах!"
@@ -134,11 +134,11 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:110 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_ce617998:
 msgid "…"
-msgstr ""
+msgstr "…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:114 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_ce617998_1:
 msgid "…"
-msgstr ""
+msgstr "…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:115 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_d6e1285f:
 msgid "[_cedrick_]  На вкус как перепревшая капуста…"
@@ -282,7 +282,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:208 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_6a781b9b_2:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:210 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_872b6187:
 msgid "[_cedrick_] Открыто?"
@@ -310,7 +310,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:223 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_6a781b9b_3:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:224 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_7dfe1b29:
 msgid "[_cedrick_] (Оуу… Это же.. Голая… Ирма! )"
@@ -334,11 +334,11 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:236 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_ce617998_2:
 msgid "…"
-msgstr ""
+msgstr "…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:237 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_f31580f0:
 msgid "….."
-msgstr ""
+msgstr "….."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:238 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_7f6983a0:
 msgid "[_anna_] Я так волновалась…"
@@ -382,7 +382,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:255 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_e5cb8d7d:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}Quelques minutes plus tard{/size} [withDissolve1]"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:258 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_37b3eda2:
 msgid "[_cedrick_] о да"
@@ -394,11 +394,11 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:261 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_ce617998_3:
 msgid "…"
-msgstr ""
+msgstr "…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:262 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_f31580f0_1:
 msgid "….."
-msgstr ""
+msgstr "….."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:264 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_851df5dd_1:
 msgid "[_anna_] ах…"
@@ -418,7 +418,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:268 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_6a781b9b_4:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:270 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_67981248:
 msgid "[_anna_] мне это даже нравится…"
@@ -426,7 +426,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:271 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_6a781b9b_5:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:272 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_c988cbe7:
 msgid "[_cedrick_] о да…"
@@ -434,7 +434,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:273 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_ce617998_4:
 msgid "…"
-msgstr ""
+msgstr "…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:274 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_1e254b26:
 msgid "[_cedrick_] хорошо…"
@@ -442,11 +442,11 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:275 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_6a781b9b_6:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:276 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_f31580f0_2:
 msgid "….."
-msgstr ""
+msgstr "….."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:277 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_0d02e3b6:
 msgid "[_cedrick_] повернись, я хочу кончить тебе на лицо…"
@@ -470,7 +470,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:287 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_63ff9ad0:
 msgid "*звук открывающейся двери*"
-msgstr ""
+msgstr "* le bruit de la porte qui s'ouvre *"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:291 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_1df2539a:
 msgid "[_irma_] Паап?!!"
@@ -490,11 +490,11 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:298 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_ce617998_5:
 msgid "…"
-msgstr ""
+msgstr "…"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:300 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_e5cb8d7d_1:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}Quelques minutes plus tard{/size} [withDissolve1]"
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:306 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_4e1e8928:
 msgid "[_anna_] Солнышко… По поводу того, что ты видела сегодня… иногда, когда мужчина и женщина любят дру…"
@@ -526,7 +526,7 @@ msgstr ""
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:322 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_6a781b9b_7:
 msgid "…."
-msgstr ""
+msgstr "…."
 
 # game/scripts/quests/questNotGuilty/give_miranda_shred_of_tom_lair_hair.rpy:323 #-#-# translate crowdin give_miranda_shred_of_tom_lair_hair_scenes_7ec48baf:
 msgid "[_cedrick_] фух, я чуть не попался!"

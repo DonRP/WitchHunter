@@ -10,57 +10,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:25\n"
+"PO-Revision-Date: 2023-02-17 06:55\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/map/map.rpy:10
 msgid "Дом Вилл"
-msgstr ""
+msgstr "Villa House"
 
 # game/scripts/map/map.rpy:10
 msgid "Дом Элион"
-msgstr ""
+msgstr "Maison Elion"
 
 # game/scripts/map/map.rpy:10
 msgid "Книжный магазин"
-msgstr ""
+msgstr "Librairie"
 
 # game/scripts/map/map.rpy:10
 msgid "Дом корнелии"
-msgstr ""
+msgstr "Maison Cornelia"
 
 # game/scripts/map/map.rpy:10
 msgid "Школа"
-msgstr ""
+msgstr "École"
 
 # game/scripts/map/map.rpy:10
 msgid "Дом Ирмы"
-msgstr ""
+msgstr "La maison d'Irma"
 
 # game/scripts/map/map.rpy:10
 msgid "Вокзал"
-msgstr ""
+msgstr "Station"
 
 # game/scripts/map/map.rpy:10
 msgid "Магазин"
-msgstr ""
+msgstr "Boutique"
 
 # game/scripts/map/map.rpy:10
 msgid "Ресторан Серебряный дракон"
-msgstr ""
+msgstr "Restaurant Silver Dragon"
 
 # game/scripts/map/map.rpy:10
 msgid "Пещера бланка"
-msgstr ""
+msgstr "Grotte Blanca"
 
 # game/scripts/map/map.rpy:10
 msgid "Полицейский участок"
-msgstr ""
+msgstr "Commissariat de police"
 
 # game/scripts/map/map.rpy:10
 msgid "Спортивный зал"
-msgstr ""
+msgstr "Salle de sport"
 
 # game/scripts/map/map.rpy:10
 msgid "Парк"
-msgstr ""
+msgstr "Parc"
 

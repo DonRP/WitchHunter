@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-02-17 07:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:6 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_77013e39:
 msgid "[_johnlin_] Рик! Привет! Снова пришел поработать?"
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:30 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:31 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_e4f9c089:
 msgid "[_cedrick_] Ну что ж... Приступим..."
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:66 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:68 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_fb46895a:
 msgid "[_haylin_] Ау..!"
@@ -122,7 +122,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:79 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:80 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_774f7b6d:
 msgid "[_cedrick_] О-ох... Кажется... Я сейчас кончу..."
@@ -230,7 +230,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:169 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_be4dcd43:
 msgid "[_cedrick_] ...Что?"
-msgstr ""
+msgstr "[_cedrick_] ...Quoi ?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:173 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_48dae285:
 msgid "[_johnlin_] Я уже взяла номера у всех новых подруг Хай Лин, чтобы всегда знать где она, если вдруг что-то случится. Раз вы так много времени проводите с моей дочерью, я должна взять и ваш номер"
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:191 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:197 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_7c203972:
 msgid "[_johnlin_] Это... Это же мой старый телефон.. О-откуда он у вас!?"
@@ -466,7 +466,7 @@ msgstr ""
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:321 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_0fd4d656:
 msgid "......"
-msgstr ""
+msgstr "......"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:322 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_29985b33:
 msgid "[_centered_] {size=36}В ВАШЕМ ТЕЛЕФОНЕ ПОЯВЛЯЕТСЯ НОМЕР ДЖОАН ЛИН. ЗАБРАВ ТЕЛЕФОН, РИК УХОДИТ{/size}"

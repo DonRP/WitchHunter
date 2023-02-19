@@ -11,25 +11,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:36\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/screens/shelves_tooltip.rpy:28
 msgid "Жанр: [genre]"
-msgstr ""
+msgstr "Genre : [genre]"
 
 # game/scripts/sell_books_game/screens/shelves_tooltip.rpy:32
 msgid "Автор: [author]"
-msgstr ""
+msgstr "Auteur : [author]"
 
 # game/scripts/sell_books_game/screens/shelves_tooltip.rpy:37
 msgid "Издательство: [publishing_house]"
-msgstr ""
+msgstr "Editeur : [publishing_house]"
 
 # game/scripts/sell_books_game/screens/shelves_tooltip.rpy:41
 msgid "О ком: [about]"
-msgstr ""
+msgstr "A propos de : [about]"
 
 # game/scripts/sell_books_game/screens/shelves_tooltip.rpy:45
 msgid "Вид: [comics_type]"
-msgstr ""
+msgstr "Vue : [comics_type]"
 

@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-02-17 06:50\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Большое Зелье Здоровья"
-msgstr ""
+msgstr "Grande potion de santé"
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Зелье восстанавливает 100 единиц здоровья"
-msgstr ""
+msgstr "La potion restaure 100 unités de santé"
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Малое Зелье Здоровья"
-msgstr ""
+msgstr "Petite potion de santé"
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Зелье восстанавливает 50 единиц здоровья"
-msgstr ""
+msgstr "La potion restaure 50 unités de santé"
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Зелье с ядом"
-msgstr ""
+msgstr "Potion empoisonnée"
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Отравляет врага на 5 ходов, каждый ход враг получает 15 урона"
-msgstr ""
+msgstr "Empoisonne l'ennemi pendant 5 tours, à chaque tour l'ennemi subit 15 dégâts."
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Сонное зелье"
-msgstr ""
+msgstr "Une potion pour dormir"
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Заставляет уснуть врага на 3 хода"
-msgstr ""
+msgstr "Fait dormir l'ennemi pendant 3 tours"
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Паутинное зелье"
-msgstr ""
+msgstr "Potion d'araignée"
 
 # game/scripts/core/inventory/items/fight_items.rpy:2
 msgid "Замедляет врага на 4 хода"
-msgstr ""
+msgstr "Ralentit l'ennemi pendant 4 tours"
 

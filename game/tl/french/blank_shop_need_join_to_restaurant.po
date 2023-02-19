@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:20\n"
+"PO-Revision-Date: 2023-02-17 06:48\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:4 #-#-# translate crowdin blank_shop_need_join_to_restaurant_29dd188d:
 msgid "[_cedrick_] Опять никого!"
-msgstr ""
+msgstr "[_cedrick_] Personne encore !"
 
 # game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:5 #-#-# translate crowdin blank_shop_need_join_to_restaurant_85a869df:
 msgid "[_cedrick_] Но судя по вещам и мусору оставленным здесь, тут определенно кто-то живет..."
-msgstr ""
+msgstr "[_cedrick_] Mais à en juger par les objets et les déchets laissés ici, quelqu'un vit certainement ici..."
 
 # game/scripts/blank_shop/blank_shop_need_join_to_restaurant.rpy:6 #-#-# translate crowdin blank_shop_need_join_to_restaurant_0729214a:
 msgid "[_cedrick_] Нужно будет заглянуть в другой раз"
-msgstr ""
+msgstr "[_cedrick_] Nous devrons regarder une autre fois"
 

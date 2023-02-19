@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-02-17 07:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/singles/prologue.rpy:10 #-#-# translate crowdin prologue_659381e6:
 msgid "[_centered_] {size=37}Меридиан\n"
@@ -91,11 +91,11 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:61 #-#-# translate crowdin prologue_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/singles/prologue.rpy:62 #-#-# translate crowdin prologue_cf382a4a:
 msgid "[_phobos_] И еще..."
-msgstr ""
+msgstr "[_phobos_] Et aussi..."
 
 # game/scripts/quests/singles/prologue.rpy:63 #-#-# translate crowdin prologue_58528fd0:
 msgid "[_phobos_] Ты же не думал, что твой провал останется безнаказанным?"
@@ -127,7 +127,7 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:80 #-#-# translate crowdin prologue_49316299:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/singles/prologue.rpy:84 #-#-# translate crowdin prologue_01ee9bb3:
 msgid "[_phobos_] Я также забираю часть твоих магических сил, они помогут продержаться мне еще какое-то время..."
@@ -175,7 +175,7 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:139 #-#-# translate crowdin prologue_76009a7a:
 msgid "[_cedrick_] Как скажете, мой князь..."
-msgstr ""
+msgstr "[_cedrick_] Comme vous le dites, mon prince..."
 
 # game/scripts/quests/singles/prologue.rpy:146 #-#-# translate crowdin prologue_81340d7b:
 msgid "[_phobos_] И последнее, Седрик. Стражницы завесы.. Они уже не раз рушили наши планы. В этот раз они не должны нам помешать"
@@ -199,7 +199,7 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:171 #-#-# translate crowdin prologue_49316299_1:
 msgid "[_cedrick_] ..."
-msgstr ""
+msgstr "[_cedrick_] ..."
 
 # game/scripts/quests/singles/prologue.rpy:172 #-#-# translate crowdin prologue_5868e69d:
 msgid "[_cedrick_] Библиотека... Или... Лавка с книгами... Кладезь людских знаний..."
@@ -251,7 +251,7 @@ msgstr ""
 
 # game/scripts/quests/singles/prologue.rpy:188 #-#-# translate crowdin prologue_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/singles/prologue.rpy:191 #-#-# translate crowdin prologue_fc535157:
 msgid "[_centered_] {size=37}Спустя несколько дней…{/size}"

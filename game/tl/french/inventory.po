@@ -10,98 +10,99 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-02-17 06:50\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/inventory.rpy:2
 msgid "Золотых"
-msgstr ""
+msgstr "Golden"
 
 # game/scripts/core/inventory/inventory.rpy:3
 msgid "Вы уверены что хотите купить "
-msgstr ""
+msgstr "Vous êtes sûr de vouloir acheter "
 
 # game/scripts/core/inventory/inventory.rpy:31
 msgid "Золото"
-msgstr ""
+msgstr "Or"
 
 # game/scripts/core/inventory/inventory.rpy:127
 msgid "Получен новый предмет:"
-msgstr ""
+msgstr "Un nouvel élément est reçu :"
 
 # game/scripts/core/inventory/inventory.rpy:148
 msgid "Произведен обмен:"
-msgstr ""
+msgstr "Un échange a été effectué :"
 
 # game/scripts/core/inventory/inventory.rpy:148
 msgid "на"
-msgstr ""
+msgstr "à l'adresse"
 
 # game/scripts/core/inventory/inventory.rpy:201
 msgid "Все"
-msgstr ""
+msgstr "Tous"
 
 # game/scripts/core/inventory/inventory.rpy:201
 msgid "Квестовые"
-msgstr ""
+msgstr "Quest"
 
 # game/scripts/core/inventory/inventory.rpy:201
 msgid "Для боя"
-msgstr ""
+msgstr "Pour le combat"
 
 # game/scripts/core/inventory/inventory.rpy:201
 msgid "Подарки"
-msgstr ""
+msgstr "Cadeaux"
 
 # game/scripts/core/inventory/inventory.rpy:201
 msgid "Ингредиенты"
-msgstr ""
+msgstr "Ingrédients"
 
 # game/scripts/core/inventory/inventory.rpy:201
 msgid "Мусор"
-msgstr ""
+msgstr "Déchets"
 
 # game/scripts/core/inventory/inventory.rpy:245
 msgid "Приобретен новый предмет:"
-msgstr ""
+msgstr "Un nouvel article est acheté :"
 
 # game/scripts/core/inventory/inventory.rpy:271
 msgid "Проданы предметы:"
-msgstr ""
+msgstr "Articles vendus :"
 
 # game/scripts/core/inventory/inventory.rpy:301
 msgid "Продан предмет:"
-msgstr ""
+msgstr "Vendu l'article :"
 
 # game/scripts/core/inventory/inventory.rpy:319
 msgid "из"
-msgstr ""
+msgstr "de"
 
 # game/scripts/core/inventory/inventory.rpy:332
 msgid "Убран предмет из инвентаря:"
-msgstr ""
+msgstr "Article retiré de l'inventaire :"
 
 # game/scripts/core/inventory/inventory.rpy:381
 msgid "Заработок:"
-msgstr ""
+msgstr "Les gains :"
 
 # game/scripts/core/inventory/inventory.rpy:393
 msgid "Затраты:"
-msgstr ""
+msgstr "Les coûts :"
 
 # game/scripts/core/inventory/inventory.rpy:456
 msgid "Вам не хватает денег"
-msgstr ""
+msgstr "Vous n'avez pas assez d'argent"
 
 # game/scripts/core/inventory/inventory.rpy:458
 msgid "Вам не хватает золота"
-msgstr ""
+msgstr "Vous n'avez pas assez d'or"
 
 # game/scripts/core/inventory/inventory.rpy:504
 msgid "{prefix}{name} (кол-во: {quantity})\n"
 " Вы получите: {{color=ffc600}}{cost} {currency}{{/color}}"
-msgstr ""
+msgstr "{prefix}{name} (quantité : {quantity})\n"
+" Vous recevrez {{color=ffc600}}{cost} {currency}{{/color}}"
 
 # game/scripts/core/inventory/inventory.rpy:504
 msgid "Продать все предметы:\n"
-msgstr ""
+msgstr "Vendre tous les articles :\n"
 

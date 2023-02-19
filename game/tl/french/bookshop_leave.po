@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:20\n"
+"PO-Revision-Date: 2023-02-17 06:49\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:6 #-#-# translate crowdin bookshop_leave_bbb233be:
 msgid "[_cedrick_] {i}(Пойду прогуляюсь..){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}(Je vais faire une promenade...){/i}"
 
 # game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:9 #-#-# translate crowdin bookshop_leave_45f3d445:
 msgid "[_cedrick_] {i}(У меня дела в городе, Элион, оставляю магазин на тебя.){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}(J'ai des affaires en ville, Elyon, je vous laisse la boutique.) {/i}"
 
 # game/scripts/bookshop/imagemaplabels/bookshop_leave.rpy:11 #-#-# translate crowdin bookshop_leave_f55d0982:
 msgid "[_cedrick_] {i}(Пожалуй, стоит сходить и немного осмотреться){/i}"
-msgstr ""
+msgstr "[_cedrick_] {i}(Cela vaut probablement la peine d'y aller et de jeter un petit coup d'œil) {/i}"
 

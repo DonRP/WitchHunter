@@ -10,33 +10,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:21\n"
+"PO-Revision-Date: 2023-02-17 06:49\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/CedrickFighting.rpy:288
 msgid "Седрик"
-msgstr ""
+msgstr "Cedric"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:351
 msgid "Удар змеиной рукой"
-msgstr ""
+msgstr "Un coup de main de serpent"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:351
 msgid "Плевок ядом"
-msgstr ""
+msgstr "Cracher du poison"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:351
 msgid "Удар хвостом"
-msgstr ""
+msgstr "Bosse arrière"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:392
 msgid "Начислен боевой опыт:"
-msgstr ""
+msgstr "Expérience de combat accumulée :"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:404
 msgid "Получен новый уровень:"
-msgstr ""
+msgstr "Un nouveau niveau est obtenu :"
 
 # game/scripts/core/Fight/CedrickFighting.rpy:436
 msgid "{skill_name} {quantity_mp} MP"
-msgstr ""
+msgstr "{skill_name} {quantity_mp} MP"
 

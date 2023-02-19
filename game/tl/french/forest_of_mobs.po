@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:26\n"
+"PO-Revision-Date: 2023-02-17 06:56\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/forests/forest_of_mobs.rpy:60 #-#-# translate crowdin forest_of_mobs_ce5f6a3a:
 msgid "[_cedrick_] Я не могу сражаться c Королем Морпионов с Мирандой на руках. Нужно отнести ее в замок"
-msgstr ""
+msgstr "[_cedrick_] Je ne peux pas combattre le Roi des Morpions avec Miranda dans mes bras. Nous devons l'emmener au château"
 
 # §translate crowdin strings: #|#|# # game/scripts/meridian/forests/forest_of_mobs.rpy:4
 msgid "Выберите лес чтобы напасть на мобов подходящих вашему уровню"
-msgstr ""
+msgstr "Choisissez une forêt pour attaquer les mobs correspondant à votre niveau."
 
 # game/scripts/meridian/forests/forest_of_mobs.rpy:4
 msgid "Начало леса (3-6 уровень)"
-msgstr ""
+msgstr "Début de la forêt (niveau 3-6)"
 
 # game/scripts/meridian/forests/forest_of_mobs.rpy:4
 msgid "Середина леса (7-9 уровень)"
-msgstr ""
+msgstr "Milieu de la forêt (niveau 7-9)"
 
 # game/scripts/meridian/forests/forest_of_mobs.rpy:4
 msgid "Конец леса (10 уровень)"
-msgstr ""
+msgstr "La fin de la forêt (niveau 10)"
 

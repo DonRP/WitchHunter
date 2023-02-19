@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-02-17 07:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/skating/skating.rpy:8 #-#-# translate crowdin skating_4bf2aa0a:
 msgid "[_cedrick_] Ты готова?"
@@ -30,7 +30,7 @@ msgstr ""
 
 # game/scripts/quests/skating/skating.rpy:19 #-#-# translate crowdin skating_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/skating/skating.rpy:20 #-#-# translate crowdin skating_d793c7ef:
 msgid "[_cedrick_] больно..."
@@ -46,11 +46,11 @@ msgstr ""
 
 # game/scripts/quests/skating/skating.rpy:25 #-#-# translate crowdin skating_5f9b772e:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/skating/skating.rpy:26 #-#-# translate crowdin skating_5f9b772e_1:
 msgid "...."
-msgstr ""
+msgstr "...."
 
 # game/scripts/quests/skating/skating.rpy:27 #-#-# translate crowdin skating_5cbf9bf5:
 msgid "[_cornelia_] Расслабься и старайся держать равновесие!"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/scripts/quests/skating/skating.rpy:28 #-#-# translate crowdin skating_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/skating/skating.rpy:29 #-#-# translate crowdin skating_7b713807:
 msgid "[_cornelia_] Не торопись!"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/scripts/quests/skating/skating.rpy:30 #-#-# translate crowdin skating_a20cefa7_2:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/skating/skating.rpy:31 #-#-# translate crowdin skating_b6995264:
 msgid "[_cornelia_] Кажется... У тебя получается!"
@@ -102,7 +102,7 @@ msgstr ""
 
 # game/scripts/quests/skating/skating.rpy:40 #-#-# translate crowdin skating_a20cefa7_3:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/scripts/quests/skating/skating.rpy:42 #-#-# translate crowdin skating_d87b3147:
 msgid "[_cedrick_] Так, когда нужно будет посидеть с твоей сестрой?"

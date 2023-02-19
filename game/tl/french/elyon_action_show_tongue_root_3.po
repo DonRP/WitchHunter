@@ -10,81 +10,81 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:24\n"
+"PO-Revision-Date: 2023-02-17 06:54\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:5 #-#-# translate crowdin elyon_action_show_tongue_root_3_443fd13f:
 msgid "[_cedrick_] Элион, не покажешь мне свой язычок?"
-msgstr ""
+msgstr "[_cedrick_] Elyon, me montrerez-vous votre langue ?"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:8 #-#-# translate crowdin elyon_action_show_tongue_root_3_781728d3:
 msgid "[_elion_] Ох, Рик, конечно. "
-msgstr ""
+msgstr "[_elion_] Oh, Rick, bien sûr. "
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:12 #-#-# translate crowdin elyon_action_show_tongue_root_3_09d5fccb:
 msgid "[_elion_] В-вот.."
-msgstr ""
+msgstr "[_elion_] Woah..."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:13 #-#-# translate crowdin elyon_action_show_tongue_root_3_ea344ce6:
 msgid "[_cedrick_] Прелестно"
-msgstr ""
+msgstr "[_cedrick_] Lovely"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:14 #-#-# translate crowdin elyon_action_show_tongue_root_3_ea6c7389:
 msgid "[_cedrick_] (Она уже начинает напоминать дрессированного питомца)"
-msgstr ""
+msgstr "[_cedrick_] (Elle commence déjà à ressembler à un animal domestique dressé)"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:17 #-#-# translate crowdin elyon_action_show_tongue_root_3_434c3184:
 msgid "[_elion_] Н-ну фто?"
-msgstr ""
+msgstr "[_elion_] N-bien, qu-quoi ?"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:23 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_f799f2fc:
 msgid "[_cedrick_] Все же, лучше открыть его слегка по шире"
-msgstr ""
+msgstr "[_cedrick_] Quand même, c'est mieux de l'ouvrir un peu plus."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:27 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_e940261a:
 msgid "[_elion_] Ф-фот так?"
-msgstr ""
+msgstr "[_elion_] F-foot donc ?"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:28 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_abcdb328:
 msgid "[_cedrick_] Что, нравится?"
-msgstr ""
+msgstr "[_cedrick_] Vous aimez ?"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:30 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_7f25fb43:
 msgid "[_elion_] А-агаф.. Это интерефно, чувствовать во рту фто-то столь вфердое.."
-msgstr ""
+msgstr "[_elion_] A-agaph... C'est intéressant de sentir quelque chose de si inférieur dans sa bouche..."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:31 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_7358c8b1:
 msgid "[_cedrick_] О, думаю это не последний мой твердый предмет, который побывает у тебя во рту"
-msgstr ""
+msgstr "[_cedrick_] Oh, je ne pense pas que ce soit le dernier objet dur que je mettrai dans ta bouche."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:34 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_14c164ef:
 msgid "[_elion_] Р-рих.. Ты меня смуфаешь.."
-msgstr ""
+msgstr "[_elion_] R-r-rih... Tu m'embarrasses..."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:37 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_7e80a310:
 msgid "[_cedrick_] Хахах, ладно, думаю, хватит на сегодня"
-msgstr ""
+msgstr "[_cedrick_] Hahaha, OK, je pense que c'est assez pour aujourd'hui."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:40 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_7b5bc50d:
 msgid "[_elion_] Х-хорошо.."
-msgstr ""
+msgstr "[_elion_] H-okay..."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:43 #-#-# translate crowdin elyon_action_open_her_mouth_wider_3_22c88599:
 msgid "[_elion_] (О-он ведь имел ввиду свой член, да? Его член.. у меня во рту..)"
-msgstr ""
+msgstr "[_elion_] (Oh, il veut dire sa bite, n'est-ce pas ? Sa bite... dans ma bouche...)"
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:47 #-#-# translate crowdin elyon_action_show_tongue_enough_3_38560d8c:
 msgid "[_cedrick_] Думаю, с твоего рта на сегодня хватит"
-msgstr ""
+msgstr "[_cedrick_] Je pense que tu as assez parlé pour aujourd'hui."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:50 #-#-# translate crowdin elyon_action_show_tongue_enough_3_e861c520:
 msgid "[_elion_] Ох, н-ну хорошо, Рик.. Как скажешь.."
-msgstr ""
+msgstr "[_elion_] Oh, n-bien, Rick... Comme tu veux."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:51 #-#-# translate crowdin elyon_action_show_tongue_enough_3_a4aa7411:
 msgid "[_cedrick_] Хах, не переживай, я еще успею похозяйничать у тебя во рту"
-msgstr ""
+msgstr "[_cedrick_] Huh, ne t'inquiète pas, j'aurai toujours le temps d'aller dans ta bouche."
 
 # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_3.rpy:54 #-#-# translate crowdin elyon_action_show_tongue_enough_3_33681bf3:
 msgid "[_elion_] Я-я поняла, Рик.. Хорошо.."
-msgstr ""
+msgstr "[_elion_] J'ai compris, Rick. Ok, hum..."
 

@@ -10,41 +10,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-23 14:27\n"
+"PO-Revision-Date: 2023-02-17 07:05\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:10 #-#-# translate crowdin getAgePotionForLilian_f55bb8cf:
 msgid "[_cedrick_] Я принес тебе цветок..."
-msgstr ""
+msgstr "[_cedrick_] Je t'ai apporté une fleur..."
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:14 #-#-# translate crowdin getAgePotionForLilian_49e40f70:
 msgid "[_miranda_] Для меня? Седрик, это так мило с твоей стороны"
-msgstr ""
+msgstr "[_miranda_] Pour moi ? Cédric, c'est si gentil de votre part."
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:15 #-#-# translate crowdin getAgePotionForLilian_9955112d:
 msgid "[_cedrick_] Для зелья.."
-msgstr ""
+msgstr "[_cedrick_] Pour la potion..."
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:19 #-#-# translate crowdin getAgePotionForLilian_10242dc1:
 msgid "[_miranda_] ..."
-msgstr ""
+msgstr "[_miranda_] ..."
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:23 #-#-# translate crowdin getAgePotionForLilian_2d5e12c4:
 msgid "[_miranda_] Я уже приготовила необходимые ингредиенты, поэтому приготовление зелья не займет много времени... подожди немного..."
-msgstr ""
+msgstr "[_miranda_] J'ai déjà préparé les ingrédients nécessaires, il ne faudra pas longtemps pour faire la potion... Il suffit d'attendre un peu..."
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:26 #-#-# translate crowdin getAgePotionForLilian_4eba94e3:
 msgid "[_centered_] {size=37}Спустя некоторое время{/size} [withDissolve1]"
-msgstr ""
+msgstr "[_centered_] {size=37}Après un moment{/size} [withDissolve1]"
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:33 #-#-# translate crowdin getAgePotionForLilian_4fc08c69:
 msgid "[_miranda_] Все готово!"
-msgstr ""
+msgstr "[_miranda_] Tout est prêt !"
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:37 #-#-# translate crowdin getAgePotionForLilian_66b7383f:
 msgid "[_miranda_] Только проследи, чтобы девчонка выпила все, до последней капли! Иначе зелье может не сработать."
-msgstr ""
+msgstr "[_miranda_] Assurez-vous juste que la fille boit jusqu'à la dernière goutte ! Sinon, la potion pourrait ne pas fonctionner."
 
 # game/scripts/quests/growingUpLilian/getAgePotionForLilian.rpy:41 #-#-# translate crowdin getAgePotionForLilian_a4a8100a:
 msgid "[_cedrick_] Благодарю."
-msgstr ""
+msgstr "[_cedrick_] Merci."
 

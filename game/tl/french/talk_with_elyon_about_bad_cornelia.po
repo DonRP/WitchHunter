@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:28\n"
+"PO-Revision-Date: 2023-02-17 06:58\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:8 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_5059e0a4:
 msgid "[_cedrick_] Что стряслось, элион? У тебя хмурый вид."
-msgstr ""
+msgstr "[_cedrick_] Qu'est-ce qui ne va pas, Aelion ? Tu as l'air renfrogné."
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:11 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_c7d80b81:
 msgid "[_elion_] Кажется, я окончательно поругалась с корнелией... Я не знаю, что мне делать.."
-msgstr ""
+msgstr "[_elion_] Je crois que j'ai eu une dernière dispute avec Cornelia... Je ne sais pas quoi faire..."
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:12 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_09ffe8ce:
 msgid "[_elion_] Вроде бы лучшая подруга, а проводит все свое время с Вилл и ее подружками.. договорились с ней пойти в кино, а она не пришла..."
-msgstr ""
+msgstr "[_elion_] Elle est censée être sa meilleure amie mais elle passe tout son temps avec Will et ses copines... on avait convenu d'aller au cinéma et elle n'est pas venue..."
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:15 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_dcf73abd:
 msgid "[_cedrick_] так бывает... со временем многие люди, которые казались нам друзьями — предают нас, но не стоит переживать из-за этого... ты еще найдешь себе новых.."
-msgstr ""
+msgstr "[_cedrick_] ça arrive... Avec le temps, beaucoup de gens qui semblaient être des amis nous trahissent, mais ne t'en fais pas... tu en trouveras d'autres..."
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:18 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_56d8bdcb:
 msgid "[_elion_] Но я не хочу новых, меня устраивали мои старые друзья.. а теперь Брайан с Алхими исчезли... теперь еще и это..."
-msgstr ""
+msgstr "[_elion_] Mais je n'en veux pas de nouveaux, j'étais heureux avec mes anciens amis... et maintenant Brian et Alchemy sont partis... et maintenant ça..."
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:21 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_fa32c074:
 msgid "[_elion_] Хорошо, что у меня есть ты, а то бы я даже и не знала с кем поговорить об этом.."
-msgstr ""
+msgstr "[_elion_] C'est une bonne chose que je t'aie, sinon je ne saurais même pas à qui en parler..."
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:22 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_c56e45d9:
 msgid "[_cedrick_] ты всегда можешь поговорить со мной, элион. о чем угодно..."
-msgstr ""
+msgstr "[_cedrick_] Tu peux toujours me parler, Elion. De tout..."
 
 # game/scripts/quests/getCloseToElyon/talk_with_elyon_about_bad_cornelia.rpy:25 #-#-# translate crowdin talk_with_elyon_about_bad_cornelia_cd201c19:
 msgid "[_elion_] Спасибо, Рик... ты очень добр ко мне..."
-msgstr ""
+msgstr "[_elion_] Merci, Rick... tu es très gentil avec moi..."
 

@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:22\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGetRidOfElyonsParents.rpy:3
 msgid "Избавиться от родителей Элион"
-msgstr ""
+msgstr "Se débarrasser des parents d'Elion"
 
 # game/scripts/core/quests/QuestGetRidOfElyonsParents.rpy:13
 msgid "Навестить джинка в таверне на Меридиане"
-msgstr ""
+msgstr "Visiter un génie dans une taverne sur Meridian."
 
 # game/scripts/core/quests/QuestGetRidOfElyonsParents.rpy:13
 msgid "Попросить трусы у миранды"
-msgstr ""
+msgstr "Demander à Miranda son pantalon"
 
 # game/scripts/core/quests/QuestGetRidOfElyonsParents.rpy:13
 msgid "Отдать трусы джинку"
-msgstr ""
+msgstr "Donner le pantalon au gin"
 
 # game/scripts/core/quests/QuestGetRidOfElyonsParents.rpy:13
 msgid "Дождаться когда Джинк выполнит свою работу"
-msgstr ""
+msgstr "Attendre que Jink fasse son travail"
 

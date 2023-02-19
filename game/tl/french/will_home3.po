@@ -10,61 +10,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-12-22 22:35\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_home3.rpy:8 #-#-# translate crowdin will_home3_554a662b:
 msgid "[_susan_] А Рик это ты, заходи"
-msgstr ""
+msgstr "[_susan_] Et Rick c'est vous, entrez."
 
 # game/scripts/quests/will/will_home3.rpy:14 #-#-# translate crowdin will_home3_ffd7540e:
 msgid "[_susan_] ..."
-msgstr ""
+msgstr "[_susan_] ..."
 
 # game/scripts/quests/will/will_home3.rpy:15 #-#-# translate crowdin will_home3_143d5552:
 msgid "[_cedrick_sprite_] Что то случилось?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Il s'est passé quelque chose ?"
 
 # game/scripts/quests/will/will_home3.rpy:16 #-#-# translate crowdin will_home3_b54a4c57:
 msgid "[_susan_] Нет ничего.."
-msgstr ""
+msgstr "[_susan_] Il n'y a rien..."
 
 # game/scripts/quests/will/will_home3.rpy:22 #-#-# translate crowdin will_home3_b8305ce6:
 msgid "[_susan_] Просто... Мы поругались с Дином, а теперь он не берет трубку... Вилл говорит что он не появлялся в школе и пропустил уроки.. Если у него не найдется уважительной причины скорее всего его уволят... Наверное опять напился... Скотина..."
-msgstr ""
+msgstr "[_susan_] C'est juste que... On s'est disputé avec Dean et maintenant, il ne décroche pas le téléphone... Will dit qu'il n'est pas venu à l'école et qu'il a manqué le cours... S'il n'a pas une bonne raison, il va probablement se faire virer... Probablement encore bourré... Salaud..."
 
 # game/scripts/quests/will/will_home3.rpy:23 #-#-# translate crowdin will_home3_c6d9eded:
 msgid "[_cedrick_sprite_] Думаешь он мог пропустить из-за этого занятия в школе?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Pensez-vous qu'il ait pu manquer l'école à cause de ça ?"
 
 # game/scripts/quests/will/will_home3.rpy:24 #-#-# translate crowdin will_home3_170abd3e:
 msgid "[_susan_] А.. неважно... прости что тебя нагрузила..."
-msgstr ""
+msgstr "[_susan_] Ah... ça ne fait rien... Je suis désolé de vous importuner..."
 
 # game/scripts/quests/will/will_home3.rpy:30 #-#-# translate crowdin will_home3_018a60d7:
 msgid "[_susan_] Проходи вилл у себя в комнате..."
-msgstr ""
+msgstr "[_susan_] Passez en revue les villas dans votre chambre..."
 
 # game/scripts/quests/will/will_home3.rpy:35 #-#-# translate crowdin will_home3_5d9a7257:
 msgid "*Какое-то время вы занимаетесь с Вилл*"
-msgstr ""
+msgstr "*Tu t'entraînes avec Will pendant un moment*"
 
 # game/scripts/quests/will/will_home3.rpy:41 #-#-# translate crowdin will_home3_ef75f609:
 msgid "[_cedrick_sprite_] ...И тогда Гитлер застрелил свою семью, а потом и себя..."
-msgstr ""
+msgstr "[_cedrick_sprite_] ...Et puis Hitler a tué sa famille et ensuite lui-même..."
 
 # game/scripts/quests/will/will_home3.rpy:47 #-#-# translate crowdin will_home3_256781d9:
 msgid "[_will_] Прости Рик сегодня я не могу сосредоточится на учебе"
-msgstr ""
+msgstr "[_will_] Désolé, Rick, je ne peux pas me concentrer sur mes études aujourd'hui."
 
 # game/scripts/quests/will/will_home3.rpy:48 #-#-# translate crowdin will_home3_1e687ff8:
 msgid "[_will_] Это из-за мамы, она очень расстроена и места себе не находит, все из-за этого Колинза... может быть в другой раз?"
-msgstr ""
+msgstr "[_will_] C'est ma mère, elle est très énervée et elle ne trouve pas sa place, tout ça à cause de ce Kolins... peut-être une autre fois ?"
 
 # game/scripts/quests/will/will_home3.rpy:53 #-#-# translate crowdin will_home3_32805468:
 msgid "[_will_] Тем более из-за того что учитель пропал скорее всего в ближайшее время занятий у нас не будет"
-msgstr ""
+msgstr "[_will_] D'autant plus que le professeur a disparu, nous n'aurons probablement pas de cours de sitôt."
 
 # game/scripts/quests/will/will_home3.rpy:54 #-#-# translate crowdin will_home3_a8c2cd4f:
 msgid "[_cedrick_sprite_] Ну в таком случае.. Я зайду в другой раз"
-msgstr ""
+msgstr "[_cedrick_sprite_] Dans ce cas... Je reviendrai une autre fois."
 
