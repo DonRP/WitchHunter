@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.po\n"
+"X-Crowdin-File-ID: 4965\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:41\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:5 #-#-# translate crowdin elyon_action_show_breast_root_2_aebed1e4:
+msgid "[_cedrick_] Элион, не покажешь мне свою грудь?"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:8 #-#-# translate crowdin elyon_action_show_breast_root_2_588c189b:
+msgid "[_elion_] Р-рик, так сразу?"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:9 #-#-# translate crowdin elyon_action_show_breast_root_2_87cdad4e:
+msgid "[_cedrick_] А почему нет? Считай это частью работы по утолению твоей развратности"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:12 #-#-# translate crowdin elyon_action_show_breast_root_2_8d527e37:
+msgid "[_elion_] Н-ну хорошо.. Только без фокусов, Рик"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:13 #-#-# translate crowdin elyon_action_show_breast_root_2_8225f9f0:
+msgid "[_cedrick_] Конечно"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:18 #-#-# translate crowdin elyon_action_show_breast_root_2_09d5fccb:
+msgid "[_elion_] В-вот.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:19 #-#-# translate crowdin elyon_action_show_breast_root_2_5383e09a:
+msgid "[_cedrick_] Отлично. Приятный цвет и форма"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:22 #-#-# translate crowdin elyon_action_show_breast_root_2_085752b0:
+msgid "[_elion_] С-спасибо.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:25 #-#-# translate crowdin elyon_action_show_breast_root_2_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:26 #-#-# translate crowdin elyon_action_show_breast_root_2_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:34 #-#-# translate crowdin elyon_action_remove_bra_2_b226707f:
+msgid "[_cedrick_] И все же, мне хочется их увидеть.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:38 #-#-# translate crowdin elyon_action_remove_bra_2_bfd9021c:
+msgid "[_elion_] Р-Рик!"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:39 #-#-# translate crowdin elyon_action_remove_bra_2_e1f8389a:
+msgid "[_cedrick_] Хе-хе, они прекрасны"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:43 #-#-# translate crowdin elyon_action_remove_bra_2_6d8a2af7:
+msgid "[_elion_] Этот фокус не пройдет.. Н-не все сразу, Рик.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:44 #-#-# translate crowdin elyon_action_remove_bra_2_7ca135b9:
+msgid "[_cedrick_] Ох, значит ты понимаешь, что рано или поздно мы к этому придем?"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:47 #-#-# translate crowdin elyon_action_remove_bra_2_983d0973:
+msgid "[_elion_] Я.. Я просто не готова к этому сейчас.. Их ведь даже Брайан не видел"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:48 #-#-# translate crowdin elyon_action_remove_bra_2_ebc4ad01:
+msgid "[_cedrick_] (Хах, вот он неудачник. А мне даже не нужно быть ее парнем, чтобы увидеть ее грудь)"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:49 #-#-# translate crowdin elyon_action_remove_bra_2_7ce2cf7c:
+msgid "[_cedrick_] К-хм.. Хорошо, Элион, я тебя понял. Закончим на этом.. Пока что"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:52 #-#-# translate crowdin elyon_action_remove_bra_2_4ae9fcf3:
+msgid "[_elion_] Х-хорошо, Рик.. Тогда, я пойду"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:55 #-#-# translate crowdin elyon_action_remove_bra_2_8729b7a5:
+msgid "[_cedrick_] Да, давай, увидимся позже"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:62 #-#-# translate crowdin elyon_action_show_breast_enough_2_9865da69:
+msgid "[_cedrick_] Думаю, на сегодня этого хватит, Элион. Я достаточно налюбовался твоими формами"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:65 #-#-# translate crowdin elyon_action_show_breast_enough_2_d462872c:
+msgid "[_elion_] Э-эм, а разве смысл был в этом?"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:67 #-#-# translate crowdin elyon_action_show_breast_enough_2_7c2f0b36:
+msgid "[_cedrick_] Смысл был в том, чтобы помочь справиться тебе с твоей развратностью, утолить ее. Разве тебе самой не нравится, когда я на тебя так смотрю"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:70 #-#-# translate crowdin elyon_action_show_breast_enough_2_931a8581:
+msgid "[_elion_] Ммм.. Н-немного.."
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:71 #-#-# translate crowdin elyon_action_show_breast_enough_2_ddd9724d:
+msgid "[_cedrick_] Вот видишь. А значит, в итоге это помогает и тебе"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:74 #-#-# translate crowdin elyon_action_show_breast_enough_2_a661b79e:
+msgid "[_elion_] Я-я поняла"
+msgstr ""
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_2.rpy:75 #-#-# translate crowdin elyon_action_show_breast_enough_2_304782a2:
+msgid "[_cedrick_] Хорошо. Тогда мы закончили"
+msgstr ""
+
