@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-02-17 07:05\n"
+"PO-Revision-Date: 2023-02-26 19:23\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:6 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_77013e39:
 msgid "[_johnlin_] Рик! Привет! Снова пришел поработать?"
-msgstr ""
+msgstr "[_johnlin_] Rick ! Salut ! Tu viens encore travailler ?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:7 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_c8980c22:
 msgid "[_cedrick_] Нет, сегодня не смогу вам помочь, извините. Я хочу заскочить к Хай Лин, проведать ее..."
-msgstr ""
+msgstr "[_cedrick_] Non, je ne peux pas vous aider aujourd'hui, je suis désolé. Je veux passer chez Hai Ling pour voir comment elle va..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:11 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_4c5684aa:
 msgid "[_johnlin_] Оу, понятно... Ну, проходи! Она у себя в комнате..."
