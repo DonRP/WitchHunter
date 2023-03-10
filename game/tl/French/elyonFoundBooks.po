@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-02-17 07:05\n"
+"PO-Revision-Date: 2023-03-10 11:13\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/singles/elyonFoundBooks.rpy:10 #-#-# translate crowdin elyonFoundBooks_bc5d1268:
 msgid "[_elion_] Эмм... Рик... Кажется я нашла нужные нам книги."
-msgstr ""
+msgstr "[_elion_] Hum... Rick... Je pense avoir trouvé les livres dont nous avons besoin."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:14 #-#-# translate crowdin elyonFoundBooks_7c12f82c:
 msgid "[_cedrick_] Хорошо, дай мне посмотреть..."
