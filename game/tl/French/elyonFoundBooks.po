@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-03-10 11:13\n"
+"PO-Revision-Date: 2023-03-10 13:40\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/singles/elyonFoundBooks.rpy:10 #-#-# translate crowdin elyonFoundBooks_bc5d1268:
 msgid "[_elion_] Эмм... Рик... Кажется я нашла нужные нам книги."
@@ -18,15 +18,15 @@ msgstr "[_elion_] Hum... Rick... Je pense avoir trouvé les livres dont nous avo
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:14 #-#-# translate crowdin elyonFoundBooks_7c12f82c:
 msgid "[_cedrick_] Хорошо, дай мне посмотреть..."
-msgstr ""
+msgstr "[_cedrick_] Ok, voyons voir..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:15 #-#-# translate crowdin elyonFoundBooks_146bdd08:
 msgid "[_cedrick_] Ага... Издание Росмэн 2002 года! Это то, что нужно!"
-msgstr ""
+msgstr "[_cedrick_] Oui... L'édition 2002 de Roseman ! C'est ce qu'il vous faut !"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:16 #-#-# translate crowdin elyonFoundBooks_5cebde9c:
 msgid "[_cedrick_] Пожалуйста, рассортируй книги из коробок по алфавиту и выставь на полки. А я пока отнесу эти книги твоей подруге."
-msgstr ""
+msgstr "[_cedrick_] Veuillez trier les livres des boîtes par ordre alphabétique et les placer sur les étagères. En attendant, j'apporterai ces livres à votre ami."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:20 #-#-# translate crowdin elyonFoundBooks_de0f09cb:
 msgid "[_elion_] Хорошо"
@@ -38,15 +38,15 @@ msgstr "..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:25 #-#-# translate crowdin elyonFoundBooks_cf01c344:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Après quelques minutes{/size}"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:32 #-#-# translate crowdin elyonFoundBooks_5c32ff77:
 msgid "[_cedrick_] ... [withDissolvey3]"
-msgstr ""
+msgstr "[_cedrick_] ... [withDissolvey3]"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:36 #-#-# translate crowdin elyonFoundBooks_bbf11c6d:
 msgid "[_cedrick_] Так... Судя по адресу, который Корнелия мне оставила, она живет здесь."
-msgstr ""
+msgstr "[_cedrick_] Donc... D'après l'adresse que Cornelia m'a laissée, elle habite ici."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:39 #-#-# translate crowdin elyonFoundBooks_cdd6670c:
 msgid "Звук дверного звонка"
@@ -62,19 +62,19 @@ msgstr "...."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:44 #-#-# translate crowdin elyonFoundBooks_8d2baa6e:
 msgid "Звук открывающейся двери…"
-msgstr ""
+msgstr "Le bruit de la porte qui s'ouvre…"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:49 #-#-# translate crowdin elyonFoundBooks_83a3e9c7:
 msgid "[_lilian_] Дядя, а вы кто?"
-msgstr ""
+msgstr "[_lilian_] Mon oncle, qui êtes-vous ?"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:50 #-#-# translate crowdin elyonFoundBooks_bb00c47d:
 msgid "[_cedrick_] Меня зовут Рик, я работаю в книжном... Недалеко отсюда... Корнелия здесь живет?"
-msgstr ""
+msgstr "[_cedrick_] Je m'appelle Rick et je travaille dans une librairie... Non loin d'ici... Cornelia vit-elle ici ?"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:54 #-#-# translate crowdin elyonFoundBooks_aaaf3cc4:
 msgid "[_lilian_] Да"
-msgstr ""
+msgstr "[_lilian_] Oui"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:55 #-#-# translate crowdin elyonFoundBooks_a20cefa7_2:
 msgid "..."
@@ -82,39 +82,39 @@ msgstr "..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:61 #-#-# translate crowdin elyonFoundBooks_ae541e96:
 msgid "[_cornelia_] Уйди, клоп!"
-msgstr ""
+msgstr "[_cornelia_] Va-t'en, insecte !"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:66 #-#-# translate crowdin elyonFoundBooks_56bd3f21:
 msgid "[_cornelia_] Хех, это моя сестра Лилиан..."
-msgstr ""
+msgstr "[_cornelia_] Heh, c'est ma soeur Lillian..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:70 #-#-# translate crowdin elyonFoundBooks_e655a8f1:
 msgid "[_cedrick_] Привет, я принес тебе учебники."
-msgstr ""
+msgstr "[_cedrick_] Bonjour, je vous ai apporté des manuels."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:74 #-#-# translate crowdin elyonFoundBooks_ec12da09:
 msgid "[_cornelia_] Ох, большое спасибо! Сколько я вам должна?"
-msgstr ""
+msgstr "[_cornelia_] Oh, merci beaucoup ! Combien vous dois-je ?"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:79 #-#-# translate crowdin elyonFoundBooks_5a5efdb3:
 msgid "[_cedrick_] Эмм... 40 баксов."
-msgstr ""
+msgstr "[_cedrick_] Hum... 40 livres."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:83 #-#-# translate crowdin elyonFoundBooks_378682cd:
 msgid "[_cornelia_] Хорошо, сейчас принесу..."
-msgstr ""
+msgstr "[_cornelia_] Ok, j'y vais..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:89 #-#-# translate crowdin elyonFoundBooks_f9e5a8a4:
 msgid "[_cornelia_] А не хотите ли зайти, попить чаю?"
-msgstr ""
+msgstr "[_cornelia_] Voulez-vous entrer pour prendre un thé ?"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:91 #-#-# translate crowdin elyonFoundBooks_42dbaad7:
 msgid "[_cedrick_] Ну… Я бы не хотел вам мешать..."
-msgstr ""
+msgstr "[_cedrick_] Ben… Je ne voudrais pas me mettre en travers de votre chemin..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:96 #-#-# translate crowdin elyonFoundBooks_3a06ef71:
 msgid "[_cornelia_] Ничего подобного, проходите."
-msgstr ""
+msgstr "[_cornelia_] Pas du tout, allez-y."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:98 #-#-# translate crowdin elyonFoundBooks_a20cefa7_3:
 msgid "..."
@@ -122,15 +122,15 @@ msgstr "..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:101 #-#-# translate crowdin elyonFoundBooks_cf01c344_1:
 msgid "[_centered_] {size=37}Спустя несколько минут{/size}"
-msgstr ""
+msgstr "[_centered_] {size=37}Après quelques minutes{/size}"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:106 #-#-# translate crowdin elyonFoundBooks_0f79efd7:
 msgid "[_cornelia_] Ну... Как там дела у Элион в магазине? [withDissolvey3]"
-msgstr ""
+msgstr "[_cornelia_] Eh bien... Comment se porte Elion dans l'atelier ?? [withDissolvey3]"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:107 #-#-# translate crowdin elyonFoundBooks_c6d3e406:
 msgid "[_cedrick_] Все в порядке. Она довольно хорошо справляется со своими обязанностями."
-msgstr ""
+msgstr "[_cedrick_] Tout va bien. Elle s'en sort très bien dans son travail."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:108 #-#-# translate crowdin elyonFoundBooks_a20cefa7_4:
 msgid "..."
@@ -138,31 +138,31 @@ msgstr "..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:109 #-#-# translate crowdin elyonFoundBooks_c50f4531:
 msgid "[_cedrick_] А у тебя довольно просторные апартаменты..."
-msgstr ""
+msgstr "[_cedrick_] Et vous avez un appartement assez spacieux..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:110 #-#-# translate crowdin elyonFoundBooks_9372972e:
 msgid "[_cornelia_] Ах, это... Ну, мои родители работают банкирами..."
-msgstr ""
+msgstr "[_cornelia_] Ah, c'est... Mes parents sont banquiers..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:111 #-#-# translate crowdin elyonFoundBooks_050f51cf:
 msgid "[_lilian_] Корнееелиияяя, когда у меня появится коотиик? Хочу котааа, как в этом мультикеее..."
-msgstr ""
+msgstr "[_lilian_] Cornelia, quand est-ce que je vais avoir un chat ? Je veux un chat comme dans ce dessin animé..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:112 #-#-# translate crowdin elyonFoundBooks_e5b839a7:
 msgid "[_cornelia_] Если ты и дальше будешь себя так вести, то никогда. Родители тебя слишком разбаловали..."
-msgstr ""
+msgstr "[_cornelia_] Si vous continuez à vous comporter ainsi, vous n'y arriverez jamais. Tes parents t'ont trop gâté..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:113 #-#-# translate crowdin elyonFoundBooks_7146cf6c:
 msgid "[_lilian_] А сама то! Только и делаешь, что гуляешь со всякими мальчиками..."
-msgstr ""
+msgstr "[_lilian_] Et vous-même ! Tout ce que tu fais, c'est sortir avec toutes sortes de garçons..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:114 #-#-# translate crowdin elyonFoundBooks_df1b175d:
 msgid "[_cornelia_] Лилиан, замолчи! Не говори такие вещи при гостях!"
-msgstr ""
+msgstr "[_cornelia_] Lillian, tais-toi ! Ne dites pas ce genre de choses devant des invités !"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:115 #-#-# translate crowdin elyonFoundBooks_7c4a42f3:
 msgid "[_cornelia_] Хех... Прости..."
-msgstr ""
+msgstr "[_cornelia_] Heh... Je suis désolée..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:116 #-#-# translate crowdin elyonFoundBooks_a20cefa7_5:
 msgid "..."
@@ -174,11 +174,11 @@ msgstr "...."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:119 #-#-# translate crowdin elyonFoundBooks_839161e8:
 msgid "[_cedrick_] Что ж… Я думаю, что мне пора идти… Спасибо за чай…"
-msgstr ""
+msgstr "[_cedrick_] Bien… Je pense qu'il est temps pour moi de partir… Merci pour le thé…"
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:120 #-#-# translate crowdin elyonFoundBooks_e7acd03c:
 msgid "[_cornelia_] Спасибо вам за книги! Простите за мою сестру..."
-msgstr ""
+msgstr "[_cornelia_] Merci pour les livres ! Je suis désolé pour ma sœur..."
 
 # game/scripts/quests/singles/elyonFoundBooks.rpy:122 #-#-# translate crowdin elyonFoundBooks_a20cefa7_6:
 msgid "..."
