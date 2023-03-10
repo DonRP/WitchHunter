@@ -10,67 +10,67 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-02-17 07:05\n"
+"PO-Revision-Date: 2023-03-10 11:13\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/will_in_vokzal.rpy:11 #-#-# translate crowdin will_in_vokzal_fc70fe0a:
 msgid "[_will_] Рик!?"
-msgstr "[_will_] Rick ! ?"
+msgstr "[_will_] Rick !?"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:12 #-#-# translate crowdin will_in_vokzal_651804d5:
 msgid "[_cedrick_sprite_] Вилл? Какая неожиданная встреча"
-msgstr ""
+msgstr "[_cedrick_sprite_] Will ? Une rencontre inattendue"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:21 #-#-# translate crowdin will_in_vokzal_5568d66f:
 msgid "[_cedrick_sprite_] А это должно быть твоя сестра?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Et ce doit être votre sœur ?"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:22 #-#-# translate crowdin will_in_vokzal_0ab89f6f:
 msgid "[_will_] Это моя мама, а это Рик, он владелец книжного магазина"
-msgstr ""
+msgstr "[_will_] C'est ma mère et c'est Rick, qui tient une librairie"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:29 #-#-# translate crowdin will_in_vokzal_7302463e:
 msgid "[_susan_] Я Сьюзан, очень приятно"
-msgstr ""
+msgstr "[_susan_] Je suis Susan, ravie de vous rencontrer"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:34 #-#-# translate crowdin will_in_vokzal_c36f4aad:
 msgid "[_cedrick_] Мама, хах я бы так не сказал, очень молодо выглядите"
-msgstr ""
+msgstr "[_cedrick_] Maman, je ne dirais pas ça, tu as l'air très jeune"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:43 #-#-# translate crowdin will_in_vokzal_9086cf77:
 msgid "[_will_] Да ладно тебе Рик, ей уже 35 лет"
-msgstr ""
+msgstr "[_will_] Allez Rick, elle a 35 ans"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:52 #-#-# translate crowdin will_in_vokzal_596e0f17:
 msgid "[_susan_] Вилл!! Не прилично рассказывать о возрасте девушки, и мне только 34..."
-msgstr ""
+msgstr "[_susan_] Will !!! Il n'est pas décent de parler de l'âge d'une fille, et je n'ai que 34 ans..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:61 #-#-# translate crowdin will_in_vokzal_3b229636:
 msgid "[_cedrick_sprite_] Может вам помочь донести покупки до машины?"
-msgstr ""
+msgstr "[_cedrick_sprite_] Puis-je vous aider à transporter vos achats jusqu'à votre voiture ?"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:67 #-#-# translate crowdin will_in_vokzal_c55ccda5:
 msgid "[_susan_] Дело в том что моя машина находится в ремонте, но живем мы неподалеку"
-msgstr ""
+msgstr "[_susan_] Le problème, c'est que ma voiture est en cours de réparation, mais nous vivons à proximité"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:74 #-#-# translate crowdin will_in_vokzal_1b4fe63c:
 msgid "[_cedrick_] В таком случае я могу помочь донести вам покупки до дома"
-msgstr ""
+msgstr "[_cedrick_] Dans ce cas, je peux vous aider à ramener vos achats à la maison"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:81 #-#-# translate crowdin will_in_vokzal_871c228f:
 msgid "[_susan_] Спасибо, не стоит себя утруждать"
-msgstr ""
+msgstr "[_susan_] Merci, ce n'est pas la peine"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:88 #-#-# translate crowdin will_in_vokzal_31f6d4ba:
 msgid "[_cedrick_] Я настаиваю, все равно вышел прогуляться, мне совсем не трудно"
-msgstr ""
+msgstr "[_cedrick_] J'insiste, je vais me promener de toute façon, ce n'est pas difficile pour moi"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:95 #-#-# translate crowdin will_in_vokzal_3edc0fb9:
 msgid "[_susan_] Ну если так..."
-msgstr ""
+msgstr "[_susan_] Si c'est le cas..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:96 #-#-# translate crowdin will_in_vokzal_7be719da:
 msgid "*вы берете несколько пакетов у Вилл и Сьюзан*"
-msgstr ""
+msgstr "*vous prenez quelques sacs de Will et Susan*"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:101 #-#-# translate crowdin will_in_vokzal_a20cefa7:
 msgid "..."
@@ -78,91 +78,91 @@ msgstr "..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:105 #-#-# translate crowdin will_in_vokzal_11e09b0c:
 msgid "[_susan_] А вот и наш дом [withDissolvey3]"
-msgstr ""
+msgstr "[_susan_] Voici notre maison [withDissolvey3]"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:106 #-#-# translate crowdin will_in_vokzal_3010b9c1:
 msgid "[_cedrick_] Ну, был рад знакомству..."
-msgstr ""
+msgstr "[_cedrick_] J'ai été ravie de vous rencontrer..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:107 #-#-# translate crowdin will_in_vokzal_fbdd1405:
 msgid "[_susan_] Вы очень нас выручили, может зайдете к нам на ужин?"
-msgstr ""
+msgstr "[_susan_] Vous nous avez vraiment aidés, pourquoi ne viendriez-vous pas dîner ?"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:108 #-#-# translate crowdin will_in_vokzal_99848ab6:
 msgid "[_cedrick_] Спасибо, но я не хотел бы навязываться, и думаю ваш муж не обрадуется моему визиту"
-msgstr ""
+msgstr "[_cedrick_] Merci, mais je ne voudrais pas m'imposer, et je ne pense pas que votre mari serait heureux de me voir"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:109 #-#-# translate crowdin will_in_vokzal_99fbf6b8:
 msgid "[_susan_] Ну что ты, компания пойдет нам только на пользу, да и с мужем я давно в разводе"
-msgstr ""
+msgstr "[_susan_] Allez, l'entreprise est bonne pour nous, et mon mari et moi sommes divorcés depuis longtemps"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:110 #-#-# translate crowdin will_in_vokzal_9f9a47b8:
 msgid "[_will_] Не упрямься рик"
-msgstr ""
+msgstr "[_will_] Ne vous obstinez pas, Rick"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:111 #-#-# translate crowdin will_in_vokzal_8c522bee:
 msgid "[_cedrick_] В таком случае, я не против"
-msgstr ""
+msgstr "[_cedrick_] Dans ce cas, cela ne me dérange pas"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:112 #-#-# translate crowdin will_in_vokzal_1fac36bc:
 msgid "[_cedrick_] (Это отличный шанс сблизиться с семейкой Вендомов, если повезет мне удастся поразвлечься с обеими, кроме того это может помочь мне выполнить поручение Фобоса)"
-msgstr ""
+msgstr "[_cedrick_] (C'est une bonne occasion de se rapprocher de la famille Wendom, si j'ai de la chance, je pourrais m'amuser avec eux deux, et cela pourrait m'aider à faire ma course pour Phobos)"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:113 #-#-# translate crowdin will_in_vokzal_b01fbba9:
 msgid "*Спустя некоторое время за столом*"
-msgstr ""
+msgstr "*Après un moment à table*"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:120 #-#-# translate crowdin will_in_vokzal_a36ce936:
 msgid "[_susan_] Так значит вы уже владеете магазином, в таком возрасте, это впечатляет"
-msgstr ""
+msgstr "[_susan_] Vous êtes donc déjà propriétaire d'un magasin, à cet âge, c'est impressionnant"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:121 #-#-# translate crowdin will_in_vokzal_46ad58b8:
 msgid "[_cedrick_] Я не так уж и молод (Хех, по правде мне уже за 200) и мне просто повезло, у предыдущего владельца были кое-какие проблемы, и магазин достался мне почти даром."
-msgstr ""
+msgstr "[_cedrick_] Je ne suis pas si jeune (Heh, la vérité est que j'ai plus de 200 ans) et j'ai juste eu de la chance, le propriétaire précédent avait quelques problèmes et j'ai eu le magasin pour presque rien."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:122 #-#-# translate crowdin will_in_vokzal_ebb5bf04:
 msgid "[_cedrick_] Дело не очень прибыльное, но я очень люблю читать..."
-msgstr ""
+msgstr "[_cedrick_] Ce n'est pas une activité très lucrative, mais j'aime beaucoup lire..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:123 #-#-# translate crowdin will_in_vokzal_9e973ac3:
 msgid "[_cedrick_] А чем вы занимаетесь?"
-msgstr ""
+msgstr "[_cedrick_] Que faites-vous ?"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:124 #-#-# translate crowdin will_in_vokzal_9b282174:
 msgid "[_susan_] Ну я работаю руководителем небольшого отдела в компании разрабатывающей программное обеспечение... Не то чтобы моя работа была очень важна.. "
-msgstr ""
+msgstr "[_susan_] Je travaille comme chef d'un petit département dans une société de logiciels... Non pas que mon travail soit très important... "
 
 # game/scripts/quests/will/will_in_vokzal.rpy:125 #-#-# translate crowdin will_in_vokzal_4b1cd7bb:
 msgid "[_will_] Мам! Ты опять переусердствовала с приправами"
-msgstr ""
+msgstr "[_will_] Maman ! Tu as encore abusé des condiments"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:126 #-#-# translate crowdin will_in_vokzal_a4bb0795:
 msgid "[_susan_] Эм.. и вправду, простите"
-msgstr ""
+msgstr "[_susan_] Hum... Vraiment, je suis désolée"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:127 #-#-# translate crowdin will_in_vokzal_942ce370:
 msgid "[_susan_] По правде говоря, готовка мне не очень дается, можем заказать что-нибудь поесть"
-msgstr ""
+msgstr "[_susan_] Pour vous dire la vérité, je ne suis pas très douée pour la cuisine, nous pouvons commander quelque chose à manger"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:128 #-#-# translate crowdin will_in_vokzal_bc88329f:
 msgid "[_cedrick_] А на мой взгляд довольно вкусно, люблю поострее, кроме того я давно не ел домашней еды"
-msgstr ""
+msgstr "[_cedrick_] Je pense que c'est assez savoureux, je l'aime plus épicé, et cela fait longtemps que je n'ai pas mangé un repas fait maison"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:129 #-#-# translate crowdin will_in_vokzal_62e2eacb:
 msgid "[_susan_] Ну я рада что хоть кому-то понравилось"
-msgstr ""
+msgstr "[_susan_] Je suis content que quelqu'un l'ait aimé"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:131 #-#-# translate crowdin will_in_vokzal_e4786d64:
 msgid "[_cedrick_] Кстати Вилл, ты ведь недавно перевелась, как у тебя дела в новой школе?"
-msgstr ""
+msgstr "[_cedrick_] Au fait, Will, tu as récemment été transféré, comment te portes-tu dans ta nouvelle école ?"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:132 #-#-# translate crowdin will_in_vokzal_650313c8:
 msgid "[_will_] Все хорошо, в отличии от прошлой школы меня довольно хорошо приняли и мне удалось завести хороших подруг.."
-msgstr ""
+msgstr "[_will_] C'est bon, contrairement à l'école précédente, j'ai été plutôt bien accueillie et j'ai réussi à me faire de bons amis.."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:133 #-#-# translate crowdin will_in_vokzal_4f007d8c:
 msgid "[_susan_] Если бы только только твои подруги не мешали твоей учебе.."
-msgstr ""
+msgstr "[_susan_] Si seulement vos petites amies n'interféraient pas avec vos études.."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:134 #-#-# translate crowdin will_in_vokzal_f95d73df:
 msgid "[_will_] Мам!"
@@ -170,53 +170,53 @@ msgstr "[_will_] maman!"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:135 #-#-# translate crowdin will_in_vokzal_5384fa9c:
 msgid "[_will_] Ты же знаешь, это все твой Колинз. Он ко мне придирается!..."
-msgstr ""
+msgstr "[_will_] Tu sais que ce sont tes Collins. Il s'en prend à moi !..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:136 #-#-# translate crowdin will_in_vokzal_94b7db1f:
 msgid "[_susan_] Перестань.. Мы с Дином просто встречаемся... И ничего он к тебе не придирается..."
-msgstr ""
+msgstr "[_susan_] Arrêtez... Dean et moi sortons ensemble... Et il ne s'en prend pas à vous..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:137 #-#-# translate crowdin will_in_vokzal_0136b5d7:
 msgid "[_will_] Еще как придирается!"
-msgstr ""
+msgstr "[_will_] Il est très difficile !"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:138 #-#-# translate crowdin will_in_vokzal_008661b8:
 msgid "[_cedrick_] И какой предмет он преподает?"
-msgstr ""
+msgstr "[_cedrick_] Et quelle est la matière qu'il enseigne ?"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:139 #-#-# translate crowdin will_in_vokzal_490fb8d8:
 msgid "[_susan_] Историю"
-msgstr ""
+msgstr "[_susan_] Histoire"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:140 #-#-# translate crowdin will_in_vokzal_15a318f2:
 msgid "[_cedrick_] Знаешь, я когда-то изучал историю и если у тебя проблемы с ней я мог бы помочь..."
-msgstr ""
+msgstr "[_cedrick_] Vous savez, j'ai étudié l'histoire et si vous avez un problème à ce sujet, je pourrais peut-être vous aider..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:141 #-#-# translate crowdin will_in_vokzal_7430c143:
 msgid "[_susan_] Я думаю это просто замечательная идея! Правда Вилл?"
-msgstr ""
+msgstr "[_susan_] Je pense que c'est une excellente idée ! Vraiment Will ?"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:142 #-#-# translate crowdin will_in_vokzal_139dae29:
 msgid "[_will_] Да просто волшебно..."
-msgstr ""
+msgstr "[_will_] C'est magique..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:143 #-#-# translate crowdin will_in_vokzal_cd16e23b:
 msgid "[_cedrick_] Если конечно Вилл не будет против"
-msgstr ""
+msgstr "[_cedrick_] À moins, bien sûr, que Will ne s'y oppose"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:144 #-#-# translate crowdin will_in_vokzal_b95dbfdd:
 msgid "[_will_] Я не против, просто не уверена что это поможет..."
-msgstr ""
+msgstr "[_will_] Je n'y vois pas d'inconvénient, mais je ne suis pas sûr que cela soit utile..."
 
 # game/scripts/quests/will/will_in_vokzal.rpy:145 #-#-# translate crowdin will_in_vokzal_009ae295:
 msgid "[_cedrick_] Ну пока не попробуешь, не узнаешь"
-msgstr ""
+msgstr "[_cedrick_] Vous ne le saurez pas tant que vous ne l'aurez pas essayé"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:146 #-#-# translate crowdin will_in_vokzal_90d0a172:
 msgid "Получен адрес Сьюзан и Вилл Вендом"
-msgstr ""
+msgstr "Réception de l'adresse de Susan et Will Wendom"
 
 # game/scripts/quests/will/will_in_vokzal.rpy:151 #-#-# translate crowdin will_in_vokzal_96c2b21c:
 msgid "[_cedrick_sprite_] (Хм.. прежде чем начать преподавать Вилл, мне нужно поднять навык знания истории, вроде бы в книжном магазине были нужные книги"
-msgstr ""
+msgstr "[_cedrick_sprite_] (Hm. Avant de commencer à enseigner à Will, je dois améliorer mes connaissances en histoire, je pense que la librairie avait les bons livres"
 
