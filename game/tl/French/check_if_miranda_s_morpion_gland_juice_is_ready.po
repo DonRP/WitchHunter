@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.po\n"
+"X-Crowdin-File-ID: 5381\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:01\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:6 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_38abe73f:
+msgid "[_miranda_] Вот, держи. Я добавила стабилизатор и усилитель. Осталось полить им себя и, уж поверь, Королева Морпионов быстро тебя найдет"
+msgstr "[_miranda_] Voilà. J'ai ajouté un stabilisateur et un amplificateur. Tout ce que tu as à faire, c'est de t'arroser avec et, crois-moi, la reine des morpions te trouvera en un rien de temps."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:10 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_4968b817:
+msgid "[_cedrick_] Жду не дождусь.."
+msgstr "[_cedrick_] Je ne peux pas attendre..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:14 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_4c1dd921:
+msgid "[_miranda_] Будь осторожнее, Седрик. Это довольно опасная тварь"
+msgstr "[_miranda_] Faites attention, Cédric. C'est une créature assez dangereuse."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:18 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_d0ecbba6:
+msgid "[_cedrick_] Я справлюсь. Если что, твои зелья меня выручат, как всегда"
+msgstr "[_cedrick_] Je vais m'en sortir. Vos potions me seront d'une grande aide, comme toujours."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:22 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_cf4d23a1:
+msgid "[_miranda_] Ох, не уж то сказал мне что-то приятное?"
+msgstr "[_miranda_] Oh, il n'a pas dit quelque chose de gentil pour moi ?"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:23 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_5f250661:
+msgid "[_cedrick_] ..Я пойду"
+msgstr "[_cedrick_] ..je vais y aller"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:27 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_edcc4f4f:
+msgid "[_miranda_] С-скорее возвращайся.."
+msgstr "[_miranda_] Dépêchez-vous de revenir..."
+

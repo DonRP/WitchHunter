@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/dungeon/dungeon_with_cornelia.po\n"
+"X-Crowdin-File-ID: 5061\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:22\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/dungeon/dungeon_with_cornelia.rpy:13 #-#-# translate crowdin dungeon_with_cornelia_998e1cd0:
+msgid "[_cedrick_] Мне стоит навестить Корнелию в другой день."
+msgstr "[_cedrick_] Dovrei andare a trovare Cornelia un altro giorno."
+
+# game/scripts/meridian/dungeon/dungeon_with_cornelia.rpy:19 #-#-# translate crowdin dungeon_with_cornelia_3167f288:
+msgid "[_cedrick_] Мне здесь нечего делать."
+msgstr "[_cedrick_] Non ho nulla da fare qui."
+

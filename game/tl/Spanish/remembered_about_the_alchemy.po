@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.po\n"
+"X-Crowdin-File-ID: 5397\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:38\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:4 #-#-# translate crowdin remembered_about_the_alchemy_2e06d5bd:
+msgid "[_cedrick_] (Черт, все эти горнолыжные приключения изрядно меня утомили..)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:5 #-#-# translate crowdin remembered_about_the_alchemy_fc3216d1:
+msgid "[_cedrick_] (Сколько вообще времени прошло с тех пор, как Фобос поручил мне это задание под прикрытием? Вроде бы это было не так давно. Я начинаю слегка терять счет времени..)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:6 #-#-# translate crowdin remembered_about_the_alchemy_b2751624:
+msgid "[_cedrick_] (Пора бы уже заканчивать с заданием и вернуться на Меридиан. Не думал, что буду немного скучать по этому месту. Скоро я верну свой титул и тогда все станет как раньше)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:7 #-#-# translate crowdin remembered_about_the_alchemy_6fad2038:
+msgid "[_cedrick_] (Но, для начала, нужно разобраться с Элион)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:9 #-#-# translate crowdin remembered_about_the_alchemy_4ad4d50d:
+msgid "[_elion_] Доброе утро, Рик."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:10 #-#-# translate crowdin remembered_about_the_alchemy_53075e1d:
+msgid "[_cedrick_] А, вот и ты. Здравствуй, Элион."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:12 #-#-# translate crowdin remembered_about_the_alchemy_f492b720:
+msgid "[_elion_] Ох, Рик, устало выглядишь. Сколько ты вообще спал последнее время?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:13 #-#-# translate crowdin remembered_about_the_alchemy_ad0decfb:
+msgid "[_cedrick_] У вас в школе близится последнее полугодие. Контрольных, соответственно, тоже прибавилось, а вместе с контрольными и число их проверок.."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:15 #-#-# translate crowdin remembered_about_the_alchemy_6fa24ce9:
+msgid "[_elion_] Так.. Вот, держи, пока ты спал, я сходила за кофе, но оно тебе явно нужнее, чем мне."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:17 #-#-# translate crowdin remembered_about_the_alchemy_eece8e05:
+msgid "[_cedrick_] Хах, ну спасибо, Элион"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:19 #-#-# translate crowdin remembered_about_the_alchemy_6efda544:
+msgid "[_cedrick_] Хм, и вправду вкусный кофе"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:21 #-#-# translate crowdin remembered_about_the_alchemy_7d6c3449:
+msgid "[_elion_] Эх.. Последнее полугодие. Получается, с пропажи Алхими прошел уже почти целый месяц.."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:23 #-#-# translate crowdin remembered_about_the_alchemy_2ef90216:
+msgid "[_cedrick_] (...)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:24 #-#-# translate crowdin remembered_about_the_alchemy_e31fcb2e:
+msgid "[_cedrick_] (ПРОШЕЛ УЖЕ ЦЕЛЫЙ МЕСЯЦ?!)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:26 #-#-# translate crowdin remembered_about_the_alchemy_66c077a0:
+msgid "[_cedrick_] (Как долго я не посещал ее в темнице!? Кроме меня о ней же никто не в курсе.)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:27 #-#-# translate crowdin remembered_about_the_alchemy_ce431ea3:
+msgid "[_cedrick_] (Черт.. Я должен как-то спровадить Элион на время и тут же отправляться на Меридиан!)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:29 #-#-# translate crowdin remembered_about_the_alchemy_ae2e60cd:
+msgid "[_elion_] Рик, все хорошо? Ты выглядишь обеспокоенным. Может кофе не свежий?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:30 #-#-# translate crowdin remembered_about_the_alchemy_03e20868:
+msgid "[_cedrick_] Нет.. Просто я как раз вспомнил о том, что один клиент сегодня придет за новым выпуском Неуязвимого, а я его так и не заказал.."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:32 #-#-# translate crowdin remembered_about_the_alchemy_66a34ff7:
+msgid "[_elion_] Ох, обычно ты не забываешь заказы. Видимо совсем вымотался.. Давай я поищу его в ближайших магазинах, а ты пока отдохнешь?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:34 #-#-# translate crowdin remembered_about_the_alchemy_cd32bda3:
+msgid "[_cedrick_] Элион, ты моя спасительница."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:35 #-#-# translate crowdin remembered_about_the_alchemy_a09b1415:
+msgid "[_cedrick_] (Отлично, это займет ее на целый день. Из-за вспыхнувшей популярности, у нас этот комикс раскупили за пару дней, вряд ли он еще где-то продается в городе)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:36 #-#-# translate crowdin remembered_about_the_alchemy_3277b75a:
+msgid "[_cedrick_] Удачи, Элион. Я твой должник."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:38 #-#-# translate crowdin remembered_about_the_alchemy_04904565:
+msgid "[_elion_] Обращайся. Я всегда рада тебе помочь, после всего, что ты для меня сделал."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/remembered_about_the_alchemy.rpy:40 #-#-# translate crowdin remembered_about_the_alchemy_00a240a4:
+msgid "[_cedrick_] Так, она ушла. Теперь срочно на Меридиан"
+msgstr ""
+

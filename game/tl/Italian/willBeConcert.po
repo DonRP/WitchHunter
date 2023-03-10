@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getConcertTickets/willBeConcert.po\n"
+"X-Crowdin-File-ID: 5201\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:25\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getConcertTickets/willBeConcert.rpy:14 #-#-# translate crowdin willBeConcert_1a064a8d:
+msgid "[_alchemy_] Элион! Пойдем, скорее, в школу! Мы же опоздаем..."
+msgstr "[_alchemy_] Elyon! Sbrighiamoci ad andare a scuola! Faremo tardi..."
+
+# game/scripts/quests/getConcertTickets/willBeConcert.rpy:15 #-#-# translate crowdin willBeConcert_5a242ffc:
+msgid "[_elion_] Да? я иду"
+msgstr "[_elion_] Sì? Sto arrivando."
+
+# game/scripts/quests/getConcertTickets/willBeConcert.rpy:20 #-#-# translate crowdin willBeConcert_323ae8a8:
+msgid "[_elion_] Рик, я ушла!"
+msgstr "[_elion_] Rick, me ne vado!"
+
+# game/scripts/quests/getConcertTickets/willBeConcert.rpy:26 #-#-# translate crowdin willBeConcert_62839408:
+msgid "[_cedrick_] Хорошо."
+msgstr "[_cedrick_] Bene."
+
+# game/scripts/quests/getConcertTickets/willBeConcert.rpy:31 #-#-# translate crowdin willBeConcert_0348f39d:
+msgid "[_alchemy_] Кстати! А ты слышала, что Сортирный Союз скоро дают концерт у нас в городе!?"
+msgstr "[_alchemy_] A proposito, avete sentito che i Wimpy Union terranno presto un concerto nella nostra città?"
+
+# game/scripts/quests/getConcertTickets/willBeConcert.rpy:35 #-#-# translate crowdin willBeConcert_fcb0d080:
+msgid "[_elion_] Правда? Корнелия их просто обожает..."
+msgstr "[_elion_] Davvero? Cornelia li adora..."
+
+# game/scripts/quests/getConcertTickets/willBeConcert.rpy:39 #-#-# translate crowdin willBeConcert_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/getConcertTickets/willBeConcert.rpy:40 #-#-# translate crowdin willBeConcert_caaa944f:
+msgid "[_cedrick_] (Хм... А это может быть полезно!)"
+msgstr "[_cedrick_] (Hmmm... E questo potrebbe essere utile!)."
+
+# game/scripts/quests/getConcertTickets/willBeConcert.rpy:41 #-#-# translate crowdin willBeConcert_f52066bd:
+msgid "[_cedrick_] (Возможно мне стоит позвать Корнелию на этот концерт. Это поможет мне сблизиться с ней...)"
+msgstr "[_cedrick_] (Forse dovrei invitare Cornelia a questo concerto. Mi aiuterebbe ad avvicinarmi a lei...)."
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.po\n"
+"X-Crowdin-File-ID: 5097\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:56\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:5 #-#-# translate crowdin visit_alchemy_in_dungeon2_37984bc7:
+msgid "[_cedrick_sprite_] Ну как тебе здесь, нравится?"
+msgstr "[_cedrick_sprite_] Comment vous trouvez-vous ici ?"
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:10 #-#-# translate crowdin visit_alchemy_in_dungeon2_1954a3d9:
+msgid "[_alchemy_] О да, очень..."
+msgstr "[_alchemy_] Oh oui, très..."
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:11 #-#-# translate crowdin visit_alchemy_in_dungeon2_4fe21230:
+msgid "[_cedrick_sprite_]  Знаешь, ты ведь могла бы и не попасть сюда... Не стоило искать своего брата... "
+msgstr "[_cedrick_sprite_]  Tu sais, tu n'aurais pas dû venir ici... Tu n'aurais pas dû chercher ton frère... "
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:12 #-#-# translate crowdin visit_alchemy_in_dungeon2_5d495c5d:
+msgid "[_cedrick_sprite_]  Он мешался у меня под ногами, поэтому пришлось от него избавится.. "
+msgstr "[_cedrick_sprite_]  Il se mettait en travers de mon chemin, alors j'ai dû m'en débarrasser... "
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:18 #-#-# translate crowdin visit_alchemy_in_dungeon2_87a04a18:
+msgid "[_alchemy_] Ты псих! Выпусти меня отсюда!!"
+msgstr "[_alchemy_] Vous êtes fou ! Laissez-moi sortir d'ici ! !!"
+
+# game/scripts/quests/alchemyInDungeon/visit_alchemy_in_dungeon2.rpy:19 #-#-# translate crowdin visit_alchemy_in_dungeon2_557d0a7a:
+msgid "[_cedrick_sprite_] Похоже ты не намерена разговаривать, что ж зайду в другой раз.."
+msgstr "[_cedrick_sprite_] Vous ne semblez pas décidée à parler, alors je reviendrai une autre fois..."
+

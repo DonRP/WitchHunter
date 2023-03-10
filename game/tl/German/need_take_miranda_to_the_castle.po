@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/questDefeatMorpionKing/need_take_miranda_to_the_castle.po\n"
+"X-Crowdin-File-ID: 5405\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:44\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/need_take_miranda_to_the_castle.rpy:2 #-#-# translate crowdin need_take_miranda_to_the_castle_83595932:
+msgid "[_cedrick_] Сначала я должен отнести Миранду в замок"
+msgstr ""
+

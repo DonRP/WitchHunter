@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/growingUpLilian/dontGetIngredientForAgePotionForLilian.po\n"
+"X-Crowdin-File-ID: 5269\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:59\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/dontGetIngredientForAgePotionForLilian.rpy:8 #-#-# translate crowdin dontGetIngredientForAgePotionForLilian_3683a4bc:
+msgid "[_miranda_] Ты принес ингредиент?"
+msgstr "[_miranda_] Tu as apporté l'ingrédient ?"
+
+# game/scripts/quests/growingUpLilian/dontGetIngredientForAgePotionForLilian.rpy:12 #-#-# translate crowdin dontGetIngredientForAgePotionForLilian_e6f6bc07:
+msgid "[_cedrick_] Еще нет"
+msgstr "[_cedrick_] Pas encore."
+
+# game/scripts/quests/growingUpLilian/dontGetIngredientForAgePotionForLilian.rpy:16 #-#-# translate crowdin dontGetIngredientForAgePotionForLilian_1bfe9e1d:
+msgid "[_miranda_] Я не смогу сделать тебе зелье без него, возьми его у ведьмака в таверне"
+msgstr "[_miranda_] Je ne peux pas te faire de potion sans elle, prends-la chez le sorcier de la taverne."
+

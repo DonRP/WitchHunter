@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/castle_label.po\n"
+"X-Crowdin-File-ID: 5057\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:26\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/castle_label.rpy:12
+msgid "Тронный зал"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:12
+msgid "Наполнить сосуд"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:12
+msgid "К миранде"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:12
+msgid "В комнату к Лилиан"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:12
+msgid "Казармы"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:12
+msgid "Темницы"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:12
+msgid "Вернуться"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:53
+msgid "Темница 1"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:53
+msgid "Темница 2"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:53
+msgid "Темница 3"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:55
+msgid "Темница Алхими"
+msgstr ""
+
+# game/scripts/meridian/castle_label.rpy:62
+msgid "Темница Корнелии"
+msgstr ""
+

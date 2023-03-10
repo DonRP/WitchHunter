@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestPhobosAskKillTwoMobs.po\n"
+"X-Crowdin-File-ID: 4933\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:3
+msgid "Подготовка к нападению на запретный город"
+msgstr "Preparazione di un attacco alla Città Proibita"
+
+# game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
+msgid "Поговорить с князем Фобосом"
+msgstr "Parlare con il principe Phobos"
+
+# game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
+msgid "Победить Песчаного демона"
+msgstr "Sconfiggere il demone della sabbia"
+
+# game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
+msgid "Победить Гаргойла"
+msgstr "Sconfiggere il Gargoyle"
+
+# game/scripts/core/quests/QuestPhobosAskKillTwoMobs.rpy:18
+msgid "Сообщить фобосу о том что его поручение выполнено"
+msgstr "Informare Fobos che la sua commissione è stata completata."
+

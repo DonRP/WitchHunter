@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/school/radioroom.po\n"
+"X-Crowdin-File-ID: 5595\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:45\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/school/radioroom.rpy:24 #-#-# translate crowdin radioroom_c8f725d2:
+msgid "[_courtney_] Что ты здесь делаешь, эта комната только для персонала"
+msgstr ""
+
+# game/scripts/school/radioroom.rpy:25 #-#-# translate crowdin radioroom_53ab2461:
+msgid "[_bess_] Так что если у тебя нет хорошей сплетни или вроде того.. проваливай.."
+msgstr ""
+
+# game/scripts/school/radioroom.rpy:26 #-#-# translate crowdin radioroom_1e367c7b:
+msgid "[_cedrick_sprite_] Пожалуй кое-что есть..."
+msgstr ""
+
+# game/scripts/school/radioroom.rpy:27 #-#-# translate crowdin radioroom_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/school/radioroom.rpy:30 #-#-# translate crowdin radioroom_3958290b:
+msgid "Контент в разработке"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/school/radioroom.rpy:13
+msgid "Распросить о тарани"
+msgstr ""
+
+# game/scripts/school/radioroom.rpy:13
+msgid "Поговорить с ними"
+msgstr ""
+

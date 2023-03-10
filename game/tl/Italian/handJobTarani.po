@@ -1,0 +1,462 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/handJobTarani.po\n"
+"X-Crowdin-File-ID: 5485\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:29\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/handJobTarani.rpy:7 #-#-# translate crowdin handJobTarani_210ec95d:
+msgid "[_cedrick_] Приветствую вас, ученики. Надеюсь вы хорошенько отдохнули на выходных!"
+msgstr "[_cedrick_] Saluti, studenti. Spero che abbiate trascorso un buon fine settimana!"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:8 #-#-# translate crowdin handJobTarani_20c7d43b:
+msgid "[_cedrick_] Сегодня мы будем изучать...."
+msgstr "[_cedrick_] Oggi studieremo...."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:12 #-#-# translate crowdin handJobTarani_052d0123:
+msgid "[_centered_] {size=37}Спустя некоторое время..{/size}"
+msgstr "[_centered_] {size=37}"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:16 #-#-# translate crowdin handJobTarani_af7d75e7:
+msgid "[_cedrick_] На этом все! Не забудьте повторить пройденный материал..."
+msgstr "[_cedrick_] Tutto qui! Non dimenticate di rivedere ciò che avete imparato..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:17 #-#-# translate crowdin handJobTarani_e656cf0c:
+msgid "[_cedrick_] Эм.. Тарани, не могла бы ты задержаться?"
+msgstr "[_cedrick_] Tarani, potresti aspettare?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:21 #-#-# translate crowdin handJobTarani_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:25 #-#-# translate crowdin handJobTarani_180dfdd7:
+msgid "[_tarani_] Вы чего-то хотели, Профессор Рик?"
+msgstr "[_tarani_] Vuole qualcosa, professor Rick?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:29 #-#-# translate crowdin handJobTarani_28f34b02:
+msgid "[_cedrick_] Да, это касается Найджела. Он редко появляется в школе, а вы с ним вроде как близко общаетесь"
+msgstr "[_cedrick_] Sì, si tratta di Nigel. Si fa vedere raramente a scuola e tu sei molto legato a lui."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:33 #-#-# translate crowdin handJobTarani_5d714ac6:
+msgid "[_tarani_] Найджела.. Да, мы.. мы общаемся. Что ему передать?"
+msgstr "[_tarani_] Nigel... Sì, stiamo... stiamo comunicando. Cosa posso dirgli?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:37 #-#-# translate crowdin handJobTarani_6004ed29:
+msgid "[_cedrick_] Передай ему, что в скором времени его исключат из школы"
+msgstr "[_cedrick_] Ditegli che presto sarà espulso dalla scuola."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:41 #-#-# translate crowdin handJobTarani_da09f8ba:
+msgid "[_tarani_] ЧТО!?"
+msgstr "[_tarani_] CHE COSA?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:45 #-#-# translate crowdin handJobTarani_6fafac3c:
+msgid "[_tarani_] Ч-Что значит Найджела исключат!?"
+msgstr "[_tarani_] Cosa vuol dire che Nigel sarà espulso!?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:49 #-#-# translate crowdin handJobTarani_a3f33f8f:
+msgid "[_cedrick_] Вот. Это фото я недавно обнаружил в своем письменном столике. Видимо кто-то его подложил в надежде на то, что я отнесу его в учительскую.."
+msgstr "[_cedrick_] Qui. Di recente ho trovato questa foto nella mia scrivania. Qualcuno deve averla piantata nella speranza che la portassi in sala professori..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:52 #-#-# translate crowdin handJobTarani_a34c6bd8:
+msgid "[_cedrick_] Фотограф решил остаться анонимным. Не знаю, может это проделки девочек из клуба журналистики и таким образом они создают почву для очередной сенсации.."
+msgstr "[_cedrick_] Il fotografo ha deciso di rimanere anonimo. Non so se si tratta di uno scherzo delle ragazze del club di giornalismo e se è così che creano il terreno per un altro scoop..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:53 #-#-# translate crowdin handJobTarani_d356b1fe:
+msgid "[_cedrick_] Думаю они не хотели попасться на слежке за учениками, поэтому.."
+msgstr "[_cedrick_] Immagino che non volessero essere scoperti a pedinare gli studenti, quindi..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:57 #-#-# translate crowdin handJobTarani_3a51ebf0:
+msgid "[_tarani_] Найджел.. Как же так.."
+msgstr "[_tarani_] Nigel... Come diavolo..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:62 #-#-# translate crowdin handJobTarani_776dbcef:
+msgid "[_tarani_] Эти девки из клуба журналистики..."
+msgstr "[_tarani_] Queste ragazze del club di giornalismo..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:63 #-#-# translate crowdin handJobTarani_bd3476db:
+msgid "[_cedrick_] (Отлично, она заглотила наживку. Осталось раскрутить ее. Но я не должен напирать на нее, иначе она меня раскусит)"
+msgstr "[_cedrick_] (Ottimo, ha abboccato all'amo. Non resta che rilassarla. Ma non devo forzarla, altrimenti avrà la meglio su di me\")."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:64 #-#-# translate crowdin handJobTarani_52886c65:
+msgid "[_cedrick_] (Пусть сама предложит то, что мне нужно, тогда у нее не будет пути назад)"
+msgstr "[_cedrick_] (Lasciarle suggerire ciò di cui ho bisogno, poi non avrà modo di tornare indietro)"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:68 #-#-# translate crowdin handJobTarani_b9bb71c7:
+msgid "[_tarani_] Профессор Рик, я.. Найджел неплохой парень, он просто.."
+msgstr "[_tarani_] Professor Rick, io... Nigel non è un cattivo ragazzo, è solo..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:72 #-#-# translate crowdin handJobTarani_ecb08f1c:
+msgid "[_cedrick_] Тарани, я прекрасно понимаю. Он просто связался не с той компанией. Но таковы последствия его неправильных решений"
+msgstr "[_cedrick_] Tarani, capisco perfettamente. Si è solo messo contro la società sbagliata. Ma queste sono le conseguenze delle sue decisioni sbagliate"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:76 #-#-# translate crowdin handJobTarani_ca594820:
+msgid "[_tarani_] Н-но он сможет исправиться.. Я смогу его исправить"
+msgstr "[_tarani_] Ma può migliorare... Posso curarlo."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:80 #-#-# translate crowdin handJobTarani_bc599db8:
+msgid "[_cedrick_] Это далеко не первое вынесенное ему предупреждение об исключении, но его поведение не изменилось"
+msgstr "[_cedrick_] Non è la prima ammonizione per espulsione, ma il suo comportamento non è cambiato."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:81 #-#-# translate crowdin handJobTarani_ad8df0ad:
+msgid "[_cedrick_] Не думаю, что ты не говорила с ним до этого и, как видишь, никаких результатов это не принесло"
+msgstr "[_cedrick_] Non credo che tu abbia mai parlato con lui prima e, come puoi vedere, non ha fatto alcuna differenza."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:82 #-#-# translate crowdin handJobTarani_457b1efb:
+msgid "[_cedrick_] Мне жаль, но я буду вынужден передать это фото директору"
+msgstr "[_cedrick_] Mi dispiace, ma devo consegnare questa foto al direttore."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:86 #-#-# translate crowdin handJobTarani_70b349e1:
+msgid "[_tarani_] Тогда зачем вы сначала показали это фото мне?"
+msgstr "[_tarani_] Allora perché mi hai mostrato prima questa foto?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:90 #-#-# translate crowdin handJobTarani_138f401d:
+msgid "[_cedrick_] Я просто.. хотел, чтобы Найджел узнал об этом заранее, от кого-то близкого. Он парень эмоциональный, кто знает, что бы он устроил, если бы узнал все сразу от директора.."
+msgstr "[_cedrick_] Volevo solo... che Nigel lo scoprisse in anticipo, da qualcuno che gli fosse vicino. È un tipo emotivo, chissà cosa farebbe se lo scoprisse subito dal preside..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:91 #-#-# translate crowdin handJobTarani_3b204b69:
+msgid "[_cedrick_] ..А так у него будет время все обдумать и заранее начать искать новую школу"
+msgstr "[_cedrick_] ... Questo gli darà il tempo di riflettere e di iniziare a cercare una nuova scuola in anticipo."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:95 #-#-# translate crowdin handJobTarani_47e5de9b:
+msgid "[_tarani_] ..Не исключайте Найджела.."
+msgstr "[_tarani_] ...non escludere Nigel..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:100 #-#-# translate crowdin handJobTarani_6a7f3c9e:
+msgid "[_cedrick_] (Фух, чуть не попался...)"
+msgstr "[_cedrick_] (Uff, per poco non mi beccano...)"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:101 #-#-# translate crowdin handJobTarani_d0967235:
+msgid "[_tarani_] (Я не могу позволить Найджелу перейти в другую школу. Тогда мы почти перестанем видеться и в новой школе он совсем испортится.. Что же мне делать..)"
+msgstr "[_tarani_] (Non posso permettere che Nigel si trasferisca in un'altra scuola. Poi non ci vedremo quasi più e lui sarà totalmente viziato nella nuova scuola... Cosa farò...)"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:105 #-#-# translate crowdin handJobTarani_6a605a5b:
+msgid "[_tarani_] Ч-что вы хотите за это фото?"
+msgstr "[_tarani_] Cosa vuoi per questa foto?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:109 #-#-# translate crowdin handJobTarani_39ed4670:
+msgid "[_cedrick_] Тарани, ты что, пытаешься меня купить?"
+msgstr "[_cedrick_] Tarani, stai cercando di comprarmi?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:113 #-#-# translate crowdin handJobTarani_143c889f:
+msgid "[_tarani_] Просто назовите цену.. 100$? 200$?"
+msgstr "[_tarani_] Basta indicare il prezzo... 100$? 200$?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:117 #-#-# translate crowdin handJobTarani_14b0b2eb:
+msgid "[_cedrick_] Тарани.. Репутация школы стоит гораздо дороже, и Найджел уже неоднократно ставил ее под удар"
+msgstr "[_cedrick_] Tarani... La reputazione della scuola vale molto di più e Nigel l'ha già messa a rischio più di una volta."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:121 #-#-# translate crowdin handJobTarani_06be9e70:
+msgid "[_tarani_] Найджел не виноват! Это все Урия и его компашка его испортили!"
+msgstr "[_tarani_] Non è stata colpa di Nigel! Sono stati Uria e la sua banda a rovinarlo!"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:125 #-#-# translate crowdin handJobTarani_5877783f:
+msgid "[_cedrick_] Да, но даже без них у Найджела достаточно проблем. Его успеваемость одна из самых низких в классе. Даже тот же Урия в среднем набирает больше баллов"
+msgstr "[_cedrick_] Sì, ma anche senza di loro, Nigel ha già abbastanza problemi. I suoi voti sono tra i più bassi della classe. Anche Uriah sta ottenendo una media di voti migliore"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:126 #-#-# translate crowdin handJobTarani_7d510b69:
+msgid "[_cedrick_] Ты же умная девочка, Тарани, почему ты не помогала ему с учебой раньше?"
+msgstr "[_cedrick_] Sei una ragazza intelligente, Tarani, perché non l'hai aiutato prima con i suoi studi?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:130 #-#-# translate crowdin handJobTarani_a75cbd52:
+msgid "[_tarani_] Черт, думаете я не пыталась!?"
+msgstr "[_tarani_] Merda, pensi che non ci abbia mai provato?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:134 #-#-# translate crowdin handJobTarani_5f34dcb9:
+msgid "[_cedrick_] Воу.."
+msgstr "[_cedrick_] Wow..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:135 #-#-# translate crowdin handJobTarani_a93e81b3:
+msgid "[_tarani_] (Каждый раз, когда я пыталась научить Найджела хоть чему-то, в итоге это всегда заканчивалось тем, что он пытался лезть ко мне в трусы!)"
+msgstr "[_tarani_] (Ogni volta che ho cercato di insegnare qualcosa a Nigel, è sempre finita con lui che cercava di entrare nei miei pantaloni)."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:136 #-#-# translate crowdin handJobTarani_5ae38e0b:
+msgid "[_tarani_] (А когда я злилась на него, он говорил, что злость делает меня очень сексуальной и его это только больше заводит.. как после такого откажешь..)"
+msgstr "[_tarani_] (E quando ero arrabbiata con lui, ha detto che l'essere arrabbiata mi rendeva molto sexy e lo eccitava ancora di più... come posso dire di no dopo questo...)"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:137 #-#-# translate crowdin handJobTarani_65e4ccb1:
+msgid "[_cedrick_] Держите себя в руках, юная леди, незачем так заводиться"
+msgstr "[_cedrick_] Si controlli, signorina, non c'è bisogno di agitarsi tanto."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:141 #-#-# translate crowdin handJobTarani_8f349489:
+msgid "[_tarani_] ..Ч-что вы сказали?"
+msgstr "[_tarani_] Cosa hai detto?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:145 #-#-# translate crowdin handJobTarani_385c5ad4:
+msgid "[_cedrick_] Я сказал, что ни к чему так заводиться, Тарани"
+msgstr "[_cedrick_] Ho detto che non c'è bisogno di agitarsi tanto, Tarani."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:149 #-#-# translate crowdin handJobTarani_cc65e6f5:
+msgid "[_tarani_] (..А может быть.. Н-нет, это уже слишком.. Но.. Но что мне еще остается.. Купить фотографию не получилось, остается лишь..)"
+msgstr "[_tarani_] (...O forse... N-no, è troppo... Ma... Ma cos'altro posso fare... Non sono riuscito a comprare una foto, tutto ciò che rimane è...)"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:153 #-#-# translate crowdin handJobTarani_951e57ed:
+msgid "[_tarani_] ..Профессор Рик.. А вы.. Считаете меня сексуальной?"
+msgstr "[_tarani_] ...professor Rick... Tu... Pensi che io sia sexy?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:157 #-#-# translate crowdin handJobTarani_a518ccbe:
+msgid "[_cedrick_] (Вот оно, она наконец-то поняла, что мне от нее нужно. Но мне не стоит торопиться)"
+msgstr "[_cedrick_] (Ecco, finalmente ha capito cosa voglio da lei. Ma non dovrei avere fretta)."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:158 #-#-# translate crowdin handJobTarani_7828be33:
+msgid "[_cedrick_] Что ты имеешь ввиду, Тарани? Не пойму, к чему ты клонишь"
+msgstr "[_cedrick_] Cosa vuoi dire, Tarani? Non so dove vuoi andare a parare."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:162 #-#-# translate crowdin handJobTarani_ef2140b2:
+msgid "[_tarani_] (Да чего он ломается... Мне и так непросто дается этот шаг..)"
+msgstr "[_tarani_] (Perché si sta rompendo... Già faccio fatica a fare questo passo)."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:166 #-#-# translate crowdin handJobTarani_780c1939:
+msgid "[_tarani_] Ну.. Вам нравится, например, это?"
+msgstr "[_tarani_] Beh... Ti piace questo, per esempio?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:171 #-#-# translate crowdin handJobTarani_0dcdd6e8:
+msgid "[_cedrick_] Тарани Кук! Ты видимо очень сильно хочешь, чтобы Найджел остался в этой школе"
+msgstr "[_cedrick_] Tarany Cook! Dovete davvero volere che Nigel rimanga in quella scuola..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:172 #-#-# translate crowdin handJobTarani_fff5b58f:
+msgid "[_tarani_] (Черт, ты даже не представляешь насколько. Если его переведут в другую школу, я попросту его потеряю..)"
+msgstr "[_tarani_] (Diavolo, non avete idea di quanto. Se viene trasferito in un'altra scuola, lo perderò semplicemente...)."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:173 #-#-# translate crowdin handJobTarani_507cfde5:
+msgid "[_cedrick_] ..Но неужели ты думаешь, что распахнуть свою рубашку будет достаточно?"
+msgstr "[_cedrick_] ...ma pensi davvero che sbottonarsi la camicia sia sufficiente?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:177 #-#-# translate crowdin handJobTarani_e866089d:
+msgid "[_tarani_] ..Я...Ч-что, простите?!"
+msgstr "[_tarani_] ... io... cosa, scusa?!"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:181 #-#-# translate crowdin handJobTarani_44cd57b6:
+msgid "[_cedrick_] Не трать мое время, девочка. Оголила свой живот и думаешь, что получишь все, что хочешь. Чего я там не видел?"
+msgstr "[_cedrick_] Non farmi perdere tempo, ragazza. Ti metti a nudo e pensi che otterrai tutto quello che vuoi. Cosa non ho visto lì?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:185 #-#-# translate crowdin handJobTarani_911931b2:
+msgid "[_cedrick_] Видимо вы не такие уж и разные с Найджелом. После твоей выходки я точно пойду к директору"
+msgstr "[_cedrick_] A quanto pare non sei così diverso da Nigel. Dopo la tua bravata, andrò sicuramente nell'ufficio del preside."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:189 #-#-# translate crowdin handJobTarani_dfaa5edf:
+msgid "[_cedrick_] (Ну же, Тарани, давай.. Останови меня)"
+msgstr "[_cedrick_] (Dai, Tarani, dai... Fermami)"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:193 #-#-# translate crowdin handJobTarani_eb9c66fd:
+msgid "[_tarani_] Н-нет! Стойте! Вы не можете!"
+msgstr "[_tarani_] N-no! Fermati! Non puoi!"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:197 #-#-# translate crowdin handJobTarani_49592fe8:
+msgid "[_tarani_] (Проклятье, он не оставляет мне выбора.. Я должна сделать хоть что-то, иначе он уйдет прямо сейчас)"
+msgstr "[_tarani_] (Dannazione, non mi lascia altra scelta... Devo fare qualcosa o se ne andrà subito)."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:199 #-#-# translate crowdin handJobTarani_355b2bbf:
+msgid "[_centered_] {size=37}Тарани резко бросается к штанам Седрика{/size}"
+msgstr "[_centered_] {Tarani si precipita bruscamente verso i pantaloni di Cedric{/size}."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:204 #-#-# translate crowdin handJobTarani_d461c445:
+msgid "[_tarani_] А что на счет такого? Это вас устроит, Профессор Рик?! Такого вы еще точно не видели!"
+msgstr "[_tarani_] Che ne dite di questo? Le andrebbe bene, professor Rick?! Questo è qualcosa che non hai ancora visto!"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:207 #-#-# translate crowdin handJobTarani_07c396d5:
+msgid "[_tarani_] (До чего я только что опустилась... Дрочу учителю прямо в кабинете.. А до этого я прикасалась так только к Найджелу..)"
+msgstr "[_tarani_] (A cosa mi sono abbassato... Masturbarsi con un insegnante nel mio ufficio... E prima di allora, avevo toccato Nigel solo in quel modo...)."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:210 #-#-# translate crowdin handJobTarani_230b4c87:
+msgid "[_cedrick_] Да, Тарани, теперь я понимаю, почему вы с Найджелом спелись. С виду тихоня-отличница, а на деле готова мастурбировать учителю, чтобы достичь желаемого"
+msgstr "[_cedrick_] Sì, Tarani, capisco perché tu e Nigel andate d'accordo. La ragazza tranquilla che sembra un'ottima studentessa, ma che è disposta a masturbarsi con il suo insegnante per ottenere ciò che vuole."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:213 #-#-# translate crowdin handJobTarani_2ce516e7:
+msgid "[_cedrick_] Вот значит какая ты настоящая.."
+msgstr "[_cedrick_] Ecco quanto sei reale..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:217 #-#-# translate crowdin handJobTarani_a2c108d4:
+msgid "[_tarani_] Э-это не так.. я просто.. не хочу терять Найджела.."
+msgstr "[_tarani_] Non è questo. È solo che... non voglio perdere Nigel."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:220 #-#-# translate crowdin handJobTarani_e689c772:
+msgid "[_cedrick_] Не останавливайся, чего сразу сбросила темп? Раз уж начала это грязное дело, так заканчивай как следует"
+msgstr "[_cedrick_] Non fermarti ora, perché rallenti così tanto? Una volta iniziata questa sporca faccenda, portatela a termine in modo corretto."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:223 #-#-# translate crowdin handJobTarani_ae1195a4:
+msgid "[_tarani_] Я-я поняла.."
+msgstr "[_tarani_] Ho capito."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:226 #-#-# translate crowdin handJobTarani_4fb9b68f:
+msgid "[_cedrick_] Ох, а ты хороша в этом деле, я удивлен. Думаю, вместо того, чтобы помогать Найджелу в учебе, ты помогала ему разобраться с его стояком"
+msgstr "[_cedrick_] Oh, sei bravo in questo, sono sorpreso. Immagino che invece di aiutare Nigel a studiare, tu lo stessi aiutando a gestire la sua erezione."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:229 #-#-# translate crowdin handJobTarani_b56742ba:
+msgid "[_tarani_] Заткнись.."
+msgstr "[_tarani_] Zitto..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:232 #-#-# translate crowdin handJobTarani_73061d2a:
+msgid "[_cedrick_] Не разговаривай так с учителем, юная леди. Лучше, вместо того, чтобы огрызаться, покажи мне свою грудь"
+msgstr "[_cedrick_] Non parlare così alla tua insegnante, signorina. Invece di scattare contro di me, mostrami il tuo seno."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:235 #-#-# translate crowdin handJobTarani_e0ae386c:
+msgid "[_tarani_] Ч-что вы сказали!? Я не собираюсь.."
+msgstr "[_tarani_] Cosa hai detto? Non ho intenzione di..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:238 #-#-# translate crowdin handJobTarani_43600775:
+msgid "[_cedrick_] Ты стоишь прямо посреди класса и дрочишь мне. Конечно ты собираешься.. Если хочешь получить фото"
+msgstr "[_cedrick_] Sei in piedi nel bel mezzo della lezione e mi fai una sega. Certo che sì. Se volete ottenere un'immagine"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:241 #-#-# translate crowdin handJobTarani_385e9136:
+msgid "[_tarani_] ...."
+msgstr "[_tarani_] ...."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:246 #-#-# translate crowdin handJobTarani_ae653819:
+msgid "[_cedrick_] Ммм, вот это формы. Я начинаю понимать, что такой хулиган, как Найджел, в тебе нашел"
+msgstr "[_cedrick_] Queste sì che sono forme. Comincio a capire cosa ci trovi in te un bullo come Nigel."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:249 #-#-# translate crowdin handJobTarani_1ade0092:
+msgid "[_tarani_] ..Это не так ..Я ему нравлюсь за свой острый ум и доброту"
+msgstr "[_tarani_] ... Non è vero. ... Gli piaccio per la mia mente acuta e la mia gentilezza."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:252 #-#-# translate crowdin handJobTarani_f3162831:
+msgid "[_cedrick_] Дааа, парни всегда так говорят, когда хотят затащить тихоню в постель.. И не говори, что он не пытался.."
+msgstr "[_cedrick_] Sì, è quello che dicono sempre i ragazzi quando vogliono portarsi a letto quella silenziosa. E non dire che non ci ha provato..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:255 #-#-# translate crowdin handJobTarani_436dc294:
+msgid "[_tarani_] (Черт, да когда же он кончит.. Найджел к этому времени уже давно бы все спустил..)"
+msgstr "[_tarani_] (Dannazione, quando verrà... Nigel se ne sarebbe già andato da un pezzo...)."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:258 #-#-# translate crowdin handJobTarani_7ea73b3c:
+msgid "[_cedrick_] Ох, да, Тарани, продолжай.."
+msgstr "[_cedrick_] Oh, sì, Tarani, continua..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:261 #-#-# translate crowdin handJobTarani_9b4ad5d7:
+msgid "[_cedrick_] У тебя чертовски нежные руки.."
+msgstr "[_cedrick_] Le tue mani sono così dannatamente morbide..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:264 #-#-# translate crowdin handJobTarani_a65cb5da:
+msgid "[_cedrick_] Интересно, у тебя вся кожа такая нежная.."
+msgstr "[_cedrick_] Mi chiedo se tutta la tua pelle sia così delicata..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:267 #-#-# translate crowdin handJobTarani_7fa0c6db:
+msgid "[_tarani_] Не надейся, что когда-либо узнаешь..."
+msgstr "[_tarani_] Non aspettatevi di saperlo..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:270 #-#-# translate crowdin handJobTarani_aec1a245:
+msgid "[_cedrick_] Это мы еще... О, черт, я кончаю!"
+msgstr "[_cedrick_] Siamo ancora... Oh, merda, sto arrivando!"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:273 #-#-# translate crowdin handJobTarani_63636fd3:
+msgid "[_tarani_] Черт, ты меня всю запачкал..."
+msgstr "[_tarani_] Dannazione, mi hai sporcato..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:274 #-#-# translate crowdin handJobTarani_831f81a4:
+msgid "[_cedrick_] Это было и для меня неожиданно.."
+msgstr "[_cedrick_] Anche per me è stato inaspettato..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:278 #-#-# translate crowdin handJobTarani_c3719f55:
+msgid "[_tarani_] ..Мы закончили? Я могу забрать фото?"
+msgstr "[_tarani_] Abbiamo finito? Posso scattare la foto?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:282 #-#-# translate crowdin handJobTarani_70fb31a9:
+msgid "[_cedrick_] Да, фото можешь забрать, пожалуй, ты заслужила"
+msgstr "[_cedrick_] Sì, puoi avere la foto, penso che te la meriti."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:286 #-#-# translate crowdin handJobTarani_3e021a4b:
+msgid "[_tarani_] ...Я пойду"
+msgstr "[_tarani_] ...andrò"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:290 #-#-# translate crowdin handJobTarani_2a2160d6:
+msgid "[_cedrick_] Но Тарани, ты и вправду думаешь, что сделала для Найджела все, что нужно?"
+msgstr "[_cedrick_] Ma Tarani, pensi davvero di aver fatto tutto quello che dovevi fare per Nigel?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:294 #-#-# translate crowdin handJobTarani_bdbea2cd:
+msgid "[_tarani_] ..Что ты имеешь ввиду?"
+msgstr "[_tarani_] ...Cosa vuoi dire?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:298 #-#-# translate crowdin handJobTarani_5176a415:
+msgid "[_cedrick_] Ты же понимаешь, что даже без этих фото, следующие экзамены Найджел завалит и тогда, с его-то репутацией, его точно исключат"
+msgstr "[_cedrick_] Vi rendete conto che, anche senza queste foto, Nigel non supererà i prossimi esami e quindi, con la sua reputazione, sarà sicuramente espulso."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:302 #-#-# translate crowdin handJobTarani_c1dd1418:
+msgid "[_tarani_] ..Я как-нибудь помогу ему с учебой"
+msgstr "[_tarani_] ...lo aiuterò con i suoi studi, qualche volta."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:306 #-#-# translate crowdin handJobTarani_ea8e778d:
+msgid "[_cedrick_] Ох, и в итоге снова возьмешься за его член? Тарани, если бы ты могла его хоть чему-то научить, он не оказался бы в подобной ситуации"
+msgstr "[_cedrick_] Oh, e finirai per prendere di nuovo il suo cazzo? Tarani, se tu potessi insegnargli qualcosa, non si troverebbe in questa situazione."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:310 #-#-# translate crowdin handJobTarani_3eb7f8ba:
+msgid "[_tarani_] ..Чего ты хочешь!?"
+msgstr "[_tarani_] ...che cosa vuoi!?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:314 #-#-# translate crowdin handJobTarani_9f47b447:
+msgid "[_cedrick_] ..Я мог бы подделывать тесты Найджела"
+msgstr "[_cedrick_] potrei falsificare i test di Nigel."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:318 #-#-# translate crowdin handJobTarani_234d91df:
+msgid "[_tarani_] ..П-правда?"
+msgstr "[_tarani_] ...giusto?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:322 #-#-# translate crowdin handJobTarani_0efb3308:
+msgid "[_cedrick_] Думаю в таком случае он не вылетит. Но я надеюсь на встречную услугу с твоей стороны. Знаешь, проверка контрольных так утомляет, а тут еще и подделывание оценок.."
+msgstr "[_cedrick_] In questo caso non credo che volerà via. Ma spero in un favore da parte vostra. Sai, è estenuante controllare i test, e poi c'è la falsificazione dei voti..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:326 #-#-# translate crowdin handJobTarani_0bf552f6:
+msgid "[_tarani_] Ясно.. Ближе к делу"
+msgstr "[_tarani_] Capisco... Arrivare al punto."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:330 #-#-# translate crowdin handJobTarani_75ca9ee6:
+msgid "[_cedrick_] У тебя отличные сиськи, Тарани. Думаю они отлично скрасят мой досуг во время проверки контрольных работ"
+msgstr "[_cedrick_] Hai delle belle tette, Tarani. Penso che saranno un ottimo modo per allietare il mio tempo libero con i quiz."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:334 #-#-# translate crowdin handJobTarani_9bea826e:
+msgid "[_tarani_] Что!? Да что вы себе позволяете!"
+msgstr "[_tarani_] Cosa? Cosa diavolo pensi di fare!"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:338 #-#-# translate crowdin handJobTarani_ea3a8629:
+msgid "[_cedrick_] Все абсолютно справедливо. Я подделываю тесты Найджела, а ты в это время дрочишь мне своими сиськами у меня под столом. Командная работа, понимаешь?"
+msgstr "[_cedrick_] È assolutamente giusto. Fingo gli esami di Nigel mentre tu mi masturbi con le tue tette sotto la mia scrivania. Lavoro di squadra, insomma."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:342 #-#-# translate crowdin handJobTarani_979d1098:
+msgid "[_tarani_] Да как вы.."
+msgstr "[_tarani_] Come hai..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:343 #-#-# translate crowdin handJobTarani_1373ef4c:
+msgid "[_cedrick_] Это не я набросился на тебя, оголив член, Тарани. Ты сама достала его у меня из штанов. Это единственное, что ты можешь мне предложить, ты сама прекрасно понимаешь"
+msgstr "[_cedrick_] Non sono venuto da te con il cazzo scoperto, Tarani. L'hai tirato fuori dai miei pantaloni. È l'unica cosa che hai da offrirmi, lo sai."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:347 #-#-# translate crowdin handJobTarani_08a0dc52:
+msgid "[_cedrick_] И еще ты достаточно умная девочка, чтобы понять, что без меня тебе не спасти Найджела. У этого идиота не хватило мозгов даже чтобы списать, в отличии от Урии"
+msgstr "[_cedrick_] E sei anche una ragazza abbastanza intelligente da sapere che non puoi salvare Nigel senza di me. Quell'idiota non ha nemmeno avuto il cervello di imbrogliare, a differenza di Uria."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:351 #-#-# translate crowdin handJobTarani_98f84176:
+msgid "[_tarani_] ..."
+msgstr "[_tarani_] ..."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:352 #-#-# translate crowdin handJobTarani_4ddae703:
+msgid "[_cedrick_] Ну так что, ты согласна?"
+msgstr "[_cedrick_] Allora, ci stai?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:353 #-#-# translate crowdin handJobTarani_a908861c:
+msgid "[_tarani_] (Я не успела опомниться, как все в итоге привело к этому.. Как так вышло.. Я правда должна дрочить учителю Рику своей грудью, чтобы спасти Найджела?)"
+msgstr "[_tarani_] (Prima che me ne accorgessi, alla fine tutto ha portato a questo... Come mai... Devo davvero fare una sega all'insegnante Rick con il mio seno per salvare Nigel?)"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:354 #-#-# translate crowdin handJobTarani_e3bf007b:
+msgid "[_cedrick_] Тарани?"
+msgstr "[_cedrick_] Tarani?"
+
+# game/scripts/quests/tarani/handJobTarani.rpy:358 #-#-# translate crowdin handJobTarani_1533e9f3:
+msgid "[_tarani_] ..Я согласна"
+msgstr "[_tarani_] ...sono d'accordo."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:362 #-#-# translate crowdin handJobTarani_883436d1:
+msgid "[_cedrick_] (Хах, все прошло так, как я и задумывал. Она прогнулась под напором обстоятельств, в которые я ее загнал. Теперь она в моей ловушке)"
+msgstr "[_cedrick_] (Huh, è andata esattamente come volevo. Si afflosciò sotto la pressione delle circostanze in cui l'avevo spinta. Ora è nella mia trappola)."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:363 #-#-# translate crowdin handJobTarani_370ca7c3:
+msgid "[_cedrick_] Отлично, Тарани. Ты умная девочка. Тогда увидимся на следующих контрольных"
+msgstr "[_cedrick_] Ben fatto, Tarani. Sei una ragazza intelligente. Ci vediamo al prossimo quiz, allora."
+
+# game/scripts/quests/tarani/handJobTarani.rpy:367 #-#-# translate crowdin handJobTarani_ea5d92b9:
+msgid "[_tarani_] ..Обязательно"
+msgstr "[_tarani_] ...Obbligatorio"
+

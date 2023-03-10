@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getConcertTickets/callToConcert.po\n"
+"X-Crowdin-File-ID: 5185\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:28\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getConcertTickets/callToConcert.rpy:11 #-#-# translate crowdin callToConcert_6fef85ba:
+msgid "[_cornelia_] Элион, пойдем в школу вместе?"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:12 #-#-# translate crowdin callToConcert_d482ccdc:
+msgid "[_elion_] Хорошо, пошли"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:15 #-#-# translate crowdin callToConcert_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:16 #-#-# translate crowdin callToConcert_9090dc58:
+msgid "[_cedrick_] Постойте-ка!"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:19 #-#-# translate crowdin callToConcert_8ae8ce87:
+msgid "[_cornelia_] мм??"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:24 #-#-# translate crowdin callToConcert_1382aad6:
+msgid "[_elion_] Что-то стряслось, Рик?"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:27 #-#-# translate crowdin callToConcert_40836674:
+msgid "[_cedrick_] У меня есть несколько билетов на концерт Сортирного Союза! Не хотели бы сходить?"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:31 #-#-# translate crowdin callToConcert_8cb6ee5c:
+msgid "[_cornelia_] Сортирный Союз!? Это моя любимая группа! Я бы с радостью сходила! А ты, Элион? Пойдем-пойдем-пойдем!"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:35 #-#-# translate crowdin callToConcert_cfa04bce:
+msgid "[_elion_] Ну... Я даже не знаю... Меня, скорее всего, не отпустят родители..."
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:39 #-#-# translate crowdin callToConcert_ae4d7f34:
+msgid "[_cornelia_] Очень жаль…"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:40 #-#-# translate crowdin callToConcert_157a0f0a:
+msgid "[_cedrick_] Ну, в таком случае мы можем сходить вдвоем."
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:44 #-#-# translate crowdin callToConcert_9b7c0f4d:
+msgid "[_cornelia_] Вполне возможно..."
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:45 #-#-# translate crowdin callToConcert_f32d492b:
+msgid "[_cedrick_] Что ж, тогда вечером я зайду за тобой?"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:49 #-#-# translate crowdin callToConcert_8dc94a1b:
+msgid "[_cornelia_] Хорошо... Договорились!"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:52 #-#-# translate crowdin callToConcert_bafea864:
+msgid "[_elion_] Ладно, нам уже пора, а то опоздаем…"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/callToConcert.rpy:57 #-#-# translate crowdin callToConcert_a20cefa7_1:
+msgid "..."
+msgstr ""
+

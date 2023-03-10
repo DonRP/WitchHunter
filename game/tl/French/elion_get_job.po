@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/bookshop/elion_get_job.po\n"
+"X-Crowdin-File-ID: 4773\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:49\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/elion_get_job.rpy:3 #-#-# translate crowdin elion_get_job_1a809d14:
+msgid "Привет."
+msgstr "Salut."
+
+# game/scripts/bookshop/elion_get_job.rpy:7 #-#-# translate crowdin elion_get_job_4cac8b93:
+msgid "[_cedrick_sprite_] Добрый день.."
+msgstr "[_cedrick_sprite_] Bon après-midi..."
+
+# game/scripts/bookshop/elion_get_job.rpy:9 #-#-# translate crowdin elion_get_job_2fa792ff:
+msgid "[_cedrick_sprite_] ((Хм.. Как же их зовут..?)"
+msgstr "[_cedrick_sprite_] ((Hmm... Quels sont leurs noms... ?)"
+
+# game/scripts/bookshop/elion_get_job.rpy:31 #-#-# translate crowdin menu1_slow_d40f9a3a:
+msgid "[_elion_] Эй, ты заснул?"
+msgstr "[_elion_] Hé, tu t'es endormi ?"
+
+# game/scripts/bookshop/elion_get_job.rpy:32 #-#-# translate crowdin menu1_slow_dca24572:
+msgid "[_cedrick_sprite_] Ох, простите, я задумался, много всего накопилось."
+msgstr "[_cedrick_sprite_] Oh, je suis désolé, j'ai réfléchi, il y a beaucoup de choses qui s'accumulent."
+
+# game/scripts/bookshop/elion_get_job.rpy:44 #-#-# translate crowdin oops_5b1d20b8:
+msgid "[_elion_] Корнелия и Элион"
+msgstr "[_elion_] Cornelia et Elyon"
+
+# game/scripts/bookshop/elion_get_job.rpy:45 #-#-# translate crowdin oops_94a2113c:
+msgid "[_elion_] Эм... Ты забыл как нас зовут?"
+msgstr "[_elion_] Hum... Avez-vous oublié nos noms ?"
+
+# game/scripts/bookshop/elion_get_job.rpy:57 #-#-# translate crowdin menu2_next_d292fef2:
+msgid "[_cornelia_] Мы заходили недавно, хотели купить книги для учебы."
+msgstr "[_cornelia_] Nous nous y sommes arrêtés l'autre jour, pour acheter des livres à étudier."
+
+# game/scripts/bookshop/elion_get_job.rpy:63 #-#-# translate crowdin menu2_next_c2a19a07:
+msgid "[_cedrick_] (Совсем забыл про это...)"
+msgstr "[_cedrick_] (J'ai complètement oublié ça...)"
+
+# game/scripts/bookshop/elion_get_job.rpy:64 #-#-# translate crowdin menu2_next_26f2d1dd:
+msgid "[_cedrick_] Извините, я пытался прибраться в магазине и совершенно забыл о них.."
+msgstr "[_cedrick_] Désolé, j'essayais de nettoyer le magasin et je les ai complètement oubliés..."
+
+# game/scripts/bookshop/elion_get_job.rpy:65 #-#-# translate crowdin menu2_next_84a01131:
+msgid "[_cedrick_] Можете прийти за ними позже.. Их поиск займет некоторое время, вы не единственные посетители магазина."
+msgstr "[_cedrick_] Vous pouvez venir les chercher plus tard. Il faudra un peu de temps pour les trouver, vous n'êtes pas les seuls visiteurs du magasin."
+
+# game/scripts/bookshop/elion_get_job.rpy:71 #-#-# translate crowdin menu2_next_9cb0c6f4:
+msgid "[_cornelia_] Мы не можем так долго ждать, книги нужны нам уже послезавтра, иначе мы завалим зачет по истории!"
+msgstr "[_cornelia_] Nous ne pouvons pas attendre si longtemps, nous avons besoin des livres après-demain ou nous allons échouer au test d'histoire !"
+
+# game/scripts/bookshop/elion_get_job.rpy:72 #-#-# translate crowdin menu2_next_d9c92543:
+msgid "[_cornelia_] У нас и так много долгов накопилось, нас могут исключить.."
+msgstr "[_cornelia_] Nous avons déjà assez de dettes, nous pourrions être expulsés..."
+
+# game/scripts/bookshop/elion_get_job.rpy:77 #-#-# translate crowdin menu2_next_3bd5fba3:
+msgid "[_elion_] Я не могу так подвести родителей, им пришлось влезть в большие долги, чтобы я могла обучаться здесь."
+msgstr "[_elion_] Je ne peux pas laisser tomber mes parents comme ça, ils ont dû s'endetter lourdement pour que je puisse étudier ici."
+
+# game/scripts/bookshop/elion_get_job.rpy:82 #-#-# translate crowdin menu2_next_dbad9e53:
+msgid "[_cornelia_] Элион.."
+msgstr "[_cornelia_] Elion..."
+
+# game/scripts/bookshop/elion_get_job.rpy:87 #-#-# translate crowdin menu2_next_bba530df:
+msgid "[_cedrick_] У меня есть идея..."
+msgstr "[_cedrick_] J'ai une idée..."
+
+# game/scripts/bookshop/elion_get_job.rpy:88 #-#-# translate crowdin menu2_next_5a478caf:
+msgid "[_cedrick_] В общем, мне нужен помощник... В этом магазине слишком много вещей, которые я просто не могу делать в одиночку."
+msgstr "[_cedrick_] Bref, j'ai besoin d'une aide... Il y a trop de choses dans ce magasin que je ne peux pas faire seul."
+
+# game/scripts/bookshop/elion_get_job.rpy:89 #-#-# translate crowdin menu2_next_6fa7f03d:
+msgid "[_cedrick_] И возможно, если у ваших родителей имеются такие проблемы, вы захотите поработать у меня в магазине?"
+msgstr "[_cedrick_] Et peut-être, si tes parents ont de tels problèmes, tu pourrais vouloir travailler dans mon magasin ?"
+
+# game/scripts/bookshop/elion_get_job.rpy:90 #-#-# translate crowdin menu2_next_f6b237bf:
+msgid "[_cedrick_] Заодно поможешь мне разобраться здесь и найти нужные вам учебники."
+msgstr "[_cedrick_] En même temps, vous pouvez m'aider à faire le tri et à trouver les manuels dont vous avez besoin."
+
+# game/scripts/bookshop/elion_get_job.rpy:91 #-#-# translate crowdin menu2_next_b74e1cec:
+msgid "[_cedrick_] (Это может быть хорошей возможностью сблизиться с ней...)"
+msgstr "[_cedrick_] (Cela pourrait être une bonne occasion de se rapprocher d'elle...)"
+
+# game/scripts/bookshop/elion_get_job.rpy:96 #-#-# translate crowdin menu2_next_9e616ae3:
+msgid "[_elion_] Да, думаю это неплохая идея, когда я смогу приступить?"
+msgstr "[_elion_] Oui, je pense que c'est une bonne idée, quand puis-je commencer ?"
+
+# game/scripts/bookshop/elion_get_job.rpy:103 #-#-# translate crowdin menu2_next_663e5a07:
+msgid "[_cedrick_] Можешь приступить с завтрашнего дня."
+msgstr "[_cedrick_] Vous pouvez commencer dès demain."
+
+# game/scripts/bookshop/elion_get_job.rpy:108 #-#-# translate crowdin menu2_next_b984d261:
+msgid "[_cornelia_] Хорошо, что все так удачно сложилось. Ладно, Элион, нам нужно идти, если опоздаем, Никербокер опять сделает мне выговор."
+msgstr "[_cornelia_] C'est une bonne chose que tout se soit si bien passé. Très bien, Elyon, nous devons y aller ; si nous sommes en retard, Knickerbocker va encore me réprimander."
+
+# game/scripts/bookshop/elion_get_job.rpy:115 #-#-# translate crowdin menu2_next_665c262f:
+msgid "[_elion_] Окей. Спасибо, что выручили! Увидимся завтра."
+msgstr "[_elion_] Ok. Merci pour ton aide ! Je te verrai demain."
+
+# game/scripts/bookshop/elion_get_job.rpy:124 #-#-# translate crowdin menu2_next_060244a0:
+msgid "[_centered_] {size=37}На следующий день..{/size}"
+msgstr "[_centered_] {Le jour suivant..."
+
+# §translate crowdin strings: #|#|# # game/scripts/bookshop/elion_get_job.rpy:14
+msgid "Конелия, Хелион"
+msgstr "Conelia, Hélion"
+
+# game/scripts/bookshop/elion_get_job.rpy:14
+msgid "Корнелия, Элион"
+msgstr "Cornelia, Elion"
+
+# game/scripts/bookshop/elion_get_job.rpy:14
+msgid "Корнелия, Лилиан"
+msgstr "Cornelia, Lillian"
+
+# game/scripts/bookshop/elion_get_job.rpy:14
+msgid "Эмм.."
+msgstr "Hum..."
+

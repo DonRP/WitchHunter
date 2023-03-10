@@ -1,0 +1,658 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/newspaperSection/newspaper_section_reading_evening.po\n"
+"X-Crowdin-File-ID: 5357\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:00\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:6 #-#-# translate crowdin newspaper_section_reading_evening_f58b35e9:
+msgid "[_bess_] Мистер Хоффман... Наконец, вы решили нас навестить?"
+msgstr "[_bess_] M. Hoffman... Vous vous êtes enfin décidé à nous rendre visite ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:10 #-#-# translate crowdin newspaper_section_reading_evening_6418bdb9:
+msgid "[_cedrick_] Ну конечно, я все таки до сих пор являюсь куратором школьной газеты.."
+msgstr "[_cedrick_] Bien sûr, je suis toujours le conservateur du journal de l'école..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:14 #-#-# translate crowdin newspaper_section_reading_evening_6315e065:
+msgid "[_bess_] Неужели Вы забыли то, что нам обещали?"
+msgstr "[_bess_] As-tu oublié ce que tu nous as promis ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:18 #-#-# translate crowdin newspaper_section_reading_evening_f6810002:
+msgid "[_cedrick_] О чем ты?"
+msgstr "[_cedrick_] Qu'est-ce que tu veux dire ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:22 #-#-# translate crowdin newspaper_section_reading_evening_2d123c29:
+msgid "[_bess_] Вы обещали нам фотографии... Те самые публикации, которых так боится Ирма Леир.."
+msgstr "[_bess_] Vous nous avez promis des photos... Les publications dont Irma Leir a si peur..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:26 #-#-# translate crowdin newspaper_section_reading_evening_9c68d52c:
+msgid "[_cedrick_] Не помню, чтобы обещал вам такое..."
+msgstr "[_cedrick_] Je ne me souviens pas t'avoir promis ça..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:30 #-#-# translate crowdin newspaper_section_reading_evening_001a14a2:
+msgid "[_bess_] Я вас поняла, вы просто набиваете цену.."
+msgstr "[_bess_] J'ai compris, tu fais juste monter le prix..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:31 #-#-# translate crowdin newspaper_section_reading_evening_cfc95c0b:
+msgid "[_bess_] Прошлый раз вам понравился, и вы пришли за добавкой не так ли?"
+msgstr "[_bess_] Vous avez apprécié la dernière fois et vous êtes revenu pour en avoir plus, n'est-ce pas ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:32 #-#-# translate crowdin newspaper_section_reading_evening_f0d23c5d:
+msgid "[_cedrick_] Вы-вы.. ошибаетесь... Я здесь вовсе не за этим.."
+msgstr "[_cedrick_] Vous... vous avez tort... Ce n'est pas du tout pour ça que je suis là..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:33 #-#-# translate crowdin newspaper_section_reading_evening_b20ca3f2:
+msgid "[_bess_] учитель... Не нужно так отчаянно отрицать очевидное."
+msgstr "[_bess_] professeur... Il n'y a pas besoin d'être si désespéré pour nier l'évidence."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:34 #-#-# translate crowdin newspaper_section_reading_evening_2fc26ee5:
+msgid "[_bess_] Мистер Хоффман такой милый, когда смущается.."
+msgstr "[_bess_] M. Hoffman est si mignon quand il est gêné..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:35 #-#-# translate crowdin newspaper_section_reading_evening_c4682f30:
+msgid "[_cedrick_] Я.. опаздываю! У меня скоро урок!.."
+msgstr "[_cedrick_] Je suis... en retard ! J'ai un cours qui arrive... !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:36 #-#-# translate crowdin newspaper_section_reading_evening_8f07a04f:
+msgid "[_bess_] Подождите..."
+msgstr "[_bess_] Attendez..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:37 #-#-# translate crowdin newspaper_section_reading_evening_83bdb5a1:
+msgid "[_bess_] Кортни... Давай поможем мистеру Хоффману вспомнить свое обещание.."
+msgstr "[_bess_] Courtney... Aidons M. Hoffman à se souvenir de sa promesse."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:38 #-#-# translate crowdin newspaper_section_reading_evening_e7f72fda:
+msgid "[_bess_] А потом он решит... "
+msgstr "[_bess_] Et puis il décide... "
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:41 #-#-# translate crowdin newspaper_section_reading_evening_40f83b47:
+msgid "[_courtney_] Конечно, сестренка..."
+msgstr "[_courtney_] Bien sûr, soeurette..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:44 #-#-# translate crowdin newspaper_section_reading_evening_71b5ceb6:
+msgid "[_cedrick_] Что... вы делаете..."
+msgstr "[_cedrick_] Que... est-ce que tu fais..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:46 #-#-# translate crowdin newspaper_section_reading_evening_c2532140:
+msgid "[_cedrick_] Сейчас же середина дня! В любой момент кто-нибудь может зайти!.."
+msgstr "[_cedrick_] C'est le milieu de la journée ! Quelqu'un peut entrer à tout moment !..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:47 #-#-# translate crowdin newspaper_section_reading_evening_a0b2cbdd:
+msgid "[_bess_] Не переживайте по этому поводу... сюда редко кто заходит..."
+msgstr "[_bess_] Ne vous inquiétez pas pour ça... C'est rare que quelqu'un vienne ici..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:50 #-#-# translate crowdin newspaper_section_reading_evening_397b7856:
+msgid "[_cedrick_] (ох.. эти девчонки определенно знают, как доставить удовольствие...)"
+msgstr "[_cedrick_] (oh... ces filles savent certainement comment faire plaisir...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:51 #-#-# translate crowdin newspaper_section_reading_evening_29f9fa72:
+msgid "[_bess_] Расслабьтесь, Мистер Хоффман... Не нужно сдерживаться... "
+msgstr "[_bess_] Relax, Mr. Hoffman... Pas besoin de vous retenir... "
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:52 #-#-# translate crowdin newspaper_section_reading_evening_c0574101:
+msgid "[_courtney_] У вас такой большой... Мистер Хоффман..."
+msgstr "[_courtney_] Vous avez un si grand... M. Hoffman..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:54 #-#-# translate crowdin newspaper_section_reading_evening_a6748a19:
+msgid "[_cedrick_] Ммм..ах..."
+msgstr "[_cedrick_] Mmm...ah..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:55 #-#-# translate crowdin newspaper_section_reading_evening_db2fc7a5:
+msgid "[_bess_] Признайтесь, вам ведь нравится..."
+msgstr "[_bess_] Admettez-le, vous aimez ça..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:56 #-#-# translate crowdin newspaper_section_reading_evening_90f23761:
+msgid "[_cedrick_] Угх.. так хорошо"
+msgstr "[_cedrick_] Ugh... si bon."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:57 #-#-# translate crowdin newspaper_section_reading_evening_ddcd805a:
+msgid "[_cedrick_] Я сейчас..."
+msgstr "[_cedrick_] Je vais maintenant..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:59 #-#-# translate crowdin newspaper_section_reading_evening_2ab56f1e:
+msgid "[_bess_] Ох нет, Мистер Хоффман... теперь ваше время доставить нам удовольствие..."
+msgstr "[_bess_] Oh non, M. Hoffman... maintenant c'est à vous de nous donner le plaisir..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:63 #-#-# translate crowdin newspaper_section_reading_evening_4e45cf25:
+msgid "[_bess_] мм..Да..ах...."
+msgstr "[_bess_] Uh...Yeah...uh...."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:65 #-#-# translate crowdin newspaper_section_reading_evening_c79b1644:
+msgid "[_cedrick_] (Ах... они застали меня врасплох..)"
+msgstr "[_cedrick_] (Ah... ils m'ont pris par surprise...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:66 #-#-# translate crowdin newspaper_section_reading_evening_0a73e6eb:
+msgid "[_cedrick_] (Не могу остановится..)"
+msgstr "[_cedrick_] (Je ne peux pas m'arrêter...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:68 #-#-# translate crowdin newspaper_section_reading_evening_b46b12bc:
+msgid "[_bess_] Вам нравится моя сестра, Мистер Хоффман?"
+msgstr "[_bess_] Vous aimez ma soeur, M. Hoffman ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:69 #-#-# translate crowdin newspaper_section_reading_evening_6b6af880:
+msgid "[_courtney_] Я... больше не могу..."
+msgstr "[_courtney_] Я... je ne peux pas continuer..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:70 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:71 #-#-# translate crowdin newspaper_section_reading_evening_6aead4b4:
+msgid "[_bess_] Ох уже... Сестра, ты как всегда опережаешь события..."
+msgstr "[_bess_] Oh déjà... Ma soeur, vous êtes en avance sur la courbe comme d'habitude..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:72 #-#-# translate crowdin newspaper_section_reading_evening_c7c8d038:
+msgid "[_bess_] Ничего страшного... Я подменю тебя, сестрица..."
+msgstr "[_bess_] C'est bon... Je te remplacerai, ma soeur..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:76 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:77 #-#-# translate crowdin newspaper_section_reading_evening_4267c6ba:
+msgid "Мм...ахх"
+msgstr "Mm...ahhh."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:78 #-#-# translate crowdin newspaper_section_reading_evening_98f72c23:
+msgid "чмок.."
+msgstr "Mwah..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:80 #-#-# translate crowdin newspaper_section_reading_evening_88163559:
+msgid "[_cedrick_] Ох..."
+msgstr "[_cedrick_] Oh..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:81 #-#-# translate crowdin newspaper_section_reading_evening_ef867434:
+msgid "[_bess_] Как много спермы, Мистер Хоффман.."
+msgstr "[_bess_] C'est beaucoup de sperme, M. Hoffman."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:82 #-#-# translate crowdin newspaper_section_reading_evening_d78fbae3:
+msgid "[_bess_] Подождите, пока я не очищу ваш член... вы ведь не можете пойти так на урок.."
+msgstr "[_bess_] Attends que je t'aie nettoyé la bite... tu ne peux pas aller en cours comme ça..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:84 #-#-# translate crowdin newspaper_section_reading_evening_37f5c3ed:
+msgid "[_centered_] {size=36}Через пару минут..{/size}"
+msgstr "[_centered_] {size=36}"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:88 #-#-# translate crowdin newspaper_section_reading_evening_a07a148f:
+msgid "[_cedrick_] Это ничего не меняет... я не могу показать вам эти фотографии..."
+msgstr "[_cedrick_] Ça ne change rien... Je ne peux pas vous montrer ces photos..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:92 #-#-# translate crowdin newspaper_section_reading_evening_ba62ea23:
+msgid "[_bess_] Ничего страшного, Мистер Хоффман... Думаю, в этом больше нет надобности..."
+msgstr "[_bess_] C'est bon, M. Hoffman... Je pense que ce n'est plus nécessaire..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:94 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_2:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:96 #-#-# translate crowdin newspaper_section_reading_evening_ba7efa14:
+msgid "[_cedrick_] (Как-то она слишком быстро передумала.. Это вызывает подозрение.. Неужели я так хорош?)"
+msgstr "[_cedrick_] (D'une certaine façon, elle a changé d'avis trop rapidement... Cela me rend suspicieux... Suis-je vraiment si bon ?)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:98 #-#-# translate crowdin newspaper_section_reading_evening_644deda6:
+msgid "[_cedrick_] (Нет, тут что-то не так.. Телефон на месте, но.. Пожалуй, останусь допоздна в школе, чтобы проверить кабинет журналистики, когда сестры Гампер уже уйдут)"
+msgstr "[_cedrick_] (Non, il y a quelque chose qui ne va pas ici... Le téléphone est là, mais... Je suppose que je vais rester debout tard à l'école pour vérifier la salle de journalisme quand les sœurs Gamper seront parties)."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:100 #-#-# translate crowdin newspaper_section_reading_evening_463a5794:
+msgid "[_centered_] {size=36}ПОЗЖЕ, ВЕЧЕРОМ В КАБИНЕТЕ ЖУРНАЛИСТИКИ{/size}"
+msgstr "[_centered_] {Plus tard, le soir, dans le bureau du journaliste..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:103 #-#-# translate crowdin newspaper_section_reading_evening_44f35d59:
+msgid "[_cedrick_] (Так, что тут у нас.. Новый тираж распечатанных газет? Когда я был здесь днем, газет не было. Да и станок еще теплый)"
+msgstr "[_cedrick_] (Alors, qu'avons-nous là... Un nouveau tirage de journaux ? Il n'y avait pas de journaux quand j'étais ici cet après-midi. Et la machine est encore chaude)."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:107 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_3:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:108 #-#-# translate crowdin newspaper_section_reading_evening_72d42bed:
+msgid "[_cedrick_] (Вот дерьмо, и они собирались это напечатать!? Черт, тут столько газет.. Ладно Ирма, но мне, как куратору газеты, тоже влетит, если это хоть кто-то увидит)"
+msgstr "[_cedrick_] (Oh merde, et ils allaient imprimer ça ! ?) Merde, il y a tellement de journaux... D'accord Irma, mais en tant que conservateur du journal, je vais avoir des problèmes si quelqu'un voit ça)."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:109 #-#-# translate crowdin newspaper_section_reading_evening_56f6aeb3:
+msgid "[_cedrick_] (Окей, избавиться от газет не такая уж проблема. Смою их в школьный сортир, все равно он постоянно чем-то забит)"
+msgstr "[_cedrick_] (OK, se débarrasser des journaux n'est pas un problème. Je les jetterai dans les toilettes de l'école, elles sont toujours pleines de trucs de toute façon)."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:110 #-#-# translate crowdin newspaper_section_reading_evening_bd8820ff:
+msgid "[_cedrick_] (Но что мне делать с этими девчонками Гампер.. Хм, в принципе, я могу это использовать. Более того, думаю, на Ирму подобная новость тоже может плодотворно повлиять)"
+msgstr "[_cedrick_] (Mais qu'est-ce que je suis censé faire avec ces filles Gumpert. Hmm, en principe, je pourrais m'en servir. D'ailleurs, je pense qu'Irma pourrait aussi bénéficier de ce genre de nouvelles)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:113 #-#-# translate crowdin newspaper_section_reading_evening_eeb1f8c2:
+msgid "[_cedrick_] (Ладно, я уже достаточно задержался, еще немного и могу опоздать на вечер чтений в книжном)"
+msgstr "[_cedrick_] (OK, je suis déjà assez en retard, je risque d'être un peu en retard pour la soirée de lecture des librairies)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:115 #-#-# translate crowdin newspaper_section_reading_evening_65cd7d1f:
+msgid "[_centered_] {size=36}Седрик смывает в школьный унитаз все экземпляры школьной газеты, кроме одного и отправляется в книжный магазин на вечер чтений{/size}"
+msgstr "[_centered_] {Cédric jette tous les exemplaires du journal de l'école dans les toilettes, sauf un, et se rend à la librairie pour une soirée de lecture."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:125 #-#-# translate crowdin newspaper_section_reading_evening_cf3bf492:
+msgid "[_elion_] У нас не хватает стульев, пришло больше народу, чем мы ожидали..."
+msgstr "[_elion_] Nous n'avons pas assez de chaises, plus de gens sont venus que prévu..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:126 #-#-# translate crowdin newspaper_section_reading_evening_7cac9c3e:
+msgid "[_cedrick_] К сожалению, остальным придется стоять, стульев больше нет"
+msgstr "[_cedrick_] Malheureusement, le reste d'entre nous devra rester debout, il n'y a plus de chaises."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:129 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_4:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:132 #-#-# translate crowdin newspaper_section_reading_evening_b84550dd:
+msgid "[_elion_] Наверное пора начинать?"
+msgstr "[_elion_] Il est peut-être temps de commencer ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:133 #-#-# translate crowdin newspaper_section_reading_evening_f205cfdf:
+msgid "[_cedrick_] Думаю да..."
+msgstr "[_cedrick_] Je pense que oui..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:137 #-#-# translate crowdin newspaper_section_reading_evening_7476b60e:
+msgid "[_martin_] Профессор Хоффман! Здравствуйте!"
+msgstr "[_martin_] Professeur Hoffman ! Bonjour !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:141 #-#-# translate crowdin newspaper_section_reading_evening_1cc1c5f4:
+msgid "[_cedrick_] Мартин, решил посетить наш вечер чтений? Это замечательно!"
+msgstr "[_cedrick_] Martin, a décidé de participer à notre soirée lecture ? C'est formidable !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:144 #-#-# translate crowdin newspaper_section_reading_evening_f1bd9221:
+msgid "[_cedrick_] И Ирму с собой прихватил..."
+msgstr "[_cedrick_] Et il a emmené Irma avec lui..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:149 #-#-# translate crowdin newspaper_section_reading_evening_a430c208:
+msgid "[_irma_] Ага, здрасьте.."
+msgstr "[_irma_] Oui, bonjour..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:153 #-#-# translate crowdin newspaper_section_reading_evening_bcc1db5b:
+msgid "[_cedrick_] Что ты здесь делаешь? Я думал ты собираешься выслеживать призрака в школе? Всю ночь, хаха"
+msgstr "[_cedrick_] Qu'est-ce que tu fais ici ? Je pensais que tu allais traquer un fantôme à l'école ? Toute la nuit, haha."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:157 #-#-# translate crowdin newspaper_section_reading_evening_6adaf009:
+msgid "[_martin_] Произошли неожиданные обстоятельства!"
+msgstr "[_martin_] Des circonstances inattendues sont survenues !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:161 #-#-# translate crowdin newspaper_section_reading_evening_c5a5743f:
+msgid "[_cedrick_] Интересно... И что же может быть важнее такой сенсации? "
+msgstr "[_cedrick_] Je me demande... Et qu'est-ce qui pourrait être plus important qu'un tel scoop ? "
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:167 #-#-# translate crowdin newspaper_section_reading_evening_a777441f:
+msgid "[_martin_] У меня свидание с Ирмой!"
+msgstr "[_martin_] J'ai un rendez-vous avec Irma !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:171 #-#-# translate crowdin newspaper_section_reading_evening_6ca7a7ff:
+msgid "[_irma_]  Никакое это не свидание!"
+msgstr "[_irma_]  Ce n'est pas un rendez-vous !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:175 #-#-# translate crowdin newspaper_section_reading_evening_290b9441:
+msgid "[_martin_] Ну, раз не свидание, тогда я пошел в школу!"
+msgstr "[_martin_] Eh bien, si ce n'est pas un rendez-vous, alors je vais à l'école !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:179 #-#-# translate crowdin newspaper_section_reading_evening_a21b5cdc:
+msgid "[_irma_] Ладно.... Свидание!!!"
+msgstr "[_irma_] OK.... Date !!!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:183 #-#-# translate crowdin newspaper_section_reading_evening_bc0591da:
+msgid "[_martin_] Хе.."
+msgstr "[_martin_] Heh..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:187 #-#-# translate crowdin newspaper_section_reading_evening_d526b580:
+msgid "[_cedrick_] Хм... понятно. "
+msgstr "[_cedrick_] Hm... Je vois. "
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:193 #-#-# translate crowdin newspaper_section_reading_evening_4d40cc65:
+msgid "[_martin_] Мистер Хоффман, я сегодня тоже должен выступить со своим произведением!"
+msgstr "[_martin_] M. Hoffman, je dois jouer mon morceau aujourd'hui aussi !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:197 #-#-# translate crowdin newspaper_section_reading_evening_681ef493:
+msgid "[_cedrick_] C радостью послушаю. Присаживайтесь, если найдете куда, мы скоро начнем..."
+msgstr "[_cedrick_] Je serais ravi d'en entendre parler. Asseyez-vous si vous pouvez trouver une place, nous allons bientôt commencer..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:201 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_5:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:204 #-#-# translate crowdin newspaper_section_reading_evening_0656e762:
+msgid "[_cedrick_] Итак, господа, спасибо всем, что пришли. Сегодня у нас необычный вечер, сегодня к нам пришли несколько молодых, и пока мало известных авторов, чтобы зачитать нам свои произведения"
+msgstr "[_cedrick_] Alors, messieurs, merci à tous d'être venus. C'est une soirée inhabituelle, avec plusieurs jeunes auteurs peu connus qui viennent ce soir lire des extraits de leurs œuvres."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:205 #-#-# translate crowdin newspaper_section_reading_evening_e422be9e:
+msgid "[_cedrick_] Будем надеяться, что в будущем некоторые из этих писателей смогут стать более известными и их произведения будет читать весь мир! А для вас это уникальный шанс познакомится с ними прямо сейчас!"
+msgstr "[_cedrick_] Espérons qu'à l'avenir, certains de ces écrivains pourront être plus connus et que leurs œuvres seront lues par le monde entier ! Et pour vous, c'est une chance unique de faire leur connaissance dès maintenant !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:206 #-#-# translate crowdin newspaper_section_reading_evening_aa21a922:
+msgid "[_cedrick_] И первый на очереди у нас - Габриель Гарсиа со своим произведением 'Недобрый час!' Поприветствуем!"
+msgstr "[_cedrick_] Et le premier est Gabriel Garcia avec \"L'heure désagréable\" ! Bienvenue !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:208 #-#-# translate crowdin newspaper_section_reading_evening_c365f041:
+msgid "Аплодисменты"
+msgstr "Applaudissements"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:209 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_6:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:211 #-#-# translate crowdin newspaper_section_reading_evening_f7a8d2cf:
+msgid "[_centered_] {size=36}Спустя некоторое время{/size}"
+msgstr "[_centered_] {size=36}Après un moment{/size}"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:214 #-#-# translate crowdin newspaper_section_reading_evening_47f0bc83:
+msgid "[_writer_]  Я иду, -сказал он. Иду к тебе, Фатима."
+msgstr "[_writer_]  Je viens\", a-t-il dit. J'arrive vers toi, Fatima."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:215 #-#-# translate crowdin newspaper_section_reading_evening_97efc9bf:
+msgid "[_writer_] Конец... Спасибо"
+msgstr "[_writer_] La fin... Merci."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:217 #-#-# translate crowdin newspaper_section_reading_evening_c365f041_1:
+msgid "Аплодисменты"
+msgstr "Applaudissements"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:220 #-#-# translate crowdin newspaper_section_reading_evening_96b11b1a:
+msgid "[_martin_] Кажется теперь моя очередь!"
+msgstr "[_martin_] Je pense que c'est mon tour maintenant !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:224 #-#-# translate crowdin newspaper_section_reading_evening_e416a561:
+msgid "[_martin_] Слушайте внимательно, я вложил всю душу в этот шедевр!"
+msgstr "[_martin_] Écoutez bien, j'ai mis mon cœur et mon âme dans ce chef-d'œuvre !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:228 #-#-# translate crowdin newspaper_section_reading_evening_c4602ed9:
+msgid "[_irma_] ох.."
+msgstr "[_irma_] oh..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:231 #-#-# translate crowdin newspaper_section_reading_evening_5f9b772e:
+msgid "...."
+msgstr "...."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:234 #-#-# translate crowdin newspaper_section_reading_evening_257917a3:
+msgid "[_martin_] Господа! Сегодня я зачитаю вам..."
+msgstr "[_martin_] Messieurs ! Aujourd'hui, je vais vous lire..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:237 #-#-# translate crowdin newspaper_section_reading_evening_b70a7eaa:
+msgid "[_cedrick_sprite_] А ты довольно сексуальна в этом наряде..."
+msgstr "[_cedrick_sprite_] Et tu es plutôt sexy dans cette tenue..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:241 #-#-# translate crowdin newspaper_section_reading_evening_7c783453:
+msgid "[_irma_] Отвали..."
+msgstr "[_irma_] Va te faire foutre..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:242 #-#-# translate crowdin newspaper_section_reading_evening_4c746e9e:
+msgid "[_cedrick_] (..Я пытался быть вежливым, но она сама нарвалась)"
+msgstr "[_cedrick_] (...J'ai essayé d'être poli, mais elle s'est débrouillée toute seule.)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:246 #-#-# translate crowdin newspaper_section_reading_evening_f51439b5:
+msgid "[_cedrick_] Знаешь, на сколько бы выдающимися не были выступающие сегодня писатели, вряд ли их произведения когда-либо сровняться по сенсационности с этим материалом"
+msgstr "[_cedrick_] Vous savez, aussi brillants que soient les écrivains d'aujourd'hui, il est peu probable que leur travail égale un jour le sensationnalisme de ce matériel..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:252 #-#-# translate crowdin newspaper_section_reading_evening_591c9b56:
+msgid "[_irma_] Ирма Леир оказалась... ЧТО!?"
+msgstr "[_irma_] Irma Leir s'est avérée être... QUOI ! ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:253 #-#-# translate crowdin newspaper_section_reading_evening_adeb93eb:
+msgid "[_cedrick_] Тише-тише, здесь вокруг полно народу"
+msgstr "[_cedrick_] Hush-hush, il y a beaucoup de gens dans le coin"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:257 #-#-# translate crowdin newspaper_section_reading_evening_4c7a1618:
+msgid "[_irma_] Т-ты... Ты что, в край охерел!? Что это такое!? Зачем ты это сделал!?"
+msgstr "[_irma_] V-vous... Vous avez perdu la tête ! ? C'est quoi ce bordel ! ? Pourquoi avez-vous fait ça ! ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:258 #-#-# translate crowdin newspaper_section_reading_evening_6c737c71:
+msgid "[_cedrick_] Это не я, это Бэсс и Кортни. Обнаружил это сегодня вечером в кабинете журналистики. Видимо, они украли мои фото с телефона"
+msgstr "[_cedrick_] Ce n'est pas moi, c'est Bess et Courtney. Je l'ai découvert ce soir dans la salle de journalisme. Apparemment, elles ont volé mes photos de mon téléphone"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:259 #-#-# translate crowdin newspaper_section_reading_evening_22632a1f:
+msgid "[_irma_] Брехня, ты сам мог отдать им фото.."
+msgstr "[_irma_] Conneries, vous auriez pu leur donner la photo vous-même..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:260 #-#-# translate crowdin newspaper_section_reading_evening_33e7121b:
+msgid "[_cedrick_] А какая мне от этого польза? Если все в школе увидят это фото, мне не чем будет тебя шантажировать. А мне не хотелось бы терять такую сочную девушку, ты сама это прекрасно понимаешь"
+msgstr "[_cedrick_] Qu'est-ce que j'y gagne ? Si tout le monde à l'école voit cette photo, je n'aurai rien pour te faire chanter. Et je ne voudrais pas perdre une fille aussi juteuse, tu le sais."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:264 #-#-# translate crowdin newspaper_section_reading_evening_9e0d1b6e:
+msgid "[_irma_] Эти сестры Гампер.. Вот мелкие паршивки.. Если хоть кто-то увидит эту газету.."
+msgstr "[_irma_] Ces sœurs Gumper... Ces petites bêtes... Si quelqu'un voit ce papier..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:268 #-#-# translate crowdin newspaper_section_reading_evening_0def8f98:
+msgid "[_cedrick_] Я уничтожил весь тираж. Буквально смыл его в унитаз"
+msgstr "[_cedrick_] J'ai détruit tout le tirage. Je l'ai littéralement jeté dans les toilettes."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:272 #-#-# translate crowdin newspaper_section_reading_evening_405bb013:
+msgid "[_irma_] Ч-что, правда?"
+msgstr "[_irma_] Quoi, vraiment ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:274 #-#-# translate crowdin newspaper_section_reading_evening_e86cb84c:
+msgid "[_cedrick_] Да. Но ты же понимаешь, что я сделал это, чтобы ты осталась только моей?"
+msgstr "[_cedrick_] Oui. Mais tu réalises que j'ai fait ça pour te garder pour moi tout seul, n'est-ce pas ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:278 #-#-# translate crowdin newspaper_section_reading_evening_f27ade08:
+msgid "[_irma_] ..Да иди ты, если бы ты, козлина, изначально не сделал это фото, ничего бы не произошло. К тому же ты сам виноват, что сестры Гампер украли его у тебя"
+msgstr "[_irma_] ...Va te faire foutre, si ce connard n'avait pas pris cette photo en premier lieu, rien ne serait arrivé. En plus, c'est de ta faute si les soeurs Gumpert te l'ont volée."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:279 #-#-# translate crowdin newspaper_section_reading_evening_ff4fb3e0:
+msgid "[_cedrick_] А вот тут ты не права. Они никогда бы не узнали об этом фото, если бы ты не рылась в моем ящике в тот раз"
+msgstr "[_cedrick_] C'est là que tu as tort. Ils n'auraient jamais su pour la photo si tu n'avais pas fouillé dans mon tiroir cette fois-là."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:283 #-#-# translate crowdin newspaper_section_reading_evening_a7d6c345:
+msgid "[_irma_] Ч-что?"
+msgstr "[_irma_] Qu... quoi ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:285 #-#-# translate crowdin newspaper_section_reading_evening_1c210406:
+msgid "[_cedrick_] Ты сама привела все к тому, что сестры Гампер узнали о существовании фото. Если бы ты просто смирилась с положением вещей, это осталось бы только нашим грязным секретом"
+msgstr "[_cedrick_] C'est toi qui a fait en sorte que les soeurs Gumpert découvrent l'existence de la photo. Si vous aviez accepté le statu quo, ça serait resté notre sale secret."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:289 #-#-# translate crowdin newspaper_section_reading_evening_39501181:
+msgid "[_irma_] ...Ну и что дальше?"
+msgstr "[_irma_] ...Alors, quelle est la suite ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:290 #-#-# translate crowdin newspaper_section_reading_evening_2dcd351f:
+msgid "[_cedrick_] А то, что из-за твоей промашки мне теперь придется сдерживать их. Ты же понимаешь, что уничтожить тираж – не достаточно. Фото все еще может остаться у них, и история просто повторится вновь"
+msgstr "[_cedrick_] C'est à cause de votre gaffe que je dois maintenant les retenir. Vous réalisez que détruire le tirage n'est pas suffisant. Ils pourraient toujours avoir la photo, et l'histoire se répéterait..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:294 #-#-# translate crowdin newspaper_section_reading_evening_2de92dee:
+msgid "[_irma_] ...."
+msgstr "[_irma_] ...."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:295 #-#-# translate crowdin newspaper_section_reading_evening_863221b6:
+msgid "[_cedrick_] Из-за твоего надменного желания сбежать от меня, мне теперь придется разбираться со всем этим за тебя. Потому что не думаю, что ты сама сможешь как-то повлиять на эту парочку. Они и так считают тебя шлюхой"
+msgstr "[_cedrick_] A cause de ton désir arrogant de me fuir, je vais maintenant devoir m'occuper de tout ça pour toi. Parce que je ne pense pas qu'il y ait le moindre moyen pour toi d'influencer ces deux-là. Ils pensent déjà que tu es une pute."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:296 #-#-# translate crowdin newspaper_section_reading_evening_179979ec:
+msgid "[_cedrick_] Тебе следует быть благодарной за то, что я разгребаю все это дерьмо за тебя, Ирма"
+msgstr "[_cedrick_] Tu devrais être reconnaissante que je nettoie toute cette merde pour toi, Irma."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:300 #-#-# translate crowdin newspaper_section_reading_evening_8fe96d54:
+msgid "[_irma_] ..Ты думаешь, я правда скажу тебе спасибо после всего этого?"
+msgstr "[_irma_] ...Pensez-vous que je vais vraiment vous remercier après tout ça ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:301 #-#-# translate crowdin newspaper_section_reading_evening_1d7f83da:
+msgid "[_cedrick_] Да мне все равно, благодарна ты мне или нет. Ты в любом случае будешь и дальше делать то, что я от тебя хочу. Иначе мне незачем прикрывать твой сочный зад от подобных новостей, понимаешь?"
+msgstr "[_cedrick_] Je me fiche que tu sois reconnaissant ou non. Vous allez continuer à faire ce que je veux que vous fassiez de toute façon. Sinon, je n'ai aucune raison de couvrir ton cul juteux de ce genre de nouvelles, tu vois ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:305 #-#-# translate crowdin newspaper_section_reading_evening_afcd048c:
+msgid "[_irma_] ..Черт"
+msgstr "[_irma_] ..Merde."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:306 #-#-# translate crowdin newspaper_section_reading_evening_154e4513:
+msgid "[_cedrick_] Давай, пойдем отсюда, я знаю более укромное местечко"
+msgstr "[_cedrick_] Viens, sortons d'ici, je connais un endroit plus isolé."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:308 #-#-# translate crowdin newspaper_section_reading_evening_66c459e1:
+msgid "[_centered_] {size=36}Спустя пять минут{/size}"
+msgstr "[_centered_] {size=36}Cinq minutes plus tard{/size}"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:311 #-#-# translate crowdin newspaper_section_reading_evening_78ec2351:
+msgid "[_cedrick_] Ну а теперь я хочу, чтобы ты отсосала мне..."
+msgstr "[_cedrick_] Maintenant je veux que tu me suces..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:314 #-#-# translate crowdin newspaper_section_reading_evening_7d33af5a:
+msgid "[_irma_] Здесь???!Тут так много людей... А если кто-то зайдет..."
+msgstr "[_irma_] Ici ? ??! Il y a tellement de gens... Et si quelqu'un entre..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:315 #-#-# translate crowdin newspaper_section_reading_evening_7bd212a0:
+msgid "[_cedrick_] Не волнуйся, я закрыл дверь..."
+msgstr "[_cedrick_] Ne vous inquiétez pas, j'ai fermé la porte..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:317 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:320 #-#-# translate crowdin newspaper_section_reading_evening_5f1efe04:
+msgid "[_cedrick_] Тебе ведь это нравится.."
+msgstr "[_cedrick_] Vous aimez ça, n'est-ce pas ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:321 #-#-# translate crowdin newspaper_section_reading_evening_8ed54e9a:
+msgid "[_irma_] Вовсе... нет..."
+msgstr "[_irma_] Pas du tout... Non..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:324 #-#-# translate crowdin newspaper_section_reading_evening_5cdef780:
+msgid "[_irma_] Ах.."
+msgstr "[_irma_] Ah..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:325 #-#-# translate crowdin newspaper_section_reading_evening_6aed2a62:
+msgid "[_irma_] Ммм.."
+msgstr "[_irma_] Mmm..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:326 #-#-# translate crowdin newspaper_section_reading_evening_ec56af42:
+msgid "[_cedrick_] Да.. хорошенько вылижи его.."
+msgstr "[_cedrick_] Ouais... donne-lui une bonne lèche..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:327 #-#-# translate crowdin newspaper_section_reading_evening_b94c3347:
+msgid "[_cedrick_] Хаа... Молодец... Хорошая девочка... На уроках ты не так прилежна..."
+msgstr "[_cedrick_] Haa... Bonne fille... Bonne fille... Tu n'es pas si assidue en classe..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:328 #-#-# translate crowdin newspaper_section_reading_evening_612de22c:
+msgid "[_cedrick_] Хорошо, теперь встань..."
+msgstr "[_cedrick_] Bien, maintenant lève-toi..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:330 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_8:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:333 #-#-# translate crowdin newspaper_section_reading_evening_1cec9dca:
+msgid "[_irma_] Что ты делаешь!!??"
+msgstr "[_irma_] Qu'est-ce que tu fais ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:334 #-#-# translate crowdin newspaper_section_reading_evening_18dd1e46:
+msgid "[_cedrick_] Собираюсь трахнут тебя.."
+msgstr "[_cedrick_] Je vais te baiser..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:335 #-#-# translate crowdin newspaper_section_reading_evening_ae1d9ebb:
+msgid "[_irma_] Неет .. я не.."
+msgstr "[_irma_] Non... Je ne..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:336 #-#-# translate crowdin newspaper_section_reading_evening_89f6013e:
+msgid "[_cedrick_] А теперь умоляй меня засунуть мой член в твою киску.."
+msgstr "[_cedrick_] Maintenant, supplie-moi de mettre ma bite dans ta chatte..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:337 #-#-# translate crowdin newspaper_section_reading_evening_c2f5aecb:
+msgid "[_irma_] Нет. Я не буду..."
+msgstr "[_irma_] Non. Je ne le ferai pas..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:338 #-#-# translate crowdin newspaper_section_reading_evening_50b83e89:
+msgid "[_cedrick_] Ну давай, Ирма ... подумай о том, как ты ранишь Мартина.."
+msgstr "[_cedrick_] Allez, Irma... pense à la façon dont tu as blessé Martin..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:340 #-#-# translate crowdin newspaper_section_reading_evening_e77da70c:
+msgid "[_irma_] Я.."
+msgstr "[_irma_] Я.."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:341 #-#-# translate crowdin newspaper_section_reading_evening_9ed901b6:
+msgid "[_irma_] Пожалуйста... вставь свой... член... в мою... киску..."
+msgstr "[_irma_] S'il te plaît... mets ta... bite... dans ma... chatte..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:342 #-#-# translate crowdin newspaper_section_reading_evening_e53f3815:
+msgid "[_cedrick_] Ну раз ты так просишь..."
+msgstr "[_cedrick_] Eh bien, puisque vous demandez..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:344 #-#-# translate crowdin newspaper_section_reading_evening_a20cefa7_9:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:347 #-#-# translate crowdin newspaper_section_reading_evening_b19c24cb:
+msgid "[_irma_] Ох."
+msgstr "[_irma_] Oh."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:348 #-#-# translate crowdin newspaper_section_reading_evening_bf598b49:
+msgid "[_irma_] Урод..."
+msgstr "[_irma_] Freak..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:349 #-#-# translate crowdin newspaper_section_reading_evening_b5dd5ac2:
+msgid "[_cedrick_] Что-то не так? Разве ты не дрожишь от удовольствия?"
+msgstr "[_cedrick_] Quelque chose ne va pas ? Tu ne trembles pas de plaisir ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:350 #-#-# translate crowdin newspaper_section_reading_evening_191776ba:
+msgid "[_irma_] Мм.. ахх."
+msgstr "[_irma_] Mm... ahh."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:352 #-#-# translate crowdin newspaper_section_reading_evening_3233e784:
+msgid "[_irma_] Ааах"
+msgstr "[_irma_] Aaah"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:353 #-#-# translate crowdin newspaper_section_reading_evening_508a43d5:
+msgid "[_cedrick_] Как хорошо.."
+msgstr "[_cedrick_] Comme c'est gentil..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:354 #-#-# translate crowdin newspaper_section_reading_evening_615198ac:
+msgid "[_cedrick_] Ох.."
+msgstr "[_cedrick_] Oh..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:355 #-#-# translate crowdin newspaper_section_reading_evening_fa5d4d4e:
+msgid "[_irma_] Нет.."
+msgstr "[_irma_] Non.."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:357 #-#-# translate crowdin newspaper_section_reading_evening_7a78af53:
+msgid "[_irma_] Не в меня."
+msgstr "[_irma_] Pas sur moi."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:358 #-#-# translate crowdin newspaper_section_reading_evening_ee826681:
+msgid "[_irma_] Ааах."
+msgstr "[_irma_] Aaah."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:359 #-#-# translate crowdin newspaper_section_reading_evening_90dacb0a:
+msgid "[_irma_] Я же просила..."
+msgstr "[_irma_] Je t'ai dit..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:360 #-#-# translate crowdin newspaper_section_reading_evening_05e03ccb:
+msgid "[_cedrick_] Приведи себя в порядок.. И нам нужно поторопится, кто-нибудь может заметить наше отсутствие.."
+msgstr "[_cedrick_] Nettoie-toi... Et nous devons nous dépêcher, quelqu'un pourrait remarquer notre absence..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:362 #-#-# translate crowdin newspaper_section_reading_evening_30889e67:
+msgid "[_centered_] {size=36}В общем зале книжного магазина{/size}"
+msgstr "[_centered_] {Dans la salle commune d'une librairie..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:366 #-#-# translate crowdin newspaper_section_reading_evening_0eab2fd8:
+msgid "[_martin_] Ирма, ты где была??"
+msgstr "[_martin_] Irma, où étais-tu ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:370 #-#-# translate crowdin newspaper_section_reading_evening_0a9f95ca:
+msgid "[_martin_] Слышала, как я зачитал? Публика была в восторге!"
+msgstr "[_martin_] Vous m'avez entendu le lire ? Le public était ravi !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:374 #-#-# translate crowdin newspaper_section_reading_evening_5c52467c:
+msgid "[_irma_] Яя... я искала туалет, и немного заблудилась.."
+msgstr "[_irma_] J'étais... Je cherchais les toilettes, et je me suis un peu perdu..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:378 #-#-# translate crowdin newspaper_section_reading_evening_d68ab358:
+msgid "[_irma_] А профессор Хоффман помог мне найти его."
+msgstr "[_irma_] Et le professeur Hoffman m'a aidé à le trouver."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:382 #-#-# translate crowdin newspaper_section_reading_evening_4b8d6432:
+msgid "[_martin_] Понятно! А теперь у нас запланирован романтический поход в Бургерную Боба!"
+msgstr "[_martin_] Je vois ! Et maintenant, on a prévu un voyage romantique au Bob's Burger Barn !"
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:386 #-#-# translate crowdin newspaper_section_reading_evening_adf3c8ff:
+msgid "[_irma_] Ох... эта забегаловка... ну хуже уже не будет.."
+msgstr "[_irma_] Oh... Ce restaurant... ça ne peut pas être pire..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:390 #-#-# translate crowdin newspaper_section_reading_evening_6448dedd:
+msgid "[_cedrick_] Так держать, Мартин... Скоро Ирма не устоит под твоим напором, и будет твоей"
+msgstr "[_cedrick_] Bien joué, Martin... Bientôt Irma ne pourra plus résister à votre pression, et elle sera à vous."
+
+# game/scripts/quests/newspaperSection/newspaper_section_reading_evening.rpy:394 #-#-# translate crowdin newspaper_section_reading_evening_d6c4b376:
+msgid "[_martin_] Спасибо, Профессор!"
+msgstr "[_martin_] Merci, Professeur !"
+

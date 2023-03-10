@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/inventory/items/fight_items.po\n"
+"X-Crowdin-File-ID: 4859\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:19\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Большое Зелье Здоровья"
+msgstr "Pozione di salute grande"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 100 единиц здоровья"
+msgstr "La pozione ripristina 100 unità di salute"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Малое Зелье Здоровья"
+msgstr "Pozione di salute piccola"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье восстанавливает 50 единиц здоровья"
+msgstr "La pozione ripristina 50 unità di salute"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Зелье с ядом"
+msgstr "Pozione di veleno"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Отравляет врага на 5 ходов, каждый ход враг получает 15 урона"
+msgstr "Avvelena il nemico per 5 turni, ogni turno il nemico subisce 15 danni."
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Сонное зелье"
+msgstr "Una pozione per dormire"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Заставляет уснуть врага на 3 хода"
+msgstr "Fa dormire il nemico per 3 turni"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Паутинное зелье"
+msgstr "Pozione del ragno"
+
+# game/scripts/core/inventory/items/fight_items.rpy:2
+msgid "Замедляет врага на 4 хода"
+msgstr "Rallenta il nemico per 4 turni"
+

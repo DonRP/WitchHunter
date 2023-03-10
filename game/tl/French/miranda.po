@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/miranda/miranda.po\n"
+"X-Crowdin-File-ID: 5071\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:56\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Зелье для Ян Лин"
+msgstr "Une potion pour Yang Lin"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Попросить клонировать Тома Леира"
+msgstr "Demander à Tom Leir d'être cloné"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Отдать клок волос для приготовления зелья"
+msgstr "Donner une mèche de cheveux pour faire une potion"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Попросить зелье возраста у миранды"
+msgstr "Demandez à Miranda une potion de vieillissement"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Попросить ноздрю дракона"
+msgstr "Demandez la narine du dragon"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Узнать о девушке в колбе"
+msgstr "Découvrir la fille dans la flasque"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "10 Желез морпионов"
+msgstr "10 Fer du Morpion"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Поиск королевы морпионов"
+msgstr "Recherche de la reine des morpions"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Я добыл Кристаллическую эссенцию"
+msgstr "J'ai extrait l'essence de cristal"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Афродизиак для элион"
+msgstr "Aphrodisiaque pour l'oignon"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Попросить трусы"
+msgstr "Demander un pantalon"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Забрать кристаллическую эссенцию"
+msgstr "Enlever l'essence cristalline"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Приготовить зелья"
+msgstr "Préparer les potions"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Купить зелье"
+msgstr "Acheter une potion"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Продать ингредиенты"
+msgstr "Vendre des ingrédients"
+
+# game/scripts/meridian/miranda/miranda.rpy:12
+msgid "Где мне достать золото?"
+msgstr "Où puis-je trouver de l'or ?"
+

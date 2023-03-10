@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/tavern/labels/herald.po\n"
+"X-Crowdin-File-ID: 5079\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:26\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/tavern/labels/herald.rpy:21 #-#-# translate crowdin herald_78013ee1:
+msgid "[_cedrick_] Я принес тебе золото!"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:22 #-#-# translate crowdin herald_b538f059:
+msgid "[_herald_] Тогда давай-же сыграем!"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:32 #-#-# translate crowdin herald_d1141bd0:
+msgid "[_herald_] Ты принес золото?"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:33 #-#-# translate crowdin herald_cbcc2ae8:
+msgid "[_cedrick_] Нет... Еще нет..."
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:34 #-#-# translate crowdin herald_6f71cd4c:
+msgid "[_herald_] Тогда не мешай мне запивать свое горе!"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:37 #-#-# translate crowdin herald_1a1d29d6:
+msgid "[_cedrick_] Слушай давай сыграем на твою доску"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:38 #-#-# translate crowdin herald_880c6091:
+msgid "[_herald_] С тебя тогда 200 золотых"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:53 #-#-# translate crowdin herald_91805c1d:
+msgid "[_herald_] Ну тогда в другой раз"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "Играть на золото"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "Попросить ингредиент для зелья"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "Сыграть в покер на ингредиент"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "Играть на доску"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:2
+msgid "назад"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:6
+msgid "Геральд"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:40
+msgid "сыграть за 200 золотых"
+msgstr ""
+
+# game/scripts/meridian/tavern/labels/herald.rpy:40
+msgid "Извини пока нету такой суммы"
+msgstr ""
+

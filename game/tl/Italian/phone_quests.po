@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/interface/phone/screens/phone_quests.po\n"
+"X-Crowdin-File-ID: 5029\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:22\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/interface/phone/screens/phone_quests.rpy:12
+msgid "В процессе"
+msgstr "Nel processo di"
+
+# game/scripts/interface/phone/screens/phone_quests.rpy:12
+msgid "Выполненные"
+msgstr "Implementato"
+

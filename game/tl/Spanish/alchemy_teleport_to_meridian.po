@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.po\n"
+"X-Crowdin-File-ID: 5643\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:40\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:18 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:22 #-#-# translate crowdin alchemy_teleport_to_meridian_384663d9:
+msgid "[_cedrick_sprite_] Что это за шум?"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:23 #-#-# translate crowdin alchemy_teleport_to_meridian_e4f7721f:
+msgid "[_cedrick_sprite_] ..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:24 #-#-# translate crowdin alchemy_teleport_to_meridian_a7861600:
+msgid "[_cedrick_sprite_] Похоже звук был из-за книжных полок, надо бы проверить."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:30 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:31 #-#-# translate crowdin alchemy_teleport_to_meridian_4589e6c9:
+msgid "[_cedrick_sprite_] Ты.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:32 #-#-# translate crowdin alchemy_teleport_to_meridian_9aabe7ea:
+msgid "[_cedrick_sprite_] Что ты здесь делаешь?"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:33 #-#-# translate crowdin alchemy_teleport_to_meridian_ee05a806:
+msgid "[_alchemy_] Я..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:34 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:35 #-#-# translate crowdin alchemy_teleport_to_meridian_1d0229b5:
+msgid "Левой рукой Алхими случайно задевает книгу телепорта. Магазин озаряется яркой вспышкой света и она испаряется."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:39 #-#-# translate crowdin alchemy_teleport_to_meridian_a2a1ebbe:
+msgid "[_cedrick_sprite_] Черт. Похоже, что она сама того не понимая телепортировалась на Меридиан..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:40 #-#-# translate crowdin alchemy_teleport_to_meridian_be28dde8:
+msgid "[_cedrick_sprite_] Нужно проследовать за ней.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:44 #-#-# translate crowdin alchemy_teleport_to_meridian_42236375:
+msgid "[_centered_] {size=37}Вы незамедлительно \n"
+" отправляетесь на Меридиан{/size} [withDissolve1]"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:49 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:50 #-#-# translate crowdin alchemy_teleport_to_meridian_0f3fa179:
+msgid "[_cedrick_] (Что здесь происходит черт возьми?)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:51 #-#-# translate crowdin alchemy_teleport_to_meridian_15113edd:
+msgid "[_str1_] Смотрите ка, Фобос про нас не забыл и подослал нам маленькую шлюшку."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:52 #-#-# translate crowdin alchemy_teleport_to_meridian_8380d0b6:
+msgid "[_str2_] Хехехе.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:53 #-#-# translate crowdin alchemy_teleport_to_meridian_15ceb089:
+msgid "[_str2_] Заблудилась, деточка?"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:54 #-#-# translate crowdin alchemy_teleport_to_meridian_88c39708:
+msgid "[_alchemy_] Кто вы такие? Где я?"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:55 #-#-# translate crowdin alchemy_teleport_to_meridian_b46b5046:
+msgid "[_str2_] Смотрите как она притворяется недотрогой."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:56 #-#-# translate crowdin alchemy_teleport_to_meridian_2ff0342c:
+msgid "[_str1_] Наконец-то мы сможем поразвлечься!"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:57 #-#-# translate crowdin alchemy_teleport_to_meridian_dc47c1b0:
+msgid "[_str3_] Какая аппетитная попка у этой милашки."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:58 #-#-# translate crowdin alchemy_teleport_to_meridian_74416d86:
+msgid "[_alchemy_] Не ешьте меня, пожалуйста..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:59 #-#-# translate crowdin alchemy_teleport_to_meridian_8ade99d8:
+msgid "[_str1_] ХАХАХА...Мы не едим людей.. Кто бы что не говорил.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:60 #-#-# translate crowdin alchemy_teleport_to_meridian_533a2d98:
+msgid "[_cedrick_] (Пожалуй, стоит остановить их... Или нет?)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:64 #-#-# translate crowdin alchemy_teleport_to_meridian_f87c1beb:
+msgid "[_cedrick_sprite_] Прекратите немедленно!"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:65 #-#-# translate crowdin alchemy_teleport_to_meridian_d9743068:
+msgid "[_str2_] Отва...."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:66 #-#-# translate crowdin alchemy_teleport_to_meridian_47e02fb0:
+msgid "[_str2_] Лорд Седрик, простите нас, мы вас не узнали..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:67 #-#-# translate crowdin alchemy_teleport_to_meridian_31214ca7:
+msgid "[_alchemy_] Ах ты ублюдок! Это все ты!!"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:68 #-#-# translate crowdin alchemy_teleport_to_meridian_2815a030:
+msgid "[_cedrick_sprite_] Немедленно отведите девчонку в темницу и заприте ее в камере!"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:69 #-#-# translate crowdin alchemy_teleport_to_meridian_9ca3bcb5:
+msgid "[_str1_] Как прикажите, Лорд Седрик.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:73 #-#-# translate crowdin alchemy_teleport_to_meridian_ff2462c1:
+msgid "[_cedrick_sprite_] (Что же, проблема решилась сама собой..)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:74 #-#-# translate crowdin alchemy_teleport_to_meridian_070c133a:
+msgid "[_cedrick_sprite_] (Девчонка в темнице и больше не будет путаться у меня под ногами..)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:75 #-#-# translate crowdin alchemy_teleport_to_meridian_130c32a3:
+msgid "[_cedrick_sprite_] (Хотя, это может вызвать еще большие подозрения..)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:76 #-#-# translate crowdin alchemy_teleport_to_meridian_6a745106:
+msgid "[_cedrick_sprite_] (Нужно будет ее навестить и как следует поразвлечься, хехе)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:81 #-#-# translate crowdin alchemy_teleport_to_meridian_a93eef6f:
+msgid "[_alchemy_] Тогда что вы собираетесь со мной сделать???"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:82 #-#-# translate crowdin alchemy_teleport_to_meridian_d722202a:
+msgid "[_str3_] Скоро ты это узнаешь ххехе.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:86 #-#-# translate crowdin alchemy_teleport_to_meridian_96706df3:
+msgid "[_alchemy_] Что вы делаете, отпустите меня!!!"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:90 #-#-# translate crowdin alchemy_teleport_to_meridian_6840fcb8:
+msgid "[_str2_] Хех, не плоха девчушка.. зачем ты нацепила на себя столько одежды?"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:91 #-#-# translate crowdin alchemy_teleport_to_meridian_54322e03:
+msgid "[_alchemy_]  Немедленно отпустите меня! Иначе я сообщу в полицию.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:92 #-#-# translate crowdin alchemy_teleport_to_meridian_8133c783:
+msgid "[_str3_]  Хехе полицию? О чем она говорит, ребята?"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:93 #-#-# translate crowdin alchemy_teleport_to_meridian_9ac79e88:
+msgid "[_alchemy_]  Нет..Не надо, прекратите."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:94 #-#-# translate crowdin alchemy_teleport_to_meridian_3d86fb27:
+msgid "[_str2_] Кажется она уже намокла.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:95 #-#-# translate crowdin alchemy_teleport_to_meridian_e21e07ba:
+msgid "[_alchemy_] Нет... Не лезь туда!!"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:96 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7_4:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:97 #-#-# translate crowdin alchemy_teleport_to_meridian_31577243:
+msgid "[_alchemy_] Уберите от меня свои лапы, мерзкие вонючие орки!!"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:98 #-#-# translate crowdin alchemy_teleport_to_meridian_6d31c7c6:
+msgid "[_str1_] Эта девчонка слишком много разговаривает, пожалуй стоит заткнуть ей рот."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:99 #-#-# translate crowdin alchemy_teleport_to_meridian_06fdef82:
+msgid "[_alchemy_] Нееет. Не делайте этого.. Он слишком большой"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:103 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7_5:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:104 #-#-# translate crowdin alchemy_teleport_to_meridian_1fac140b:
+msgid "[_str1_] О да... Такой мокрый маленький ротик..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:105 #-#-# translate crowdin alchemy_teleport_to_meridian_fcc36f1f:
+msgid "[_alchemy_] Пр....ст..нт.глр......"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:106 #-#-# translate crowdin alchemy_teleport_to_meridian_89d23f40:
+msgid "[_str1_] Разве ты не знаешь, что не стоит разговаривать с набитым ртом?"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:107 #-#-# translate crowdin alchemy_teleport_to_meridian_a20cefa7_6:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:108 #-#-# translate crowdin alchemy_teleport_to_meridian_84b884bb:
+msgid "[_alchemy_] (Я.. Я не могу сопротивляться..)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:109 #-#-# translate crowdin alchemy_teleport_to_meridian_a7889fe1:
+msgid "[_str2_]  Дааа.. У нее такая узкая дырка.. Впервые ощущаю такое.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:110 #-#-# translate crowdin alchemy_teleport_to_meridian_9aaf04b6:
+msgid "[_alchemy_] (Эти огромные члены во мне...)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:111 #-#-# translate crowdin alchemy_teleport_to_meridian_5d691919:
+msgid "[_str1_] Соси, сука, давай, заглотни его глубже!"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:112 #-#-# translate crowdin alchemy_teleport_to_meridian_aa6f9c70:
+msgid "[_str2_] Кажется.. я на пределе.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:113 #-#-# translate crowdin alchemy_teleport_to_meridian_fbfb1588:
+msgid "[_str1_] Да.. сейчас я заполню спермой твой маленький ротик.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:117 #-#-# translate crowdin alchemy_teleport_to_meridian_5f9b772e:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:118 #-#-# translate crowdin alchemy_teleport_to_meridian_f8b25c95:
+msgid "[_str3_]  Неплохо.. И что теперь нам с ней делать?"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:119 #-#-# translate crowdin alchemy_teleport_to_meridian_166986f8:
+msgid "[_str1_] В борделе за ее продажу можно выручить неплохую сумму.."
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:123 #-#-# translate crowdin alchemy_teleport_to_meridian_b2b1d538:
+msgid "[_cedrick_sprite_] (Эти стражники настоящие животные...)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:124 #-#-# translate crowdin alchemy_teleport_to_meridian_c2588a8f:
+msgid "[_cedrick_sprite_] (Что же, как бы то ни было, она больше не доставит мне проблем...)"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:125 #-#-# translate crowdin alchemy_teleport_to_meridian_443c911b:
+msgid "[_cedrick_sprite_] (Пора отправляться в Хезерфилд)"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:62
+msgid "Остановить их"
+msgstr ""
+
+# game/scripts/quests/joiningsAfterMissingBryan/alchemy_teleport_to_meridian.rpy:62
+msgid "Смотреть, что будет дальше"
+msgstr ""
+

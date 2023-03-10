@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/phobosAskKillTwoMobs/killSandDemon.po\n"
+"X-Crowdin-File-ID: 5363\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:00\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/killSandDemon.rpy:2 #-#-# translate crowdin killSandDemon_07b4468d:
+msgid "[_cedrick_] Я победил тебя и отныне ты будешь служить князю Фобосу или умрешь!"
+msgstr "[_cedrick_] Je vous ai vaincu et à partir de maintenant, vous servirez le Prince Phobos ou mourrez !"
+

@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.po\n"
+"X-Crowdin-File-ID: 5409\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:01\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:4 #-#-# translate crowdin take_miranda_to_the_castle_64af8a0d:
+msgid "[_cedrick_] Побудь пока здесь, Миранда. Не думаю, что это чудовище дойдет до глубин замка. Даже если я против него не выстою, замок сможет отстоять Фобос, так что ты в безопасности"
+msgstr "[_cedrick_] Reste ici pour le moment, Miranda. Je ne pense pas que ce monstre atteindra les profondeurs du château. Même si je ne peux pas lui faire face, Phobos peut défendre le château, donc tu es en sécurité."
+
+# game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:5 #-#-# translate crowdin take_miranda_to_the_castle_41dea664:
+msgid "[_miranda_] С-седрик.."
+msgstr "[_miranda_] C-sedric..."
+
+# game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:6 #-#-# translate crowdin take_miranda_to_the_castle_d0451b74:
+msgid "[_cedrick_] Уже хватает сил, чтобы говорить? Значит атака стражниц не задела важных органов. Но лучше не напрягайся, тебе нужно восстановиться"
+msgstr "[_cedrick_] Assez fort pour parler ? Donc l'attaque des gardes n'a pas touché d'organes majeurs. Mais tu ferais mieux de te reposer, tu dois récupérer."
+
+# game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:7 #-#-# translate crowdin take_miranda_to_the_castle_10242dc1:
+msgid "[_miranda_] ..."
+msgstr "[_miranda_] ..."
+
+# game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:8 #-#-# translate crowdin take_miranda_to_the_castle_c79a7736:
+msgid "[_cedrick_] И еще кое-что. Я заберу те зелья, что у тебя остались. Сил у меня осталось немного, так что восстановиться не повредит"
+msgstr "[_cedrick_] Une dernière chose. Je vais prendre toutes les potions qu'il vous reste. Je n'ai plus beaucoup de force, ça ne me fera pas de mal de récupérer."
+
+# game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:12 #-#-# translate crowdin take_miranda_to_the_castle_fe71656d:
+msgid "[_cedrick_] Этого должно хватить.."
+msgstr "[_cedrick_] Cela devrait être suffisant..."
+
+# game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:16 #-#-# translate crowdin take_miranda_to_the_castle_78cd2daf:
+msgid "[_broken_warrior_] Лорд Седрик, повстанцы во главе с Калебом прорвались внутрь и украли часть провианта! Они воспользовались положением и.."
+msgstr "[_broken_warrior_] Seigneur Cedric, les rebelles menés par Caleb se sont introduits et ont volé des provisions ! Ils ont profité de la situation et..."
+
+# game/scripts/quests/questDefeatMorpionKing/take_miranda_to_the_castle.rpy:19 #-#-# translate crowdin take_miranda_to_the_castle_d08d6a69:
+msgid "[_cedrick_] Это было ожидаемо, солдат. Еще повезло, что они не бьют нас в спины. Плевать на повстанцев, с ними мы разберемся позже. А пока.."
+msgstr "[_cedrick_] Il fallait s'y attendre, soldat. Heureusement qu'ils ne nous poignardent pas dans le dos. Oubliez les rebelles, on s'occupera d'eux plus tard. En attendant..."
+

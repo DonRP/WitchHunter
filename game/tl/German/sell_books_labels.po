@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/sell_books_game/sell_books_labels.po\n"
+"X-Crowdin-File-ID: 5615\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:45\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/sell_books_game/sell_books_labels.rpy:39 #-#-# translate crowdin sell_books_new_customer_b19a31e4:
+msgid "[_customer_] Здравствуйте, а у вас есть {color=#8fe3ff}[book_name]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:41 #-#-# translate crowdin sell_books_new_customer_a9d031b6:
+msgid "[_customer_] Приветствую! А у вас, случайно, нету книги {color=#8fe3ff}[book_name]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:43 #-#-# translate crowdin sell_books_new_customer_c59579a5:
+msgid "[_customer_] Привет, а в продаже есть комикс {color=#8fe3ff}[book_name]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:45 #-#-# translate crowdin sell_books_new_customer_00ae0e9d:
+msgid "[_error_] Error, `sellBooksGame.need_book_type` is `None`"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:51 #-#-# translate crowdin sell_books_new_customer_b1117835:
+msgid "[_customer_] Добрый день! У вас есть книги автора \"{color=#8fe3ff}[book_parameter_value]{/color}\"?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:54 #-#-# translate crowdin sell_books_new_customer_55d12714:
+msgid "[_customer_] Здравствуйте, а вы можете посоветовать мне книгу в жанре {color=#8fe3ff}[book_parameter_value]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:58 #-#-# translate crowdin sell_books_new_customer_ad9ea142:
+msgid "[_customer_] А у вас, случайно, нету комикса о герое \"{color=#8fe3ff}[book_parameter_value]{/color}\"?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:62 #-#-# translate crowdin sell_books_new_customer_446641ee:
+msgid "[_customer_] Вы можете посоветовать мне {color=#8fe3ff}[book_parameter_value]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:65 #-#-# translate crowdin sell_books_new_customer_da369ee1:
+msgid "[_customer_] День добрый! У вас есть комиксы издательства {color=#8fe3ff}[book_parameter_value]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:67 #-#-# translate crowdin sell_books_new_customer_1eaa2567:
+msgid "[_error_] Error, `sellBooksGame.get_book_by` is `None`"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:93 #-#-# translate crowdin sell_books_customer_menu_8a9432e4:
+msgid "[_cedrick_seller_] К сожалению у нас нет такой книги"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:95 #-#-# translate crowdin sell_books_customer_menu_9d74c268:
+msgid "[_customer_] Очень жаль..."
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:114 #-#-# translate crowdin sell_books_remainder_badd5757:
+msgid "[_customer_] Мне нужен учебник {color=#8fe3ff}[book_name]{/color}"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:116 #-#-# translate crowdin sell_books_remainder_7dac4dbd:
+msgid "[_customer_] Мне нужна книга {color=#8fe3ff}[book_name]{/color}"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:118 #-#-# translate crowdin sell_books_remainder_91f87ba2:
+msgid "[_customer_] Мне нужен комикс {color=#8fe3ff}[book_name]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:120 #-#-# translate crowdin sell_books_remainder_00ae0e9d:
+msgid "[_error_] Error, `sellBooksGame.need_book_type` is `None`"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:127 #-#-# translate crowdin sell_books_remainder_406c1ac2:
+msgid "[_customer_] У вас есть книги автора \"{color=#8fe3ff}[book_parameter_value]{/color}\"?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:130 #-#-# translate crowdin sell_books_remainder_bcd0adb8:
+msgid "[_customer_] Посоветуйте мне книгу в жанре {color=#8fe3ff}[book_parameter_value]{/color}"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:134 #-#-# translate crowdin sell_books_remainder_9a48c345:
+msgid "[_customer_] У вас, случайно, нету комикса о герое \"{color=#8fe3ff}[book_parameter_value]{/color}\"?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:138 #-#-# translate crowdin sell_books_remainder_81cb7337:
+msgid "[_customer_] Посоветуйте мне {color=#8fe3ff}[book_parameter_value]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:141 #-#-# translate crowdin sell_books_remainder_e73699a4:
+msgid "[_customer_] У вас есть комиксы издательства {color=#8fe3ff}[book_parameter_value]{/color}?"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:143 #-#-# translate crowdin sell_books_remainder_1eaa2567:
+msgid "[_error_] Error, `sellBooksGame.get_book_by` is `None`"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:163 #-#-# translate crowdin sell_books_sell_book_d9fdd4c7:
+msgid "[_customer_] Спасибо, это то что мне нужно"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:165 #-#-# translate crowdin sell_books_sell_book_f0266961:
+msgid "[_cedrick_seller_] С вас [money] $"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:170 #-#-# translate crowdin sell_books_sell_book_7a5ab945:
+msgid "[_customer_] Вот, держите"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:181 #-#-# translate crowdin sell_books_dont_sell_book_d3c06f8d:
+msgid "[_customer_] Это не совсем то что мне нужно"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:198 #-#-# translate crowdin sell_books_scare_customer_54100166:
+msgid "[_customer_] Боже! Он сошел с ума!"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:220 #-#-# translate crowdin sell_books_robber_036da9d1:
+msgid "[_robber_] Хехе! А теперь гони деньги из кассы!"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:223 #-#-# translate crowdin sell_books_robber_e2202603:
+msgid "[_robber_] Открывай кассу и поживее!"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:240 #-#-# translate crowdin sell_books_scare_robber_cb20aae2:
+msgid "[_cedrick_seller_] Убирайся! Или я прострелю твою голову!"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:243 #-#-# translate crowdin sell_books_scare_robber_915c91dd:
+msgid "[_robber_] Черт!!! Надо сваливать!"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:264 #-#-# translate crowdin sell_books_robber_get_money_in_cashbox_311b46d1:
+msgid "[_robber_] Приятно иметь с тобой дело. Хе-хе"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:267 #-#-# translate crowdin sell_books_robber_get_money_in_cashbox_66c10bef:
+msgid "[_cedrick_seller_] Вот же ублюдок!"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:270 #-#-# translate crowdin sell_books_robber_get_money_in_cashbox_5bba12f5:
+msgid "[_robber_] Какого хера касса пуста? Повезло тебе..."
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:285 #-#-# translate crowdin sell_books_scare_away_thief_0409d746:
+msgid "[_cedrick_seller_] А ну прочь из моего магазина! Мелкий воришка!"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:308 #-#-# translate crowdin sell_books_finish_4220feff:
+msgid "Ваш доход [profit] $"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:309 #-#-# translate crowdin sell_books_finish_1c485c2e:
+msgid "Вы приобрели новые книги из тех что проданы или пропали, в количестве: \"[restored_books_length]\""
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:310 #-#-# translate crowdin sell_books_finish_9b87f17a:
+msgid "На новые книги было потрачено [restored_books_cost] $"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:313 #-#-# translate crowdin sell_books_finish_55bd84d5:
+msgid "Так как у вас не хватило денег, вы не смогли приобрести новые книги, в количестве: \"[not_restored_books_length]\""
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:314 #-#-# translate crowdin sell_books_finish_8343992b:
+msgid "Для покупки новых книг, вы можете заказать их через интернет при помощи телефона"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:316 #-#-# translate crowdin sell_books_finish_509f5d05:
+msgid "Общий доход [total_profit] $"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:319 #-#-# translate crowdin sell_books_finish_7dbf9639:
+msgid "Все ваши книги и деньги были исчерпаны"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:324 #-#-# translate crowdin sell_books_finish_8262983b:
+msgid "Ваш доход 0 $"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:325 #-#-# translate crowdin sell_books_finish_556c0c8b:
+msgid "Вам не хватает денег, чтобы запастись хотя бы одной книгой"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:326 #-#-# translate crowdin sell_books_finish_462a5c3a:
+msgid "В вашем магазине осталось [books_available_length] книг"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:327 #-#-# translate crowdin sell_books_finish_8343992b_1:
+msgid "Для покупки новых книг, вы можете заказать их через интернет при помощи телефона"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/sell_books_game/sell_books_labels.rpy:61
+msgid "какую нибудь мангу"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:61
+msgid "какой нибудь комикс, только не японский, пожалуйста"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:85
+msgid "Отдать книгу"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:85
+msgid "Напомните, какую книгу вам нужно"
+msgstr ""
+
+# game/scripts/sell_books_game/sell_books_labels.rpy:85
+msgid "У нас нет такой книги"
+msgstr ""
+

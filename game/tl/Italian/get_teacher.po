@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getTeacher/get_teacher.po\n"
+"X-Crowdin-File-ID: 5215\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:25\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getTeacher/get_teacher.rpy:8 #-#-# translate crowdin get_teacher_b110a719:
+msgid "Седрик заходит в комнату журналистики"
+msgstr "Cedric entra nella sala di giornalismo"
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:15 #-#-# translate crowdin get_teacher_42bd7654:
+msgid "[_courtney_] Этот кабинет только для членов клуба журналистики.."
+msgstr "[_courtney_] Questa stanza è riservata ai membri del club di giornalismo..."
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:16 #-#-# translate crowdin get_teacher_2586fa9d:
+msgid "[_cedrick_] Не подскажите где находится кабинет директора?"
+msgstr "[_cedrick_] Può dirmi dov'è l'ufficio del preside?"
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:17 #-#-# translate crowdin get_teacher_a60f3e24:
+msgid "[_bess_] Этажом выше..."
+msgstr "[_bess_] Il piano superiore..."
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:18 #-#-# translate crowdin get_teacher_da5b444e:
+msgid "[_courtney_] Она сегодня не в настроении.."
+msgstr "[_courtney_] Oggi non è dell'umore giusto..."
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:19 #-#-# translate crowdin get_teacher_0ce16304:
+msgid "[_bess_] Впрочем как и всегда"
+msgstr "[_bess_] Come sempre"
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:20 #-#-# translate crowdin get_teacher_31be702b:
+msgid "[_cedrick_] Спасибо.."
+msgstr "[_cedrick_] Grazie..."
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:25 #-#-# translate crowdin get_teacher_3225d445:
+msgid "* Несколько минут спустя в кабинете директора… *"
+msgstr "* Pochi minuti dopo nell'ufficio del preside…"
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:33 #-#-# translate crowdin get_teacher_160d844f:
+msgid "[_directris_] Так… Значит вы говорите, что хотите устроиться учителем истории, да? "
+msgstr "[_directris_] Quindi… Quindi stai dicendo che vuoi trovare un lavoro come insegnante di storia, giusto? "
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:34 #-#-# translate crowdin get_teacher_2b487fb4:
+msgid "[_cedrick_] Да, именно так"
+msgstr "[_cedrick_] Sì, proprio così."
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:35 #-#-# translate crowdin get_teacher_b3883afd:
+msgid "[_directris_] У вас есть опыт работы учителем?"
+msgstr "[_directris_] Ha esperienza come insegnante?"
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:36 #-#-# translate crowdin get_teacher_c6b7b80a:
+msgid "[_cedrick_] Прежде мне приходилось давать только частные уроки, но я уверен что смогу справится с кучкой подростков"
+msgstr "[_cedrick_] Ho dato solo lezioni private in passato, ma sono sicura di poter gestire un gruppo di adolescenti."
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:42 #-#-# translate crowdin get_teacher_d67103fb:
+msgid "[_directris_] Ах, все равно у меня нету других вариантов. Вы приняты!"
+msgstr "[_directris_] Ah, non ho comunque altre opzioni. Sei dentro!"
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:43 #-#-# translate crowdin get_teacher_1fce7dee:
+msgid "[_directris_] Пока мы не найдем педагога на постоянной основе, вы можете быть подменным учителем."
+msgstr "[_directris_] Fino a quando non troveremo un insegnante a tempo indeterminato, potrai fare il supplente."
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:44 #-#-# translate crowdin get_teacher_124c032e:
+msgid "[_cedrick_] Я уверен, что не подведу вас."
+msgstr "[_cedrick_] Sono sicuro che non vi deluderò."
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:50 #-#-# translate crowdin get_teacher_71955ec8:
+msgid "[_directris_] Можете приступать с завтрашнего дня"
+msgstr "[_directris_] Potete iniziare domani"
+
+# game/scripts/quests/getTeacher/get_teacher.rpy:51 #-#-# translate crowdin get_teacher_eb2f1b2b:
+msgid "[_directris_] Так как вы подменный учитель, то зарплату будете получать каждую неделю в зависимости от количества проведенных вами уроков."
+msgstr "[_directris_] Poiché si tratta di una supplenza, si verrà pagati ogni settimana in base al numero di lezioni impartite."
+

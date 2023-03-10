@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.po\n"
+"X-Crowdin-File-ID: 5303\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:30\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a8c174e7:
+msgid "[_cedrick_] Ну... Как у вас дела?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:10 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_261a7942:
+msgid "[_haylin_] С твоей помощью в ресторане все начинает налаживаться..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:11 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_ff5b0253:
+msgid "[_cedrick_] Как твоя бабушка? "
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:15 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_98e7e67f:
+msgid "[_haylin_] Ну..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:19 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_487f6b9a:
+msgid "[_haylin_] Лучше ей не становится... Врачи не чего не могут поделать, говорят она слишком старая…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:20 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a8bbe85b:
+msgid "[_cedrick_] Мне очень жаль..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:21 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:25 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_4a01ae63:
+msgid "[_haylin_] Ладно... Нет времени грустить. У меня еще много работы..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:29 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_d91d647c:
+msgid "[_haylin_] Кстати, мог бы ты сегодня помочь разгрузить продукты? Нужно перенести все коробки на склад..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:30 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_3c1573dc:
+msgid "[_cedrick_] Да без проблем..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:33 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_d036ab7a:
+msgid "В поисках коробок с продуктами, Седрик обнаруживает незапертую дверь"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:36 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_db49c619:
+msgid "[_cedrick_] Что это здесь?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:37 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_4eec2c81:
+msgid "[_cedrick_] Какой-то подвал..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:39 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_81b16fb6:
+msgid "[_cedrick_] (Какая мерзость... Даже в таверне я не видел столько крыс... а это одно из самых грязнейших заведений на меридиане!)"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:40 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:44 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_030ca97b:
+msgid "[_haylin_] Рик! Что ты здесь делаешь? Продукты лежат дальше по коридору!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:46 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_e19efefa:
+msgid "[_cedrick_] Почему в вашем подвале так много крыс? Это не допустимо"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:50 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_58a9b319:
+msgid "[_haylin_] Я знаю, что нужно от них избавиться, но я не могу... Я просто не могу лишить жизни таких бедных, безобидных мышек... они такие милые..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:51 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_1211de95:
+msgid "[_cedrick_] Я обязан сообщить об этом в специальную службу..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:55 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_5afbe7be:
+msgid "[_haylin_] Не надо, пожалуйста..! Наша репутация и так висит на волоске... Нас могут закрыть..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:56 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_cfc7cce4:
+msgid "[_cedrick_] Как порядочный и законопослушный гражданин, я не могу оставить это без внимания..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:60 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_328957fe:
+msgid "[_haylin_] Рик, я прошу тебя... Если нас закроют, то моя бабушка этого не выдержит... Нам нечем будет платить аренду и моя семья останется на улице..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:63 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_8166c036:
+msgid "[_haylin_] Что... Что ты делаешь!?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:64 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_26b7f81a:
+msgid "[_cedrick_] Думаю... Я бы смог закрыть на это глаза, если ты сможешь отвлечь меня от мысли, что людям приходится есть в таком отвратительном заведении..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:65 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a88336d3:
+msgid "[_haylin_] Отвлечь? Чего ты хочешь..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:67 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_333ac915:
+msgid "[_cedrick_] Ты понимаешь, о чем я..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:68 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_17614c52:
+msgid "[_haylin_] Не надо..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:69 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:71 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_ea7c122e:
+msgid "[_haylin_] Я не хочу этого... Отстань от меня..! Ты... просто... чудовище!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:72 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a5b33620:
+msgid "[_cedrick_] Тише... Не стоит так кричать... Твои родители могут спуститься сюда... Ты же не хочешь, чтобы они видели это..?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:73 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:75 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_969bab10:
+msgid "[_cedrick_] Подумай о здоровье своей бабушки..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:76 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_4:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:77 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_1f7d0e2f:
+msgid "[_cedrick_] Какая нежная кожа..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:79 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_6cf53535:
+msgid "[_cedrick_] А теперь потрогай его..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:81 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_b63184bf:
+msgid "[_cedrick_] Д-а-а..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:83 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_5:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:84 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_534a927f:
+msgid "[_cedrick_] Нежне-е-е..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:86 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_6e90b5bc:
+msgid "[_cedrick_] О да..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:87 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_786795f2:
+msgid "[_cedrick_] Видишь? Это не так уж и трудно... Как-никак я заслужил вознаграждение за свои труды, не так ли?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:88 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_d053c1f6:
+msgid "[_haylin_] Кх..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:90 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_8dc00903:
+msgid "[_cedrick_] О да-а... Я уже близок..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:94 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_88163559:
+msgid "[_cedrick_] Ох..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:96 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_a20cefa7_6:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:98 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_1104ca92:
+msgid "[_cedrick_] Я надеюсь, ты понимаешь, что не стоит никому об этом рассказывать..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:99 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_87c5dd71:
+msgid "[_haylin_] ..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:101 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_4f775e86:
+msgid "Хай Лин убегает молча, всеми силами сдерживая свои слезы..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_3.rpy:102 #-#-# translate crowdin ql_hayLin_help_in_restoran_3_32c00346:
+msgid "[_cedrick_] Наконец-то! Теперь я смогу поразвлечься с ней вдоволь... Пожалуй, стоит заглянуть завтра... Ей нужно свыкнутся с мыслью, что теперь я могу делать с ней все, что захочу"
+msgstr ""
+

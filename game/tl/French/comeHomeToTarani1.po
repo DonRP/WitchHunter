@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/comeHomeToTarani1.po\n"
+"X-Crowdin-File-ID: 5465\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:02\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/comeHomeToTarani1.rpy:7 #-#-# translate crowdin comeHomeToTarani1_b4fbddde:
+msgid "[_cedrick_] Ну, если сестры Грампер дали мне верный адрес, то это должно быть дом Тарани..."
+msgstr "[_cedrick_] Eh bien, si les sœurs Gramper m'ont donné la bonne adresse, ça doit être la maison de Tarani..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:10 #-#-# translate crowdin comeHomeToTarani1_647a937c:
+msgid "[_cedrick_] Кажется, внутри дома кто-то ругается.."
+msgstr "[_cedrick_] On dirait que quelqu'un se dispute à l'intérieur de la maison..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:11 #-#-# translate crowdin comeHomeToTarani1_961d6315:
+msgid "[_womanVoice_] Ты никуда не пойдешь В ТАКОМ ВИДЕ!!!"
+msgstr "[_womanVoice_] Vous n'irez nulle part par cette voie ! !!"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:12 #-#-# translate crowdin comeHomeToTarani1_141640e4:
+msgid "[_tarani_] Отстань от меня! Я уже взрослая!!! И сама буду решать, что мне делать!"
+msgstr "[_tarani_] Laissez-moi tranquille ! Je suis un adulte ! !! Je décide de ce que je veux faire !"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:13 #-#-# translate crowdin comeHomeToTarani1_f4a0bfeb:
+msgid "[_woman_] Я твоя мать и пока ты живешь в этом доме — ты будешь делать то, что я тебе говорю!!!"
+msgstr "[_woman_] Je suis ta mère et tant que tu vivras dans cette maison, tu feras ce que je te dis ! !!"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:14 #-#-# translate crowdin comeHomeToTarani1_e6fc69c6:
+msgid "[_tarani_]  Ну же! ПОПРОБУЙ ОСТАНОВИТЬ МЕНЯ!!! КАК МНЕ ВСЕ ЭТО НАДОЕЛО!!!"
+msgstr "[_tarani_]  Allez ! ESSAYEZ DE M'ARRÊTER !!! J'EN AI MARRE DE TOUT ÇA ! !!"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:17 #-#-# translate crowdin comeHomeToTarani1_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:21 #-#-# translate crowdin comeHomeToTarani1_21c79941:
+msgid "Тарани выбегает из дома и хлопает дверью."
+msgstr "Tarani sort en courant de la maison et claque la porte."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:25 #-#-# translate crowdin comeHomeToTarani1_87a437e6:
+msgid "[_cedrick_] Надо же, как резво побежала. Хм, может проследовать за ней?"
+msgstr "[_cedrick_] Elle a couru si vite. Hmm, je devrais la suivre ?"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:28 #-#-# translate crowdin comeHomeToTarani1_87882ed9:
+msgid "[_woman_] Тарани, постой!"
+msgstr "[_woman_] Tarani, attendez !"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:32 #-#-# translate crowdin comeHomeToTarani1_a583bacf:
+msgid "[_cedrick_] (Вот черт, эта женщина меня заметила. Теперь будет странно, если я побегу за Тарани.. Но, возможно, я смогу извлечь из этого выгоду)"
+msgstr "[_cedrick_] (Oh merde, cette femme m'a repéré. Maintenant ça serait bizarre si je courrais après Tarani... Mais peut-être que je peux en tirer le meilleur parti.)"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:33 #-#-# translate crowdin comeHomeToTarani1_0be83ed7:
+msgid "[_cedrick_] Здравствуйте, я Рик Хоффман, школьный учитель истории у Тарани. Я так понимаю, она только что убежала.."
+msgstr "[_cedrick_] Bonjour, je suis Rick Hoffman, le professeur d'histoire de l'école de Tarani. Je comprends qu'elle s'est enfuie..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:37 #-#-# translate crowdin comeHomeToTarani1_9e74711a:
+msgid "[_woman_] Да, убежала на вечеринку к этому своему паршивцу, Найджелу!.."
+msgstr "[_woman_] Ouais, il s'est enfui à une fête avec ton gars, Nigel... !"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:41 #-#-# translate crowdin comeHomeToTarani1_43c73c52:
+msgid "[_woman_] Ох, простите за грубость. Здравствуйте, меня зовут Тереза Кук, я мама Тарани.. А вы, собственно, по какому делу решили к нам зайти?"
+msgstr "[_woman_] Oh, je suis désolé d'être impoli. Bonjour, mon nom est Teresa Cook, je suis la maman de Tarani ... Et qu'est-ce que vous faites ici, exactement ?"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:45 #-#-# translate crowdin comeHomeToTarani1_e41eae92:
+msgid "[_cedrick_] Опять этот Найджел.. Я как раз хотел с вами о нем поговорить. Я обеспокоен тем, как Найджел влияет на вашу Тарани"
+msgstr "[_cedrick_] C'est encore Nigel. Je voulais vous parler de lui. Je suis préoccupé par l'effet de Nigel sur votre Tarani."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:49 #-#-# translate crowdin comeHomeToTarani1_26d81873:
+msgid "[_theresa_] Думаете я не знаю.. Она по уши влюблена в этого мальчишку, а он то и дело склоняет ее на кривую дорожку. Видели, как она была одета?!"
+msgstr "[_theresa_] Tu crois que je ne sais pas... Elle est follement amoureuse de ce garçon, et il n'arrête pas de la pousser à bout. Tu as vu comment elle était habillée ? !"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:53 #-#-# translate crowdin comeHomeToTarani1_76843062:
+msgid "[_cedrick_] Да, это.."
+msgstr "[_cedrick_] Ouais, c'est..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:54 #-#-# translate crowdin comeHomeToTarani1_2b3e2e3e:
+msgid "[_cedrick_] (Это было чертовски горячо. Надеюсь, успею трахнуть ее в этом костюме)"
+msgstr "[_cedrick_] (C'était chaud comme l'enfer. J'espère que je pourrai la baiser dans ce costume.)"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:55 #-#-# translate crowdin comeHomeToTarani1_2b2925d9:
+msgid "[_cedrick_] Это очень возмутительно.."
+msgstr "[_cedrick_] C'est vraiment scandaleux..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:59 #-#-# translate crowdin comeHomeToTarani1_3c4e8ffd:
+msgid "[_theresa_] Именно!.. Вы не представляете, как я за нее переживаю.."
+msgstr "[_theresa_] Exactement ... Tu n'as pas idée à quel point je suis inquiet pour elle."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:63 #-#-# translate crowdin comeHomeToTarani1_3d1f554a:
+msgid "[_theresa_] Еще и ходят слухи, что у нас в городе завелся маньяк и уже несколько людей пропало.."
+msgstr "[_theresa_] Il y a aussi une rumeur selon laquelle il y a un maniaque dans notre ville et plusieurs personnes ont déjà disparu..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:64 #-#-# translate crowdin comeHomeToTarani1_5728c53a:
+msgid "[_cedrick_] Надеюсь, этот Найджел сможет ее защитить.."
+msgstr "[_cedrick_] J'espère que ce Nigel pourra la protéger..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:68 #-#-# translate crowdin comeHomeToTarani1_f6be80a3:
+msgid "[_theresa_] Пх.. Этот Найджел и его компания.. Я работаю судьей и пару лет назад проходил суд над его братом! Его посадили в тюрьму на три с половиной года, он ограбил магазин игрушек под рождество!"
+msgstr "[_theresa_] Ugh... Ce Nigel et son entreprise... Je travaille comme juge et il y a quelques années, j'ai eu son frère en procès ! Il est allé en prison pour trois ans et demi pour avoir volé un magasin de jouets le jour de Noël !"
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:69 #-#-# translate crowdin comeHomeToTarani1_0800873c:
+msgid "[_theresa_] Этот малолетний преступник и его брат Найджел. Сомневаюсь, что они вообще будут кого-то защищать"
+msgstr "[_theresa_] Ce délinquant juvénile et son frère Nigel. Je doute qu'ils protègent qui que ce soit."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:73 #-#-# translate crowdin comeHomeToTarani1_72bc2dac:
+msgid "[_theresa_] На днях его брата освободили из тюрьмы досрочно и я боюсь, что ситуация может усугубиться.."
+msgstr "[_theresa_] Son frère a été libéré prématurément de prison l'autre jour et je crains que la situation ne s'aggrave."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:74 #-#-# translate crowdin comeHomeToTarani1_2ceab40f:
+msgid "[_cedrick_] Я бы очень хотел вам помочь, но не знаю как.."
+msgstr "[_cedrick_] J'aimerais vraiment vous aider, mais je ne sais pas comment."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:78 #-#-# translate crowdin comeHomeToTarani1_f246a486:
+msgid "[_theresa_] Ладно.. Простите, что вывалила на вас все это. Спасибо, что беспокоитесь о моей дочери, но я и сама уже не знаю, что с ней делать. Все этот Найджел.."
+msgstr "[_theresa_] Ok, hum... Je suis désolé de déverser tout ça sur vous. Merci de vous inquiéter pour ma fille, mais je ne sais plus quoi faire d'elle. C'est ce Nigel..."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:80 #-#-# translate crowdin comeHomeToTarani1_5f9b772e:
+msgid "...."
+msgstr "...."
+
+# game/scripts/quests/tarani/comeHomeToTarani1.rpy:81 #-#-# translate crowdin comeHomeToTarani1_266846d5:
+msgid "[_cedrick_] (Так значит, у Найджела есть брат преступник, который недавно вышел из тюрьмы. Пожалуй, стоит снова попросить Бланка проследить за ним, возможно он сможет заснять более ценные кадры...)"
+msgstr "[_cedrick_] (Donc Nigel a un frère criminel qui est récemment sorti de prison. Nous devrions peut-être demander à Blank de le suivre à nouveau, il pourra peut-être capturer des images plus intéressantes...)"
+

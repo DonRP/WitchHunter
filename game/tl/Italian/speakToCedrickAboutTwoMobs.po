@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.po\n"
+"X-Crowdin-File-ID: 5369\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:27\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:9 #-#-# translate crowdin speakToCedrickAboutTwoMobs_3dd11241:
+msgid "[_cedrick_] Мой князь! Я выполнил ваше задание! Они согласны служить вам."
+msgstr "[_cedrick_] Mio principe, ho portato a termine il tuo compito e loro accettano di servirti."
+
+# game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:13 #-#-# translate crowdin speakToCedrickAboutTwoMobs_31eb9720:
+msgid "[_phobos_] Отлично, через несколько дней мы нападем на запретный город и сразим мятежников..."
+msgstr "[_phobos_] Bene, tra pochi giorni attaccheremo la città proibita e sconfiggeremo i ribelli..."
+
+# game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:14 #-#-# translate crowdin speakToCedrickAboutTwoMobs_8d630a0f:
+msgid "[_phobos_] Сразу после того как наши кузнецы восстановят доспехи и оружие..."
+msgstr "[_phobos_] Non appena i nostri fabbri avranno ripristinato le armature e le armi..."
+
+# game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:15 #-#-# translate crowdin speakToCedrickAboutTwoMobs_c0dbbc2c:
+msgid "[_cedrick_] Да, мой князь.."
+msgstr "[_cedrick_] Sì, mio principe..."
+
+# game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:26 #-#-# translate crowdin speakToCedrickAboutTwoMobs_a5a68edb:
+msgid "[_phobos_] И еще кое-что, Седрик. Не забудь так же отчитаться перед своим главнокомандующим Райтером, ты же помогал с его заданием"
+msgstr "[_phobos_] Un'altra cosa, Cedric. Non dimenticate di fare rapporto anche al vostro Comandante in Capo Reiter, perché avete contribuito alla sua missione."
+
+# game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:30 #-#-# translate crowdin speakToCedrickAboutTwoMobs_dec7cab7:
+msgid "[_cedrick_] ...Будет сделано, мой князь"
+msgstr "[_cedrick_] ...Sarà fatto, mio principe."
+
+# game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:34 #-#-# translate crowdin speakToCedrickAboutTwoMobs_363d5c15:
+msgid "[_phobos_] Свободен!"
+msgstr "[_phobos_] Congedati!"
+
+# game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:36 #-#-# translate crowdin speakToCedrickAboutTwoMobs_0c531c4c:
+msgid "[_cedrick_] Черт, теперь еще и отчитываться перед этим идиотом"
+msgstr "[_cedrick_] Merda, ora devo fare rapporto a questo idiota"
+
+# game/scripts/quests/phobosAskKillTwoMobs/speakToCedrickAboutTwoMobs.rpy:40 #-#-# translate crowdin speakToCedrickAboutTwoMobs_a20cefa7:
+msgid "..."
+msgstr "..."
+

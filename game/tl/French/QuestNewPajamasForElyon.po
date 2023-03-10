@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestNewPajamasForElyon.po\n"
+"X-Crowdin-File-ID: 4925\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestNewPajamasForElyon.rpy:4
+msgid "Пижама для Элион"
+msgstr "Pyjama pour Elion"
+
+# game/scripts/core/quests/QuestNewPajamasForElyon.rpy:16
+msgid "Заказать пижаму для Элион с помощью телефона"
+msgstr "Commande de pyjamas pour Elion par téléphone"
+
+# game/scripts/core/quests/QuestNewPajamasForElyon.rpy:16
+msgid "Дождаться посылки с пижамой"
+msgstr "En attente d'un paquet de pyjamas"
+
+# game/scripts/core/quests/QuestNewPajamasForElyon.rpy:16
+msgid "Попросить Элион протереть пыль в пижаме"
+msgstr "Demander à Elion de dépoussiérer le pyjama"
+
+# game/scripts/core/quests/QuestNewPajamasForElyon.rpy:16
+msgid "Попросить Элион провести публичные чтения в пижаме"
+msgstr "Demander à Elion de faire une lecture publique en pyjama"
+

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.po\n"
+"X-Crowdin-File-ID: 4977\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:54\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:5 #-#-# translate crowdin elyon_action_show_tongue_root_1_4a6d3f35:
+msgid "[_cedrick_] Отлично, тогда начнем с малого. Покажи мне свой язык"
+msgstr "[_cedrick_] Super, alors commençons petit. Montre-moi ta langue"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:8 #-#-# translate crowdin elyon_action_show_tongue_root_1_434ca684:
+msgid "[_elion_] Ч-что?"
+msgstr "[_elion_] Qu... quoi ?"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:9 #-#-# translate crowdin elyon_action_show_tongue_root_1_1e745308:
+msgid "[_cedrick_] Просто открой рот и высуни его. Ты же знаешь, как это делается, давай"
+msgstr "[_cedrick_] Ouvrez juste votre bouche et sortez-la. Tu sais comment faire, allez"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:13 #-#-# translate crowdin elyon_action_show_tongue_root_1_cd881c16:
+msgid "[_elion_] Ф-фот тах?"
+msgstr "[_elion_] F-fot tah ?"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:14 #-#-# translate crowdin elyon_action_show_tongue_root_1_e4579c01:
+msgid "[_cedrick_] Ага, именно так, отлично"
+msgstr "[_cedrick_] Oui, c'est ça, super."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:15 #-#-# translate crowdin elyon_action_show_tongue_root_1_d456f576:
+msgid "[_cedrick_] (Хм, какой маленький все же у нее ротик. Даже не уверен, что мой член в нем полностью поместится)"
+msgstr "[_cedrick_] (Hmm, quelle petite bouche elle a. Je ne suis même pas sûr que ma bite pourrait entrer là-dedans.)"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:16 #-#-# translate crowdin elyon_action_show_tongue_root_1_a5708f78:
+msgid "[_elion_] К-кхак долхо мне это делать?"
+msgstr "[_elion_] Pourquoi dois-je faire ça ?"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:21 #-#-# translate crowdin elyon_action_open_her_mouth_wider_1_e3df0545:
+msgid "[_cedrick_] Хорошо выходит для первого раза, но давай я тебе помогу"
+msgstr "[_cedrick_] C'est bien pour la première fois, mais laisse-moi t'aider."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:24 #-#-# translate crowdin elyon_action_open_her_mouth_wider_1_f869d0f2:
+msgid "[_elion_] Ф-фто ты делаешь, Рик..."
+msgstr "[_elion_] Qu'est-ce que tu fais, Rick..."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:25 #-#-# translate crowdin elyon_action_open_her_mouth_wider_1_3871f881:
+msgid "[_cedrick_] Просто немного помогаю тебе"
+msgstr "[_cedrick_] Je vous aide juste un peu."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:28 #-#-# translate crowdin elyon_action_open_her_mouth_wider_1_f2052b7d:
+msgid "[_elion_] (Э-то так смущающе.. Он без спросу просто вторгся в мой рот своими руками...)"
+msgstr "[_elion_] (C'est tellement embarrassant... Il vient d'envahir ma bouche avec ses mains sans demander...)"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:29 #-#-# translate crowdin elyon_action_open_her_mouth_wider_1_e6213cc5:
+msgid "[_cedrick_] Знаешь, на самом деле многих мужчин возбуждает, когда девушки таким образом высовывают язык"
+msgstr "[_cedrick_] Tu sais, ça excite beaucoup d'hommes quand les filles tirent la langue comme ça."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:32 #-#-# translate crowdin elyon_action_open_her_mouth_wider_1_ea17943e:
+msgid "[_elion_] П-прафда?"
+msgstr "[_elion_] P-praffda ?"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:33 #-#-# translate crowdin elyon_action_open_her_mouth_wider_1_764e5c50:
+msgid "[_cedrick_] Ага, кажется в японских черно-белых комиксах это называется ахегао"
+msgstr "[_cedrick_] Ouais, je pense que dans les BD japonaises en noir et blanc, ça s'appelle anhegao."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:34 #-#-# translate crowdin elyon_action_open_her_mouth_wider_1_18b5721e:
+msgid "[_elion_] Как интерефно..."
+msgstr "[_elion_] C'est intéressant..."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:40 #-#-# translate crowdin elyon_action_show_tongue_enough_1_b67c885d:
+msgid "[_cedrick_] Что ж, думаю для первого раза достаточно"
+msgstr "[_cedrick_] Bien, je pense que c'est suffisant pour la première fois."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:43 #-#-# translate crowdin elyon_action_show_tongue_enough_1_fb0fb4e0:
+msgid "[_elion_] Ф-фух.."
+msgstr "[_elion_] Ouf..."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:44 #-#-# translate crowdin elyon_action_show_tongue_enough_1_df2fcabe:
+msgid "[_cedrick_] Как ощущение?"
+msgstr "[_cedrick_] Qu'est-ce que ça fait ?"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:47 #-#-# translate crowdin elyon_action_show_tongue_enough_1_4d076862:
+msgid "[_elion_] Это было очень смущающе, Рик.."
+msgstr "[_elion_] C'était très embarrassant, Rick..."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:48 #-#-# translate crowdin elyon_action_show_tongue_enough_1_ca3e767d:
+msgid "[_cedrick_] Но тебе ведь стало легче? Как себя чувствуешь?"
+msgstr "[_cedrick_] Mais vous vous sentez mieux maintenant, n'est-ce pas ? Comment vous sentez-vous ?"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:51 #-#-# translate crowdin elyon_action_show_tongue_enough_1_0d8dced8:
+msgid "[_elion_] Я, мм.. Думаю да, кажется.. Кажется мне стало чуточку лучше"
+msgstr "[_elion_] Je, hum... Je pense que oui, je pense... Je pense que je vais un peu mieux."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:52 #-#-# translate crowdin elyon_action_show_tongue_enough_1_f73211da:
+msgid "[_elion_] (Кажется от этого я только больше возбудилась.. Но, вдруг в этом и заключается часть помощи Рика. Пожалуй, просто ему доверюсь)"
+msgstr "[_elion_] (Je pense que ça m'a seulement rendu plus excité...) Mais peut-être que ça fait partie de l'aide apportée à Rick. Je suppose que je vais juste lui faire confiance)."
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:53 #-#-# translate crowdin elyon_action_show_tongue_enough_1_36c05596:
+msgid "[_cedrick_] Отлично, рад, что помог"
+msgstr "[_cedrick_] Super, content que ça ait aidé"
+
+# game/scripts/elyon_actions/show_tongue/elyon_action_show_tongue_root_1.rpy:54 #-#-# translate crowdin elyon_action_show_tongue_enough_1_d231aab0:
+msgid "[_elion_] И-и я, Рик, спасибо"
+msgstr "[_elion_] Et... et moi, Rick, je vous remercie."
+

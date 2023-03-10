@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.po\n"
+"X-Crowdin-File-ID: 5301\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:30\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:6 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_ee19bdf0:
+msgid "[_haylin_] Хех, смотрю работа официантом не отпугнула тебя..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:7 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_fc18a67f:
+msgid "[_cedrick_] Мне только в радость работать в заведении, где готовят такую вкусную еду!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:9 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_d815b06c:
+msgid "Седрик приступает к работе и через некоторое время замечает, что в ресторан зашла одна из стражниц"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:13 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_6f4cbab2:
+msgid "[_will_] Рик!? Привет! Не знала, что ты здесь работаешь…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:14 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_5f2b31bd:
+msgid "[_cedrick_] Просто решил помочь Хай Лин в трудной ситуации..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:19 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_bfb395e0:
+msgid "[_will_] Оу... Это так... благородно…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:23 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_c80bd042:
+msgid "[_will_] А Хай Лин здесь?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:24 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_6efc5ce5:
+msgid "[_cedrick_] Эм..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:25 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_4f28ac39:
+msgid "Седрик оглядывается по сторонам…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:26 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_3e574ee3:
+msgid "[_cedrick_] Должно быть, она на кухне..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:30 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_23ecdea8:
+msgid "[_will_] Можешь позвать ее? Если не трудно…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:31 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_a6f47658:
+msgid "[_cedrick_] Конечно!"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:33 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_708e9e22:
+msgid "Вы отправляетесь на кухню в поисках Хай Лин"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:37 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_17dfeebb:
+msgid "[_cedrick_] (Оу..)"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:38 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_81af40a0:
+msgid "[_cedrick_] (У нее довольно подтянутое тело... Что ж это не удивительно, учитывая то, как она бывает подвижна... Девчонка полна энергии, это точно...)"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:39 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_aa609a3d:
+msgid "[_cedrick_] (Я и не думал, что она может быть такой... Сексуальной... Хочу как можно скорее залезть к ней в трусики... Кажется у меня начинает вставать)"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:40 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_01507355:
+msgid "[_haylin_] Рик!? Что-то искал?"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:41 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_0644a24e:
+msgid "[_cedrick_] Ээ... Да! Тебя искала Вилл…"
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:42 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_3e854889:
+msgid "[_haylin_] Да? Сейчас я к ней подойду, спасибо..."
+msgstr ""
+
+# game/scripts/quests/haylin/ql_hayLin_help_in_restoran_2.rpy:44 #-#-# translate crowdin ql_hayLin_help_in_restoran_2_75dc8672:
+msgid "Доработав остаток дня и поев вкусный ужин, которым вознаградила вас семья Лин за работу, вы отправляетесь в книжный магазин. Вы полны мыслей о том, как бы поскорей трахнуть Хай Лин..."
+msgstr ""
+

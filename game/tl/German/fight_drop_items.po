@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/inventory/items/fight_drop_items.po\n"
+"X-Crowdin-File-ID: 4857\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:41\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Нашивка повстанца"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Слизь кабана"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Клык кабана"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Ядовитая железа"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Клещня морпиона"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Сонный порошок"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Лапа жагноморфа"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Паутинная железа"
+msgstr ""
+
+# game/scripts/core/inventory/items/fight_drop_items.rpy:2
+msgid "Глаз ларвека"
+msgstr ""
+

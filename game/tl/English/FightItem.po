@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Для создания зелья вам не хватает ингредиента:\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/Fight/FightItem.po\n"
+"X-Crowdin-File-ID: 4809\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:21\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/FightItem.rpy:43
+msgid "Для создания зелья вам не хватает ингредиента:\n"
+"{ingredient_name}"
+msgstr ""
+
+# game/scripts/core/Fight/FightItem.rpy:46
+msgid "Для создания зелья вам не хватает ингредиентов:\n"
+"{ingredient_names}"
+msgstr ""
+
+# game/scripts/core/Fight/FightItem.rpy:49
+msgid "Изготовлено зелье:"
+msgstr ""
+

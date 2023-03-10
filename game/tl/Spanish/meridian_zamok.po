@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/meridian_zamok.po\n"
+"X-Crowdin-File-ID: 5069\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/meridian_zamok.rpy:21 #-#-# translate crowdin talk_with_prince_phobos_69113d3e:
+msgid "[_phobos_] Скажи мне, что Звезда Трибы нашла девчонку!"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:27 #-#-# translate crowdin talk_with_prince_phobos_588e1805:
+msgid "[_cedrick_] Да, это действительно так! Мне удалось найти вашу сестру."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:36 #-#-# translate crowdin talk_with_prince_phobos_8659d677:
+msgid "[_phobos_] Отлично! Скоро вся сила Меридиана будет моей!"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:42 #-#-# translate crowdin talk_with_prince_phobos_4e66c965:
+msgid "[_cedrick_] Я нашел точку инверсии между Меридианом и книжной лавкой на Земле."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:43 #-#-# translate crowdin talk_with_prince_phobos_98befd78:
+msgid "[_cedrick_] Магазин будет идеальным прикрытием."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:44 #-#-# translate crowdin talk_with_prince_phobos_bcf5b0a6:
+msgid "[_cedrick_] И еще кое-что..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:45 #-#-# translate crowdin talk_with_prince_phobos_831e4b8a:
+msgid "[_cedrick_] Оказалось, что одна из подруг принцессы является Стражницей завесы"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:54 #-#-# translate crowdin talk_with_prince_phobos_0c71bcfe:
+msgid "[_phobos_] Это может усложнить задачу. Помни, очень важно забрать силу принцессы, если я хочу сохранить власть."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:55 #-#-# translate crowdin talk_with_prince_phobos_c30adbf8:
+msgid "[_phobos_] Мы должны медленно и осторожно войти к ней в доверие, а затем направить ее прямиком в нашу ловушку!"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:56 #-#-# translate crowdin talk_with_prince_phobos_01037598:
+msgid "[_phobos_] Чтобы я смог лишить ее магической силы, ты должен развратить ее как можно больше... Это необходимо для проведения ритуала.. И еще кое-что.."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:65 #-#-# translate crowdin talk_with_prince_phobos_d1004f02:
+msgid "[_phobos_] Ты должен лишить ее девственности..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:66 #-#-# translate crowdin talk_with_prince_phobos_2cb37b20:
+msgid "[_phobos_] Я думаю, что моя сестра все еще девственница. Иначе ей бы навряд ли удалось сдерживать свои магические способности и я бы непременно заметил пробуждение силы, которая дремлет в ней."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:67 #-#-# translate crowdin talk_with_prince_phobos_49316299:
+msgid "[_cedrick_] ..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:68 #-#-# translate crowdin talk_with_prince_phobos_ac5aa7ce:
+msgid "[_cedrick_] С этим могут возникнуть некоторые проблемы.."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:69 #-#-# translate crowdin talk_with_prince_phobos_80759cba:
+msgid "[_phobos_] Со стражницами Завесы тебе предстоит подобная задача..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:70 #-#-# translate crowdin talk_with_prince_phobos_c2f68387:
+msgid "[_phobos_] Твое Семя ядовито и попадая внутрь, сможет понизить их магическую силу, для того чтобы ты мог сражаться с ними на равных и избавится от них, либо взять в плен… Ха-ха!"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:71 #-#-# translate crowdin talk_with_prince_phobos_d0780a58:
+msgid "[_phobos_] Это определенно понизит дух сопротивления у повстанцев и отнимет последнюю надежду на светлое будущее у крестьян…"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:72 #-#-# translate crowdin talk_with_prince_phobos_bf90c505:
+msgid "[_phobos_] Иначе могут помешать моему ритуалу с Элион..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:77 #-#-# translate crowdin talk_with_prince_phobos_9eca345f:
+msgid "[_cedrick_] С этим могут возникнуть некоторые проблемы..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:78 #-#-# translate crowdin talk_with_prince_phobos_06f4fde4:
+msgid "[_cedrick_] Вы уверены, что я наиболее подходящий кандидат на это задание?"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:84 #-#-# translate crowdin talk_with_prince_phobos_5187a590:
+msgid "[_phobos_] Разве это не ты хвастал, что сношался почти со всеми крестьянками в городе и сможешь совратить любую?"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:85 #-#-# translate crowdin talk_with_prince_phobos_ef770abb:
+msgid "[_cedrick_] Но, они не были принцессами или стражницами завесы..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:86 #-#-# translate crowdin talk_with_prince_phobos_a55cf215:
+msgid "[_phobos_] Это не важно, глупец! Как я уже говорил, принцесса даже не подозревает, что является наследницей престола, а стражницы, как и обычные девушки, имеют свои слабости. Воспользуйся этим!"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:87 #-#-# translate crowdin talk_with_prince_phobos_73e36397:
+msgid "[_phobos_] Моя сестра будет прекрасной принцессой... Но, увы, недолго."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:93 #-#-# translate crowdin talk_with_prince_phobos_cf382a4a:
+msgid "[_phobos_] И еще..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:94 #-#-# translate crowdin talk_with_prince_phobos_7570af97:
+msgid "[_phobos_] Ни в коем случае не пытайся ее изнасиловать. В критические моменты, ее сила может высвободиться, и тогда тебе вряд ли удастся уйти живым."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:100 #-#-# translate crowdin talk_with_prince_phobos_76009a7a:
+msgid "[_cedrick_] Как скажете, мой князь..."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:105 #-#-# translate crowdin talk_with_prince_phobos_58b5bb17:
+msgid "[_centered_] {size=37}На следующий день в книжном магазине.{/size}"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:118 #-#-# translate crowdin talk_with_prince_phobos_b89c19ce:
+msgid "[_phobos_] Ты уже выполнил мои поручения??"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:124 #-#-# translate crowdin talk_with_prince_phobos_79bddf9c:
+msgid "[_cedrick_] Еще нет, но я в процессе"
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:130 #-#-# translate crowdin talk_with_prince_phobos_21cfcbc5:
+msgid "[_phobos_] Тогда не испытывай мое терпение."
+msgstr ""
+
+# game/scripts/meridian/meridian_zamok.rpy:131 #-#-# translate crowdin talk_with_prince_phobos_f1cdf5d6:
+msgid "[_cedrick_] Простите мой Князь, я пойду .."
+msgstr ""
+

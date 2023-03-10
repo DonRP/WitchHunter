@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.po\n"
+"X-Crowdin-File-ID: 5513\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:03\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:3 #-#-# translate crowdin get_order_of_maids_uniform_c0bc3184:
+msgid "[_cedrick_] Элион, твоя новая рабочая форма пришла, готова примерить?"
+msgstr "[_cedrick_] Elyon, votre nouvel uniforme de travail est là, prêt à l'essayer ?"
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:8 #-#-# translate crowdin get_order_of_maids_uniform_c16e5e60:
+msgid "[_elion_] Агам, дай наконец посмотреть, что ты там выбрал. Сейчас пойду примерить"
+msgstr "[_elion_] Agam, laisse-moi enfin voir ce que tu as choisi. Je vais aller l'essayer maintenant."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:12 #-#-# translate crowdin get_order_of_maids_uniform_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:13 #-#-# translate crowdin get_order_of_maids_uniform_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:14 #-#-# translate crowdin get_order_of_maids_uniform_10bc3d07:
+msgid "[_elion_] Рик, что это? П-почему она вся такая.. Эм, такая!"
+msgstr "[_elion_] Rick, qu'est-ce qu'il y a ? P-pourquoi est-elle toute... Uh, comme ça !"
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:15 #-#-# translate crowdin get_order_of_maids_uniform_24b44f7f:
+msgid "[_cedrick_] Хах, а что не так?"
+msgstr "[_cedrick_] Huh, qu'est-ce qui ne va pas ?"
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:16 #-#-# translate crowdin get_order_of_maids_uniform_78c17b24:
+msgid "[_elion_] А то, что это форма развратной горничной!"
+msgstr "[_elion_] Et le fait que c'est l'uniforme d'une servante lubrique !"
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:20 #-#-# translate crowdin get_order_of_maids_uniform_ae02cece:
+msgid "[_cedrick_] Хоооо, по моему смотрится просто потрясающе"
+msgstr "[_cedrick_] Oooh, je pense que ça a l'air génial."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:23 #-#-# translate crowdin get_order_of_maids_uniform_4c3c50f2:
+msgid "[_elion_] Рик! У формы полностью открытый низ! Я же словно в нижнем белье разгуливаю"
+msgstr "[_elion_] Rick ! L'uniforme est complètement ouvert en dessous ! C'est comme si je me promenais en sous-vêtements."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:24 #-#-# translate crowdin get_order_of_maids_uniform_68677952:
+msgid "[_cedrick_] Эм.. Ты не понимаешь, это профессиональная форма горничных высшего класса"
+msgstr "[_cedrick_] Hum... Vous ne comprenez pas, c'est un uniforme de bonne professionnelle de haut niveau."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:27 #-#-# translate crowdin get_order_of_maids_uniform_97bc3510:
+msgid "[_elion_] П-правда?"
+msgstr "[_elion_] V-Vraiment ?"
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:28 #-#-# translate crowdin get_order_of_maids_uniform_f7da0f4b:
+msgid "[_cedrick_] Да, эта форма была специально разработана лучшими дизайнерами, с учетом всех сложных задач профессиональных горничных"
+msgstr "[_cedrick_] Oui, cet uniforme a été spécialement conçu par les meilleurs designers, en tenant compte de toutes les tâches complexes des femmes de chambre professionnelles."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:29 #-#-# translate crowdin get_order_of_maids_uniform_1dd79a70:
+msgid "[_cedrick_] Все элементы одежды не просто открыты, а сделаны максимально эргономичными! Сама удивишься, как легко будет в этой одежде протирать пыль"
+msgstr "[_cedrick_] Tous les éléments du vêtement ne sont pas seulement ouverts, mais rendus aussi ergonomiques que possible ! Vous serez étonné de voir à quel point il est facile de faire la poussière dans ces vêtements."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:32 #-#-# translate crowdin get_order_of_maids_uniform_f341a893:
+msgid "[_elion_] Ух, ну, если ты так говоришь.. Хорошо, Рик, спасибо. Постараюсь привыкнуть к этой новой форме.."
+msgstr "[_elion_] Euh, bien, si tu le dis. Très bien, Rick, merci. Je vais essayer de m'habituer à ce nouvel uniforme."
+
+# game/scripts/quests/theMaidsUniformForEyion/get_order_of_maids_uniform.rpy:35 #-#-# translate crowdin get_order_of_maids_uniform_142dc6eb:
+msgid "[_cedrick_] (Фух, выкрутился..)"
+msgstr "[_cedrick_] (Ouf, j'en suis sorti...)"
+

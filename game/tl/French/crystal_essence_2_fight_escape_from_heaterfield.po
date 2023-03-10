@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.po\n"
+"X-Crowdin-File-ID: 5577\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:5 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_ced621b1:
+msgid "[_miranda_] Рик! У меня срочное донесение от Фобо.."
+msgstr "[_miranda_] Rick ! J'ai un rapport urgent de Fobo..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:6 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_d3e729b6:
+msgid "[_irma_] Не суйся под руку, шестерка Фобоса!"
+msgstr "[_irma_] Restez hors de mon chemin, les six de Phobos !"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:10 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_763a37a1:
+msgid "[_cedrick_] Миранда!!"
+msgstr "[_cedrick_] Miranda ! !!"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:11 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_81d6b723:
+msgid "[_miranda_] Р.. Рик.."
+msgstr "[_miranda_] Р.. Rick..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:12 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_87b7ed4a:
+msgid "[_cedrick_] ......"
+msgstr "[_cedrick_] ......"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:13 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_2734f177:
+msgid "[_cedrick_] Чертовы стражницы!"
+msgstr "[_cedrick_] Gardes sanglants !"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:17 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:19 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:23 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_bbdc7140:
+msgid "[_cedrick_] черт... кое-как сбежали, я смог воспользоваться ситуацией.. если бы не Миранда, меня могли бы прямо там прикончить.."
+msgstr "[_cedrick_] Merde... je me suis échappé d'une manière ou d'une autre, j'ai pu profiter de la situation... si Miranda n'avait pas été là, j'aurais pu être tué sur place..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:24 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_5990ad1c:
+msgid "[_cedrick_] Что за ад вообще творится.. Какого черта ты тут оказалась, Миранда?..."
+msgstr "[_cedrick_] Que diable se passe-t-il ? Que diable faites-vous ici, Miranda ?"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:26 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_afa9241b:
+msgid "[_broken_warrior_] Главнокомандующий Седрик! Вы пришли..."
+msgstr "[_broken_warrior_] Commandant en chef Cédric ! Vous êtes venu..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:30 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_f4ec3c80:
+msgid "[_cedrick_] Сколько раз повторять, я бывш... Стоп... Что с тобой!?"
+msgstr "[_cedrick_] Combien de fois dois-je te le dire, je suis un ex... Arrête... Qu'est-ce qui ne va pas chez toi ?"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:34 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_ce86eb6a:
+msgid "[_broken_warrior_] В лесу происходит страшное.. Он пробудился.."
+msgstr "[_broken_warrior_] Une chose effrayante se passe dans la forêt. Il s'est réveillé..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:38 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_071d21df:
+msgid "[_cedrick_] Кто еще там мог пробудиться.."
+msgstr "[_cedrick_] Qui d'autre aurait pu se réveiller..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:42 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_8542ac31:
+msgid "[_broken_warrior_] Король Морпионов.. Он ищет свою королеву.. Ту.. Ту, что вы убили..."
+msgstr "[_broken_warrior_] Le roi des Morpions... Il cherche sa reine... Celle... Celle que tu as tuée..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:43 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_12bda3de:
+msgid "[_cedrick_] ....Да ты издеваешься"
+msgstr "[_cedrick_] ....Vous vous moquez de moi."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:47 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_f47b7bd1:
+msgid "[_broken_warrior_] Мы думали госпожа Миранда вам сообщила.."
+msgstr "[_broken_warrior_] Nous pensions que Mme Miranda vous avait informé..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:48 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_873abb6c:
+msgid "[_broken_warrior_] Даже Гаргойл и Песчаный демон не смогли с ним совладать"
+msgstr "[_broken_warrior_] Même Gargoyle et le Démon des sables n'ont pas pu le gérer."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:52 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_756b1159:
+msgid "[_cedrick_] (Даже эти двое? С ними и у меня были проблемы, а Король Морпионов их одновременно одолел..)"
+msgstr "[_cedrick_] (Même ces deux-là ? J'ai eu des problèmes avec eux aussi, et le Roi Morpion les a surpassés en même temps...)"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:56 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_d4ebf490:
+msgid "[_broken_warrior_] Войско Райтера уже почти полностью разгромлено, этот монстр неостановим.."
+msgstr "[_broken_warrior_] L'armée de Reiter est déjà presque entièrement vaincue, ce monstre est inarrêtable."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:60 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_8f8c2e4a:
+msgid "[_cedrick_] Ну, здесь уже ничего удивительного.. У Райтера нет опыта в руководстве войском против превосходящего противника"
+msgstr "[_cedrick_] Eh bien, il n'y a pas de surprise. Reiter n'a aucune expérience dans la conduite d'une armée contre un ennemi supérieur"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:64 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_fa056b8d:
+msgid "[_broken_warrior_] Король Морпионов идет в сторону замка.. Только вы сможете его остановить, Лорд Седрик..."
+msgstr "[_broken_warrior_] Le Roi Morpion marche vers le château. Seul vous pouvez l'arrêter, Lord Cedric..."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:68 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_4c0bfc57:
+msgid "[_cedrick_] .........."
+msgstr "[_cedrick_] .........."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:69 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_99cc9aca:
+msgid "[_cedrick_] ........."
+msgstr "[_cedrick_] ........."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_fight_escape_from_heaterfield.rpy:70 #-#-# translate crowdin crystal_essence_2_fight_escape_from_heaterfield_af327360:
+msgid "[_cedrick_] (И когда это вдруг моя жизнь повернула с развращения девиц и аристократических утех в этот кромешный кошмар?..)"
+msgstr "[_cedrick_] (Et quand est-ce que ma vie a soudainement basculé de l'attouchement des jeunes filles et des plaisirs aristocratiques à ce cauchemar total... ?)"
+

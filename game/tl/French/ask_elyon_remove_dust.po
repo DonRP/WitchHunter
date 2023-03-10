@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/dustInBookshop/ask_elyon_remove_dust.po\n"
+"X-Crowdin-File-ID: 5135\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:57\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:4 #-#-# translate crowdin ask_elyon_remove_dust_0268f40c:
+msgid "[_cedrick_] Элион, можешь подойти на Минутку?"
+msgstr "[_cedrick_] Elyon, peux-tu venir à la Minute ?"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:7 #-#-# translate crowdin ask_elyon_remove_dust_b77ac8ba:
+msgid "[_elion_] Да, что такое?"
+msgstr "[_elion_] Oui, qu'est-ce que c'est ?"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:11 #-#-# translate crowdin ask_elyon_remove_dust_76b2ff3a:
+msgid "[_cedrick_] Знаешь, мне периодически нужна будет твоя помощь, чтобы убрать пыль с верхних полок. Многие из наших книг – редкие и очень старые экземпляры. Пыль может испортить их качество"
+msgstr "[_cedrick_] Vous savez, j'aurai besoin de votre aide de temps en temps pour dépoussiérer les étagères du haut. Beaucoup de nos livres sont des exemplaires rares et très anciens. La poussière peut ruiner leur qualité"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:15 #-#-# translate crowdin ask_elyon_remove_dust_8f430b98:
+msgid "[_cedrick_] Я бы и сам взялся за эту работу, но кто-то должен всегда стоять за прилавком"
+msgstr "[_cedrick_] Je prendrais bien ce travail moi-même, mais il faut toujours que quelqu'un se tienne derrière le comptoir."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:18 #-#-# translate crowdin ask_elyon_remove_dust_884abba4:
+msgid "[_elion_] Да, конечно, без проблем, Рик. Только схожу за тряпкой и займусь этим!"
+msgstr "[_elion_] Oui, bien sûr, pas de problème, Rick. Je vais juste chercher un chiffon et m'y mettre !"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:21 #-#-# translate crowdin ask_elyon_remove_dust_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:24 #-#-# translate crowdin ask_elyon_remove_dust_19b2de5c:
+msgid "*звук телефона*"
+msgstr "*(téléphone qui sonne)"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:25 #-#-# translate crowdin ask_elyon_remove_dust_e62b0a9a:
+msgid "[_cedrick_] (Элион что, оставила свой телефон у прилавка?)"
+msgstr "[_cedrick_] (Est-ce qu'Elion a laissé son téléphone au comptoir ?)"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:28 #-#-# translate crowdin ask_elyon_remove_dust_674e6647:
+msgid "[_cedrick_] (Сообщение от Брайана?)"
+msgstr "[_cedrick_] (Un message de Brian ?)"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:29 #-#-# translate crowdin ask_elyon_remove_dust_844fba11:
+msgid "[_cedrick_] (Хм.. Это шанс для меня, наконец избавиться от этого мелкого паршивца)"
+msgstr "[_cedrick_] (Hmm... C'est une chance pour moi de me débarrasser enfin du petit bougre)."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:30 #-#-# translate crowdin ask_elyon_remove_dust_009acf6b:
+msgid "[_cedrick_] (Быстро.. Надо скопировать его номер, пока Элион не вернулась)"
+msgstr "[_cedrick_] (Vite... je dois copier son numéro avant qu'Elyon ne revienne)"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:34 #-#-# translate crowdin ask_elyon_remove_dust_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:40 #-#-# translate crowdin ask_elyon_remove_dust_a20cefa7_2:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:43 #-#-# translate crowdin ask_elyon_remove_dust_ac459c77:
+msgid "[_cedrick_] (Хм, может в телефоне есть еще что-то? Адрес его дома, например. Надо поискать в сообщениях..)"
+msgstr "[_cedrick_] (Hmm, peut-être qu'il y a plus sur le téléphone ? L'adresse de sa maison, par exemple. Je vais devoir la chercher dans mes messages...)"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:47 #-#-# translate crowdin ask_elyon_remove_dust_b5a03662:
+msgid "[_cedrick_] (Хах, ну надо же. Это кое что получше адреса Брайана. Не ожидал такого от нашей скромницы Элион...)"
+msgstr "[_cedrick_] (Huh, wow. C'est quelque chose de mieux que l'adresse de Brian. Je ne m'attendais pas à ça de notre humble Alion...)"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:48 #-#-# translate crowdin ask_elyon_remove_dust_a20cefa7_3:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:49 #-#-# translate crowdin ask_elyon_remove_dust_a20cefa7_4:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:50 #-#-# translate crowdin ask_elyon_remove_dust_c00ce005:
+msgid "[_cedrick_] (Черт, она почти закончила.. Нет времени дальше копаться в телефоне...)"
+msgstr "[_cedrick_] (Mince, elle a presque fini... Pas le temps de creuser plus loin dans le téléphone...)"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:55 #-#-# translate crowdin ask_elyon_remove_dust_8eb33cb9:
+msgid "[_elion_] Я закончила! Фух, это было сложнее, чем я думала.."
+msgstr "[_elion_] J'ai fini ! Ouf, c'était plus dur que je ne le pensais..."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:56 #-#-# translate crowdin ask_elyon_remove_dust_5835920e:
+msgid "[_cedrick_] А, м... Отличная работа, Элион.. Ты молодец!"
+msgstr "[_cedrick_] Ah, hum... Bien joué, Elyon... Vous avez fait un excellent travail !"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:59 #-#-# translate crowdin ask_elyon_remove_dust_48b910b9:
+msgid "[_elion_] Ага, спасибо, Рик"
+msgstr "[_elion_] Oui, merci, Rick."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:62 #-#-# translate crowdin ask_elyon_remove_dust_6fd08802:
+msgid "[_elion_] О, вот и мой телефон, а я его искала"
+msgstr "[_elion_] Oh, il y a mon téléphone, et je le cherchais."
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:63 #-#-# translate crowdin ask_elyon_remove_dust_6a7f3c9e:
+msgid "[_cedrick_] (Фух, чуть не попался...)"
+msgstr "[_cedrick_] (Ouf, j'ai failli me faire prendre...)"
+
+# game/scripts/quests/dustInBookshop/ask_elyon_remove_dust.rpy:64 #-#-# translate crowdin ask_elyon_remove_dust_942bf6ee:
+msgid "[_cedrick_] (Нужно будет написать этому мелкому паршивцу и разобраться с ним прежде чем он не стал большей помехой)"
+msgstr "[_cedrick_] (Je vais devoir écrire à ce petit bougre et m'en occuper avant qu'il ne devienne plus gênant)."
+

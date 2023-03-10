@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/meridian_zamok.po\n"
+"X-Crowdin-File-ID: 5069\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:56\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/meridian_zamok.rpy:21 #-#-# translate crowdin talk_with_prince_phobos_69113d3e:
+msgid "[_phobos_] Скажи мне, что Звезда Трибы нашла девчонку!"
+msgstr "[_phobos_] Dis-moi que l'étoile de la tribu a trouvé la fille !"
+
+# game/scripts/meridian/meridian_zamok.rpy:27 #-#-# translate crowdin talk_with_prince_phobos_588e1805:
+msgid "[_cedrick_] Да, это действительно так! Мне удалось найти вашу сестру."
+msgstr "[_cedrick_] Oui, c'est vrai ! J'ai réussi à trouver votre soeur."
+
+# game/scripts/meridian/meridian_zamok.rpy:36 #-#-# translate crowdin talk_with_prince_phobos_8659d677:
+msgid "[_phobos_] Отлично! Скоро вся сила Меридиана будет моей!"
+msgstr "[_phobos_] C'est génial ! Bientôt, toute la puissance de Meridian sera à moi !"
+
+# game/scripts/meridian/meridian_zamok.rpy:42 #-#-# translate crowdin talk_with_prince_phobos_4e66c965:
+msgid "[_cedrick_] Я нашел точку инверсии между Меридианом и книжной лавкой на Земле."
+msgstr "[_cedrick_] J'ai trouvé le point d'inversion entre Meridian et la librairie sur Terre."
+
+# game/scripts/meridian/meridian_zamok.rpy:43 #-#-# translate crowdin talk_with_prince_phobos_98befd78:
+msgid "[_cedrick_] Магазин будет идеальным прикрытием."
+msgstr "[_cedrick_] Le magasin serait la couverture parfaite."
+
+# game/scripts/meridian/meridian_zamok.rpy:44 #-#-# translate crowdin talk_with_prince_phobos_bcf5b0a6:
+msgid "[_cedrick_] И еще кое-что..."
+msgstr "[_cedrick_] Encore une chose..."
+
+# game/scripts/meridian/meridian_zamok.rpy:45 #-#-# translate crowdin talk_with_prince_phobos_831e4b8a:
+msgid "[_cedrick_] Оказалось, что одна из подруг принцессы является Стражницей завесы"
+msgstr "[_cedrick_] Il s'avère que l'un des amis de la princesse est le Gardien du Rideau."
+
+# game/scripts/meridian/meridian_zamok.rpy:54 #-#-# translate crowdin talk_with_prince_phobos_0c71bcfe:
+msgid "[_phobos_] Это может усложнить задачу. Помни, очень важно забрать силу принцессы, если я хочу сохранить власть."
+msgstr "[_phobos_] Cela pourrait rendre les choses difficiles. N'oubliez pas, il est très important de prendre le pouvoir de la princesse si je veux garder le pouvoir."
+
+# game/scripts/meridian/meridian_zamok.rpy:55 #-#-# translate crowdin talk_with_prince_phobos_c30adbf8:
+msgid "[_phobos_] Мы должны медленно и осторожно войти к ней в доверие, а затем направить ее прямиком в нашу ловушку!"
+msgstr "[_phobos_] Nous devons lentement et soigneusement gagner sa confiance, puis la guider directement dans notre piège !"
+
+# game/scripts/meridian/meridian_zamok.rpy:56 #-#-# translate crowdin talk_with_prince_phobos_01037598:
+msgid "[_phobos_] Чтобы я смог лишить ее магической силы, ты должен развратить ее как можно больше... Это необходимо для проведения ритуала.. И еще кое-что.."
+msgstr "[_phobos_] Pour que je puisse la dépouiller de ses pouvoirs magiques, tu dois la corrompre autant que possible... C'est nécessaire pour effectuer le rituel... Encore une chose..."
+
+# game/scripts/meridian/meridian_zamok.rpy:65 #-#-# translate crowdin talk_with_prince_phobos_d1004f02:
+msgid "[_phobos_] Ты должен лишить ее девственности..."
+msgstr "[_phobos_] Tu dois prendre sa virginité..."
+
+# game/scripts/meridian/meridian_zamok.rpy:66 #-#-# translate crowdin talk_with_prince_phobos_2cb37b20:
+msgid "[_phobos_] Я думаю, что моя сестра все еще девственница. Иначе ей бы навряд ли удалось сдерживать свои магические способности и я бы непременно заметил пробуждение силы, которая дремлет в ней."
+msgstr "[_phobos_] Je pense que ma soeur est encore vierge. Sinon, elle aurait difficilement pu contenir ses pouvoirs magiques et j'aurais certainement remarqué l'éveil de la puissance qui sommeille en elle."
+
+# game/scripts/meridian/meridian_zamok.rpy:67 #-#-# translate crowdin talk_with_prince_phobos_49316299:
+msgid "[_cedrick_] ..."
+msgstr "[_cedrick_] ..."
+
+# game/scripts/meridian/meridian_zamok.rpy:68 #-#-# translate crowdin talk_with_prince_phobos_ac5aa7ce:
+msgid "[_cedrick_] С этим могут возникнуть некоторые проблемы.."
+msgstr "[_cedrick_] Il peut y avoir quelques problèmes avec ça..."
+
+# game/scripts/meridian/meridian_zamok.rpy:69 #-#-# translate crowdin talk_with_prince_phobos_80759cba:
+msgid "[_phobos_] Со стражницами Завесы тебе предстоит подобная задача..."
+msgstr "[_phobos_] Avec les Gardiens du Voile, vous avez une tâche similaire..."
+
+# game/scripts/meridian/meridian_zamok.rpy:70 #-#-# translate crowdin talk_with_prince_phobos_c2f68387:
+msgid "[_phobos_] Твое Семя ядовито и попадая внутрь, сможет понизить их магическую силу, для того чтобы ты мог сражаться с ними на равных и избавится от них, либо взять в плен… Ха-ха!"
+msgstr "[_phobos_] Votre graine est toxique et en l'ingérant, vous serez en mesure d'abaisser leur pouvoir magique afin de pouvoir les combattre sur un pied d'égalité et vous en débarrasser, ou les faire prisonniers… Ha ha !"
+
+# game/scripts/meridian/meridian_zamok.rpy:71 #-#-# translate crowdin talk_with_prince_phobos_d0780a58:
+msgid "[_phobos_] Это определенно понизит дух сопротивления у повстанцев и отнимет последнюю надежду на светлое будущее у крестьян…"
+msgstr "[_phobos_] Cela diminuera définitivement l'esprit de résistance des rebelles et enlèvera aux paysans le dernier espoir d'un avenir meilleur…."
+
+# game/scripts/meridian/meridian_zamok.rpy:72 #-#-# translate crowdin talk_with_prince_phobos_bf90c505:
+msgid "[_phobos_] Иначе могут помешать моему ритуалу с Элион..."
+msgstr "[_phobos_] Sinon, mon rituel avec Elion pourrait être perturbé..."
+
+# game/scripts/meridian/meridian_zamok.rpy:77 #-#-# translate crowdin talk_with_prince_phobos_9eca345f:
+msgid "[_cedrick_] С этим могут возникнуть некоторые проблемы..."
+msgstr "[_cedrick_] Il peut y avoir quelques problèmes avec ça..."
+
+# game/scripts/meridian/meridian_zamok.rpy:78 #-#-# translate crowdin talk_with_prince_phobos_06f4fde4:
+msgid "[_cedrick_] Вы уверены, что я наиболее подходящий кандидат на это задание?"
+msgstr "[_cedrick_] Êtes-vous sûr que je suis le candidat le plus approprié pour cette mission ?"
+
+# game/scripts/meridian/meridian_zamok.rpy:84 #-#-# translate crowdin talk_with_prince_phobos_5187a590:
+msgid "[_phobos_] Разве это не ты хвастал, что сношался почти со всеми крестьянками в городе и сможешь совратить любую?"
+msgstr "[_phobos_] N'étais-tu pas celui qui se vantait d'avoir couché avec presque toutes les paysannes de la ville et de pouvoir séduire n'importe qui ?"
+
+# game/scripts/meridian/meridian_zamok.rpy:85 #-#-# translate crowdin talk_with_prince_phobos_ef770abb:
+msgid "[_cedrick_] Но, они не были принцессами или стражницами завесы..."
+msgstr "[_cedrick_] Mais, elles n'étaient pas des princesses ou des gardiennes du voile..."
+
+# game/scripts/meridian/meridian_zamok.rpy:86 #-#-# translate crowdin talk_with_prince_phobos_a55cf215:
+msgid "[_phobos_] Это не важно, глупец! Как я уже говорил, принцесса даже не подозревает, что является наследницей престола, а стражницы, как и обычные девушки, имеют свои слабости. Воспользуйся этим!"
+msgstr "[_phobos_] Ça n'a pas d'importance, imbécile ! Comme je l'ai déjà dit, la princesse ne sait pas qu'elle est l'héritière du trône, et les gardiens, comme les filles ordinaires, ont leurs faiblesses. Profitez-en !"
+
+# game/scripts/meridian/meridian_zamok.rpy:87 #-#-# translate crowdin talk_with_prince_phobos_73e36397:
+msgid "[_phobos_] Моя сестра будет прекрасной принцессой... Но, увы, недолго."
+msgstr "[_phobos_] Ma soeur sera une belle princesse... Mais, hélas, pas pour longtemps."
+
+# game/scripts/meridian/meridian_zamok.rpy:93 #-#-# translate crowdin talk_with_prince_phobos_cf382a4a:
+msgid "[_phobos_] И еще..."
+msgstr "[_phobos_] Et aussi..."
+
+# game/scripts/meridian/meridian_zamok.rpy:94 #-#-# translate crowdin talk_with_prince_phobos_7570af97:
+msgid "[_phobos_] Ни в коем случае не пытайся ее изнасиловать. В критические моменты, ее сила может высвободиться, и тогда тебе вряд ли удастся уйти живым."
+msgstr "[_phobos_] N'essayez jamais de la violer. Au moment crucial, son pouvoir peut être libéré et vous avez alors peu de chances de vous en sortir vivant."
+
+# game/scripts/meridian/meridian_zamok.rpy:100 #-#-# translate crowdin talk_with_prince_phobos_76009a7a:
+msgid "[_cedrick_] Как скажете, мой князь..."
+msgstr "[_cedrick_] Comme vous le dites, mon prince..."
+
+# game/scripts/meridian/meridian_zamok.rpy:105 #-#-# translate crowdin talk_with_prince_phobos_58b5bb17:
+msgid "[_centered_] {size=37}На следующий день в книжном магазине.{/size}"
+msgstr "[_centered_] {Le lendemain, à la librairie."
+
+# game/scripts/meridian/meridian_zamok.rpy:118 #-#-# translate crowdin talk_with_prince_phobos_b89c19ce:
+msgid "[_phobos_] Ты уже выполнил мои поручения??"
+msgstr "[_phobos_] Tu as fait mes courses ?"
+
+# game/scripts/meridian/meridian_zamok.rpy:124 #-#-# translate crowdin talk_with_prince_phobos_79bddf9c:
+msgid "[_cedrick_] Еще нет, но я в процессе"
+msgstr "[_cedrick_] Pas encore, mais je suis en train de"
+
+# game/scripts/meridian/meridian_zamok.rpy:130 #-#-# translate crowdin talk_with_prince_phobos_21cfcbc5:
+msgid "[_phobos_] Тогда не испытывай мое терпение."
+msgstr "[_phobos_] Alors ne teste pas ma patience."
+
+# game/scripts/meridian/meridian_zamok.rpy:131 #-#-# translate crowdin talk_with_prince_phobos_f1cdf5d6:
+msgid "[_cedrick_] Простите мой Князь, я пойду .."
+msgstr "[_cedrick_] Pardonnez-moi, mon Prince, je vais aller..."
+

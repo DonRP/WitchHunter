@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/interface/phone/screens/phone_messages.po\n"
+"X-Crowdin-File-ID: 5025\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:55\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/interface/phone/screens/phone_messages.rpy:55
+msgid "Вы"
+msgstr "Vous êtes"
+
+# game/scripts/interface/phone/screens/phone_messages.rpy:98
+msgid "[contact_name] пишет"
+msgstr "[contact_name] écrit"
+
+# game/scripts/interface/phone/screens/phone_messages.rpy:145
+msgid "Отправить"
+msgstr "Envoyer"
+

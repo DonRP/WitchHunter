@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.po\n"
+"X-Crowdin-File-ID: 4963\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:54\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:5 #-#-# translate crowdin elyon_action_show_breast_root_1_52b54768:
+msgid "[_cedrick_] Отлично. Тогда, покажи мне свою грудь"
+msgstr "[_cedrick_] Super. Alors, montre-moi tes seins."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:8 #-#-# translate crowdin elyon_action_show_breast_root_1_47200599:
+msgid "[_elion_] Ч-Что!? Рик!"
+msgstr "[_elion_] Qu-Quoi ? Rick !"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:9 #-#-# translate crowdin elyon_action_show_breast_root_1_e1734570:
+msgid "[_cedrick_] А что такого? Я ее уже видел, когда спас тебя в туалете от Урии"
+msgstr "[_cedrick_] C'est quoi le problème ? Je l'ai déjà vue quand je t'ai sauvé d'Uriah dans les toilettes."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:12 #-#-# translate crowdin elyon_action_show_breast_root_1_b64cec0c:
+msgid "[_elion_] Н-но... Я так не могу, это как-то..."
+msgstr "[_elion_] M-mais... Je ne peux pas faire ça, c'est un peu..."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:13 #-#-# translate crowdin elyon_action_show_breast_root_1_2228630f:
+msgid "[_cedrick_] Элион, ты сказала, что полностью доверишься мне в этом деле"
+msgstr "[_cedrick_] Elyon, vous avez dit que vous me feriez entièrement confiance sur ce point."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:16 #-#-# translate crowdin elyon_action_show_breast_root_1_a39339ed:
+msgid "[_elion_] Н-ну, я.. Хорошо, если ты считаешь, что это поможет"
+msgstr "[_elion_] N-bien, je... Eh bien, si vous pensez que ça peut aider"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:20 #-#-# translate crowdin elyon_action_show_breast_root_1_699409c1:
+msgid "[_cedrick_] Мммм, даже через лифчик можно проследить приятные формы"
+msgstr "[_cedrick_] Mmmm, même à travers le soutien-gorge, on peut tracer de jolies formes."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:23 #-#-# translate crowdin elyon_action_show_breast_root_1_45b45fac:
+msgid "[_elion_] Р-рик, это.. Это очень смущает"
+msgstr "[_elion_] R-r-rick, c'est... C'est très embarrassant."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:24 #-#-# translate crowdin elyon_action_show_breast_root_1_41e6b97b:
+msgid "[_cedrick_] Черт, я что, это вслух сказал.."
+msgstr "[_cedrick_] Merde, est-ce que j'ai dit ça à voix haute..."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:27 #-#-# translate crowdin elyon_action_show_breast_root_1_88dc6656:
+msgid "[_elion_] (Уф, не думала, что Рик скажет мне такое.. Но, с другой стороны, это значит, что ему нравится моя фигура..)"
+msgstr "[_elion_] (Ugh, je ne pensais pas que Rick me dirait ça. Mais bon, ça veut dire qu'il aime ma silhouette...)"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:30 #-#-# translate crowdin elyon_action_show_breast_root_1_3199768b:
+msgid "[_elion_] Эм.. Рик, может достаточно?"
+msgstr "[_elion_] Um... Rick, peut-être que c'est suffisant ?"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:35 #-#-# translate crowdin elyon_action_remove_bra_1_373f4779:
+msgid "[_cedrick_] Знаешь, пожалуй, я хочу увидеть немного больше"
+msgstr "[_cedrick_] Vous savez, je pense que je veux voir un peu plus"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:38 #-#-# translate crowdin elyon_action_remove_bra_1_d043bf37:
+msgid "[_elion_] Ч-что!?"
+msgstr "[_elion_] Qu... quoi ?"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:40 #-#-# translate crowdin elyon_action_remove_bra_1_1e123844:
+msgid "[_cedrick_] Уф, какие аккуратные у тебя..."
+msgstr "[_cedrick_] Ugh, comment sont soignés tes..."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:43 #-#-# translate crowdin elyon_action_remove_bra_1_25981e24:
+msgid "[_elion_] Рик! Это чересчур! Я... Я... Я ухожу!"
+msgstr "[_elion_] Rick ! C'est trop ! Я... Я... Je pars !"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:46 #-#-# translate crowdin elyon_action_remove_bra_1_0da44429:
+msgid "[_cedrick_] Черт, тут я перегнул.."
+msgstr "[_cedrick_] Merde, j'en ai trop fait..."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:53 #-#-# translate crowdin elyon_action_show_breast_enough_1_37325428:
+msgid "[_cedrick_] Что ж, для первого раза думаю хватит. Как ощущения?"
+msgstr "[_cedrick_] Pour la première fois, je pense que c'est suffisant. Qu'est-ce que ça fait ?"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:56 #-#-# translate crowdin elyon_action_show_breast_enough_1_81011f06:
+msgid "[_elion_] Н-не думала, что ты так сразу попросишь показать меня грудь"
+msgstr "[_elion_] H- Je ne pensais pas que tu demanderais à voir mes seins si tôt."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:57 #-#-# translate crowdin elyon_action_show_breast_enough_1_5c39fb09:
+msgid "[_cedrick_] Так сразу? А чего же ты тогда от меня ожидала"
+msgstr "[_cedrick_] Juste comme ça ? Alors, que voulais-tu que je fasse ?"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:58 #-#-# translate crowdin elyon_action_show_breast_enough_1_5b6a549f:
+msgid "[_elion_] Э-эм.. ну.. не знаю.."
+msgstr "[_elion_] Um... bien... je ne sais pas..."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:59 #-#-# translate crowdin elyon_action_show_breast_enough_1_b4bfb422:
+msgid "[_cedrick_] Думаю, ты хотела больше прелюдий"
+msgstr "[_cedrick_] Je pense que tu voulais plus de préliminaires"
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:62 #-#-# translate crowdin elyon_action_show_breast_enough_1_8a9f5e55:
+msgid "[_elion_] Ч-что!? Я-я не это имела ввиду.. Рик.."
+msgstr "[_elion_] Quoi ? Je ne voulais pas dire... Rick..."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:64 #-#-# translate crowdin elyon_action_show_breast_enough_1_94944589:
+msgid "[_cedrick_] Что ж, тогда до следующего раза, Элион. Надеюсь, тебе стало лучше"
+msgstr "[_cedrick_] Eh bien, à la prochaine fois alors, Elyon. J'espère que tu te sens mieux."
+
+# game/scripts/elyon_actions/show_breast/elyon_action_show_breast_root_1.rpy:67 #-#-# translate crowdin elyon_action_show_breast_enough_1_ae587a8c:
+msgid "[_elion_] Д-до следующего раза, агам.."
+msgstr "[_elion_] Jusqu'à la prochaine fois, agam..."
+

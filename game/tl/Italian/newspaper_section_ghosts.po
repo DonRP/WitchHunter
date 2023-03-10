@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/newspaperSection/newspaper_section_ghosts.po\n"
+"X-Crowdin-File-ID: 5355\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:27\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:5 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:6 #-#-# translate crowdin newspaper_section_ghosts_15908222:
+msgid "[_cedrick_] (Хм.. Вроде все идет своим чередом)"
+msgstr "[_cedrick_] (Hmmm... Le cose sembrano andare avanti)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:9 #-#-# translate crowdin newspaper_section_ghosts_de841977:
+msgid "[_directris_] Здравствуйте, мистер Хоффман. А вы молодец, газета получилась неплохо..."
+msgstr "[_directris_] Salve, signor Hoffman. Ben fatto, avete fatto un buon lavoro..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:13 #-#-# translate crowdin newspaper_section_ghosts_7126ec15:
+msgid "[_cedrick_] Спасибо"
+msgstr "[_cedrick_] Grazie"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:17 #-#-# translate crowdin newspaper_section_ghosts_c9883784:
+msgid "[_directris_] Надеюсь вам не пришлось засиживаться до ночи, и все ученики пришли домой вовремя?"
+msgstr "[_directris_] Spero che non abbiate dovuto stare svegli tutta la notte e che tutti gli studenti siano tornati a casa in tempo?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:18 #-#-# translate crowdin newspaper_section_ghosts_c8a64b38:
+msgid "[_cedrick_] Да, конечно "
+msgstr "[_cedrick_] Sì, certo. "
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:22 #-#-# translate crowdin newspaper_section_ghosts_d906b742:
+msgid "[_directris_] Ладно, мне пора заняться делами. А у вас сейчас должен быть урок, если я не ошибаюсь"
+msgstr "[_directris_] Beh, ho delle cose da fare. E ora hai una classe, se non mi sbaglio."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:26 #-#-# translate crowdin newspaper_section_ghosts_1c193ac6:
+msgid "[_cedrick_] Да, я уже иду"
+msgstr "[_cedrick_] Sì, sto arrivando"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:29 #-#-# translate crowdin newspaper_section_ghosts_8663cba0:
+msgid "[_cedrick_] (ну.. Похоже, что все в порядке, пора на урок)"
+msgstr "[_cedrick_] (beh... sembra che sia tutto a posto, è ora di fare lezione)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:31 #-#-# translate crowdin newspaper_section_ghosts_3fa7d135:
+msgid "[_centered_] {size=36}Через несколько минут на уроке{/size}"
+msgstr "[_centered_] {Pochi minuti dopo l'inizio della lezione{/size}"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:34 #-#-# translate crowdin newspaper_section_ghosts_8e4c008d:
+msgid "[_cedrick_] Всем здравствуйте. Сегодня у нас новая тема. Мы начнем изучать события, которые происходили в Бронзовом Веке в Европе."
+msgstr "[_cedrick_] Ciao a tutti. Oggi abbiamo un nuovo argomento. Inizieremo ad esplorare gli eventi che hanno avuto luogo durante l'Età del Bronzo in Europa."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:37 #-#-# translate crowdin newspaper_section_ghosts_721a889b:
+msgid "[_cedrick_] Бронзовый век на территории Европы последовал за Европейским медн..."
+msgstr "[_cedrick_] L'età del bronzo in Europa seguì l'età del rame europea..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:38 #-#-# translate crowdin newspaper_section_ghosts_70201cf5:
+msgid "[_martin_] Профессор Хоффман!!"
+msgstr "[_martin_] Professor Hoffman!!!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:39 #-#-# translate crowdin newspaper_section_ghosts_18a7b77c:
+msgid "[_cedrick_] (ох..)"
+msgstr "[_cedrick_] (ooh...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:42 #-#-# translate crowdin newspaper_section_ghosts_4ac6e6ee:
+msgid "[_cedrick_] Да Мартин?"
+msgstr "[_cedrick_] Sì Martin?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:43 #-#-# translate crowdin newspaper_section_ghosts_a64a67c5:
+msgid "[_martin_] А можно мне выступить с докладом?"
+msgstr "[_martin_] Posso fare una presentazione?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:44 #-#-# translate crowdin newspaper_section_ghosts_1b400ce7:
+msgid "[_cedrick_] Ну.. Мы опережаем график.. Почему бы и нет?"
+msgstr "[_cedrick_] Beh... siamo in anticipo sulla tabella di marcia... Perché non dovremmo?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:45 #-#-# translate crowdin newspaper_section_ghosts_5bf2668d:
+msgid "[_martin_] Спасибо! Вы не пожалеете..."
+msgstr "[_martin_] Grazie! Non ve ne pentirete..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:46 #-#-# translate crowdin newspaper_section_ghosts_5f9b772e:
+msgid "...."
+msgstr "...."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:49 #-#-# translate crowdin newspaper_section_ghosts_039487a0:
+msgid "[_martin_] В общем дело было вчера вечером... Мы с клубом журналистики решили найти сенсацию, и я отправился на ее поиски"
+msgstr "[_martin_] Comunque, era ieri sera... Il club di giornalismo e io abbiamo deciso di trovare lo scoop, così sono andato a cercarlo"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:50 #-#-# translate crowdin newspaper_section_ghosts_b2b00de9:
+msgid "[_cedrick_] (Уже жалею..)"
+msgstr "[_cedrick_] (Me ne sto già pentendo...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:51 #-#-# translate crowdin newspaper_section_ghosts_765441f7:
+msgid "[_martin_]  И я ее обнаружил! Не поверите, прямо в школьной столовой!"
+msgstr "[_martin_]  E l'ho scoperto! Da non credere, proprio nella mensa scolastica!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:52 #-#-# translate crowdin newspaper_section_ghosts_7cc3d785:
+msgid "[_pupils_] То что в нашей столовой котлеты делают из собак и так все знают.."
+msgstr "[_pupils_] Il fatto che la nostra mensa faccia cotolette di cane è risaputo..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:54 #-#-# translate crowdin newspaper_section_ghosts_79ef0561:
+msgid "смешки в классе"
+msgstr "risate in classe"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:55 #-#-# translate crowdin newspaper_section_ghosts_9fa8f4af:
+msgid "[_martin_] Нет, вовсе нет! Когда я зашел в школьную столовую, я услышал какой-то шум..."
+msgstr "[_martin_] No, per niente! Quando sono entrato nella mensa scolastica, ho sentito un rumore..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:56 #-#-# translate crowdin newspaper_section_ghosts_42241d4b:
+msgid "[_martin_] Внезапно затряслись столы, взлетели подносы..."
+msgstr "[_martin_] All'improvviso i tavoli hanno tremato, i vassoi sono volati in alto..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:57 #-#-# translate crowdin newspaper_section_ghosts_c1e4a0c5:
+msgid "[_martin_] И я увидел призрака!"
+msgstr "[_martin_] E ho visto un fantasma!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:59 #-#-# translate crowdin newspaper_section_ghosts_f7a8d2cf:
+msgid "[_centered_] {size=36}Спустя некоторое время{/size}"
+msgstr "[_centered_] {Dopo un po' di tempo{/size}"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:62 #-#-# translate crowdin newspaper_section_ghosts_021571a6:
+msgid "[_martin_] Приведения слева, призраки справа! Я дрался! Но их было слишком много..."
+msgstr "[_martin_] Fantasmi a sinistra, fantasmi a destra! Ho combattuto! Ma ce n'erano troppi..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:63 #-#-# translate crowdin newspaper_section_ghosts_67a606c0:
+msgid "[_pupils_] У Мартина совсем крыша поехала.."
+msgstr "[_pupils_] Martin è completamente impazzito..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:64 #-#-# translate crowdin newspaper_section_ghosts_3db65c91:
+msgid "[_martin_] Один из них поднял парту!"
+msgstr "[_martin_] Uno di loro ha preso una scrivania!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:65 #-#-# translate crowdin newspaper_section_ghosts_63c69899:
+msgid "[_pupils_] Эй, Раньше ты говорил про стул!"
+msgstr "[_pupils_] Ehi, una volta parlavi della sedia!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:66 #-#-# translate crowdin newspaper_section_ghosts_88cb9cd9:
+msgid "[_martin_] Парта в сборе со стулом. Такие бывают! Ясно?"
+msgstr "[_martin_] Montaggio di una scrivania e di una sedia. C'è uno di quelli! Capito?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:67 #-#-# translate crowdin newspaper_section_ghosts_e90b47f8:
+msgid "[_martin_] Кстати попрошу не перебивать"
+msgstr "[_martin_] A proposito, vi prego di non interrompere."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:68 #-#-# translate crowdin newspaper_section_ghosts_718f3bfe:
+msgid "[_cedrick_] Мартин, это конечно все замечательно, но мой предмет - история"
+msgstr "[_cedrick_] Martin, questo va benissimo, ma il mio argomento è la storia."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:69 #-#-# translate crowdin newspaper_section_ghosts_b927f669:
+msgid "[_martin_] Так я и рассказываю историю! Историю, которая произошла со мной вчера!"
+msgstr "[_martin_] È così che racconto una storia! Una storia che mi è capitata ieri!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:70 #-#-# translate crowdin newspaper_section_ghosts_88163559:
+msgid "[_cedrick_] Ох..."
+msgstr "[_cedrick_] Oh..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:71 #-#-# translate crowdin newspaper_section_ghosts_56137bbf:
+msgid "[_girl_] Мистер Хоффман!"
+msgstr "[_girl_] Signor Hoffman!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:72 #-#-# translate crowdin newspaper_section_ghosts_edbdb30a:
+msgid "[_cedrick_] Да, Венди?"
+msgstr "[_cedrick_] Sì, Wendy?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:75 #-#-# translate crowdin newspaper_section_ghosts_4f8f31fb:
+msgid "[_girl_] Кажется у меня тут что-то на парте... Я сразу не обратила внимание.."
+msgstr "[_girl_] Credo di avere qualcosa sulla mia scrivania... All'inizio non ci ho fatto caso..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:76 #-#-# translate crowdin newspaper_section_ghosts_e2c7cd01:
+msgid "[_girl_] Оно жидкое и странно пахнет... Можно мне пересесть?"
+msgstr "[_girl_] È liquido e ha un odore strano... Posso spostarmi?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:79 #-#-# translate crowdin newspaper_section_ghosts_616ffffe:
+msgid "[_martin_] АГА!!"
+msgstr "[_martin_] AGA!!!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:82 #-#-# translate crowdin newspaper_section_ghosts_72641305:
+msgid "[_martin_] Это должно быть Эктооо..плазма!! А я говорил вам!!"
+msgstr "[_martin_] Dovrebbe essere ectoooo... plasma!!! E te l'ho detto!!!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:83 #-#-# translate crowdin newspaper_section_ghosts_6425e587:
+msgid "[_martin_] Такое жидкое... густое, это определенно эктоплазма! Нужно отправить ее на исследование в лабораторию!"
+msgstr "[_martin_] Così liquido... spesso, è sicuramente un ectoplasma! Dobbiamo mandarlo in laboratorio per i test!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:84 #-#-# translate crowdin newspaper_section_ghosts_91960384:
+msgid "[_girl2_] Мартин... Жаль тебя разочаровывать... но поверь, это сперма"
+msgstr "[_girl2_] Martin... Mi dispiace deludervi... ma credetemi, è sperma."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:88 #-#-# translate crowdin newspaper_section_ghosts_1a71e0b7:
+msgid "Класс заливается смехом"
+msgstr "La classe scoppia a ridere"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:89 #-#-# translate crowdin newspaper_section_ghosts_3fa7d16d:
+msgid "[_cedrick_] (Неужели я попал на парту...)"
+msgstr "[_cedrick_] (Sono salito sulla scrivania...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:90 #-#-# translate crowdin newspaper_section_ghosts_f09f60d9:
+msgid "[_cedrick_] Думаю уборщик займется этим позже... А пока ты можешь пересесть ..."
+msgstr "[_cedrick_] Penso che il custode se ne occuperà più tardi... Nel frattempo, potete sedervi..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:93 #-#-# translate crowdin newspaper_section_ghosts_d5978f6b:
+msgid "Громкие Звуки стуков в коридоре... что-то грохочет и падает"
+msgstr "Forti rumori nel corridoio... qualcosa che sbatte e cade."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:94 #-#-# translate crowdin newspaper_section_ghosts_f62d7085:
+msgid "[_girl3_] Что это за звуки?!"
+msgstr "[_girl3_] Cos'è questo rumore?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:95 #-#-# translate crowdin newspaper_section_ghosts_b82cff08:
+msgid "[_cedrick_] Сидите на своих местах, я гляну что там происходит"
+msgstr "[_cedrick_] Rimanete ai vostri posti, io vedrò cosa succede."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:96 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:98 #-#-# translate crowdin newspaper_section_ghosts_c74a6fe6:
+msgid "[_cedrick_] (охх..)"
+msgstr "[_cedrick_] (ugh...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:101 #-#-# translate crowdin newspaper_section_ghosts_c3f53360:
+msgid "[_pupils_] О боже что это.."
+msgstr "[_pupils_] Oh, mio Dio, cos'è questo..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:103 #-#-# translate crowdin newspaper_section_ghosts_99e9be4b:
+msgid "[_pupils_] Мой шкафчик!"
+msgstr "[_pupils_] Il mio armadietto!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:104 #-#-# translate crowdin newspaper_section_ghosts_b18e300e:
+msgid "[_cedrick_] (похоже им не удалось избавится от вепря..)"
+msgstr "[_cedrick_] (Sembra che non siano riusciti a liberarsi del cinghiale...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:105 #-#-# translate crowdin newspaper_section_ghosts_503fa0ff:
+msgid "[_pupils_] Это сделал призрак??"
+msgstr "[_pupils_] È stato un fantasma a fare questo?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:106 #-#-# translate crowdin newspaper_section_ghosts_2038dc19:
+msgid "[_martin_] А я говорил!! "
+msgstr "[_martin_] Te l'avevo detto!!! "
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:107 #-#-# translate crowdin newspaper_section_ghosts_c49ace62:
+msgid "[_martin_]  Что тоже скажете сперма??? Это точно эктоплазма!!! "
+msgstr "[_martin_]  Cosa pensate che sia anche lo sperma? E' sicuramente un ectoplasma!!! "
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:108 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7_2:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:111 #-#-# translate crowdin newspaper_section_ghosts_5d1bc9c9:
+msgid "[_directris_] Что здесь произошло??? Кто это сделал??"
+msgstr "[_directris_] Cosa è successo qui? Chi è stato?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:112 #-#-# translate crowdin newspaper_section_ghosts_4b9f8ebf:
+msgid "[_cedrick_] Мы не знаем, мисс.."
+msgstr "[_cedrick_] Non lo sappiamo, signorina..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:116 #-#-# translate crowdin newspaper_section_ghosts_1148b3e3:
+msgid "[_martin_] Это призрак!! Это будет сенсация!!"
+msgstr "[_martin_] E' un fantasma!!! Sarà un'esperienza sensazionale!!!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:120 #-#-# translate crowdin newspaper_section_ghosts_f6bf0ff3:
+msgid "[_martin_] Я буду следить день и ночь!! Но я сделаю снимки с ним, я даже захватил с собой спальник!"
+msgstr "[_martin_] Vi osserverò giorno e notte!!! Ma farò delle foto con lui, ho anche portato con me il mio sacco a pelo!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:121 #-#-# translate crowdin newspaper_section_ghosts_7e9fbe12:
+msgid "[_pupils_] Кажется Мартин не соврал.."
+msgstr "[_pupils_] Non credo che Martin stesse mentendo..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:125 #-#-# translate crowdin newspaper_section_ghosts_8a74fcfd:
+msgid "[_martin_] Я сфоткаю приведение и прославлюсь! "
+msgstr "[_martin_] Farò una foto a un fantasma e diventerò famoso! "
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:129 #-#-# translate crowdin newspaper_section_ghosts_f6b4bcbf:
+msgid "[_tarani_] Ирма, давай отойдем на минутку..."
+msgstr "[_tarani_] Irma, facciamo un passo indietro per un momento..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:133 #-#-# translate crowdin newspaper_section_ghosts_b11cfbe6:
+msgid "[_irma_] Да.. конечно..."
+msgstr "[_irma_] Sì... certo..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:137 #-#-# translate crowdin newspaper_section_ghosts_484e3172:
+msgid "[_directris_] Мы обязательно найдем того, кто совершил этот акт вандализма.. И я даже догадываюсь, кто бы это мог быть..."
+msgstr "[_directris_] Troveremo sicuramente chi ha commesso questo atto di vandalismo... E posso anche indovinare chi potrebbe essere..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:138 #-#-# translate crowdin newspaper_section_ghosts_0a3b4646:
+msgid "[_directris_] А теперь все возвращайтесь на урок! Быстро!"
+msgstr "[_directris_] Ora tornate tutti in classe! Presto!"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:142 #-#-# translate crowdin newspaper_section_ghosts_053517dc:
+msgid "[_pupils_] Я с детства боюсь призраков"
+msgstr "[_pupils_] Ho avuto paura dei fantasmi fin da bambino"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:144 #-#-# translate crowdin newspaper_section_ghosts_a0e7e6df:
+msgid "[_pupils_] Боже я хочу домой"
+msgstr "[_pupils_] Dio, voglio andare a casa."
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:146 #-#-# translate crowdin newspaper_section_ghosts_00ea4449:
+msgid "[_cedrick_] ( Похоже, что уже нет смысла продолжать вести урок..)"
+msgstr "[_cedrick_] ( Sembra che non abbia più senso continuare la lezione...)"
+
+# game/scripts/quests/newspaperSection/newspaper_section_ghosts.rpy:148 #-#-# translate crowdin newspaper_section_ghosts_a20cefa7_3:
+msgid "..."
+msgstr "..."
+

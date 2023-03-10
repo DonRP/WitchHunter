@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/stats/WillStats.po\n"
+"X-Crowdin-File-ID: 4959\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:20\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/stats/WillStats.rpy:8
+msgid "Примененные капли эссенции"
+msgstr "Gocce di essenza applicate"
+
+# game/scripts/core/stats/WillStats.rpy:15
+msgid "Предпочтение \"Нежно\""
+msgstr "Preferenza per \"delicatamente\""
+
+# game/scripts/core/stats/WillStats.rpy:22
+msgid "Предпочтение \"Жестко\""
+msgstr "Preferenza \"dura"
+
+# game/scripts/core/stats/WillStats.rpy:30
+msgid "Применено капель эссенции {value} из {max_value}:"
+msgstr "Applicate gocce di essenza {value} da {max_value}:"
+
+# game/scripts/core/stats/WillStats.rpy:42
+msgid "У Вилл повышено предпочтение нежно"
+msgstr "Will ha un'accentuata preferenza per la gentilezza"
+
+# game/scripts/core/stats/WillStats.rpy:51
+msgid "У Вилл повышено предпочтение жестко"
+msgstr "I testamenti hanno una maggiore preferenza per i materiali duri"
+

@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/girlInFlask/exchange_flower_for_elf.po\n"
+"X-Crowdin-File-ID: 5629\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:05\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:4 #-#-# translate crowdin exchange_flower_for_elf_7480efc6:
+msgid "[_cedrick_] Это тот самый цветок?"
+msgstr "[_cedrick_] C'est la fleur ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:5 #-#-# translate crowdin exchange_flower_for_elf_469157d5:
+msgid "Седрик протягивает цветок Миранде"
+msgstr "Cedric tend la fleur à Miranda."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:12 #-#-# translate crowdin exchange_flower_for_elf_ad3413b7:
+msgid "[_miranda_] Седрик, как ты его нашел?!"
+msgstr "[_miranda_] Cedric, comment l'avez-vous trouvé ? !"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:16 #-#-# translate crowdin exchange_flower_for_elf_dfd63249:
+msgid "[_miranda_] Впрочем, не важно. Надеюсь, что ты не нюхал его?"
+msgstr "[_miranda_] Mais ça n'a pas d'importance. J'espère que tu ne l'as pas reniflé."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:17 #-#-# translate crowdin exchange_flower_for_elf_39393b09:
+msgid "[_cedrick_] Сначала Амалия ведет себя странно, а теперь и Миранда начинает пугать.."
+msgstr "[_cedrick_] D'abord Amalia se comporte bizarrement et maintenant Miranda commence à paniquer elle aussi."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:21 #-#-# translate crowdin exchange_flower_for_elf_fc11c5a9:
+msgid "[_cedrick_] Миранда, а почему я его не должен был нюхать?"
+msgstr "[_cedrick_] Miranda, pourquoi je ne le reniflerais pas ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:25 #-#-# translate crowdin exchange_flower_for_elf_3816303a:
+msgid "[_miranda_] Этот цветок обладает свойством возбуждать человека до такой степени, что он может свихнуться или... Влюбиться"
+msgstr "[_miranda_] Cette fleur a le pouvoir d'exciter une personne au point de la rendre folle ou... Tomber amoureux"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:29 #-#-# translate crowdin exchange_flower_for_elf_26b579af:
+msgid "[_cedrick_] И зачем тебе этот цветок?"
+msgstr "[_cedrick_] Et pourquoi avez-vous besoin de cette fleur ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:33 #-#-# translate crowdin exchange_flower_for_elf_8b1fda06:
+msgid "[_miranda_] Потом узнаешь, Седрик. Пока ты не ушел - она может первое время спать больше обычного, либо испытывать неконтролируемые чувства и эмоции. Ты будь с ней поаккуратней. И возьми ее вещи, вдруг понадобятся"
+msgstr "[_miranda_] Vous le saurez plus tard, Cédric. Avant de partir, il se peut qu'elle dorme plus que d'habitude au début, ou qu'elle ait des sentiments et des émotions incontrôlables. Sois prudent avec elle. Et prends ses affaires, au cas où tu en aurais besoin."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:36 #-#-# translate crowdin exchange_flower_for_elf_1d458c43:
+msgid "[_centered_] {size=37}Cедрик осматривает вещи Евангелины и находит среди них странную голубую Каплю, которую он забирает себе. Миранда ставит Евангелину на ноги. Мутноватая жидкость каплями стекает с еe дрожащего тела, а глаза бешено рыскают по комнате, словно пытаясь найти кого-то{/size} [withDissolve1]"
+msgstr "[_centered_] {Cedric examine les affaires d'Evangeline et trouve parmi elles un étrange Blob bleu, qu'il prend pour lui. Miranda met Evangeline sur ses pieds. Le liquide trouble s'écoule de son corps tremblant et ses yeux parcourent frénétiquement la pièce comme s'ils essayaient de trouver quelqu'un{/size} [withDissolve1]."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:43 #-#-# translate crowdin exchange_flower_for_elf_a72e4ba0:
+msgid "[_evangelin_] Где... Где я? Кто вы? Где Амалия?"
+msgstr "[_evangelin_] Où... Où suis-je ? Qui êtes-vous ? Où est Amalia ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:44 #-#-# translate crowdin exchange_flower_for_elf_ba285fef:
+msgid "[_cedrick_] Мы твои друзья. Меня зовут Седрик, а это Миранда"
+msgstr "[_cedrick_] Nous sommes tes amis. Je m'appelle Cédric et voici Miranda."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:48 #-#-# translate crowdin exchange_flower_for_elf_7b69796a:
+msgid "[_evangelin_] Что это за место?"
+msgstr "[_evangelin_] Quel est cet endroit ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:52 #-#-# translate crowdin exchange_flower_for_elf_9fddf854:
+msgid "[_cedrick_] Потом узнаешь, а пока готовься, сейчас я отведу тебя к Амалии"
+msgstr "[_cedrick_] Tu le sauras plus tard, mais en attendant prépare-toi, je t'emmène à Amalia maintenant."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:54 #-#-# translate crowdin exchange_flower_for_elf_714f062c:
+msgid "[_centered_] {size=37}Евангелина оделась и спустя некоторое время вы добрались в таверну и встретились с принцессой Амалией{/size} [withDissolve1]"
+msgstr "[_centered_] {size=37}Evangeline s'est habillée et après un moment vous êtes arrivés à la taverne et avez rencontré la princesse Amalia{/size} [withDissolve1]"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:59 #-#-# translate crowdin exchange_flower_for_elf_0246b923:
+msgid "[_amalia_] Евангелина?"
+msgstr "[_amalia_] Evangeline ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:64 #-#-# translate crowdin exchange_flower_for_elf_5270e71c:
+msgid "[_evangelin_] Амалия... Где мы?"
+msgstr "[_evangelin_] Amalia... Où sommes-nous ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:70 #-#-# translate crowdin exchange_flower_for_elf_e1a8c874:
+msgid "[_amalia_] Ты по случайности сюда телепортировалась, Евангелина. Я бы искала тебя вечность, пока Седрик не откликнулся"
+msgstr "[_amalia_] Tu t'es téléportée ici par accident, Evangeline. Je t'aurais cherchée pendant des heures avant que Cedric ne réponde."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:76 #-#-# translate crowdin exchange_flower_for_elf_ee442208:
+msgid "[_evangelin_] Ох, ничего не понимаю... Амалия, я просто хочу отдохнуть"
+msgstr "[_evangelin_] Oh, je ne comprends pas... Amalia, je veux juste me reposer."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:82 #-#-# translate crowdin exchange_flower_for_elf_ee316861:
+msgid "[_amalia_] Попробуй сосредоточиться и вспомнить, как ты здесь оказалась? И где Капля? Без нее мы не телепортируемся"
+msgstr "[_amalia_] Essaie de te concentrer et de te rappeler comment tu es arrivé ici ? Et où est le Blob ? On ne peut pas se téléporter sans elle."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:83 #-#-# translate crowdin exchange_flower_for_elf_be6dfa38:
+msgid "[_cedrick_] (Так вот для чего нужна та Капля..)"
+msgstr "[_cedrick_] (C'est donc à ça que sert le Blob...)"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:89 #-#-# translate crowdin exchange_flower_for_elf_81b5bb88:
+msgid "[_evangelin_] Я точно не помню... Может в сумке? Амалия, я... Засыпаю"
+msgstr "[_evangelin_] Je ne me souviens pas exactement... Peut-être dans le sac ? Amalia, je... Je m'endors."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:92 #-#-# translate crowdin exchange_flower_for_elf_40db3dbc:
+msgid "[_amalia_] Евангелина, очнись! Евангелина?!"
+msgstr "[_amalia_] Evangeline, réveille-toi ! Evangeline ? !"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:93 #-#-# translate crowdin exchange_flower_for_elf_0a4c6d0c:
+msgid "[_cedrick_] Ей требуется отдых. А ты как себя чувствуешь? Ты странно себя вела на поляне"
+msgstr "[_cedrick_] Elle a besoin de se reposer. Comment te sens-tu ? Tu étais bizarre dans la clairière."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:94 #-#-# translate crowdin exchange_flower_for_elf_171091ac:
+msgid "[_amalia_] Я сама не знаю, Седрик. У меня немного кружится голова и... Я хочу чего-то. Сама не знаю, не могу подобрать подходящих слов"
+msgstr "[_amalia_] Je ne sais pas moi-même, Cédric. Je suis un peu étourdie et... je veux quelque chose. Je ne sais pas, je n'arrive pas à trouver les bons mots."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:95 #-#-# translate crowdin exchange_flower_for_elf_acf584e2:
+msgid "[_cedrick_] Попробуй описать"
+msgstr "[_cedrick_] Essayez de décrire"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:96 #-#-# translate crowdin exchange_flower_for_elf_80887dad:
+msgid "[_amalia_] Каждую секунду, что я сидела и ждала тебя, по моему телу бил жар. Он становился все сильнее, пока в моей голове не возник образ. Твой образ. Мгновение за мгновением я понимала, что хочу ощутить тебя, весь твой жар"
+msgstr "[_amalia_] Chaque seconde où j'étais assis là à t'attendre, une fièvre parcourait mon corps. Elle devenait de plus en plus forte jusqu'à ce qu'une image me vienne à l'esprit. Une image de toi. Moment après moment, j'ai su que je voulais te sentir, avec toute ta chaleur."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:97 #-#-# translate crowdin exchange_flower_for_elf_af04da39:
+msgid "[_cedrick_] Продолжай"
+msgstr "[_cedrick_] Continuer"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:98 #-#-# translate crowdin exchange_flower_for_elf_2fe4ff48:
+msgid "[_amalia_] Мне хочется взять тебя прямо здесь, в этой таверне. Скинуть с себя всю одежду и отдаться у всех на виду"
+msgstr "[_amalia_] Je veux te prendre ici, dans cette taverne. Je veux enlever tous mes vêtements et me donner à toi devant tout le monde."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:99 #-#-# translate crowdin exchange_flower_for_elf_c9591794:
+msgid "[_cedrick_] Тогда полезай под стол"
+msgstr "[_cedrick_] Alors va sous la table"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:100 #-#-# translate crowdin exchange_flower_for_elf_7741ef41:
+msgid "[_amalia_] Но... Все же увидят.."
+msgstr "[_amalia_] Mais... Tout le monde verra..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:101 #-#-# translate crowdin exchange_flower_for_elf_a07235c1:
+msgid "[_cedrick_] Ты сама сказала, что хочешь сделать это у всех на виду. Полезай, Амалия"
+msgstr "[_cedrick_] Tu as dit que tu voulais le faire devant tout le monde. Monte, Amalia."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:104 #-#-# translate crowdin exchange_flower_for_elf_1275ea6c:
+msgid "[_amalia_] Хорошо.."
+msgstr "[_amalia_] D’accord.."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:106 #-#-# translate crowdin exchange_flower_for_elf_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:109 #-#-# translate crowdin exchange_flower_for_elf_2cee2d08:
+msgid "[_amalia_] Он... большой"
+msgstr "[_amalia_] C'est... grand"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:110 #-#-# translate crowdin exchange_flower_for_elf_d88e3880:
+msgid "[_cedrick_] Возьми его в руку"
+msgstr "[_cedrick_] Prenez-le dans votre main"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:112 #-#-# translate crowdin exchange_flower_for_elf_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:113 #-#-# translate crowdin exchange_flower_for_elf_8abd455a:
+msgid "[_amalia_] Взяла"
+msgstr "[_amalia_] Récupéré de"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:114 #-#-# translate crowdin exchange_flower_for_elf_941132bd:
+msgid "[_cedrick_] А теперь двигай рукой. Медленно"
+msgstr "[_cedrick_] Maintenant, bougez votre main. Lentement"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:116 #-#-# translate crowdin exchange_flower_for_elf_f245f8c3:
+msgid "[_amalia_] Вот так?"
+msgstr "[_amalia_] Comme ça ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:117 #-#-# translate crowdin exchange_flower_for_elf_c68476de:
+msgid "[_cedrick_] Да-да. Скажи,каково это?"
+msgstr "[_cedrick_] Oui, oui. Dis-moi, c'est comment ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:118 #-#-# translate crowdin exchange_flower_for_elf_080e3453:
+msgid "[_amalia_] Ты о чем?"
+msgstr "[_amalia_] Qu'est-ce que tu veux dire ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:119 #-#-# translate crowdin exchange_flower_for_elf_1f348c70:
+msgid "[_cedrick_] Твоя подруга спит рядом, а ты надрачиваешь мне под столом"
+msgstr "[_cedrick_] Ta petite amie dort à côté de moi et tu te branles sous la table."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:120 #-#-# translate crowdin exchange_flower_for_elf_ffc09813:
+msgid "[_amalia_] Это плохо, но... Я не хочу останавливаться"
+msgstr "[_amalia_] C'est mauvais, mais... Je ne veux pas arrêter."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:121 #-#-# translate crowdin exchange_flower_for_elf_aec9305b:
+msgid "[_cedrick_] Тогда ускорься.."
+msgstr "[_cedrick_] Alors accélère..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:123 #-#-# translate crowdin exchange_flower_for_elf_4907f00b:
+msgid "[_amalia_] Я правильно делаю?"
+msgstr "[_amalia_] Est-ce que je le fais bien ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:124 #-#-# translate crowdin exchange_flower_for_elf_82b1cbbe:
+msgid "[_cedrick_] Не останавливайся.."
+msgstr "[_cedrick_] Ne t'arrête pas..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:125 #-#-# translate crowdin exchange_flower_for_elf_47a9db72:
+msgid "[_amalia_] Я хочу еще.."
+msgstr "[_amalia_] Je veux plus..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:127 #-#-# translate crowdin exchange_flower_for_elf_9427622a:
+msgid "Амалия берет член в свой ротик"
+msgstr "Amalia prend une bite dans sa bouche"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:128 #-#-# translate crowdin exchange_flower_for_elf_a0c0533c:
+msgid "[_cedrick_] Продолжай, не останавливайся"
+msgstr "[_cedrick_] Continue, ne t'arrête pas"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:129 #-#-# translate crowdin exchange_flower_for_elf_e3405cf0:
+msgid "[_amalia_] Тепе нрафится?"
+msgstr "[_amalia_] Vous aimez ?"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:130 #-#-# translate crowdin exchange_flower_for_elf_81401b85:
+msgid "[_cedrick_] Быстрее..."
+msgstr "[_cedrick_] Rapidement..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:132 #-#-# translate crowdin exchange_flower_for_elf_e179cddd:
+msgid "Амалия заглатывает еще глубже"
+msgstr "Amalia avale encore plus profondément"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:133 #-#-# translate crowdin exchange_flower_for_elf_37728215:
+msgid "[_cedrick_] Д-да!"
+msgstr "[_cedrick_] O-oui !"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:134 #-#-# translate crowdin exchange_flower_for_elf_a20cefa7_2:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:135 #-#-# translate crowdin exchange_flower_for_elf_07bdde05:
+msgid "....."
+msgstr "....."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:136 #-#-# translate crowdin exchange_flower_for_elf_5d4c92be:
+msgid "[_amalia_] Амалия начинает очень быстро работать ротиком"
+msgstr "[_amalia_] Amalia commence à travailler sa bouche très rapidement"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:137 #-#-# translate crowdin exchange_flower_for_elf_1709c7c6:
+msgid "[_cedrick_] Мнгфхф... Кончаю!"
+msgstr "[_cedrick_] Mnghfhf... Cumming !"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:139 #-#-# translate crowdin exchange_flower_for_elf_a20cefa7_3:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:141 #-#-# translate crowdin exchange_flower_for_elf_edfa9a42:
+msgid "[_amalia_] Это было... Странно...."
+msgstr "[_amalia_] C'était... Weird...."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:142 #-#-# translate crowdin exchange_flower_for_elf_965f54e3:
+msgid "[_amalia_] ..."
+msgstr "[_amalia_] ..."
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:143 #-#-# translate crowdin exchange_flower_for_elf_7fb81774:
+msgid "[_amalia_] Мы с Евангелиной снимем комнату, ей нужен отдых. Приходи завтра"
+msgstr "[_amalia_] Evangeline et moi allons prendre une chambre, elle a besoin de repos. Revenez demain"
+
+# game/scripts/quests/girlInFlask/exchange_flower_for_elf.rpy:144 #-#-# translate crowdin exchange_flower_for_elf_73a386d3:
+msgid "[_cedrick_] Конечно, отдыхайте"
+msgstr "[_cedrick_] Bien sûr, le reste"
+

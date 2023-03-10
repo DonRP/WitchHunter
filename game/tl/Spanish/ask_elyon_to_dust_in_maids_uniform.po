@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.po\n"
+"X-Crowdin-File-ID: 5505\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:39\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:4 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_2fd34c9b:
+msgid "[_cedrick_] Элион, дорогуша, не могла бы ты протереть пыль с верхних полок?"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:7 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_083390c6:
+msgid "[_elion_] Да, конечно, сейчас, только схожу за стремянкой"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:10 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_89429a81:
+msgid "[_cedrick_] (Отлично, шоу начинается)"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:12 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:16 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_13ec7779:
+msgid "[_cedrick_] (Ооооо, черт, ее попка просто шикарна в этой форме! Да еще и с такого ракурса)"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:17 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_59d4abb1:
+msgid "[_cedrick_] (Хах, и как она только согласилась разгуливать по магазину в одних трусах, бесстыжая девка)"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:18 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_0b3986b3:
+msgid "[_cedrick_] (Ммм, так и хочется снять с нее эти трусики..)"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:24 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_9557c42a:
+msgid "[_cedrick_] (Хм, думаю все же не стоит этого делать. Оголять ее зад, посреди дня, когда в любой момент может зайти посетитель. Нет, слишком рискованно)"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:26 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_486d1671:
+msgid "[_cedrick_] Отлично, Элион. Вот твои 10$ за работу. Рад, что форма тебе подошла"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:27 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_8f49d722:
+msgid "[_elion_] Спасибо, Рик, она и вправду очень удобная. Хоть я и чувствую себя в ней так, словно я голая.."
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:28 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_6309eea1:
+msgid "[_cedrick_] Так и задумано"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:33 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_2ae0b979:
+msgid "[_cedrick_] Эм, Элион, ну как тебе новая форма? Как ощущения?"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:34 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_f197f7ac:
+msgid "[_elion_] Она действительно очень удобная, Рик. Я ее практически не чувствую на себе"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:35 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_07b57659:
+msgid "[_cedrick_] Хм, очень интересно. Дай-ка еще раз посмотреть, что это за чудесный такой материал"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:39 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_2fc5eb9f:
+msgid "[_elion_] Р-рик! Что ты делаешь!? Нас могут увидеть!"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:40 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_710aa1bf:
+msgid "[_cedrick_] Я не смог удержаться. Ты стоишь тут, выпятив зад, да еще и в одних трусиках, что так и хочется с тебя их сорвать"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:43 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_42d1dc1d:
+msgid "[_elion_] Р-рик.. Не здесь, пожалуйста.."
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:45 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_f979afe8:
+msgid "[_cedrick_] Хах.. Ладно, а то еще упадешь. Хорошо, слезай. Вот твои 10$"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:46 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_054ef1c6:
+msgid "[_elion_] С-спасибо…"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:47 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_3337fcef:
+msgid "[_cedrick_] И, Элион, у тебя все еще отличная киска"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:48 #-#-# translate crowdin ask_elyon_to_dust_in_maids_uniform_dea913dd:
+msgid "[_elion_] Р-рик, хватит! Т-ты смущаешь меня.."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:21
+msgid "Снять трусики с элион?"
+msgstr ""
+
+# game/scripts/quests/theMaidsUniformForEyion/ask_elyon_to_dust_in_maids_uniform.rpy:21
+msgid "Снять"
+msgstr ""
+

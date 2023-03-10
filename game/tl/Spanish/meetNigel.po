@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/meetNigel.po\n"
+"X-Crowdin-File-ID: 5489\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:38\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/meetNigel.rpy:9 #-#-# translate crowdin meetNigel_f46288e5:
+msgid "[_cedrick_] Приветствую всех."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:10 #-#-# translate crowdin meetNigel_12769d17:
+msgid "[_cedrick_] Сегодня, как я и говорил, у нас будет контрольная работа по теме Средневековый Рим."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:11 #-#-# translate crowdin meetNigel_076df87b:
+msgid "[_cedrick_] Надеюсь, что вы хорошо подготовились."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:12 #-#-# translate crowdin meetNigel_14babfb3:
+msgid "[_irma_] Вот блииин.. Как мы должны были подготовиться за один вечер??"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:13 #-#-# translate crowdin meetNigel_a097a14c:
+msgid "[_cedrick_] Приступайте.."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:16 #-#-# translate crowdin meetNigel_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:17 #-#-# translate crowdin meetNigel_30c0d9d4:
+msgid "Спустя некоторое время."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:21 #-#-# translate crowdin meetNigel_8bbaeb5a:
+msgid "[_cedrick_] Время вышло, сдавайте свои работы"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:22 #-#-# translate crowdin meetNigel_1edb7f8d:
+msgid "[_haylin_] Как, уже?.. Я едва успела написать половину… Надеюсь этого будет достаточно.."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:23 #-#-# translate crowdin meetNigel_efb14b7f:
+msgid "[_irma_] И не говори..."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:27 #-#-# translate crowdin meetNigel_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:32 #-#-# translate crowdin meetNigel_cdacb2eb:
+msgid "[_nigel_] Тарани, привет!"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:33 #-#-# translate crowdin meetNigel_f5deb182:
+msgid "[_nigel_] Пойдем вместе обедать?"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:34 #-#-# translate crowdin meetNigel_f97a813c:
+msgid "[_cedrick_] (Хм.. А это еще кто такой..)"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:37 #-#-# translate crowdin meetNigel_2e5779c7:
+msgid "Через какое-то время после урока. Седрик проверяет контрольные работы."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:40 #-#-# translate crowdin meetNigel_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:41 #-#-# translate crowdin meetNigel_249bb523:
+msgid "[_cedrick_] (Хм, я дал всем всего один вечер на подготовку, потому что забыл, что нужно следовать учебному плану.)"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:42 #-#-# translate crowdin meetNigel_fc39600d:
+msgid "[_cedrick_] (но в отличии от остальных, Тарани единственная написала работу на отлично. Черт, эта стражница..)"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:43 #-#-# translate crowdin meetNigel_41d7b52e:
+msgid "[_cedrick_] (Почему эта девчонка вообще такая умная? С ней не пройдут мои обычные трюки, она раскусит меня в два счета)"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:44 #-#-# translate crowdin meetNigel_ca7ba113:
+msgid "[_cedrick_] (И семья ее в полном порядке, как ни кстати.. Хм, судя по разговорам в учительской, ее мама – местный судья)"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:45 #-#-# translate crowdin meetNigel_2fae722d:
+msgid "[_cedrick_] (Мда, в краже обвинить ее не получится. Да и не заходила она в мой книжный магазин никогда. Уверен, в ее домашней библиотеке книг больше, чем в моем магазине..)"
+msgstr ""
+
+# game/scripts/quests/tarani/meetNigel.rpy:46 #-#-# translate crowdin meetNigel_55c36755:
+msgid "[_cedrick_] (Черт, где же твое слабое место, Тарани Кук… Рано или поздно я смогу это выяснить)"
+msgstr ""
+

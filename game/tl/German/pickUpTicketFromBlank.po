@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getConcertTickets/pickUpTicketFromBlank.po\n"
+"X-Crowdin-File-ID: 5197\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:43\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:9 #-#-# translate crowdin pickUpTicketFromBlank_267cf647:
+msgid "[_cedrick_] Ты достал билеты?"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:10 #-#-# translate crowdin pickUpTicketFromBlank_efdc141c:
+msgid "[_blank_] Да, бланк достать!"
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:13 #-#-# translate crowdin pickUpTicketFromBlank_868650e6:
+msgid "[_cedrick_] Наконец-то, молодец."
+msgstr ""
+
+# game/scripts/quests/getConcertTickets/pickUpTicketFromBlank.rpy:14 #-#-# translate crowdin pickUpTicketFromBlank_257381ed:
+msgid "[_cedrick_] (Теперь я могу пригласить Корнелию и Элион на концерт, чтобы войти к ним в доверие... хехехе!)"
+msgstr ""
+

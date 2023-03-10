@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestExploreTheCity.po\n"
+"X-Crowdin-File-ID: 4895\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestExploreTheCity.rpy:4
+msgid "Осмотреть город"
+msgstr "Voir la ville"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть ресторан Серебряный дракон"
+msgstr "Découvrez le restaurant Silver Dragon"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Заглянуть в пещеру на окраине"
+msgstr "Regarder dans une grotte à la périphérie"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Заглянуть в пещеру на окраине вечером"
+msgstr "Regarder dans une grotte à la périphérie le soir"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть магазин"
+msgstr "Inspecter l'atelier"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть школу"
+msgstr "Pour voir l'école"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть спортивный зал"
+msgstr "Visiter la salle de sport"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть полицейский участок"
+msgstr "Inspecter le commissariat de police"
+
+# game/scripts/core/quests/QuestExploreTheCity.rpy:19
+msgid "Осмотреть вокзал"
+msgstr "Pour visiter la station"
+

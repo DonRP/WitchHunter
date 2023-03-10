@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/dealWithDetectives/q_dwd_need_take_medina_home.po\n"
+"X-Crowdin-File-ID: 5131\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:42\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/dealWithDetectives/q_dwd_need_take_medina_home.rpy:2 #-#-# translate crowdin q_dwd_need_take_medina_home_e5927fbb:
+msgid "[_cedrick_] (У меня тут на руках отраханный полу спящий детектив под викодином.. Мне не до прогулок, надо отвести ее домой)"
+msgstr ""
+

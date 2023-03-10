@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/willCrystalEssence2/crystal_essence_2_read_message_by_susan.po\n"
+"X-Crowdin-File-ID: 5587\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_read_message_by_susan.rpy:16 #-#-# translate crowdin crystal_essence_2_read_message_by_susan_c29ee380:
+msgid "[_cedrick_] (Вот черт, теперь и за продуктами посылают как лакея. Так вот она какая эта семейная жизнь?)"
+msgstr "[_cedrick_] (Oh merde, maintenant ils t'envoient faire les courses comme un laquais aussi. C'est à ça que ressemble la vie de famille ?)"
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_read_message_by_susan.rpy:17 #-#-# translate crowdin crystal_essence_2_read_message_by_susan_5eba973f:
+msgid "[_cedrick_] (Хотя, с другой стороны, я тоже могу использовать это себе на пользу..)"
+msgstr "[_cedrick_] (Bien que, d'un autre côté, je pourrais aussi l'utiliser à mon avantage...)"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/willCrystalEssence2/crystal_essence_2_read_message_by_susan.rpy:4
+msgid "Ооо, что-то из французской кухни? Без проблем, дорогая, скоро буду"
+msgstr "Ooh, quelque chose de français ? Pas de problème, chérie, j'arrive tout de suite."
+
+# game/scripts/quests/willCrystalEssence2/crystal_essence_2_read_message_by_susan.rpy:9
+msgid "<3 <3 <3"
+msgstr "<3 <3 <3"
+

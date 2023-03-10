@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/map/locations/gym/gym_check_quests.po\n"
+"X-Crowdin-File-ID: 5039\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/map/locations/gym/gym_check_quests.rpy:7 #-#-# translate crowdin gym_check_quests_7a735d94:
+msgid "[_cedrick_sprite_] Мне тут нечего делать"
+msgstr ""
+

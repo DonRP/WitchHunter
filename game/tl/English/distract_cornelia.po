@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getCloseToElyon/distract_cornelia.po\n"
+"X-Crowdin-File-ID: 5177\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:28\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:4 #-#-# translate crowdin distract_cornelia_2bfb5cc7:
+msgid "[_cedrick_sprite_] (Самое время отвлечь Корнелию от похода в кино.. Мне необходимо быть в форме змея, чтобы они меня не узнали..)"
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:10 #-#-# translate crowdin distract_cornelia_bc614608:
+msgid "Спустя некоторое время.."
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:11 #-#-# translate crowdin distract_cornelia_8659e329:
+msgid "Седрик в форме змея совершает нападение на деревню Меридиана, разрушая дома и убивая мирных жителей"
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:12 #-#-# translate crowdin distract_cornelia_0826bc77:
+msgid "Стражницы Завесы не заставили себя долго ждать.."
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:19 #-#-# translate crowdin distract_cornelia_56687713:
+msgid "[_will_] Похоже, что этого змея следует отучить нападать на мирных жителей..."
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:20 #-#-# translate crowdin distract_cornelia_a46b22e5:
+msgid "[_cornelia_] Ублюдок, зачем ты напал на них?"
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:21 #-#-# translate crowdin distract_cornelia_d2b6fb39:
+msgid "[_cedrick_] Не твое дело, сука"
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:22 #-#-# translate crowdin distract_cornelia_219bdb60:
+msgid "[_will_] Я помогу крестьянам, а ты разберись с ним!"
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:23 #-#-# translate crowdin distract_cornelia_a1c72edc:
+msgid "[_cornelia_] Как скажешь, Вилл.."
+msgstr ""
+
+# game/scripts/quests/getCloseToElyon/distract_cornelia.rpy:24 #-#-# translate crowdin distract_cornelia_a20cefa7:
+msgid "..."
+msgstr ""
+

@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/askMirandaDragonNostril.po\n"
+"X-Crowdin-File-ID: 5459\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:02\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/askMirandaDragonNostril.rpy:11 #-#-# translate crowdin askMirandaDragonNostril_c8d2151d:
+msgid "[_cedrick_] Миранда.. Ты случайно не знаешь… Где можно достать Ноздрю Дракона?..."
+msgstr "[_cedrick_] Miranda... Savez-vous par hasard… où je peux trouver la narine du dragon... ?"
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:15 #-#-# translate crowdin askMirandaDragonNostril_e8243b9d:
+msgid "[_miranda_] Ноздря Дракона — это довольно редкий ингредиент… говорят, что драконы давно вымерли. По крайней мере в нашем краю их не видели уже более сотни лет."
+msgstr "[_miranda_] La narine de dragon est un ingrédient plutôt rare… On dit que les dragons ont disparu depuis longtemps. Au moins dans notre région, on ne les a pas vus depuis plus de cent ans."
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:16 #-#-# translate crowdin askMirandaDragonNostril_0b372ca9:
+msgid "[_miranda_] Зачем она тебе?"
+msgstr "[_miranda_] Pourquoi en avez-vous besoin ?"
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:20 #-#-# translate crowdin askMirandaDragonNostril_15d8b9b7:
+msgid "[_cedrick_] Не твое дело! Так ты знаешь где ее можно достать или нет?"
+msgstr "[_cedrick_] Ça ne te regarde pas ! Tu sais où le trouver ou pas ?"
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:24 #-#-# translate crowdin askMirandaDragonNostril_aadfc023:
+msgid "[_miranda_] Так случилось, что у меня есть то, что тебе надо, но просто так я ее тебе не отдам.."
+msgstr "[_miranda_] Il se trouve que j'ai quelque chose que tu veux, mais je ne te le donnerai pas pour rien."
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:28 #-#-# translate crowdin askMirandaDragonNostril_1bad38d6:
+msgid "[_cedrick_] Чего ты хочешь?"
+msgstr "[_cedrick_] Que voulez-vous ?"
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:32 #-#-# translate crowdin askMirandaDragonNostril_64df27e3:
+msgid "[_miranda_] Я отдам тебе ноздрю дракона только в том случае, если ты достанешь мне клык Ларвека, который обитает в местном лесу.."
+msgstr "[_miranda_] Je ne vous donnerai la narine du dragon que si vous me procurez le croc de Larvek, qui vit dans la forêt locale."
+
+# game/scripts/quests/tarani/askMirandaDragonNostril.rpy:36 #-#-# translate crowdin askMirandaDragonNostril_cf79059c:
+msgid "[_cedrick_] Что ж.. Договорились."
+msgstr "[_cedrick_] Eh bien... C'est un marché."
+

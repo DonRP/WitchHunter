@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/questDefeatMorpionKing/need_defeat_morpion_king.po\n"
+"X-Crowdin-File-ID: 5403\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:44\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questDefeatMorpionKing/need_defeat_morpion_king.rpy:2 #-#-# translate crowdin need_defeat_morpion_king_4bec4e7b:
+msgid "[_cedrick_] Я должен идти в лес и сразиться с Королем Морпионов, пока он там всех не перебил и не направился в сторону замка.."
+msgstr ""
+

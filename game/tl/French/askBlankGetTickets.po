@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getConcertTickets/askBlankGetTickets.po\n"
+"X-Crowdin-File-ID: 5183\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:58\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:8 #-#-# translate crowdin askBlankGetTickets_8d5f0563:
+msgid "[_cedrick_] Эй, спекулянт!"
+msgstr "[_cedrick_] Hé, le spéculateur !"
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:12 #-#-# translate crowdin askBlankGetTickets_aa5a1186:
+msgid "[_blank_] Бланк не спекулянт! Бланк бизнесмен!"
+msgstr "[_blank_] Blank n'est pas un spéculateur ! Blank est un homme d'affaires !"
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:16 #-#-# translate crowdin askBlankGetTickets_f56385c8:
+msgid "[_cedrick_] Не важно… Сможешь достать три билета на концерт Сортирного Союза?"
+msgstr "[_cedrick_] Laissez tomber… Pouvez-vous obtenir trois billets pour un concert de WCU ?"
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:17 #-#-# translate crowdin askBlankGetTickets_3dbaa3e7:
+msgid "[_blank_] Концерт? Что это?"
+msgstr "[_blank_] Un concert ? Qu'est-ce que c'est ?"
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:18 #-#-# translate crowdin askBlankGetTickets_3fc63059:
+msgid "[_cedrick_] Это когда люди собираются вместе, чтобы послушать как музыканты играют на музыкальных инструментах... Вроде тех же представлений, которые дают барды на меридиане..."
+msgstr "[_cedrick_] C'est quand les gens se réunissent pour écouter des musiciens jouer des instruments de musique... Comme les mêmes performances que les bardes donnent au méridien..."
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:19 #-#-# translate crowdin askBlankGetTickets_81e58b07:
+msgid "[_blank_] Аа, концерт! Бланк знать!"
+msgstr "[_blank_] Ah, le concert ! Forme à connaître !"
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:20 #-#-# translate crowdin askBlankGetTickets_6d475842:
+msgid "[_cedrick_] Так ты сможешь достать мне билеты?"
+msgstr "[_cedrick_] Vous pouvez m'obtenir des billets ?"
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:21 #-#-# translate crowdin askBlankGetTickets_42fd7efa:
+msgid "[_blank_] Бланк сможет! Бланк хочет модный футболка за концерт!"
+msgstr "[_blank_] Blank peut le faire ! Blank veut un T-shirt fantaisie pour le concert !"
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:22 #-#-# translate crowdin askBlankGetTickets_479f8dbd:
+msgid "[_cedrick_] Хорошо, будет тебе футболка..."
+msgstr "[_cedrick_] OK, tu auras un T-shirt..."
+
+# game/scripts/quests/getConcertTickets/askBlankGetTickets.rpy:23 #-#-# translate crowdin askBlankGetTickets_a20cefa7:
+msgid "..."
+msgstr "..."
+

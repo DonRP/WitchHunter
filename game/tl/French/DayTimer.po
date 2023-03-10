@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/DayTimer.po\n"
+"X-Crowdin-File-ID: 4795\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:49\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/DayTimer.rpy:7
+msgid "Пн"
+msgstr "Lun"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Вт"
+msgstr "W"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Ср"
+msgstr "Mercredi"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Чт"
+msgstr "Jeu"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Пт"
+msgstr "Fri"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Сб"
+msgstr "Sam"
+
+# game/scripts/core/DayTimer.rpy:7
+msgid "Вс"
+msgstr "Soleil"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Понедельник"
+msgstr "Lundi"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Вторник"
+msgstr "Mardi"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Среда"
+msgstr "Mercredi"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Четверг"
+msgstr "Jeudi"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Пятница"
+msgstr "Vendredi"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Суббота"
+msgstr "Samedi"
+
+# game/scripts/core/DayTimer.rpy:16
+msgid "Воскресенье"
+msgstr "Dimanche"
+
+# game/scripts/core/DayTimer.rpy:103
+msgid "Утро"
+msgstr "Matin"
+
+# game/scripts/core/DayTimer.rpy:105
+msgid "День"
+msgstr "Jour"
+
+# game/scripts/core/DayTimer.rpy:107
+msgid "Ночь"
+msgstr "Nuit"
+

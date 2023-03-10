@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.po\n"
+"X-Crowdin-File-ID: 5435\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:01\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:9 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_9c4e2d11:
+msgid "[_YanLin_] Добро пожаловать в ресторан азиатской кухни Серебряный дракон!"
+msgstr "[_YanLin_] Bienvenue au restaurant asiatique Silver Dragon !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:10 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_e3fbe394:
+msgid "[_YanLin_] Меня зовут Ян Лин, у вас забронировано?"
+msgstr "[_YanLin_] Mon nom est Yang Lin, avez-vous une réservation ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:11 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_79e549ef:
+msgid "[_cedrick_] Забронировано? Эм... Нет?"
+msgstr "[_cedrick_] Réservé ? Hum... Non ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:12 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_3045c1e9:
+msgid "[_YanLin_] К счастью, сегодня у нас много свободных столиков… Впрочем, в последнее время у нас всегда есть свободные места… Прошу, присаживайтесь, моя прекрасная внучка Хай Лин принесет вам меню…"
+msgstr "[_YanLin_] Heureusement, nous avons beaucoup de tables vides ce soir… Cependant, nous avons toujours des sièges vides ces derniers temps… Veuillez vous asseoir, ma belle petite-fille Hai Lin va vous apporter le menu…."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:17 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_665cb7ca:
+msgid "[_guy_] Добро пожаловать, сегодня я буду вашим официантом"
+msgstr "[_guy_] Bienvenue, je serai votre serveur aujourd'hui"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:18 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_c9b0796c:
+msgid "[_cedrick_] Вас зовут Хай Лин?"
+msgstr "[_cedrick_] Vous vous appelez Hai Ling ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:22 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_f1af8244:
+msgid "[_caleb_] Эм... Я Калеб! Хай Лин сейчас занята на кухне..."
+msgstr "[_caleb_] Hum... Je suis Caleb ! Hai Lin est occupé dans la cuisine en ce moment..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:26 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_e0434b0a:
+msgid "[_caleb_] Эмм… Ты уже выбрал что-нить?"
+msgstr "[_caleb_] Erm… Avez-vous déjà choisi quelque chose ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:27 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_eeff4b5c:
+msgid "[_cedrick_] Я еще не успел..."
+msgstr "[_cedrick_] Je ne l'ai pas encore fait..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:31 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_ed3670f3:
+msgid "[_caleb_]  Решай быстрее! Ты здесь не один собираешься жрать..."
+msgstr "[_caleb_]  Décidez-vous vite ! Tu n'es pas le seul qui va manger ici..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:32 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_c77d41cb:
+msgid "[_posetitel1_] Парень, моя жена просила воду безо льда!"
+msgstr "[_posetitel1_] Ma femme a demandé de l'eau sans glace !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:36 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_d8273532:
+msgid "[_caleb_] Пусть подождет, пока растает! Нет на вас, неженок, Меридиана…"
+msgstr "[_caleb_] Laissez-le attendre jusqu'à ce qu'il fonde ! Pas de Meridian sur vous les mauviettes…"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:37 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_eba7fff8:
+msgid "[_cedrick_] (Меридиана!? А это разве... Не предводитель повстанцев? Да! Точно! Но что он забыл в Хезарфилде?)"
+msgstr "[_cedrick_] (Méridien ! ? Ce n'est pas... Pas le chef des rebelles ? Oui ! Exactement ! Mais que faisait-il à Hezarfield ?)"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:40 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_fc7b4aee:
+msgid "[_haylin_] Калеб! Хех, спасибо что помог... Дальше я сама справлюсь!"
+msgstr "[_haylin_] Caleb ! Heh, merci pour ton aide... Je peux le prendre à partir d'ici !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:44 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_f8b62f0b:
+msgid "[_caleb_]  Наконец-то... Ну и привереды..."
+msgstr "[_caleb_]  Enfin... Quelles personnes fastidieuses..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:49 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_8726d567:
+msgid "[_haylin_] Извините, он новенький! Меня зовут Хай Лин и сегодня я буду вашей официанткой..."
+msgstr "[_haylin_] Désolé, il est nouveau ! Je m'appelle Hai Lin et je serai votre serveuse aujourd'hui..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:50 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_d1583543:
+msgid "[_cedrick_] (Так это та самая стражница завесы... Хранительница воздуха... Похоже, что она заодно с главой повстанцев… Вот оно как...)"
+msgstr "[_cedrick_] (Donc c'est le gardien du voile... La gardienne de l'air... On dirait qu'elle est de mèche avec le chef des rebelles… C'est donc ça...)"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:54 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_4615e21b:
+msgid "[_haylin_] Вы уже выбрали, что будете заказывать?"
+msgstr "[_haylin_] Avez-vous choisi ce que vous allez commander ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:55 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_9340a74e:
+msgid "[_cedrick_] Никак не могу решить… Может, что-нибудь посоветуете?"
+msgstr "[_cedrick_] Je n'arrive pas à me décider… Un conseil ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:59 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_a2e95e03:
+msgid "[_haylin_] О! Могу предложить вам Цыпленка по-сычуански!"
+msgstr "[_haylin_] Oh ! Je peux vous offrir du poulet du Sichuan !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:63 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_86aec574:
+msgid "[_haylin_] Хотя подождите.. У нас кончились цыплята..."
+msgstr "[_haylin_] Oh, attendez... Nous n'avons plus de poulets..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:64 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_a014ab3e:
+msgid "[_posetitel2_] Кхе… кхе… кхе…"
+msgstr "[_posetitel2_] Khe… Khe… Khe…"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:68 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_8ecfaff1:
+msgid "[_posetitel3_] Что за вонь…"
+msgstr "[_posetitel3_] Quelle puanteur…"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:69 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_57725076:
+msgid "[_posetitel4_] Как будто что-то сдохло!"
+msgstr "[_posetitel4_] C'est comme si quelque chose était mort !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:73 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_2ca1a800:
+msgid "[_haylin_] Простите, я сейчас вернусь!"
+msgstr "[_haylin_] Excusez-moi, je reviens tout de suite !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:76 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_85492686:
+msgid "[_cedrick_] Куда эта она?"
+msgstr "[_cedrick_] Où va-t-il, celui-là ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:77 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_18068606:
+msgid "[_cedrick_] Схожу-ка я за ней..."
+msgstr "[_cedrick_] Je vais aller la chercher..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:80 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_d9756c75:
+msgid "[_centered_] {size=37}В переулке у ресторана{/size}"
+msgstr "[_centered_] {Dans une ruelle, devant un restaurant."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:84 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_62bb01a1:
+msgid "[_haylin_] Сколько раз я тебе говорила, что ты не можешь здесь находиться! Из-за тебя в ресторане чудовищный запах!"
+msgstr "[_haylin_] Combien de fois je t'ai dit que tu ne pouvais pas être là ! Le restaurant sent mauvais à cause de toi !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:85 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_477653ae:
+msgid "[_blank_] Спасиба! Бланк стараться!"
+msgstr "[_blank_] Merci ! Le formulaire est en train d'essayer !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:86 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_08426da2:
+msgid "[_haylin_] Тебя нужно срочно помыть!"
+msgstr "[_haylin_] Tu as besoin d'un lavage tout de suite !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:87 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_c44bc5f3:
+msgid "[_blank_] Мыться плоха!"
+msgstr "[_blank_] Le lavage est mauvais !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:88 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_07f3a9de:
+msgid "[_haylin_] Нет! Мыться хорошо, а вонять — это чудо-о-овищно плохо... А ну вылезай!"
+msgstr "[_haylin_] Non ! Se laver c'est bien, mais puer c'est merveilleusement mauvais... Sortez !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:90 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_b7724323:
+msgid "[_cedrick_] С кем это ты там разговариваешь?"
+msgstr "[_cedrick_] A qui parlez-vous là-bas ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:93 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_4cc80652:
+msgid "[_haylin_] Э-ээ..."
+msgstr "[_haylin_] Hum..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:97 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_5268d6c5:
+msgid "[_haylin_] Это наш пес, хех! Любит рыться по помойкам… Мы никак не можем его отучить! Хах…"
+msgstr "[_haylin_] C'est notre chien, heh ! Il aime faire les poubelles… On n'arrive pas à le faire descendre ! Huh…"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:101 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_e35fe35f:
+msgid "[_haylin_] …"
+msgstr "[_haylin_] …"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:102 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_68c3866f:
+msgid "[_haylin_] Могли бы вы… не говорить никому об этом… пожалуйста???"
+msgstr "[_haylin_] Pourriez-vous… ne parler à personne de ce… s'il vous plaît ????"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:103 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_ca1bbbce:
+msgid "[_cedrick_] Э-эм... ладно…"
+msgstr "[_cedrick_] Hum... OK…"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:108 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_465ae494:
+msgid "[_irma_] Что за галдеж? Что здесь происходит?"
+msgstr "[_irma_] C'est quoi tout ce brouhaha ? Qu'est-ce qui se passe ici ?"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:109 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_e0b1676d:
+msgid "[_cedrick_] (Еще одна стражница… почему я не удивлен…)"
+msgstr "[_cedrick_] (Une autre page… pourquoi ne suis-je pas surpris…)"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:113 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_c4db1c94:
+msgid "[_haylin_] Хех... Ничего! Просто наш пес опять полез рыться в мусорке!"
+msgstr "[_haylin_] Heh... Rien ! C'est juste notre chien qui fouille encore dans la poubelle !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:117 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_7c023fe9:
+msgid "[_irma_] Пес? Не знала, что у тебя есть собака..."
+msgstr "[_irma_] Un chien ? Je ne savais pas que tu avais un chien..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:122 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_368c106e:
+msgid "[_haylin_] Ну да, он... Дурно пахнет и любит рыться по помойкам… Ирма-а-а..."
+msgstr "[_haylin_] Ouais, eh bien, il est... Il sent mauvais et aime fouiller dans les poubelles… Irma..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:126 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_df00bdc9:
+msgid "[_irma_] А-а-а! Этот пес! Да-а-а… Я совсем забыла про него..."
+msgstr "[_irma_] Ahh ! Ce chien ! Ouais… J'avais complètement oublié son existence..."
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:132 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_ce617998:
+msgid "…"
+msgstr "…"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:137 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_e69e04c9:
+msgid "[_haylin_] Прошу, возвращайтесь в ресторан…"
+msgstr "[_haylin_] S'il vous plaît, retournez au restaurant…"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:138 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_fb5f58c9:
+msgid "[_haylin_] Ваш ужин будет за счет заведения!"
+msgstr "[_haylin_] Votre dîner sera offert par la maison !"
+
+# game/scripts/quests/silverDragon/ql_silverDragon_go_to_restaraunt.rpy:140 #-#-# translate crowdin ql_silverDragon_go_to_restaraunt_cd499733:
+msgid "Отведав рис по-китайски с морепродуктами, вы сразу же покидаете ресторан"
+msgstr "Après avoir mangé du riz chinois aux fruits de mer, vous quittez immédiatement le restaurant."
+

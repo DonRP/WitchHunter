@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/will/thomas_poker_end.po\n"
+"X-Crowdin-File-ID: 5535\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:30\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/will/thomas_poker_end.rpy:2 #-#-# translate crowdin thomas_poker_end_7b5de1d5:
+msgid "[_cedrick_] Можешь оставить свои номер, если вдруг захочешь отыграться, я тебе наберу"
+msgstr "[_cedrick_] Puoi lasciare il tuo numero se vuoi pareggiare i conti, ti chiamerò io."
+
+# game/scripts/quests/will/thomas_poker_end.rpy:6 #-#-# translate crowdin thomas_poker_end_629cb0dc:
+msgid "[_tomas_] ..."
+msgstr "[_tomas_] ..."
+
+# game/scripts/quests/will/thomas_poker_end.rpy:7 #-#-# translate crowdin thomas_poker_end_9989263c:
+msgid "[_Somka108_] Теперь вы можете играть с Томасом Вендомом в покер на костях, стоит лишь позвать его на игру с помощью телефона"
+msgstr "[_Somka108_] Ora potete giocare a poker con Thomas Wendome semplicemente chiamandolo per giocare con il vostro telefono."
+

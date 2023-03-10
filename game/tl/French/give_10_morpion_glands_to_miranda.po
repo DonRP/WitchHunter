@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.po\n"
+"X-Crowdin-File-ID: 5387\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:01\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:6 #-#-# translate crowdin give_10_morpion_glands_to_miranda_c1c2186f:
+msgid "[_cedrick_] Миранда, где тебя носило? Почему у тебя было закрыто?"
+msgstr "[_cedrick_] Miranda, où diable étais-tu ? Pourquoi étais-tu fermée ?"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:10 #-#-# translate crowdin give_10_morpion_glands_to_miranda_107a1d6c:
+msgid "[_miranda_] Я, эм, ну.."
+msgstr "[_miranda_] Je, um, bien..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:14 #-#-# translate crowdin give_10_morpion_glands_to_miranda_0c4c30f5:
+msgid "[_cedrick_] ...Я принес железы"
+msgstr "[_cedrick_] ...j'ai apporté les glandes"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:18 #-#-# translate crowdin give_10_morpion_glands_to_miranda_658e7be9:
+msgid "[_miranda_] Отлично.. Сейчас, сделаю остальное.. Мне нужно немного времени, зайдешь попозже"
+msgstr "[_miranda_] Super, euh... Laissez-moi faire le reste. J'ai besoin de temps, revenez plus tard."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:22 #-#-# translate crowdin give_10_morpion_glands_to_miranda_503d4ab1:
+msgid "[_cedrick_] Да, без проблем.. Эм, Миранда, с тобой все нормально"
+msgstr "[_cedrick_] Ouais, pas de problème. Um, Miranda, il n'y a rien qui cloche chez toi."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:26 #-#-# translate crowdin give_10_morpion_glands_to_miranda_0abfbdd8:
+msgid "[_miranda_] Д-да.. Приготовление эссенции отнимает много сил, знаешь ли"
+msgstr "[_miranda_] Ouais... Faire de l'essence demande beaucoup d'efforts, tu sais."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:30 #-#-# translate crowdin give_10_morpion_glands_to_miranda_710c1914:
+msgid "[_cedrick_] Окей, надеюсь ты будешь в порядке"
+msgstr "[_cedrick_] OK, j'espère que ça ira."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:34 #-#-# translate crowdin give_10_morpion_glands_to_miranda_5c5b8aa6:
+msgid "[_miranda_] (Ох, он что, только что побеспокоился обо мне? Может, стоило чаще ему не открывать?)"
+msgstr "[_miranda_] (Oh, est-ce qu'il vient de s'inquiéter pour moi ? Peut-être que j'aurais dû le laisser de côté plus souvent)."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/give_10_morpion_glands_to_miranda.rpy:35 #-#-# translate crowdin give_10_morpion_glands_to_miranda_1c8461f2:
+msgid "[_cedrick_] (Думаю самое время наведаться к Алхими)"
+msgstr "[_cedrick_] (Je pense qu'il est grand temps de rendre visite à Alchemy)."
+

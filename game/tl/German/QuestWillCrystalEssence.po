@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestWillCrystalEssence.po\n"
+"X-Crowdin-File-ID: 4945\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:41\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestWillCrystalEssence.rpy:3
+msgid "Кристаллическая эссенция для Вилл. Часть I"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
+msgid "Забрать кристаллическую эссенцию у Миранды"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
+msgid "Написать сообщение Вилл"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
+msgid "Написать сообщение Сьюзан"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
+msgid "Помочь Вилл с учебой"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
+msgid "Помочь Вилл с учебой. День 2"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
+msgid "Помочь Вилл с учебой. День 3"
+msgstr ""
+
+# game/scripts/core/quests/QuestWillCrystalEssence.rpy:16
+msgid "Помочь Вилл с учебой. День 4"
+msgstr ""
+

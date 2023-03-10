@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/giftForLilian/sitWithLilian.po\n"
+"X-Crowdin-File-ID: 5627\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:40\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giftForLilian/sitWithLilian.rpy:10 #-#-# translate crowdin sitWithLilian_cdd6670c:
+msgid "Звук дверного звонка"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:18 #-#-# translate crowdin sitWithLilian_51d7c466:
+msgid "[_lilian_] ..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:19 #-#-# translate crowdin sitWithLilian_7bce623b:
+msgid "[_cedrick_] А, Лилиан! У меня для тебя сюрприз!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:26 #-#-# translate crowdin sitWithLilian_b288491e:
+msgid "[_lilian_] Это же... Котееенок!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:28 #-#-# translate crowdin sitWithLilian_68d9fad5:
+msgid "[_cedrick_] Да! Я помню, что ты хотела кота и решил почему бы..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:33 #-#-# translate crowdin sitWithLilian_d4c2dcac:
+msgid "[_cornelia_] Привет, Рик!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:37 #-#-# translate crowdin sitWithLilian_569d9525:
+msgid "[_lilian_] Корнееелияя, ты видела котенка?"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:41 #-#-# translate crowdin sitWithLilian_65813b7d:
+msgid "[_cornelia_] Что за комок шерсти..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:47 #-#-# translate crowdin sitWithLilian_824908b1:
+msgid "[_lilian_] Это подарок..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:51 #-#-# translate crowdin sitWithLilian_9799ccbe:
+msgid "[_lilian_] Придумаешь ему имя? А мне можно?"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:56 #-#-# translate crowdin sitWithLilian_089327a0:
+msgid "[_cornelia_] Придумывай и забирай себе."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:61 #-#-# translate crowdin sitWithLilian_f838ad0f:
+msgid "[_cedrick_] Хех..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:63 #-#-# translate crowdin sitWithLilian_e11f2cae:
+msgid "[_cornelia_] Спасибо, что пришел посидеть с Лилиан..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:64 #-#-# translate crowdin sitWithLilian_3f497981:
+msgid "[_cornelia_] Уложи ее спать в девять вечера, еда в холодильнике..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:65 #-#-# translate crowdin sitWithLilian_38bb4223:
+msgid "[_cedrick_] Не волнуйся, я справлюсь."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:66 #-#-# translate crowdin sitWithLilian_3310f9c1:
+msgid "[_cornelia_] Ну, а мне надо бежать!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:71 #-#-# translate crowdin sitWithLilian_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:77 #-#-# translate crowdin sitWithLilian_5f9b772e:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:79 #-#-# translate crowdin sitWithLilian_f3fa5258:
+msgid "[_cedrick_] Что за мультик ты смотришь?"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:80 #-#-# translate crowdin sitWithLilian_5fee4af9:
+msgid "[_lilian_] Алиса в стране чудес!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:81 #-#-# translate crowdin sitWithLilian_790d7d02:
+msgid "[_cedrick_] Занятно..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:82 #-#-# translate crowdin sitWithLilian_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:83 #-#-# translate crowdin sitWithLilian_71644e09:
+msgid "[_lilian_] Как бы я хотела оказаться в сказочном мире... Как Алиса!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:84 #-#-# translate crowdin sitWithLilian_3e0cb366:
+msgid "[_lilian_] Или стать принцессой... Как Жасмин в Алладине! Сидишь целыми днями в замке, не ходишь в школу и не терпишь свою старшую сестру..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:85 #-#-# translate crowdin sitWithLilian_076ba01f:
+msgid "[_cedrick_] (Ну... Так можно это устроить...)"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:86 #-#-# translate crowdin sitWithLilian_0f0b09ac:
+msgid "[_cedrick_] Разве Корнелия плохо с тобой обращается?"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:87 #-#-# translate crowdin sitWithLilian_1f2efd37:
+msgid "[_lilian_] Она вечно указывает мне что делать! Она обращается со мной как с ребенком и постоянно обзывает меня клопом! А я ведь уже не маленькая... "
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:88 #-#-# translate crowdin sitWithLilian_4d7babf5:
+msgid "[_lilian_] А еще она вечно гуляет с мальчиками... Интересно, чем она с ними занимается... Я тоже так хочу..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:89 #-#-# translate crowdin sitWithLilian_60678de0:
+msgid "[_lilian_] Родители разрешают Корнелии все! Я тоже этого хочу!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:90 #-#-# translate crowdin sitWithLilian_787c8269:
+msgid "[_cedrick_] Не переживай. Твои родители будут разрешать тебе все, что ты хочешь! Но только тогда, когда ты вырастешь..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:91 #-#-# translate crowdin sitWithLilian_c4d66b73:
+msgid "[_lilian_] Скорее бы ужее..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:92 #-#-# translate crowdin sitWithLilian_5f9b772e_1:
+msgid "...."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:94 #-#-# translate crowdin sitWithLilian_ccf0063e:
+msgid "[_centered_] {size=37}Спустя пару часов{/size} [withDissolve1]"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:99 #-#-# translate crowdin sitWithLilian_37a4f383:
+msgid "[_cornelia_] Прости, я немного задержалась..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:100 #-#-# translate crowdin sitWithLilian_8c2e37cb:
+msgid "[_cornelia_] Она хорошо себя вела?"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:104 #-#-# translate crowdin sitWithLilian_85ecd015:
+msgid "[_cedrick_] Да, мы нашли общий язык."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:108 #-#-# translate crowdin sitWithLilian_91ea03c1:
+msgid "[_cornelia_] Не похоже на нее..."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:112 #-#-# translate crowdin sitWithLilian_73915231:
+msgid "[_cornelia_] Ну... Спасибо, что посидел с моей сестрой!"
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:116 #-#-# translate crowdin sitWithLilian_3d348c2d:
+msgid "[_cornelia_] Ты такой ответственный... "
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:117 #-#-# translate crowdin sitWithLilian_55451aa0:
+msgid "[_cedrick_] Да брось, ничего особенного."
+msgstr ""
+
+# game/scripts/quests/giftForLilian/sitWithLilian.rpy:119 #-#-# translate crowdin sitWithLilian_a20cefa7_2:
+msgid "..."
+msgstr ""
+

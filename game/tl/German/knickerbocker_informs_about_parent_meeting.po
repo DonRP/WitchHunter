@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.po\n"
+"X-Crowdin-File-ID: 5105\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:42\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:6 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_79b9062c:
+msgid "[_directris_] Ага, а вот и вы, м-р Хоффман!"
+msgstr ""
+
+# game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:7 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_fa65483d:
+msgid "[_cedrick_] Да?"
+msgstr ""
+
+# game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:10 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_d891ec47:
+msgid "[_directris_] Так как вы не присутствовали на учительском собрании, я продублирую для вас информацию персонально!"
+msgstr ""
+
+# game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:13 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_ec544a32:
+msgid "[_directris_] Через несколько дней проводится наш ежегодный родительский день!"
+msgstr ""
+
+# game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:14 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_3e88636c:
+msgid "[_directris_] И нужно, чтобы ученики заполнили родословное древо и приклеили к нему фотографии своих родственников…"
+msgstr ""
+
+# game/scripts/quests/annualParentsDay/knickerbocker_informs_about_parent_meeting.rpy:15 #-#-# translate crowdin knickerbocker_informs_about_parent_meeting_616a3b41:
+msgid "[_directris_] Сообщите об этом своим ученикам! анкеты для родословного древа вы сможете взять в учительской… а теперь идите, не тратьте больше мое время…"
+msgstr ""
+

@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/exploreTheCity/look_into_railway_station.po\n"
+"X-Crowdin-File-ID: 5163\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:57\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/exploreTheCity/look_into_railway_station.rpy:3 #-#-# translate crowdin look_into_railway_station_7ddefe38:
+msgid "[_cedrick_] А это, как я полагаю, так называемый Вокзал — место, откуда можно быстро добраться до другой отдаленной точки земли на механическом средстве передвижения…"
+msgstr "[_cedrick_] Et voici, je crois, ce qu'on appelle une station - un endroit d'où l'on peut rapidement atteindre un autre point éloigné sur la terre par des moyens de transport mécaniques…."
+
+# game/scripts/quests/exploreTheCity/look_into_railway_station.rpy:4 #-#-# translate crowdin look_into_railway_station_9a014a91:
+msgid "[_cedrick_] Впрочем, как я читал, это, должно быть, довольно быстрый способ передвижения в условиях отсутствия магии… наши технологии еще не зашли так далеко…"
+msgstr "[_cedrick_] Cependant, d'après ce que j'ai lu, ce doit être un moyen assez rapide de se déplacer en l'absence de magie… . Notre technologie n'est pas encore allée aussi loin…."
+
+# game/scripts/quests/exploreTheCity/look_into_railway_station.rpy:5 #-#-# translate crowdin look_into_railway_station_bd43a099:
+msgid "[_cedrick_] Еще ни разу не пробовал прокатиться… впрочем… навряд-ли мне понадобится пользоваться этим в ближайшее время…"
+msgstr "[_cedrick_] Je n'ai pas encore essayé de faire un tour… mais… je ne pense pas avoir à l'utiliser de sitôt…"
+

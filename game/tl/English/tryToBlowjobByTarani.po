@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/tryToBlowjobByTarani.po\n"
+"X-Crowdin-File-ID: 5503\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:34\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:5 #-#-# translate crowdin tryToBlowjobByTarani_8ee11483:
+msgid "[_cedrick_] Новый день – новый путь к знаниям. А то, как вы усвоили предыдущие знания на моем уроке, мы узнаем с помощью проверочной работы"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:8 #-#-# translate crowdin tryToBlowjobByTarani_c1696a59:
+msgid "[_centered_] {size=37}после проведенной контрольной работы{/size}"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:13 #-#-# translate crowdin tryToBlowjobByTarani_ee17437a:
+msgid "[_cedrick_] Тарани, не останешься помочь мне с проверкой?"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:14 #-#-# translate crowdin tryToBlowjobByTarani_e46de5b2:
+msgid "[_tarani_] Я так не думаю.. Пойдемте, девочки"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:15 #-#-# translate crowdin tryToBlowjobByTarani_6abc4931:
+msgid "[_cedrick_] (..Что за? Что она себе позволяет?)"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:16 #-#-# translate crowdin tryToBlowjobByTarani_7e21e1d0:
+msgid "[_cedrick_] (Стоп... Надо проверить работу Найджела)"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:19 #-#-# translate crowdin tryToBlowjobByTarani_ebed3d65:
+msgid "[_cedrick_] ......."
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:20 #-#-# translate crowdin tryToBlowjobByTarani_51fdb7e2:
+msgid "[_cedrick_] (Черт.. Это твердая тройка с плюсом.. Не мог же этот идиот взяться за ум..)"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:21 #-#-# translate crowdin tryToBlowjobByTarani_bc745b02:
+msgid "[_cedrick_] (Нет, работа слишком хорошо оформлена, так, что и не прикопаешься.. Ответы поставлены в таких местах, что их уже не подделать..)"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:22 #-#-# translate crowdin tryToBlowjobByTarani_459fb041:
+msgid "[_cedrick_] (Это Тарани подменила его листок.. Она сделала работу за двоих. Чертовка, нашла способ, как меня обойти..)"
+msgstr ""
+
+# game/scripts/quests/tarani/tryToBlowjobByTarani.rpy:25 #-#-# translate crowdin tryToBlowjobByTarani_ed426cb8:
+msgid "[_cedrick_] (Мне придется найти новый способ, как ее шантажировать!.. Возможно, стоит начать с ее дома?)"
+msgstr ""
+

@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestDustInBookshop.po\n"
+"X-Crowdin-File-ID: 4883\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:51\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestDustInBookshop.rpy:3
+msgid "Пыль в книжном магазине"
+msgstr "De la poussière dans une librairie"
+
+# game/scripts/core/quests/QuestDustInBookshop.rpy:8
+msgid "Попросить элион убрать пыль в магазине"
+msgstr "Demandez à Elion de dépoussiérer la boutique"
+

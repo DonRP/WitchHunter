@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.po\n"
+"X-Crowdin-File-ID: 5151\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:57\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:5 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_93f5b332:
+msgid "[_cedrick_] (осталось добавить афродизиак в кофе)"
+msgstr "[_cedrick_] (A gauche pour ajouter un aphrodisiaque au café)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:10 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:14 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_c30392ba:
+msgid "[_cedrick_] Элион, не хочешь перед уроком взбодриться? Я купил нам кофе"
+msgstr "[_cedrick_] Elyon, voulez-vous vous remonter le moral avant le cours ? Je nous ai acheté du café."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:17 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_dea49141:
+msgid "[_elion_] Ох, спасибо, Рик, это так мило.."
+msgstr "[_elion_] Oh, merci, Rick, c'est si gentil..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:18 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_967702e4:
+msgid "[_cedrick_] (Отлично, теперь нужно просто подождать, пока препарат сработает. Хм, лучше мне не присутствовать в классе, когда эффект афродизиака проявит себя)"
+msgstr "[_cedrick_] (Super, maintenant on doit juste attendre que le médicament fasse effet. Hmm, je ferais mieux de ne pas être en classe quand les effets aphrodisiaques se feront sentir)."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:20 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_4ab00fb5:
+msgid "[_cedrick_] (Без учителя в этот момент, у учеников и Элион не будет сдерживающего фактора)"
+msgstr "[_cedrick_] (Sans professeur à ce stade, les élèves et Elion n'auront aucun moyen de dissuasion)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:23 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_d3204e6c:
+msgid "[_centered_] {size=37}Позже, после урока{/size}"
+msgstr "[_centered_] {size=37}Plus tard, après le cours{/size}"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:27 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_6b14704b:
+msgid "[_cedrick_] И так, класс, первый урок закончен. Я ненадолго отлучусь, а после мы еще раз повторим основы Права Византийской империи 4 века нашей эры"
+msgstr "[_cedrick_] Très bien, la classe, la première leçon est terminée. Je vais faire une courte pause et ensuite nous allons revoir les bases du droit byzantin à partir du 4ème siècle après J.-C."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:30 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_05782f4a:
+msgid "[_irma_] Скуууукаааа"
+msgstr "[_irma_] Scoooooooooooooooooooooooon"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:31 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_6dff9d29:
+msgid "[_haylin_] Ну хоть в этот раз без контрольной.."
+msgstr "[_haylin_] Au moins cette fois sans le test..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:34 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_576697a3:
+msgid "[_centered_] {size=37}На перемене{/size}"
+msgstr "[_centered_] {size=37}A la récréation{/size}"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:39 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_15f4035e:
+msgid "[_elion_] (Д-да что со мной такое.. Я весь урок не могла сосредоточиться, в голову все время лезли странные мысли..)"
+msgstr "[_elion_] (Y-yeah, what's wrong with me... Je n'ai pas pu me concentrer pendant toute la leçon, je n'arrêtais pas d'avoir des pensées bizarres dans ma tête...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:40 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_c45508d0:
+msgid "[_elion_] (Я не могу нормально соображать.. Тут так жарко.. И-или это я такая горячая..)"
+msgstr "[_elion_] (Je n'arrive pas à penser correctement...) Il fait si chaud ici... Ou peut-être que c'est juste moi qui ai si chaud...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:41 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_53559d45:
+msgid "[_elion_] (Мммф.. Все мое тело так и зудит.. Почему я стала такой чувствительной? Кажется я намокла, просто ерзая на стуле во время урока...)"
+msgstr "[_elion_] (Mmmph. Tout mon corps me démange... Pourquoi suis-je devenu si sensible ? Je pense que je me suis mouillée en gigotant sur ma chaise pendant le cours...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:42 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_5e62cb3c:
+msgid "[_elion_] (Черт, как же хочется сбросить это напряжение.. Так хочется ощутить чье-то прикосновение, чью-то ласку..)"
+msgstr "[_elion_] (Merde, je veux me débarrasser de cette tension... Je veux sentir le toucher de quelqu'un, la caresse de quelqu'un...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:43 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_f50a71e2:
+msgid "[_elion_] (И когда я вообще стала такой развратной... Н-но, с этим определенно нужно что-то делать, иначе я просто взорвусь, даже встать со стула уже сложно..)"
+msgstr "[_elion_] (Et quand est-ce que je suis devenu si dépravé en premier lieu... N-mais je dois absolument faire quelque chose à ce sujet, sinon je vais exploser, j'ai même du mal à me lever de ma chaise...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:44 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_db05da89:
+msgid "[_elion_] (Вроде бы в классе мало народа, все либо спят, либо сидят в телефонах.. Никто ведь не заметит, если я просто.. я..)"
+msgstr "[_elion_] (Il ne semble pas y avoir beaucoup de monde en classe, tout le monde est soit endormi, soit au téléphone...) Personne ne le remarquera si je... je...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:48 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_e287e954:
+msgid "[_elion_] (П-потрогаю себя, там..)"
+msgstr "[_elion_] (P-toucher moi-même, là...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:49 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_863474cd:
+msgid "[_elion_] (Ммм, да, как же хорошо...)"
+msgstr "[_elion_] (Mmm, ouais, elle est bonne celle-là...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:53 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_ae7772dc:
+msgid "[_elion_] (Д-да... Так намного лучше.. Как же долго я этого ждала..)"
+msgstr "[_elion_] (O-oui... C'est beaucoup mieux... Combien de temps j'ai attendu pour ça...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:54 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_9e991cca:
+msgid "[_elion_] (Я уже так давно не прикасалась к себе, видимо поэтому мое тело так истосковалось по ласке..)"
+msgstr "[_elion_] (Je ne me suis pas touché depuis si longtemps, ce qui explique probablement pourquoi mon corps est si avide d'affection...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:57 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_5becf2c7:
+msgid "[_elion_] (Ммм, да, вот так, хорошо.. хорошооооо.. я уже почти..)"
+msgstr "[_elion_] (Mmm, oui, c'est ça, c'est bon... goodooooooo... j'y suis presque...)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:61 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_4ca78f9d:
+msgid "[_girl_] Эй, Элион, что ты делаешь под столо... Твою мать!"
+msgstr "[_girl_] Hé, Elyon, que faites-vous sous la table... Putain de merde !"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:64 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_053bf008:
+msgid "[_guy_] Воу-воу-воу, Элион, но не в классе же.."
+msgstr "[_guy_] Whoa-whoa-whoa-whoa, Elyon, mais pas en classe..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:65 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_d3f40c6e:
+msgid "[_guy2_] Охренеть, не знал, что она такая развратная..."
+msgstr "[_guy2_] Putain de merde, je ne savais pas qu'elle était si salope..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:66 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_fceba688:
+msgid "[_elion_] Н-нет, ребят, вы неправильно поняли.. Я просто.."
+msgstr "[_elion_] N-non, les gars vous vous faites une fausse idée. Je suis juste..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:67 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_5664e32e:
+msgid "[_girl2_] Ахахах, да все мы правильно поняли! Ты дрочишь прямо в классе"
+msgstr "[_girl2_] Ahahahaha, on a raison ! Tu te branles en classe."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:68 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_f6bee3c3:
+msgid "[_girl_] Это все потому что у нее парня нет!"
+msgstr "[_girl_] C'est parce qu'elle n'a pas de petit ami !"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:69 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_40156632:
+msgid "[_elion_] Я-я не.."
+msgstr "[_elion_] Je... je ne..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:70 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_5bc1f49e:
+msgid "[_guy_] Эй, Элион, если тебе так невтерпеж, можем вечером пойти ко мне!"
+msgstr "[_guy_] Hé, Elyon, si tu es si impatient, on peut aller chez moi ce soir !"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:72 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_4a7238b2:
+msgid "[_centered_] {size=37}Элион выбегает из класса{/size}"
+msgstr "[_centered_] {Elion n'a plus de classe."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:76 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_f56b30c0:
+msgid "[_cedrick_] Так, что за хрень тут происходит? Почему Элион убежала из класса?"
+msgstr "[_cedrick_] Alors, qu'est-ce qui se passe ici, bordel ? Pourquoi Alyon s'est enfuie de la classe ?"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:77 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_4507c1ab:
+msgid "[_girl2_] Эм, ну..."
+msgstr "[_girl2_] Hum, et bien..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:78 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_c39dd294:
+msgid "[_guy_] Ей просто нездоровится, учитель Рик.."
+msgstr "[_guy_] Elle ne se sent pas bien, Maître Rick..."
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:79 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_34e02628:
+msgid "[_cedrick_] (Видимо афродизиак сработал как надо, отлично)"
+msgstr "[_cedrick_] (Apparemment l'aphrodisiaque a bien fonctionné, super)"
+
+# game/scripts/quests/elyonAphrodisiac/toss_aphrodisiac_to_elyon_in_school.rpy:82 #-#-# translate crowdin toss_aphrodisiac_to_elyon_in_school_52227770:
+msgid "[_centered_] {size=37}По школе начали разноситься слухи о том, что Элион мастурбировала прямо во время перемены{/size}"
+msgstr "[_centered_] {Des rumeurs ont commencé à circuler dans l'école disant qu'Elion se masturbait pendant la récréation."
+

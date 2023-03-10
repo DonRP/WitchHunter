@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/miranda/miranda_talk.po\n"
+"X-Crowdin-File-ID: 5073\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/miranda/miranda_talk.rpy:8 #-#-# translate crowdin miranda_talk_bbbe53fc:
+msgid "[_cedrick_sprite_] Чем ты здесь занимаешься?"
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda_talk.rpy:14 #-#-# translate crowdin miranda_talk_fb330a4b:
+msgid "[_miranda_] Так как из всех приближенных Князя Фобоса я наиболее разбираюсь в ядах, то он решил, что я наиболее подходящий кандидат на должность.. эм.. зельевара, если можно так выразиться.. "
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda_talk.rpy:20 #-#-# translate crowdin miranda_talk_5fd74b3c:
+msgid "[_uma_] Умаа.. Ума."
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda_talk.rpy:21 #-#-# translate crowdin miranda_talk_66f5a252:
+msgid "[_cedrick_sprite_] Господи, а это что за урод..."
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda_talk.rpy:27 #-#-# translate crowdin miranda_talk_19a7ccd3:
+msgid "[_miranda_] Его зовут Ума, наши разведчики нашли его в лесу во время очередной вылазки."
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda_talk.rpy:28 #-#-# translate crowdin miranda_talk_05c75a5a:
+msgid "[_miranda_] Фобос прислал мне его в качестве подопытного. Теперь он помогает мне в приготовлении зелий. Не смотря на свой вид он довольно сообразительный."
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda_talk.rpy:34 #-#-# translate crowdin miranda_talk_cd1cb701:
+msgid "[_miranda_] Мы так и не смогли определить к какой расе он принадлежит.. У меня есть подозрения, что его прокляли.."
+msgstr ""
+
+# game/scripts/meridian/miranda/miranda_talk.rpy:35 #-#-# translate crowdin miranda_talk_641ad2e7:
+msgid "[_cedrick_sprite_] Ясно..."
+msgstr ""
+

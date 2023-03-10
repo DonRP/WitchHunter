@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.po\n"
+"X-Crowdin-File-ID: 5339\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:27\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:4 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_f6c297fb:
+msgid "[_matt_] ну Вилл, дай мне еще один шанс..."
+msgstr "[_matt_] Beh, Will, dammi un'altra possibilità..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:6 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_f0f4d130:
+msgid "[_will_] Я тебе уже сказала, я не буду с тобой встречаться!"
+msgstr "[_will_] Te l'ho già detto, non uscirò con te!"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:7 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_79731828:
+msgid "[_matt_] Но я ведь видел как ты на меня смотришь.. я тебе точно нравлюсь я самый популярный парень в школе!"
+msgstr "[_matt_] Ma ho visto come mi guardi... sicuramente ti piaccio. Sono il ragazzo più popolare della scuola!"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:8 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_5fee900d:
+msgid "[_cedrick_] (Хм, классический прием \"я видел, как ты на меня смотришь\". Интересно, где он ему научился.)"
+msgstr "[_cedrick_] (Hmm, il classico trucco del \"ho visto come mi guardi\". Mi chiedo dove l'abbia imparato)."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:9 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_35d82b5f:
+msgid "[_will_] Так думаешь только ты! Отвали, Мэтт, ты придурок!"
+msgstr "[_will_] E' quello che pensi tu! Vaffanculo, Matt, coglione!"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:11 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_9732bc89:
+msgid "[_cedrick_] (Хех, а она не промах..)"
+msgstr "[_cedrick_] (Heh, non è male...)"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:15 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_12deeb65:
+msgid "[_directris_] О, Мистер Хоффман."
+msgstr "[_directris_] Oh, signor Hoffman."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:19 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_51fe066b:
+msgid "[_cedrick_] Да, Миссис Никербокер?"
+msgstr "[_cedrick_] Sì, signora Knickerbocker?"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:23 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_04e4b873:
+msgid "[_directris_] Возможно вы уже слышали. К сожалению, Сондра Шмид покидает нашу школу."
+msgstr "[_directris_] Forse l'avete già sentito. Purtroppo Sondra Schmid lascia la nostra scuola."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:27 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_4ccdaec7:
+msgid "[_directris_] Но это не ваша вина, ее отец открывает бизнес где-то в другой стране и им придется переехать. Эх, такая большая потеря для школьного бюдж.. Для школы.."
+msgstr "[_directris_] Ma non è colpa tua, suo padre sta aprendo un'attività da un'altra parte e dovranno trasferirsi. Una perdita così grande per il bilancio della scuola... Per la scuola..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:28 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_f19be2b9:
+msgid "[_directris_] Она очень способная девочка.. "
+msgstr "[_directris_] È una ragazza molto capace... "
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:29 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_a38ad045:
+msgid "[_cedrick_] Да, тут вы правы..."
+msgstr "[_cedrick_] Sì, hai ragione..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:33 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_de81fe0e:
+msgid "[_directris_] И еще кое-что, Мистер Хоффман."
+msgstr "[_directris_] Un'altra cosa, signor Hoffman."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:34 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_0ed174a8:
+msgid "[_cedrick_] ..Да?"
+msgstr "[_cedrick_] ...Sì?"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:38 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_72c0a52b:
+msgid "[_directris_] Спасибо вам, вы очень выручили меня тогда, на собрании."
+msgstr "[_directris_] Grazie, mi hai aiutato molto durante la riunione."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:39 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_662d2c31:
+msgid "[_cedrick_] ..Ох"
+msgstr "[_cedrick_] ...Oh."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:43 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_5acf950b:
+msgid "[_directris_] И еще я слышала от учеников, как вы были вместе с Вилл, когда вас нашли. Думаю, вы ей очень помогли."
+msgstr "[_directris_] E ho anche sentito dagli studenti come eri con Will quando sei stato trovato. Credo che l'abbiate aiutata molto."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:47 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_f1e5d270:
+msgid "[_directris_] Все же слухи о вас – это только слухи. К тому же со всеми бывают ошибки. Считайте, что ваша репутация восстановлена."
+msgstr "[_directris_] Tuttavia, le voci su di te sono solo voci. Inoltre, gli errori capitano a tutti. Considerate la vostra reputazione ripristinata."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:48 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_c499df9f:
+msgid "[_cedrick_] Рад это слышать, Миссис Никербокер."
+msgstr "[_cedrick_] Sono contento di sentirlo, signora Knickerbocker."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:50 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_4abd48c7:
+msgid "[_centered_] {size=37} После уроков в кабинете истории{/size}"
+msgstr "[_centered_] {Dopo la lezione nell'aula di storia{/size}"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:53 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:54 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_6be5dfba:
+msgid "[_cedrick_] (фух.. почти закончил..)"
+msgstr "[_cedrick_] (fiuuu... quasi finito...)"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:55 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_f03822c4:
+msgid "[_sondra_] Мистер Хоффман... Можно?"
+msgstr "[_sondra_] Signor Hoffman... Posso?"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:57 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_c1d72051:
+msgid "[_cedrick_] Сондра, что ты тут делаешь?"
+msgstr "[_cedrick_] Sondra, cosa ci fai qui?"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:61 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_81a0cdec:
+msgid "[_cedrick_] Я думал, что ты уже покинула школу.."
+msgstr "[_cedrick_] Pensavo che avessi già lasciato la scuola..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:65 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_f1b9b96b:
+msgid "[_sondra_] Я зашла попрощаться.."
+msgstr "[_sondra_] Sono venuto a salutare..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:69 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_c4693064:
+msgid "[_sondra_] К сожалению, мой отец решил, что нам нужно переехать в другую страну и у меня нет права выбора.. А ведь мне здесь понравилось"
+msgstr "[_sondra_] Purtroppo mio padre ha deciso che dobbiamo trasferirci in un altro Paese e io non ho il diritto di scegliere. E mi è piaciuto qui."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:73 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_ac5ecd42:
+msgid "[_sondra_] Мы больше не сможем продолжать наши игры.."
+msgstr "[_sondra_] Non possiamo più continuare a giocare..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:74 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_19835524:
+msgid "[_cedrick_] Надеюсь ты не кому не расскажешь ... о том что было между нами.."
+msgstr "[_cedrick_] Spero che non lo dirai a nessuno... su quello che è successo tra noi..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:78 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_647b410f:
+msgid "[_sondra_] Нет.. но, если вы не возьмете меня прямо здесь.. Я непременно расскажу об этом директрисе..."
+msgstr "[_sondra_] No... ma se non mi porti qui... Mi assicurerò di dirlo alla direttrice..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:81 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_5f9b772e:
+msgid "...."
+msgstr "...."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:83 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_07bdde05:
+msgid "....."
+msgstr "....."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:84 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_615198ac:
+msgid "[_cedrick_] Ох.."
+msgstr "[_cedrick_] Oh..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:85 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_0595fa7c:
+msgid "[_cedrick_] всегда хотел сделать это на парте... Готовься к прощальному подарку"
+msgstr "[_cedrick_] Ho sempre voluto farlo sulla scrivania... Preparatevi a un regalo d'addio"
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:90 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:92 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_5f9b772e_1:
+msgid "...."
+msgstr "...."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:98 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_07bdde05_1:
+msgid "....."
+msgstr "....."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:100 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_b070cfc5:
+msgid "[_cedrick_] Это было... Хорошо.."
+msgstr "[_cedrick_] Era... Era..."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:102 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_119b1e39:
+msgid "[_sondra_] Еще бы.. Мне.. Мне тоже было с тобой хорошо."
+msgstr "[_sondra_] Ci puoi scommettere... Avevo... Anch'io mi sono divertito con te."
+
+# game/scripts/quests/newStudent/quest_new_student_say_goodbye_to_sondra.rpy:103 #-#-# translate crowdin quest_new_student_say_goodbye_to_sondra_9d362272:
+msgid "[_sondra_] Прощайте, Мистер Хофмман.."
+msgstr "[_sondra_] Addio, signor Hoffman..."
+

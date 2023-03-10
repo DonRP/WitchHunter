@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.po\n"
+"X-Crowdin-File-ID: 4971\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:54\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:5 #-#-# translate crowdin elyon_action_show_panties_root_1_6c481af3:
+msgid "[_cedrick_] Элион, я хочу, чтобы ты показала мне свои трусики"
+msgstr "[_cedrick_] Elyon, je veux que tu me montres ta culotte."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:8 #-#-# translate crowdin elyon_action_show_panties_root_1_1cc65aa9:
+msgid "[_elion_] Р-Рик! Н-не думала, что ты будешь просить о подобном"
+msgstr "[_elion_] R-Rick ! Je... je ne pensais pas que tu demanderais quelque chose comme ça."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:9 #-#-# translate crowdin elyon_action_show_panties_root_1_b7196b9f:
+msgid "[_cedrick_] Это все для того, чтобы утолить твою развратную натуру. Ты ведь покраснела от одной только просьбы, а значит это работает"
+msgstr "[_cedrick_] C'est pour apaiser ta nature dépravée. Vous rougissez juste pour le demander, donc ça marche."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:12 #-#-# translate crowdin elyon_action_show_panties_root_1_5c7682ff:
+msgid "[_elion_] Я.. Я.. Черт, ты прав.. Хорошо, я покажу их!"
+msgstr "[_elion_] Я.. Я.. Merde, tu as raison. Ok, je vais leur montrer !"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:16 #-#-# translate crowdin elyon_action_show_panties_root_1_52793c7f:
+msgid "[_cedrick_] Ооо, в цвет лифчика. Приятный комплект белья"
+msgstr "[_cedrick_] Oooh, dans la couleur du soutien-gorge. Bel ensemble de lingerie"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:19 #-#-# translate crowdin elyon_action_show_panties_root_1_5523be0e:
+msgid "[_elion_] Так неловко.. Никогда не думала, что решусь показать тебе трусики"
+msgstr "[_elion_] C'est tellement embarrassant. Je n'ai jamais pensé que j'oserais te montrer ma culotte."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:20 #-#-# translate crowdin elyon_action_show_panties_root_1_840aa0e8:
+msgid "[_cedrick_] Никогда? Это точно?"
+msgstr "[_cedrick_] Jamais ? C'est sûr ?"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:23 #-#-# translate crowdin elyon_action_show_panties_root_1_3b41a168:
+msgid "[_elion_] Н-ну.."
+msgstr "[_elion_] Eh bien..."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:24 #-#-# translate crowdin elyon_action_show_panties_root_1_ce7f5f52:
+msgid "[_elion_] (Может быть, пару раз я это и представляла...)"
+msgstr "[_elion_] (J'ai pu l'imaginer une ou deux fois...)"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:25 #-#-# translate crowdin elyon_action_show_panties_root_1_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:26 #-#-# translate crowdin elyon_action_show_panties_root_1_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:32 #-#-# translate crowdin elyon_action_remove_panties_1_9287558c:
+msgid "[_cedrick_] Хммм... А что, если.."
+msgstr "[_cedrick_] Hmmm... Et si..."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:36 #-#-# translate crowdin elyon_action_remove_panties_1_4969de78:
+msgid "[_elion_] Р-рик! Что ты делаешь!? Не смотри!!"
+msgstr "[_elion_] R-r-rick ! Qu'est-ce que tu fais ? Ne regarde pas ! !!"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:37 #-#-# translate crowdin elyon_action_remove_panties_1_459eac11:
+msgid "[_cedrick_] Надо же, какая гладкая.."
+msgstr "[_cedrick_] Wow, c'est doux..."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:40 #-#-# translate crowdin elyon_action_remove_panties_1_805721a7:
+msgid "[_elion_] Я ухожу!!"
+msgstr "[_elion_] Je pars ! !!"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:43 #-#-# translate crowdin elyon_action_remove_panties_1_79201473:
+msgid "[_cedrick_] (Хах... Ну, с другой стороны, а чего я еще ожидал?)"
+msgstr "[_cedrick_] (Huh... D'un autre côté, à quoi d'autre pourrais-je m'attendre ?)"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:52 #-#-# translate crowdin elyon_action_show_panties_enough_1_eb1507a7:
+msgid "[_cedrick_] Что ж, этого пока достаточно"
+msgstr "[_cedrick_] Eh bien, c'est assez pour maintenant"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:55 #-#-# translate crowdin elyon_action_show_panties_enough_1_79dc37bc:
+msgid "[_elion_] П-пока?"
+msgstr "[_elion_] W- Bye ?"
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:56 #-#-# translate crowdin elyon_action_show_panties_enough_1_7d6cf060:
+msgid "[_cedrick_] Да. Ты же понимаешь, что на этом мы не остановимся. Рано или поздно ты сама захочешь, чтобы я зашел дальше"
+msgstr "[_cedrick_] Oui. Tu sais qu'on ne va pas s'arrêter là. Tôt ou tard, tu vas vouloir que j'aille plus loin."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:59 #-#-# translate crowdin elyon_action_show_panties_enough_1_0c6e5e47:
+msgid "[_elion_] Уф..."
+msgstr "[_elion_] Ugh..."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:60 #-#-# translate crowdin elyon_action_show_panties_enough_1_4ed7077e:
+msgid "[_cedrick_] Но, пока что, это все, Элион, можешь идти. Думаю этой помощи тебе хватит"
+msgstr "[_cedrick_] Mais c'est tout pour le moment, Elyon, vous pouvez partir. Je pense que c'est assez d'aide pour vous."
+
+# game/scripts/elyon_actions/show_panties/elyon_action_show_panties_root_1.rpy:63 #-#-# translate crowdin elyon_action_show_panties_enough_1_1c644f46:
+msgid "[_elion_] С-спасибо, Рик"
+msgstr "[_elion_] Merci, Rick."
+

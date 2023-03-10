@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/Fight/CedrickFighting.po\n"
+"X-Crowdin-File-ID: 4805\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:18\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/Fight/CedrickFighting.rpy:288
+msgid "Седрик"
+msgstr "Cedro"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:351
+msgid "Удар змеиной рукой"
+msgstr "Un colpo di mano di serpente"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:351
+msgid "Плевок ядом"
+msgstr "Sputare veleno"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:351
+msgid "Удар хвостом"
+msgstr "Dosso di coda"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:392
+msgid "Начислен боевой опыт:"
+msgstr "Esperienza di combattimento maturata:"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:404
+msgid "Получен новый уровень:"
+msgstr "Si ottiene un nuovo livello:"
+
+# game/scripts/core/Fight/CedrickFighting.rpy:436
+msgid "{skill_name} {quantity_mp} MP"
+msgstr "{skill_name} {quantity_mp} MP"
+

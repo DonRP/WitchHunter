@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/giveAlchemyForBlank.po\n"
+"X-Crowdin-File-ID: 5477\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:34\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveAlchemyForBlank.rpy:7 #-#-# translate crowdin giveAlchemyForBlank_e1f6e456:
+msgid "Спустя некоторое время в темнице меридиана"
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:11 #-#-# translate crowdin giveAlchemyForBlank_d6374a37:
+msgid "[_cedrick_] ну вот и твоя женщина для секса, Бланк."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:12 #-#-# translate crowdin giveAlchemyForBlank_e6e16c17:
+msgid "[_cedrick_] Можешь ее трахнуть."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:13 #-#-# translate crowdin giveAlchemyForBlank_a2c3de76:
+msgid "[_blank_] Хе-хе, Бланк будет секс!"
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:17 #-#-# translate crowdin giveAlchemyForBlank_c5c0cd05:
+msgid "[_alchemy_] Я не дам себя трахать этому мерзкому гоблину!.. фууу.. от него воняет!"
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:18 #-#-# translate crowdin giveAlchemyForBlank_b7614c42:
+msgid "[_blank_] Бланк пахнет мужчиной!"
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:23 #-#-# translate crowdin giveAlchemyForBlank_d6626bce:
+msgid "[_cedrick_] Ты будешь послушной девочкой и позволишь этому мерзкому гоблину себя трахнуть или я скормлю твоего брата Лурденам по кусочкам.."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:24 #-#-# translate crowdin giveAlchemyForBlank_8cb7dc2a:
+msgid "[_alchemy_] …."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:29 #-#-# translate crowdin giveAlchemyForBlank_f31580f0:
+msgid "….."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:32 #-#-# translate crowdin giveAlchemyForBlank_4764adba:
+msgid "[_blank_] Узкооо.. бланк хорошооо.."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:35 #-#-# translate crowdin giveAlchemyForBlank_4c4f5d54:
+msgid "[_alchemy_] больно..."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:38 #-#-# translate crowdin giveAlchemyForBlank_40386887:
+msgid "[_blank_] Прости.. Бланк делать хорошо! У тебя очень узкая попа..."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:41 #-#-# translate crowdin giveAlchemyForBlank_8dabefc6:
+msgid ".."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:44 #-#-# translate crowdin giveAlchemyForBlank_92890a1b:
+msgid "[_blank_] Бланк стал мужчиной!"
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:49 #-#-# translate crowdin giveAlchemyForBlank_ffe22964:
+msgid "[_blank_] Бланк кончатть…."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:51 #-#-# translate crowdin giveAlchemyForBlank_86774ec3:
+msgid "[_blank_] Оххх.. бланк хорошо.."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:54 #-#-# translate crowdin giveAlchemyForBlank_f31580f0_1:
+msgid "….."
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:55 #-#-# translate crowdin giveAlchemyForBlank_3b971b59:
+msgid "[_cedrick_] Теперь ступай и выполни мою просьбу!"
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:56 #-#-# translate crowdin giveAlchemyForBlank_bd7e0b95:
+msgid "[_blank_] Бланк все сделать в худшем виде!"
+msgstr ""
+
+# game/scripts/quests/tarani/giveAlchemyForBlank.rpy:57 #-#-# translate crowdin giveAlchemyForBlank_f5eb8118:
+msgid "[_cedrick_] ( Осталось только дождаться фотографий.. Надеюсь брат Найджела и в правду настолько плох, как говорила о нем мать Тарани.)"
+msgstr ""
+

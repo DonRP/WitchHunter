@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.po\n"
+"X-Crowdin-File-ID: 5353\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:00\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:3 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_15da6b72:
+msgid "[_cedrick_] (Нужно сходить в школу, проверить, все ли в порядке. Надеюсь они сумели закрыть портал и избавится от вепря Герментуия. Из учителей я был в школе последним, и если там что-то произошло - меня могут обвинить в этом)"
+msgstr "[_cedrick_] (Je dois aller à l'école pour voir si tout va bien. J'espère qu'ils ont réussi à fermer le portail et à se débarrasser du sanglier d'Hermentua. J'étais le dernier professeur de l'école, et si quelque chose s'y passait, on pourrait me le reprocher)."
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:4 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_09aa1fc0:
+msgid "[_cedrick_] Элион, мне нужно идти. Оставляю магазин на тебя"
+msgstr "[_cedrick_] Elyon, je dois y aller. Je vous laisse la boutique."
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:13 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_d1e07a29:
+msgid "[_elion_] Рик, подожди..."
+msgstr "[_elion_] Rick, attends..."
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:14 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_86fb0aaf:
+msgid "[_cedrick_] Мм??"
+msgstr "[_cedrick_] Hmm ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:17 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_41d24078:
+msgid "[_elion_] Сегодня вечером должен пройти вечер чтений, и он будет не совсем обычный…"
+msgstr "[_elion_] Il y aura une soirée lecture ce soir, et ce ne sera pas la même chose qu'à l'habitude…."
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:20 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_3358bb5a:
+msgid "[_cedrick_] Что же в нем необычного?"
+msgstr "[_cedrick_] Qu'est-ce qu'il y a de si inhabituel ?"
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:23 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_df08f1ab:
+msgid "[_elion_] Должны прийти несколько начинающих писателей, которые довольно популярны в некоторых кругах"
+msgstr "[_elion_] Il y a aussi quelques écrivains en herbe qui sont assez populaires dans certains milieux."
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:26 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_3a1776ad:
+msgid "[_elion_] И скорее всего это привлечет много народу… Так что лучше, чтобы ты не задерживался, одна я не справлюсь"
+msgstr "[_elion_] Et il est susceptible d'attirer beaucoup de monde… Alors ne vous attardez pas, je ne peux pas le faire tout seul"
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:29 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_89e3213f:
+msgid "[_cedrick_] Пожалуй это поможет нам неплохо заработать"
+msgstr "[_cedrick_] Peut-être que cela nous aidera à gagner de l'argent"
+
+# game/scripts/quests/newspaperSection/newspaper_section_elyon_talk_about_reading_evening.rpy:30 #-#-# translate crowdin newspaper_section_elyon_talk_about_reading_evening_3e67203f:
+msgid "[_cedrick_] Хорошо, я приду "
+msgstr "[_cedrick_] OK, je serai là "
+

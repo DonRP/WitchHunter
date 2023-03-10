@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.po\n"
+"X-Crowdin-File-ID: 5211\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:58\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:4 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_d30c0de9:
+msgid "[_cedrick_] Эй, ты, уродец, у меня к тебе есть поручение"
+msgstr "[_cedrick_] Hé, monstre, j'ai une course à faire pour toi."
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:5 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_8bbf540f:
+msgid "[_jink1_] Что угодно, мой лорд, но за определенную плату.. Любой каприз за ваши деньги"
+msgstr "[_jink1_] N'importe quoi, mon seigneur, mais à un prix... Tout ce que vous voulez pour votre argent."
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:6 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_527aa6c7:
+msgid "[_cedrick_] Не шути со мной, садовый гном, я здесь по поручению Князя Фобоса. Хочешь залезть ему в карман?"
+msgstr "[_cedrick_] Ne me cherche pas, nain de jardin, je suis ici au nom du Prince Phobos. Voulez-vous lui faire les poches ?"
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:7 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_0a581a4f:
+msgid "[_jink1_] Что вы, совсем нет.. Но и вы поймите Джинка.. Джинк потомственный торговец, религия не позволяет Джинк оказать услугу без какой-либо платы.."
+msgstr "[_jink1_] Non, pas du tout... Mais tu comprends aussi Jink... Jink est un marchand héréditaire, la religion ne permet pas à Jink de faire des faveurs sans aucun paiement..."
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:8 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_a755baae:
+msgid "[_cedrick_] Да твою ж.. Что ты хочешь? Золота?"
+msgstr "[_cedrick_] Bordel de merde. Qu'est-ce que tu veux ? De l'or ?"
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:9 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_cda71c21:
+msgid "[_jink1_] Хммм.. В городе ходят слухи слухи, Лорд Седрик, какой вы дамский угодник.. Так что в качестве символической платы, Джинк просит у вас женские трусы.."
+msgstr "[_jink1_] Hmmm... Il y a une rumeur en ville, Lord Cedric, quel homme à femmes vous êtes... Donc, en guise de paiement symbolique, Jink vous demande un pantalon de femme..."
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:10 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_a2354760:
+msgid "[_cedrick_] Да ты издеваешься…"
+msgstr "[_cedrick_] Vous vous moquez de moi…"
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:11 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_7ff48d7b:
+msgid "[_jink1_] Думаю для вас это не будет проблемой.."
+msgstr "[_jink1_] Je ne pense pas que ce sera un problème pour vous..."
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:12 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_5c3b6c7a:
+msgid "[_cedrick_] Черт, у меня мало времени.. Ладно, жди здесь, буду через 5 минут"
+msgstr "[_cedrick_] Merde, je n'ai pas beaucoup de temps. Très bien, attends ici, je serai là dans cinq minutes."
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:13 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_8c5a71e9:
+msgid "[_jink1_] Как скажете, мой лорд"
+msgstr "[_jink1_] Comme vous le dites, monseigneur."
+
+# game/scripts/quests/getRidOfElyonsParents/get_rid_of_elyons_parents_go_to_jink.rpy:14 #-#-# translate crowdin get_rid_of_elyons_parents_go_to_jink_c991ba21:
+msgid "[_cedrick_] (Мне срочно нужно отправиться к Миранде)"
+msgstr "[_cedrick_] (Je dois aller à Miranda tout de suite)"
+

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/miranda/whereGetGold.po\n"
+"X-Crowdin-File-ID: 5075\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:35\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/meridian/miranda/whereGetGold.rpy:7 #-#-# translate crowdin whereGetGold_4f6eb724:
+msgid "[_cedrick_sprite_] Не подскажешь где я могу заработать золото?"
+msgstr ""
+
+# game/scripts/meridian/miranda/whereGetGold.rpy:8 #-#-# translate crowdin whereGetGold_ba8b5d58:
+msgid "[_miranda_] Не ожидала такого вопроса от тебя..."
+msgstr ""
+
+# game/scripts/meridian/miranda/whereGetGold.rpy:9 #-#-# translate crowdin whereGetGold_ec9658d9:
+msgid "[_miranda_] Ты можешь получать золото, выбивая их у повстанцев в лесу.. Лес находится слева от таверны..."
+msgstr ""
+
+# game/scripts/meridian/miranda/whereGetGold.rpy:10 #-#-# translate crowdin whereGetGold_504184e3:
+msgid "[_miranda_] Также я слышала, что в таверне обитает ведьмак, который играет в костяной покер на золото..."
+msgstr ""
+
+# game/scripts/meridian/miranda/whereGetGold.rpy:11 #-#-# translate crowdin whereGetGold_931ef8a5:
+msgid "[_miranda_] А и еще… В лесу справа от таверны обитают монстры, убивая их ты можешь добыть некоторые ингредиенты для меня."
+msgstr ""
+
+# game/scripts/meridian/miranda/whereGetGold.rpy:12 #-#-# translate crowdin whereGetGold_d9c0f039:
+msgid "[_cedrick_sprite_] Спасибо"
+msgstr ""
+

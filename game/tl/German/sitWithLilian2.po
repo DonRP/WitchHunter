@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/growingUpLilian/sitWithLilian2.po\n"
+"X-Crowdin-File-ID: 5279\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:43\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:6 #-#-# translate crowdin sitWithLilian2_ed6f5ac9:
+msgid "Телефонный звонок"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:9 #-#-# translate crowdin sitWithLilian2_2ad59957:
+msgid "[_cedrick_] да?"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:10 #-#-# translate crowdin sitWithLilian2_86f7bc99:
+msgid "[_cornelia_] Рик, Это Корнелия! Прости, что опять тебя тревожу, но дело срочное!"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:11 #-#-# translate crowdin sitWithLilian2_f7074bd6:
+msgid "[_cornelia_] У меня появились неотложные дела и мне нужно ненадолго уехать. Не мог бы ты посидеть с Лилиан? Мои родители так и не вернулись, а мне ее не на кого оставить..."
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:12 #-#-# translate crowdin sitWithLilian2_0cfe10de:
+msgid "[_cedrick_] Конечно. Без проблем."
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:13 #-#-# translate crowdin sitWithLilian2_e78dfebc:
+msgid "[_cornelia_] Хорошо, тогда я пошла! Я предупрежу Лилиан, она тебе откроет."
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:14 #-#-# translate crowdin sitWithLilian2_2fbfbef9:
+msgid "[_cornelia_] И большое тебе спасибо! Я знала, что могу на тебя положиться!"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:15 #-#-# translate crowdin sitWithLilian2_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:17 #-#-# translate crowdin sitWithLilian2_aa3e213b:
+msgid "[_centered_] {size=37}позже в доме хейлов{/size}"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:23 #-#-# translate crowdin sitWithLilian2_55c23904:
+msgid "[_cedrick_] Ну и как Корнелия отнеслась к моему подарку?"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:25 #-#-# translate crowdin sitWithLilian2_3efd90aa:
+msgid "[_lilian_] Она... Не очень любит наполеона..."
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:26 #-#-# translate crowdin sitWithLilian2_acdb2d5b:
+msgid "[_cedrick_] Наполеона?"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:29 #-#-# translate crowdin sitWithLilian2_a96641b3:
+msgid "[_lilian_] Я так назвала котика!"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:30 #-#-# translate crowdin sitWithLilian2_f6c90a84:
+msgid "[_cedrick_] Очень оригинально..."
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:31 #-#-# translate crowdin sitWithLilian2_a47a5ddc:
+msgid "[_cedrick_] Твоя сестра все еще тебя достает?"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:34 #-#-# translate crowdin sitWithLilian2_d77bd85b:
+msgid "[_lilian_] Да! Она не дает мне покоя!"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:36 #-#-# translate crowdin sitWithLilian2_8c62a6fb:
+msgid "[_lilian_] Ты сказал, что я скоро вырасту! Но мне кажется, что я совсем не расту!"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:37 #-#-# translate crowdin sitWithLilian2_a401d56a:
+msgid "[_cedrick_] (Хм.. Возможно, Миранда могла бы помочь мне с этим..)"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:38 #-#-# translate crowdin sitWithLilian2_c622612d:
+msgid "[_cedrick_] (Но стоит ли мне использовать младшую сестру Корнелии, чтобы подорвать ее ментальную устойчивость?)"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:39
+msgid "Лишние жертвы мне ни к чему"
+msgstr ""
+
+# game/scripts/quests/growingUpLilian/sitWithLilian2.rpy:39
+msgid "В войне любые средства хороши"
+msgstr ""
+

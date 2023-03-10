@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/giveElionUsedTo/give_elyon_used_to.po\n"
+"X-Crowdin-File-ID: 5243\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:29\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/giveElionUsedTo/give_elyon_used_to.rpy:4 #-#-# translate crowdin give_elyon_used_to_1580d417:
+msgid "[_cedrick_] (Думаю нужно дать ей время свыкнуться с произошедшим, прежде чем переходить к следующему этапу..)"
+msgstr ""
+
+# game/scripts/quests/giveElionUsedTo/give_elyon_used_to.rpy:5 #-#-# translate crowdin give_elyon_used_to_1596d730:
+msgid "[_cedrick_] (Что ж, от всего круга общения и поддерживающих ее людей я уже избавился..)"
+msgstr ""
+
+# game/scripts/quests/giveElionUsedTo/give_elyon_used_to.rpy:6 #-#-# translate crowdin give_elyon_used_to_f1466c0d:
+msgid "[_cedrick_] (Да уж, такой судьбе не позавидуешь, но все это для исполнения приказа Фобоса)"
+msgstr ""
+
+# game/scripts/quests/giveElionUsedTo/give_elyon_used_to.rpy:7 #-#-# translate crowdin give_elyon_used_to_e830f7d9:
+msgid "[_cedrick_] (Чтобы она окончательно оказалась в моей власти и была готова к развращению, осталось последнее – лишить ее репутации в школе)"
+msgstr ""
+

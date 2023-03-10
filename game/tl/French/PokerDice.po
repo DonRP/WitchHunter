@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/meridian/tavern/poker_dice/PokerDice.po\n"
+"X-Crowdin-File-ID: 5085\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:56\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
+msgid "Покер"
+msgstr "Poker"
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
+msgid "Каре"
+msgstr "Kare"
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
+msgid "Фул-хаус"
+msgstr "Full house"
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
+msgid "Старший стрит"
+msgstr "Rue des aînés"
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
+msgid "Младший стрит"
+msgstr "Rue Junior"
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
+msgid "Тройка"
+msgstr "Troïka"
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
+msgid "Две пары"
+msgstr "Deux paires"
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:11
+msgid "Пара"
+msgstr "Un couple"
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:46
+msgid "Вам не хватает средств чтобы сделать ставку"
+msgstr "Vous n'avez pas assez d'argent pour placer un pari."
+
+# game/scripts/meridian/tavern/poker_dice/PokerDice.rpy:56
+msgid "Ставка:"
+msgstr "Pari tenu :"
+

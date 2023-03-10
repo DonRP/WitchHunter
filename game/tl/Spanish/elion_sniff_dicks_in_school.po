@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.po\n"
+"X-Crowdin-File-ID: 5143\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-02-19 09:36\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:5 #-#-# translate crowdin elion_sniff_dicks_in_school_6dcd3cb5:
+msgid "[_uria_] А вот и снова появилась наша извращенка"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:8 #-#-# translate crowdin elion_sniff_dicks_in_school_4e3948ac:
+msgid "[_elion_] Прекрати это, Урия.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:9 #-#-# translate crowdin elion_sniff_dicks_in_school_bfabb445:
+msgid "[_uria_] Прекратил бы, если бы ты меня остановила. Но тебе же видимо самой это нравится"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:12 #-#-# translate crowdin elion_sniff_dicks_in_school_8a31d3ca:
+msgid "[_elion_] Я не.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:13 #-#-# translate crowdin elion_sniff_dicks_in_school_195d275f:
+msgid "[_elion_] (Я уже сама не знаю, чего я хочу.. Я так подавлена всем, что со мной происходит.. Что мне делать, как поступить.. Я не знаю..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:14 #-#-# translate crowdin elion_sniff_dicks_in_school_9faa5808:
+msgid "[_uria_] А ну-ка, повалите ее на пол, парни"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:18 #-#-# translate crowdin elion_sniff_dicks_in_school_b9ee2b8b:
+msgid "[_uria_] Отлично отсюда смотришься, словно тебе всегда стоило стоять на коленях"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:19 #-#-# translate crowdin elion_sniff_dicks_in_school_3a3b01aa:
+msgid "[_bully1_] Само собой, такой-то извращенке!"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:20 #-#-# translate crowdin elion_sniff_dicks_in_school_24915bdb:
+msgid "[_bully2_] Да она небось уже потекла!"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:21 #-#-# translate crowdin elion_sniff_dicks_in_school_04475490:
+msgid "[_elion_] Я-я не.. Это неправда.. Я не потелка.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:22 #-#-# translate crowdin elion_sniff_dicks_in_school_ecbe9ef8:
+msgid "[_elion_] (Я уже сама не верю собственным словам.. Неужели я не сопротивляюсь, потому что на самом деле получаю от этого внутреннее удовольствие.. Я сама себя не понимаю..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:23 #-#-# translate crowdin elion_sniff_dicks_in_school_1c4238a7:
+msgid "[_uria_] Ладно, пора нам всерьез тобой заняться, чего мы медлим"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:27 #-#-# translate crowdin elion_sniff_dicks_in_school_ee527776:
+msgid "[_elion_] Ч-что!? Н-нет, не надо…"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:28 #-#-# translate crowdin elion_sniff_dicks_in_school_2f49bc35:
+msgid "[_uria_] Эй, парни, поднимите-ка ее кофту, хочу видеть ее грудь, когда она будет мне сосать"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:29 #-#-# translate crowdin elion_sniff_dicks_in_school_5090b238:
+msgid "[_elion_] Я.. Я не стану тебе сосать, Урия.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:30 #-#-# translate crowdin elion_sniff_dicks_in_school_c038b937:
+msgid "[_uria_] Нет, ты будешь, Элион. Потому что для такой конченой извращенки, вроде тебя, остается единственное место – возле меня. Станешь моей персональной девкой и будешь счастлива"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:31 #-#-# translate crowdin elion_sniff_dicks_in_school_82b588d4:
+msgid "[_elion_] …С-счастлива?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:32 #-#-# translate crowdin elion_sniff_dicks_in_school_fa65128f:
+msgid "[_uria_] А теперь давай, быстро, взяла и начала мне дрочить. А там уж и до отсоса дойдет"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:33 #-#-# translate crowdin elion_sniff_dicks_in_school_5b46c6fe:
+msgid "[_elion_] Я… Я…"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:34 #-#-# translate crowdin elion_sniff_dicks_in_school_e1361d59:
+msgid "[_elion_] (Что я делаю.. Как я дошла до такого.. Неужели, сейчас я и вправду..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:35 #-#-# translate crowdin elion_sniff_dicks_in_school_ae61808b:
+msgid "[_cedrick_] Какого черта здесь происходит!?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:37 #-#-# translate crowdin elion_sniff_dicks_in_school_1172ec3f:
+msgid "[_uria_] Фак, учитель! Сворачиваем дрочило и валим, пацаны!"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:38 #-#-# translate crowdin elion_sniff_dicks_in_school_7ee9ec89:
+msgid "[_bully1_] Черт, еще немного и спалит, валим-валим!"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:42 #-#-# translate crowdin elion_sniff_dicks_in_school_f11edb33:
+msgid "[_cedrick_] Элион, что здесь только что произошло? Что эти засранцы от тебя хотели?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:43 #-#-# translate crowdin elion_sniff_dicks_in_school_9690205e:
+msgid "[_elion_] Я… Они.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:44 #-#-# translate crowdin elion_sniff_dicks_in_school_95b7b0ff:
+msgid "[_elion_] (Еще бы чуть-чуть.. И я.. Неужели я и вправду была на это готова..):"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:45 #-#-# translate crowdin elion_sniff_dicks_in_school_10710072:
+msgid "[_cedrick_] Элион, ну же, вставай, пойдем отсюда"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:46 #-#-# translate crowdin elion_sniff_dicks_in_school_c2672cd1:
+msgid "[_cedrick_] (Черт, не уж то эти мелкие ублюдки чуть не изнасиловали ее? На это я не рассчитывал, когда рушил ее репутацию. Это нужно пресечь на корню)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:47 #-#-# translate crowdin elion_sniff_dicks_in_school_11dfa022:
+msgid "[_cedrick_] (Никто, кроме меня, ни в праве заниматься с ней подобным. Я слишком долго к этому шел, чтобы отдать ее каким-то гопникам!)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:48 #-#-# translate crowdin elion_sniff_dicks_in_school_84a491f7:
+msgid "[_elion_] Рик.. У них мои фото.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:49 #-#-# translate crowdin elion_sniff_dicks_in_school_46df3862:
+msgid "[_cedrick_] Что? Как так вышло?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:50 #-#-# translate crowdin elion_sniff_dicks_in_school_ad2dccc3:
+msgid "[_elion_] …"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:51 #-#-# translate crowdin elion_sniff_dicks_in_school_7a9118ce:
+msgid "[_cedrick_] Они у Урии, да?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:52 #-#-# translate crowdin elion_sniff_dicks_in_school_4230c93d:
+msgid "[_elion_] Да.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:53 #-#-# translate crowdin elion_sniff_dicks_in_school_e30d111b:
+msgid "[_cedrick_] Понятно.. Иди на урок, Элион, я разберусь"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:54 #-#-# translate crowdin elion_sniff_dicks_in_school_3c1743d1:
+msgid "[_cedrick_] (скорее всего Урия держит телефон у себя в шкафчике.. Что ж..)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:57 #-#-# translate crowdin elion_sniff_dicks_in_school_42957e3d:
+msgid "[_centered_] {size=37}Позже, в коридоре во время урока{/size}"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:59 #-#-# translate crowdin elion_sniff_dicks_in_school_36445bc1:
+msgid "[_cedrick_] (Пока никого нет, воспользуюсь своей силой, чтобы взломать ящик этого урода)"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:61 #-#-# translate crowdin elion_sniff_dicks_in_school_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:63 #-#-# translate crowdin elion_sniff_dicks_in_school_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:67 #-#-# translate crowdin elion_sniff_dicks_in_school_a671761e:
+msgid "[_centered_] {size=37}Позже в коридоре{/size}"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:71 #-#-# translate crowdin elion_sniff_dicks_in_school_a2acf706:
+msgid "[_uria_] Эй, ублюдки, кто сломал мой ящик? Где мой телефон?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:72 #-#-# translate crowdin elion_sniff_dicks_in_school_339925c2:
+msgid "[_cedrick_] Это я сломал твой ящик, Урия"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:76 #-#-# translate crowdin elion_sniff_dicks_in_school_f3fb9aa9:
+msgid "[_uria_] Чего? Учитель? Какого хрена вы.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:77 #-#-# translate crowdin elion_sniff_dicks_in_school_a526e85a:
+msgid "[_cedrick_] Послушай сюда, маленький говнюк. Если ты еще раз хотя бы подумаешь прикоснуться к Элион, я не стану звать директора, я не обращусь в полицию.."
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:78 #-#-# translate crowdin elion_sniff_dicks_in_school_1354bc36:
+msgid "[_cedrick_] Но знаешь, что я сделаю? Посмотри еще раз на вмятину на твоем шкафчике. В следующий раз такая же вмятина будет в твоей безмозглой башке и твои подпевалы тебя не спасут"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:79 #-#-# translate crowdin elion_sniff_dicks_in_school_1503bad4:
+msgid "[_cedrick_] Ты понял?"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:80 #-#-# translate crowdin elion_sniff_dicks_in_school_c10b36f4:
+msgid "[_uria_] ..Д-да"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:81 #-#-# translate crowdin elion_sniff_dicks_in_school_7cd9eaac:
+msgid "[_cedrick_] Я не слышу!"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:82 #-#-# translate crowdin elion_sniff_dicks_in_school_68bb1e92:
+msgid "[_uria_] Да, учитель Рик…"
+msgstr ""
+
+# game/scripts/quests/elyonAphrodisiac/elion_sniff_dicks_in_school.rpy:83 #-#-# translate crowdin elion_sniff_dicks_in_school_778970c6:
+msgid "[_cedrick_] А теперь пошел с глаз моих!"
+msgstr ""
+

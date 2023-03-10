@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestDustInBookshop2.po\n"
+"X-Crowdin-File-ID: 4885\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:41\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestDustInBookshop2.rpy:3
+msgid "Пыль в книжном магазине (2)"
+msgstr ""
+
+# game/scripts/core/quests/QuestDustInBookshop2.rpy:8
+msgid "Попросить элион убрать пыль в магазине еще раз"
+msgstr ""
+

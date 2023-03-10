@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/interface/phone/labels/call_thomas.po\n"
+"X-Crowdin-File-ID: 5007\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:54\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/interface/phone/labels/call_thomas.rpy:3 #-#-# translate crowdin call_thomas_f6a091b6:
+msgid "Вам нужно минимум 100$ чтобы предложить ему поиграть."
+msgstr "Vous avez besoin d'un minimum de 100 $ pour lui proposer de jouer."
+
+# game/scripts/interface/phone/labels/call_thomas.rpy:5 #-#-# translate crowdin call_thomas_5db39df7:
+msgid "идет набор номера ..."
+msgstr "numérotation ..."
+
+# game/scripts/interface/phone/labels/call_thomas.rpy:6 #-#-# translate crowdin call_thomas_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/interface/phone/labels/call_thomas.rpy:7 #-#-# translate crowdin call_thomas_c82d55e5:
+msgid "[_cedrick_sprite_] Привет. Ну что, ты готов сыграть?"
+msgstr "[_cedrick_sprite_] Salut. Alors, tu es prêt à jouer ?"
+
+# game/scripts/interface/phone/labels/call_thomas.rpy:8 #-#-# translate crowdin call_thomas_b2a22cd5:
+msgid "Да, конечно."
+msgstr "Oui, bien sûr."
+
+# game/scripts/interface/phone/labels/call_thomas.rpy:9 #-#-# translate crowdin call_thomas_78698471:
+msgid "[_cedrick_sprite_] Тогда встретимся у меня вечером."
+msgstr "[_cedrick_sprite_] Alors retrouve-moi chez moi ce soir."
+

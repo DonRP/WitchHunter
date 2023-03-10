@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/bookshop/bookshop_first.po\n"
+"X-Crowdin-File-ID: 4767\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2023-01-01 20:20\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/bookshop/bookshop_first.rpy:34 #-#-# translate crowdin bookshop_first_93d6c9e2:
+msgid "[_cedrick_sprite_] Кажется, что в Хезерфилде люди используют такие устройства для хранения своего рода бумажных денег. Как наивно ... Гораздо надежнее хранить золото под охраной в подземельях."
+msgstr "[_cedrick_sprite_] It seems like in Heatherfield, people use this devices to store a sort of paper money. How naïve of them, don't they know it's more reliable to store such currency under the strict guard watch in a dungeon?"
+
+# game/scripts/bookshop/bookshop_first.rpy:37 #-#-# translate crowdin bookshop_first_38e7dee8:
+msgid "Седрик находит 50 баксов в кассе"
+msgstr "Cedric finds fifty bucks"
+
+# game/scripts/bookshop/bookshop_first.rpy:38 #-#-# translate crowdin bookshop_first_a3a41642:
+msgid "[_cedrick_sprite_] Что ж… Ну хоть что-то для начала..."
+msgstr "[_cedrick_sprite_] Hah... The money for starters, I think..."
+
+# game/scripts/bookshop/bookshop_first.rpy:42 #-#-# translate crowdin bookshop_first_bfe45220:
+msgid "[_cedrick_sprite_] С помощью этой книги я смогу вернуться на Меридиан"
+msgstr "[_cedrick_sprite_] With the help of this book, I can return to Meridian."
+
+# game/scripts/bookshop/bookshop_first.rpy:45 #-#-# translate crowdin bookshop_first_5d177d51:
+msgid "[_cedrick_sprite_] Сначала мне нужно осмотреться в магазине"
+msgstr "[_cedrick_sprite_] Did I already inspect everything in the store?"
+
+# game/scripts/bookshop/bookshop_first.rpy:48 #-#-# translate crowdin bookshop_first_4bb858fd:
+msgid "[_cedrick_sprite_] Реклама новых комиксов Юные Титаны, ничего интересного."
+msgstr "[_cedrick_sprite_] Just some advertising of the new Teen Titans comics, nothing interesting."
+
+# game/scripts/bookshop/bookshop_first.rpy:51 #-#-# translate crowdin bookshop_first_7a812da1:
+msgid "[_cedrick_sprite_] Порнографический журнал, Не думал что подобное может продаваться здесь. Пожалуй, ознакомлюсь с ним попозже.."
+msgstr "[_cedrick_sprite_] Huh, a porn magazine. I wouldn't have thought such a thing could be sold here. I'll set it aside to read later.."
+
+# game/scripts/bookshop/bookshop_first.rpy:54 #-#-# translate crowdin bookshop_first_96206b06:
+msgid "[_cedrick_sprite_] Древняя книга с кодом чести, руководствами и другой полезной информацией для героев. Книга обладает большой силой, и с ее помощью вы можете создавать дыры в мультивселенной ..."
+msgstr "[_cedrick_sprite_] Enchiridion. An ancient book with a code of honor, guidance and other useful information for the characters. The book has great power, and with its help you can create holes in the multiverse..."
+
+# game/scripts/bookshop/bookshop_first.rpy:55 #-#-# translate crowdin bookshop_first_76bc132a:
+msgid "[_cedrick_sprite_] Слишком много слов.. Одним словом бесполезная книга..."
+msgstr "[_cedrick_sprite_] A lot of letters, boring..."
+
+# game/scripts/bookshop/bookshop_first.rpy:58 #-#-# translate crowdin bookshop_first_6c0936dd:
+msgid "[_cedrick_sprite_] Статуэтка черепахи мутанта, похожа на тех вонючих воришек называющих себя контрабандистами с Меридиана."
+msgstr "[_cedrick_sprite_] A figurine of a mutant turtle, looks similar to the smelly thieving smugglers from Meridian."
+
+# game/scripts/bookshop/bookshop_first.rpy:61 #-#-# translate crowdin bookshop_first_ae9ed8fb:
+msgid "[_cedrick_sprite_] Первая книга из серии {i}Песнь пламени и льда{/i}, автор Дж. Мортин"
+msgstr "[_cedrick_sprite_] The first book from the series  {i}The Song of Flame and Ice{/i}, by J. Mortin"
+
+# game/scripts/bookshop/bookshop_first.rpy:64 #-#-# translate crowdin bookshop_first_59b43306:
+msgid "[_cedrick_sprite_] Звезда трибы, она должна привести ко мне наследницу трона."
+msgstr "[_cedrick_sprite_] The Star of Threbe, it will attract the heiress to the throne."
+

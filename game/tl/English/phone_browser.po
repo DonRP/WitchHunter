@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/interface/phone/screens/phone_browser.po\n"
+"X-Crowdin-File-ID: 5023\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2022-12-22 22:25\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/interface/phone/screens/phone_browser.rpy:27
+msgid "Купить билеты"
+msgstr ""
+
+# game/scripts/interface/phone/screens/phone_browser.rpy:32
+msgid "Лягушки Пеппа 200$"
+msgstr ""
+
+# game/scripts/interface/phone/screens/phone_browser.rpy:35
+msgid "Провести публичные чтения"
+msgstr ""
+
+# game/scripts/interface/phone/screens/phone_browser.rpy:56
+msgid "Заказать пижаму (300$)"
+msgstr ""
+
+# game/scripts/interface/phone/screens/phone_browser.rpy:61
+msgid "Заказать форму служанки (500$)"
+msgstr ""
+

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestTheMaidsUniformForEyion.po\n"
+"X-Crowdin-File-ID: 4943\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:4
+msgid "Форма служанки для Элион"
+msgstr "Un uniforme de femme de chambre pour Elion"
+
+# game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:16
+msgid "Заказать форму служанки для Элион с помощью телефона"
+msgstr "Commandez un uniforme de bonne pour Elion par téléphone."
+
+# game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:16
+msgid "Дождаться посылки с формой служанки"
+msgstr "Attendre le colis avec l'uniforme de la femme de chambre."
+
+# game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:16
+msgid "Попросить Элион протереть пыль в форме служанки"
+msgstr "Demandez à Elyon d'essuyer la poussière sur l'uniforme de la femme de chambre."
+
+# game/scripts/core/quests/QuestTheMaidsUniformForEyion.rpy:16
+msgid "Попросить Элион провести публичные чтения в форме служанки"
+msgstr "Demander à Elion de faire une lecture publique sous la forme d'une servante"
+

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.po\n"
+"X-Crowdin-File-ID: 5425\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:01\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:6 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_33e12e8d:
+msgid "[_medina_] Добрый вечер"
+msgstr "[_medina_] Bonsoir."
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:11 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_e7c275c3:
+msgid "[_cedrick_] Простите, но мы уже закрыты..."
+msgstr "[_cedrick_] Désolé, mais nous sommes déjà fermés..."
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:12 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_73a967ba:
+msgid "[_maktinen_] У нас к вам всего несколько вопросов"
+msgstr "[_maktinen_] Nous avons juste quelques questions à vous poser"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:13 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_a021f88c:
+msgid "[_medina_] Рик Хоффман, верно?"
+msgstr "[_medina_] Rick Hoffman, c'est ça ?"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:14 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_eb8c8f92:
+msgid "[_cedrick_] Да"
+msgstr "[_cedrick_] Oui"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:15 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_3e673591:
+msgid "[_medina_] Я детектив Медина, а это детектив Мактиннен"
+msgstr "[_medina_] Je suis l'inspecteur Medina, et voici l'inspecteur McTinnen."
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:16 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_83190316:
+msgid "[_medina_] Мы пришли узнать… Когда вы в последний раз видели офицера Лэира?"
+msgstr "[_medina_] Nous sommes ici pour le découvrir… Quand avez-vous vu l'officier Lair pour la dernière fois ?"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:17 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_11aa34fd:
+msgid "[_cedrick_] Лэир, хм... Ах да! Кажется, он заходил какое-то время назад… Расспрашивал что-то о пропаже детей… Но я не помню точно, когда это было..."
+msgstr "[_cedrick_] Lair, hmmm... Oh oui ! Je pense qu'il est venu il y a quelque temps… Il a demandé quelque chose à propos des enfants disparus… Mais je ne me souviens pas exactement quand c'était..."
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:21 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_6597ffb9:
+msgid "[_maktinen_] Офицер Лэир приходил к вам и расспрашивал вас о пропаже Брайана и Алхими Макнайт… С тех пор его никто не видел…"
+msgstr "[_maktinen_] L'officier Laire est venu vous voir et vous a interrogé sur la disparition de Brian et Alchemy McKnight… . Personne ne l'a vu depuis…."
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:25 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_75f5b767:
+msgid "[_medina_] Вы же понимаете, что это выглядит слишком подозрительно… Сначала пропадают двое детей, которые приходили к вам в магазин. Теперь пропал и офицер, который расследовал это дело…"
+msgstr "[_medina_] Vous réalisez que cela semble trop suspect… D'abord, les deux enfants qui venaient dans votre magasin ont disparu. Maintenant, l'officier qui enquêtait sur l'affaire est également porté disparu…"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:26 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_dfb114f8:
+msgid "[_cedrick_] Я бы и рад вам помочь, детективы, честно, но я совершенно ничего не знаю о его пропаже. Я сказал ему, что мне ничего не известно об этих детях. Ко мне в магазин приходят довольно много людей ежедневно… Да, я видел их пару раз в магазине, но на этом все. После этого он ушел…"
+msgstr "[_cedrick_] J'aimerais vous aider, inspecteurs, honnêtement, mais je ne sais absolument rien de sa disparition. Je lui ai dit que je ne savais rien de ces enfants. J'ai pas mal de gens qui viennent dans mon magasin tous les jours… . Oui, je les ai vus dans le magasin une ou deux fois, mais c'est tout. Après cela, il est parti…"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:27 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_12dc6a58:
+msgid "[_medina_] Хм…"
+msgstr "[_medina_] Hm…"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:31 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_8e889f43:
+msgid "[_maktinen_] Ублюдок! Кончай придуриваться и выкладывай все, что знаешь! А не то мы поговорим с тобой уже в участке…"
+msgstr "[_maktinen_] Espèce de salaud ! Arrête de faire l'idiot et dis-nous ce que tu sais ! Ou on te reparlera au poste…"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:37 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_5d947f9f:
+msgid "[_medina_] Пойдем, Джоэл… Скоро мы найдем виновного... Сейчас у нас нету достаточных оснований, чтобы..."
+msgstr "[_medina_] Allez, Joel… Nous trouverons bientôt le coupable... Pour l'instant, nous n'avons pas assez de preuves pour..."
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:41 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_7a3e8106:
+msgid "[_maktinen_] Я слежу за тобой, ничтожество…"
+msgstr "[_maktinen_] Je te regarde, espèce de voyou…"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:45 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_82ee04e8:
+msgid "[_cedrick_] (Фух… Пронесло... Похоже, что у них нету доказательств… Но судя по всему… Ха! Я главный подозреваемый…)"
+msgstr "[_cedrick_] (Ouf… C'est raté... On dirait qu'ils n'ont aucune preuve… Mais d'après ce que l'on voit… Ha ! Je suis le principal suspect…)"
+
+# game/scripts/quests/questNotGuilty/fbi_go_to_bookshop_about_tom_lair.rpy:46 #-#-# translate crowdin fbi_go_to_bookshop_about_tom_lair_1dc146bb:
+msgid "[_cedrick_] (Возможно, Миранда сможет как-нибудь клонировать Тома Лэира для того, чтобы его клон показался в полицейском участке… Нужно поговорить с ней об этом… Хорошо, что я оставил его в живых…)"
+msgstr "[_cedrick_] (Peut-être que Miranda peut cloner Tom Lair pour que son clone se présente au poste de police… Il faut lui en parler… Heureusement que je l'ai gardé en vie…)"
+

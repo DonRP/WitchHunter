@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/blank_shop/blank_shop.po\n"
+"X-Crowdin-File-ID: 4759\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:17\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/blank_shop/blank_shop.rpy:63 #-#-# translate crowdin blank_shop_menu_1f3a1671:
+msgid "[_cedrick_sprite_] Интересно, в твоей семье все притворяются слабоумными?"
+msgstr "[_cedrick_sprite_] Mi chiedo se nella tua famiglia tutti facciano finta di essere ritardati."
+
+# game/scripts/blank_shop/blank_shop.rpy:64 #-#-# translate crowdin blank_shop_menu_2b106eec:
+msgid "[_blankChar_] Бланк не притворяется. Бланк умственно отсталый."
+msgstr "[_blankChar_] Blank non sta fingendo. Blank ha un ritardo mentale."
+
+# §translate crowdin strings: #|#|# # game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Попросить бланка найти билеты на концерт"
+msgstr "Chiedi al modulo per trovare i biglietti per i concerti"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Напомни, что тебе нужно в обмен на билеты"
+msgstr "Ricordatemi cosa vi serve in cambio dei biglietti"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Отдать бланку футболку"
+msgstr "Dare al modulo una maglietta"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Забрать билеты для концерта"
+msgstr "Ritirare i biglietti per il concerto"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Попросить проследить за Найджелом"
+msgstr "Chiedete di seguire Nigel"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Купить кота"
+msgstr "Comprare un gatto"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Поговорить с ним"
+msgstr "Parlare con lui"
+
+# game/scripts/blank_shop/blank_shop.rpy:23
+msgid "Ничего"
+msgstr "Nulla"
+

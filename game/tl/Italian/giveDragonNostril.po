@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/giveDragonNostril.po\n"
+"X-Crowdin-File-ID: 5479\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:29\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/giveDragonNostril.rpy:7 #-#-# translate crowdin giveDragonNostril_edff8098:
+msgid "[_blankChar_] Ты принес фотоаппарат и ноздря дракона?"
+msgstr "[_blankChar_] Hai portato una macchina fotografica e una narice di drago?"
+
+# game/scripts/quests/tarani/giveDragonNostril.rpy:17 #-#-# translate crowdin giveDragonNostril_77755ca5:
+msgid "[_blankChar_] Фотографии будут готовы через несколько дней"
+msgstr "[_blankChar_] Le foto saranno pronte tra qualche giorno"
+
+# game/scripts/quests/tarani/giveDragonNostril.rpy:21 #-#-# translate crowdin giveDragonNostril_33d62163:
+msgid "[_cedrick_] Я в процессе..."
+msgstr "[_cedrick_] Sono in procinto di..."
+

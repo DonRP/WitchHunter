@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.po\n"
+"X-Crowdin-File-ID: 5399\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:28\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:6 #-#-# translate crowdin sex_with_chloe_from_a_brothel_ee043c94:
+msgid "[_cedrick_] Черт, нет, с меня хватит! Сначала гребаный слизняк Рейтер, потом эта ситуация с Алхими, после получения оплеух от Фобоса. И в итоге я хожу и бью толпы морпионов!"
+msgstr "[_cedrick_] Merda, no, ne ho abbastanza! Prima il fottuto lumacone Reiter, poi questa situazione con le Alchimie, dopo essere stati schiaffeggiati da Phobos. E poi finisco per andare in giro a picchiare folle di morpioni!"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:7 #-#-# translate crowdin sex_with_chloe_from_a_brothel_b56d6fcc:
+msgid "[_cedrick_] Я сейчас буквально взорвусь. Мне надо срочно снять напряжение! Может, сходить к Миранде"
+msgstr "[_cedrick_] Sto letteralmente per esplodere. Ho bisogno di rilassarmi in questo momento! Forse dovrei andare da Miranda"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:10 #-#-# translate crowdin sex_with_chloe_from_a_brothel_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:11 #-#-# translate crowdin sex_with_chloe_from_a_brothel_9f7371ad:
+msgid "[_cedrick_] Что? У Миранды закрыто? Да быть не может.. Когда не нужно, она так и липнет к моему члену, но стоит мне захотеть, так у нее закрыто!?"
+msgstr "[_cedrick_] Che c'è? Il negozio di Miranda è chiuso? Non può essere. Quando non devo, si attacca al mio cazzo, ma quando voglio, è chiusa!?"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:12 #-#-# translate crowdin sex_with_chloe_from_a_brothel_f36f02c2:
+msgid "[_cedrick_] ..Точно, есть же тот бордель"
+msgstr "[_cedrick_] ...Giusto, c'è quel bordello"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:13 #-#-# translate crowdin sex_with_chloe_from_a_brothel_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:19 #-#-# translate crowdin sex_with_chloe_from_a_brothel_86a451c2:
+msgid "[_vanessa_] Ох, а вот и ты, Седрик. А я-то уж заждалась, все гадала, когда ты к нам придешь"
+msgstr "[_vanessa_] Oh, eccoti qui, Cedric. Ti ho aspettato, chiedendomi quando saresti venuto a trovarci."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:23 #-#-# translate crowdin sex_with_chloe_from_a_brothel_82089ca5:
+msgid "[_cedrick_] Алхими!? Она сейчас свободна? Мне срочно нужен ее упругий зад"
+msgstr "[_cedrick_] Alchimia!? È disponibile ora? Mi serve subito il suo culo ballonzolante."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:27 #-#-# translate crowdin sex_with_chloe_from_a_brothel_1cbf906e:
+msgid "[_vanessa_] Прости, но нет. Ее упругий зад занят другими важными делами. Бедная девочка, явно не на такую популярность она рассчитывала"
+msgstr "[_vanessa_] Mi dispiace, ma no. Il suo sedere ballonzolante è impegnato a fare altre cose importanti. Povera ragazza, evidentemente non è il tipo di popolarità che sperava di ottenere."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:31 #-#-# translate crowdin sex_with_chloe_from_a_brothel_e3f9b93b:
+msgid "[_vanessa_] Мне приходит даже слишком много денег от довольных клиентов, ее старанию стоит позавидовать"
+msgstr "[_vanessa_] Ricevo persino troppi soldi da clienti soddisfatti, la sua diligenza è invidiabile"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:35 #-#-# translate crowdin sex_with_chloe_from_a_brothel_7f23ada7:
+msgid "[_cedrick_] Не трави меня, Ванесса. Есть у тебя еще кто-то свободный?"
+msgstr "[_cedrick_] Non avvelenarmi, Vanessa. Avete qualcun altro disponibile?"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:39 #-#-# translate crowdin sex_with_chloe_from_a_brothel_8134a1d2:
+msgid "[_vanessa_] Хммм, дай-ка подумать.. Пожалуй, что есть одна. Наш холодный нежный цветок, Хлоя. Она как раз свободна"
+msgstr "[_vanessa_] Hmmm, fammi pensare... Credo che ce ne sia uno. Il nostro freddo e delicato fiore, Chloe. È solo disponibile."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:43 #-#-# translate crowdin sex_with_chloe_from_a_brothel_60d9d7dd:
+msgid "[_cedrick_] Отлично, где она?"
+msgstr "[_cedrick_] Bene, dov'è?"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:47 #-#-# translate crowdin sex_with_chloe_from_a_brothel_8b23b7af:
+msgid "[_vanessa_] Спокойнее, ковбой. Сначала плати, потом катайся сколько хочешь. Есть при себе 100 золотых?"
+msgstr "[_vanessa_] Calma, cowboy. Prima si paga, poi si pedala quanto si vuole. Hai 100 pezzi d'oro con te?"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:54 #-#-# translate crowdin sex_with_chloe_from_a_brothel_742ac15d:
+msgid "[_cedrick_] Вот, держи"
+msgstr "[_cedrick_] Ecco a voi."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:58 #-#-# translate crowdin sex_with_chloe_from_a_brothel_95c8426a:
+msgid "[_vanessa_] Вот, теперь отлично. Она наверху, уже ждет того единственного тебя. Будь с ней помягче, она довольно чувствительна, хоть по ней и не скажешь"
+msgstr "[_vanessa_] Ecco, questo è fantastico. È al piano di sopra, in attesa dell'unico e solo te. Vacci piano con lei, è piuttosto sensibile, ma non si direbbe a guardarla."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:62 #-#-# translate crowdin sex_with_chloe_from_a_brothel_9b5f342f:
+msgid "[_cedrick_] Обязательно.."
+msgstr "[_cedrick_] Io..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:64 #-#-# translate crowdin sex_with_chloe_from_a_brothel_a20cefa7_2:
+msgid "..."
+msgstr "..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:69 #-#-# translate crowdin sex_with_chloe_from_a_brothel_a6e33e0a:
+msgid "[_chloe_] Приветствую тебя, заблудшая душа. Сегодня я та, кто спасет тебя от пустоты"
+msgstr "[_chloe_] Un saluto a te, anima perduta. Oggi sono colui che vi salverà dal vuoto"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:70 #-#-# translate crowdin sex_with_chloe_from_a_brothel_9e251bb7:
+msgid "[_cedrick_] ..Мне сейчас не до этой хрени. Раздевайся"
+msgstr "[_cedrick_] ...non sono dell'umore giusto per queste stronzate, in questo momento. Toglietevi i vestiti"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:74 #-#-# translate crowdin sex_with_chloe_from_a_brothel_4a6945fc:
+msgid "[_chloe_] Как будет удобно.."
+msgstr "[_chloe_] Il più conveniente possibile..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:75 #-#-# translate crowdin sex_with_chloe_from_a_brothel_b71d69a4:
+msgid "[_chloe_] (Какой он напористый.. Что это с ним? Надеюсь, он не будет слишком груб)"
+msgstr "[_chloe_] (Cosa c'è che non va in lui? Spero che non sia troppo scortese)"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:77 #-#-# translate crowdin sex_with_chloe_from_a_brothel_70cfdf98:
+msgid "[_centered_] {size=37}СПУСТЯ КАКОЕ-ТО ВРЕМЯ{/size}"
+msgstr "[_centered_] {TEMPO SIMMARIO{/size}"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:81 #-#-# translate crowdin sex_with_chloe_from_a_brothel_de285007:
+msgid "[_chloe_] Ах.. Н-нет, прекрати.."
+msgstr "[_chloe_] Ah... N-no, fermati..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:82 #-#-# translate crowdin sex_with_chloe_from_a_brothel_00b78f4b:
+msgid "[_chloe_] (Ох черт, да он просто зверь! Я не справляюсь..)"
+msgstr "[_chloe_] (Oh merda, è una bestia! Non ce la faccio...)"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:84 #-#-# translate crowdin sex_with_chloe_from_a_brothel_c51d7824:
+msgid "[_cedrick_] Замолчи и получай удовольствие.. Хотя конкретно сейчас мне плевать, я просто должен выпустить пар!"
+msgstr "[_cedrick_] Zitto e divertiti... Anche se in questo momento non mi interessa, ho solo bisogno di sfogarmi un po'!"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:87 #-#-# translate crowdin sex_with_chloe_from_a_brothel_142fd26c:
+msgid "[_chloe_] Так вот, что это.. Прошу, не толкай так сильно, я.."
+msgstr "[_chloe_] Ecco cos'è questo... Per favore, non spinga così tanto, io..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:88 #-#-# translate crowdin sex_with_chloe_from_a_brothel_de1a9556:
+msgid "[_chloe_] (Я сейчас кончу от такого напора! Почему именно его грубость меня так заводит..)"
+msgstr "[_chloe_] (Sto per sborrare per tutta questa pressione! Perché la sua maleducazione mi eccita...)"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:90 #-#-# translate crowdin sex_with_chloe_from_a_brothel_857a5d60:
+msgid "[_chloe_] (Он не то что проигнорировал мою просьбу, он меня даже сейчас не слушает..)"
+msgstr "[_chloe_] (Non è che abbia ignorato la mia richiesta, ora non mi sta nemmeno ascoltando...)."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:92 #-#-# translate crowdin sex_with_chloe_from_a_brothel_00673792:
+msgid "[_chloe_] Ах.. Я.. Я так близко"
+msgstr "[_chloe_] Ah... Я.. Sono così vicino."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:93 #-#-# translate crowdin sex_with_chloe_from_a_brothel_835d51b1:
+msgid "[_cedrick_] Да, я тоже. Смотрю ты из тех, кто старательно пытается делать вид, что им не нравится"
+msgstr "[_cedrick_] Sì, anch'io. Vedo che sei il tipo di persona che si sforza di fingere che non le piaccia"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:96 #-#-# translate crowdin sex_with_chloe_from_a_brothel_2fd2790c:
+msgid "[_chloe_] Ох, нет, я не.. Перестаньте.. Я.."
+msgstr "[_chloe_] Oh, no, non... Dai, io... Я.."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:97 #-#-# translate crowdin sex_with_chloe_from_a_brothel_1555c63e:
+msgid "[_chloe_] (Я на пределе! Еще немного и я забрызгаю всю кровать..)"
+msgstr "[_chloe_] (Sono al limite! Ancora un po' e mi rovescerò sul letto...)"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:99 #-#-# translate crowdin sex_with_chloe_from_a_brothel_68d84f65:
+msgid "[_cedrick_] Знаешь, это мне напоминает одну девушку, которая к вам недавно устроилась. Отлично, представлю ее на твоем месте"
+msgstr "[_cedrick_] Sai, questo mi ricorda una ragazza che di recente ha accettato un lavoro con te. Bene, la metterò nei tuoi panni."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:102 #-#-# translate crowdin sex_with_chloe_from_a_brothel_c4647349:
+msgid "[_chloe_] Да как вы только можете быть настолько невыносимым.."
+msgstr "[_chloe_] Come puoi essere così insopportabile..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:104 #-#-# translate crowdin sex_with_chloe_from_a_brothel_1591904a:
+msgid "[_chloe_] (О нет, он толкает меня еще сильнее…)"
+msgstr "[_chloe_] (Oh no, mi spinge ancora di più…)"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:106 #-#-# translate crowdin sex_with_chloe_from_a_brothel_105626c7:
+msgid "[_chloe_] Неееет…"
+msgstr "[_chloe_] Noooo…"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:107 #-#-# translate crowdin sex_with_chloe_from_a_brothel_bb039975:
+msgid "[_cedrick_] Я уже близко.."
+msgstr "[_cedrick_] Mi sto avvicinando..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:109 #-#-# translate crowdin sex_with_chloe_from_a_brothel_62004588:
+msgid "[_cedrick_] Черт, получай, чертовка!"
+msgstr "[_cedrick_] Dannazione, prendi questo, diavolo!"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:111 #-#-# translate crowdin sex_with_chloe_from_a_brothel_071e4fb5:
+msgid "[_chloe_] Аввввв.."
+msgstr "[_chloe_] Avvvvv..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:114 #-#-# translate crowdin sex_with_chloe_from_a_brothel_7179d30b:
+msgid "[_chloe_] Как же.. как же.."
+msgstr "[_chloe_] Come mai... come mai..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:116 #-#-# translate crowdin sex_with_chloe_from_a_brothel_de92a3ae:
+msgid "[_chloe_] (хорошо..)"
+msgstr "[_chloe_] (ok...)"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:117 #-#-# translate crowdin sex_with_chloe_from_a_brothel_c524ab2a:
+msgid "[_chloe_] (я не скоро смогу оправиться от этого..)"
+msgstr "[_chloe_] (Non riuscirò a riprendermi presto da questo...)"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:122 #-#-# translate crowdin sex_with_chloe_from_a_brothel_0402c63d:
+msgid "[_cedrick_] Отлично справилась, мне стало легче"
+msgstr "[_cedrick_] Ben fatto, mi ha fatto sentire meglio"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:123 #-#-# translate crowdin sex_with_chloe_from_a_brothel_31f2245f:
+msgid "[_chloe_] Всегда.. рада стараться.."
+msgstr "[_chloe_] Sempre... felice di provare..."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:125 #-#-# translate crowdin sex_with_chloe_from_a_brothel_56c00020:
+msgid "[_cedrick_] (Черт, мне правда стало лучше. Есть силы вырвать железы у каждого гребаного морпиона в этом лесу)"
+msgstr "[_cedrick_] (Merda, mi sento davvero meglio. Ho la forza di strappare le ghiandole a tutti i fottuti idioti di questa zona)."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:128 #-#-# translate crowdin sex_with_chloe_from_a_brothel_8ae9ab09:
+msgid "[_cedrick_] Черт.. Секунду, только схожу за парой золотых"
+msgstr "[_cedrick_] Oh, merda. Un attimo, vado a prendere un paio di pezzi d'oro."
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:129 #-#-# translate crowdin sex_with_chloe_from_a_brothel_41e5889c:
+msgid "[_vanessa_] Удачной охоты, ковбой"
+msgstr "[_vanessa_] Buona caccia, cowboy"
+
+# §translate crowdin strings: #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:49
+msgid "Отдать 100 золотых"
+msgstr "Regalo di 100 pezzi d'oro"
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/sex_with_chloe_from_a_brothel.rpy:49
+msgid "У меня нет с собой золота"
+msgstr "Non ho oro con me"
+

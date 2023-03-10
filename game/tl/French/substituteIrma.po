@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/irma/substituteIrma.po\n"
+"X-Crowdin-File-ID: 5313\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:59\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/irma/substituteIrma.rpy:9 #-#-# translate crowdin substituteIrma_d5b77853:
+msgid "[_cedrick_] (Ирма Лэир.. Одна из стражниц.. Возможно это мой шанс.. Я бы смог подставить и шантажировать ее, подкинув к ней в сумку одну из коллекционных фигурок... К счастью, я избавился от ее отца полицейского, который мог бы ее оправдать...)"
+msgstr "[_cedrick_] (Irma Lair. L'un des gardes... C'est peut-être ma chance... Je pourrais la piéger et la faire chanter en glissant une des figurines de collection dans son sac... Heureusement, je me suis débarrassé de son père policier, qui pourrait la disculper...)"
+

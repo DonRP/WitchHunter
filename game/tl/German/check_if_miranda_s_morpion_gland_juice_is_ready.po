@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.po\n"
+"X-Crowdin-File-ID: 5381\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:44\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:6 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_38abe73f:
+msgid "[_miranda_] Вот, держи. Я добавила стабилизатор и усилитель. Осталось полить им себя и, уж поверь, Королева Морпионов быстро тебя найдет"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:10 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_4968b817:
+msgid "[_cedrick_] Жду не дождусь.."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:14 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_4c1dd921:
+msgid "[_miranda_] Будь осторожнее, Седрик. Это довольно опасная тварь"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:18 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_d0ecbba6:
+msgid "[_cedrick_] Я справлюсь. Если что, твои зелья меня выручат, как всегда"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:22 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_cf4d23a1:
+msgid "[_miranda_] Ох, не уж то сказал мне что-то приятное?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:23 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_5f250661:
+msgid "[_cedrick_] ..Я пойду"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_if_miranda_s_morpion_gland_juice_is_ready.rpy:27 #-#-# translate crowdin check_if_miranda_s_morpion_gland_juice_is_ready_edcc4f4f:
+msgid "[_miranda_] С-скорее возвращайся.."
+msgstr ""
+

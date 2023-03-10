@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/core/quests/QuestGetConcertTickets.po\n"
+"X-Crowdin-File-ID: 4901\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 06:53\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/core/quests/QuestGetConcertTickets.rpy:3
+msgid "Музыкальная группа Сортирный союз"
+msgstr "Le groupe de musique Sortie Union"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Достать билеты на концерт Сортирного союза (по телефону либо в магазине Wall mart)"
+msgstr "Obtenir des billets pour le concert de l'Union des Branleurs (par téléphone ou à la boutique Wall mart)"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Попросить Бланка достать билеты на концерт"
+msgstr "Demander à Blank d'obtenir des billets de concert"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Добыть футболку для Бланка"
+msgstr "Obtention d'un T-shirt pour Blank"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Отдать футболку Бланку"
+msgstr "Pour donner le T-shirt à Blank"
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Дождаться когда Бланк добудет билеты и забрать их"
+msgstr "Attendez que Blank obtienne les billets et récupérez-les."
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Позвать Корнелию на концерт когда она заглянет в Букшоп"
+msgstr "Appelez Cornelia pour un concert lorsqu'elle s'arrêtera à la librairie."
+
+# game/scripts/core/quests/QuestGetConcertTickets.rpy:22
+msgid "Сходить на концерт с Корнелией вечером, дождавшись ее в Букшопе"
+msgstr "Aller à un concert avec Cornelia le soir, en l'attendant à la librairie."
+

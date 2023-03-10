@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/nigelFate.po\n"
+"X-Crowdin-File-ID: 5491\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:29\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/nigelFate.rpy:6 #-#-# translate crowdin nigelFate_b6f37c68:
+msgid "[_cedrick_] (Полиция? Черт, надеюсь они не за мной приехали..)"
+msgstr "[_cedrick_] (La polizia? Merda, spero che non mi stiano inseguendo...)."
+
+# game/scripts/quests/tarani/nigelFate.rpy:9 #-#-# translate crowdin nigelFate_bcbc1ac3:
+msgid "[_directris_] Профессор Хоффман!.. Рик!.."
+msgstr "[_directris_] Professor Hoffman! Rick...!"
+
+# game/scripts/quests/tarani/nigelFate.rpy:10 #-#-# translate crowdin nigelFate_3aafc97e:
+msgid "[_cedrick_] Что произошло!? Почему здесь так много полиции!?"
+msgstr "[_cedrick_] Che cosa è successo? Perché c'è così tanta polizia qui!?"
+
+# game/scripts/quests/tarani/nigelFate.rpy:14 #-#-# translate crowdin nigelFate_6fdaefbc:
+msgid "[_directris_] Это ужасно... Один из учеников..."
+msgstr "[_directris_] E' orribile... Uno degli studenti..."
+
+# game/scripts/quests/tarani/nigelFate.rpy:15 #-#-# translate crowdin nigelFate_76f3aa02:
+msgid "[_directris_] Покончил с собой..."
+msgstr "[_directris_] Si è ucciso..."
+
+# game/scripts/quests/tarani/nigelFate.rpy:16 #-#-# translate crowdin nigelFate_2937090b:
+msgid "[_cedrick_] Покончил!? Но кто?"
+msgstr "[_cedrick_] Fatto!? Ma da chi?"
+
+# game/scripts/quests/tarani/nigelFate.rpy:20 #-#-# translate crowdin nigelFate_4c8c9480:
+msgid "[_directris_] Кажется, это Найджел... Найджел Эшкрофт..."
+msgstr "[_directris_] Credo che sia Nigel... Nigel Ashcroft..."
+
+# game/scripts/quests/tarani/nigelFate.rpy:23 #-#-# translate crowdin nigelFate_02cd00a1:
+msgid "[_cedrick_] (Ясно.. Пацан выбрал самый быстрый пусть. Туда ему и дорога)"
+msgstr "[_cedrick_] (Capisco... Il ragazzo ha scelto il più veloce. Che liberazione!)"
+
+# game/scripts/quests/tarani/nigelFate.rpy:27 #-#-# translate crowdin nigelFate_bffba04b:
+msgid "[_cedrick_] (Полиция? Видимо решили накрыть Найджела прямо в школе.. Идиоты)"
+msgstr "[_cedrick_] (La polizia? A quanto pare, ha deciso di arrestare Nigel proprio nella scuola... Idioti)."
+
+# game/scripts/quests/tarani/nigelFate.rpy:30 #-#-# translate crowdin nigelFate_bcbc1ac3_1:
+msgid "[_directris_] Профессор Хоффман!.. Рик!.."
+msgstr "[_directris_] Professor Hoffman! Rick...!"
+
+# game/scripts/quests/tarani/nigelFate.rpy:31 #-#-# translate crowdin nigelFate_b16dfbc2:
+msgid "[_cedrick_] Что произошло!? Почему здесь полиция!? Ученики впорядке!?"
+msgstr "[_cedrick_] Che cosa è successo? Perché la polizia è qui? Gli alunni stanno bene?"
+
+# game/scripts/quests/tarani/nigelFate.rpy:35 #-#-# translate crowdin nigelFate_6fdaefbc_1:
+msgid "[_directris_] Это ужасно... Один из учеников..."
+msgstr "[_directris_] E' orribile... Uno degli studenti..."
+
+# game/scripts/quests/tarani/nigelFate.rpy:36 #-#-# translate crowdin nigelFate_3aa6e3a1:
+msgid "[_directris_] Видимо... Он был замешан в недавних вооруженных ограблениях.. Полиция приехала его задержать"
+msgstr "[_directris_] A quanto pare... È stato coinvolto in una recente rapina a mano armata... La polizia è venuta ad arrestarlo"
+
+# game/scripts/quests/tarani/nigelFate.rpy:38 #-#-# translate crowdin nigelFate_5ba5a63d:
+msgid "[_cedrick_] Вооруженных ограблениях? Но кто из наших учеников мог участвовать в подобном?!"
+msgstr "[_cedrick_] Rapine a mano armata? Ma chi dei nostri studenti potrebbe essere coinvolto in una cosa del genere?!"
+
+# game/scripts/quests/tarani/nigelFate.rpy:42 #-#-# translate crowdin nigelFate_4c8c9480_1:
+msgid "[_directris_] Кажется, это Найджел... Найджел Эшкрофт..."
+msgstr "[_directris_] Credo che sia Nigel... Nigel Ashcroft..."
+
+# game/scripts/quests/tarani/nigelFate.rpy:43 #-#-# translate crowdin nigelFate_6d514c95:
+msgid "[_cedrick_] Я знал, что у Найджела тяжелый нрав, но... Я никогда не мог бы подумать, что он решится на подобные преступления.."
+msgstr "[_cedrick_] Sapevo che Nigel aveva un carattere difficile, ma... Non avrei mai pensato che avrebbe osato commettere tali crimini..."
+
+# game/scripts/quests/tarani/nigelFate.rpy:44 #-#-# translate crowdin nigelFate_fb60263c:
+msgid "[_cedrick_] Может, если бы я уделил ему больше внимания и старался научить полезным вещам, а не рассказывал истории про Гитлера и Сталина... Он не стал бы таким.."
+msgstr "[_cedrick_] Forse se gli avessi prestato più attenzione e avessi cercato di insegnargli cose utili invece di raccontargli storie su Hitler e Stalin... Non sarebbe così..."
+
+# game/scripts/quests/tarani/nigelFate.rpy:48 #-#-# translate crowdin nigelFate_cf8df986:
+msgid "[_directris_] Вы не виноваты, Профессор Хоффман.. Вы просто делали свою работу.. Никто из нас не мог знать, что такое случиться.."
+msgstr "[_directris_] Non è colpa sua, professor Hoffman. Stavi solo facendo il tuo lavoro. Nessuno di noi poteva sapere che sarebbe successo."
+
+# game/scripts/quests/tarani/nigelFate.rpy:50 #-#-# translate crowdin nigelFate_f33b9041:
+msgid "[_cedrick_] (Да, кончено. Никто не мог..)"
+msgstr "[_cedrick_] (Sì, certo. Nessuno potrebbe...)"
+

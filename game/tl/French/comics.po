@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/sell_books_game/books/comics.po\n"
+"X-Crowdin-File-ID: 5601\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2023-02-17 07:04\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # §translate crowdin strings: #|#|# # game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Хранители"
+msgstr "Gardiens"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "ДиСи Комикс"
+msgstr "DC Comics"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Бэтмен Возвращение темного рыцаря"
+msgstr "Le retour de Batman, le chevalier noir"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Бетмен"
+msgstr "Batman"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Тетрадь смерти"
+msgstr "Cahier de la mort"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Бакуман"
+msgstr "Bakuman"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Призрак в доспехах"
+msgstr "Un fantôme en armure"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Пастырь"
+msgstr "Shepherd"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Вертиго"
+msgstr "Vertigo"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Скот пилигрим"
+msgstr "Pèlerin du bétail"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Они Пресс"
+msgstr "Ils pressent"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Ванпанчмен"
+msgstr "Wanpunchman"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "зеленый фонарь"
+msgstr "feu vert"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Зеленый фонарь"
+msgstr "Green Lantern"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Новые Люди Икс"
+msgstr "Les nouveaux X-Men"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Люди Икс"
+msgstr "X-Men"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Марвел"
+msgstr "Marvel"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Удивительный Человек-паук"
+msgstr "The Amazing Spider-Man"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Человек-паук"
+msgstr "Spider-Man"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Совершенный Человек-Паук"
+msgstr "Perfect Spider-Man"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Сказания"
+msgstr "Contes"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Блич"
+msgstr "Eau de Javel"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Сорвиголова"
+msgstr "Daredevil"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Хеллбой"
+msgstr "Hellboy"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Хелбой"
+msgstr "Helboy"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Dark Horse"
+msgstr "Dark Horse"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Наруто… Саскеее!"
+msgstr "Naruto… Sasukee !"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Фантастическая четверка"
+msgstr "Les Quatre Fantastiques"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Капитан америка"
+msgstr "Captain America"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid " Супермен: Красный Сын"
+msgstr " Superman : Red Son"
+
+# game/scripts/sell_books_game/books/comics.rpy:2
+msgid "Супермен"
+msgstr "Superman"
+

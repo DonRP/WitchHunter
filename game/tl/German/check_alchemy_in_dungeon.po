@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.po\n"
+"X-Crowdin-File-ID: 5379\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2023-02-19 09:44\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:6 #-#-# translate crowdin check_alchemy_in_dungeon_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:8 #-#-# translate crowdin check_alchemy_in_dungeon_d06c62d6:
+msgid "[_raythor_] Ну же, Алхими, давай сделаем это!"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:9 #-#-# translate crowdin check_alchemy_in_dungeon_acf5b848:
+msgid "[_alchemy_] Р-Рeйтер!? Я благодарна за то, что ты присматривал за мной, н-но это не значит.. не значит, что я должна сосать твой член!!"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:10 #-#-# translate crowdin check_alchemy_in_dungeon_7f639c59:
+msgid "[_raythor_] И это после всего, что я для тебя сделал? Ты бы уже давно померла с голоду, если бы не.."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:12 #-#-# translate crowdin check_alchemy_in_dungeon_1caba2a2:
+msgid "[_cedrick_] ..Ну и что здесь происходит?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:14 #-#-# translate crowdin check_alchemy_in_dungeon_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:16 #-#-# translate crowdin check_alchemy_in_dungeon_4c3e9c16:
+msgid "[_cedrick_] (Черт, так и знал, что это произойдет. Девчонка жива, но Рейтер нашел ее раньше, чем я смог упрятать ее понадежнее)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:17 #-#-# translate crowdin check_alchemy_in_dungeon_52bb8b38:
+msgid "[_cedrick_] (Даже будучи главнокомандующим, он продолжает лично проводить обход камер, ну что за глупец...)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:18 #-#-# translate crowdin check_alchemy_in_dungeon_f278b0b3:
+msgid "[_cedrick_] (Хм.. Если он поймет, что Алхими заточена здесь из-за моей оплошности, тогда мне несдобровать. Фобос не должен узнать, что на Земле у меня не все идет гладко)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:25 #-#-# translate crowdin check_alchemy_in_dungeon_9332bb15:
+msgid "[_cedrick_] (Я должен грамотно разыграть карты, чтобы выпутаться из этой ситуации..)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:29 #-#-# translate crowdin check_alchemy_in_dungeon_70aef1d3:
+msgid "[_raythor_] А ты еще кто тако.. С-седрик!? Черт, я едва тебя узнал, что за лохмотья на тебе?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:33 #-#-# translate crowdin check_alchemy_in_dungeon_e2650847:
+msgid "[_cedrick_] Это мое людское прикрытие на Земле. Но, что куда важнее, Рeйтер, ты что, пытаешься изнасиловать мою пленницу?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:37 #-#-# translate crowdin check_alchemy_in_dungeon_ef3f274c:
+msgid "[_raythor_] Твою? Черт, стоило догадаться по описанию Алхими, что речь шла о тебе"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:41 #-#-# translate crowdin check_alchemy_in_dungeon_2170a8bc:
+msgid "[_cedrick_] Да, вот только умом ты как всегда не блещешь"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:45 #-#-# translate crowdin check_alchemy_in_dungeon_6a0752d2:
+msgid "[_raythor_] Да и кто еще мог притащить сюда земную девку. Как она вообще здесь оказалась?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:49 #-#-# translate crowdin check_alchemy_in_dungeon_1a1f98d9:
+msgid "[_cedrick_] (Черт, я должен что-то придумать. Если он узнает, что эта девчонка просто пробралась через мой портал в книжном магазине, тогда Рейтер с радостью доложит об этом Фобосу, ссылаясь на мою некомпетентность..)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:50 #-#-# translate crowdin check_alchemy_in_dungeon_e47bea8b:
+msgid "[_cedrick_] (Сказать, что Алхими – моя игрушка для плотских утех?)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:51 #-#-# translate crowdin check_alchemy_in_dungeon_9a218220:
+msgid "[_cedrick_] (Нет.. Тогда это будет выглядеть так, словно я тут развлекаюсь, пока Фобос теряет остатки своих сил)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:52 #-#-# translate crowdin check_alchemy_in_dungeon_4f36b4d2:
+msgid "[_cedrick_] (На это Рейтер надавит с еще большим удовольствием, а Фобос после этого точно заберет у меня остатки магических сил)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:53 #-#-# translate crowdin check_alchemy_in_dungeon_d1c6253b:
+msgid "[_cedrick_] (Постой-ка.. Земная девушка - игрушка для плотских утех? Кажется, я кое-что придумал)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:54 #-#-# translate crowdin check_alchemy_in_dungeon_a1f35557:
+msgid "[_cedrick_] Эта девушка – мое подношение Князю Фобосу. А ты тычешь в нее своим членом, Рейтер."
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:58 #-#-# translate crowdin check_alchemy_in_dungeon_4d738521:
+msgid "[_raythor_] Что, серьезно?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:62 #-#-# translate crowdin check_alchemy_in_dungeon_a837836d:
+msgid "[_raythor_] Ну, я не знал. Наверное, не стоило держать ее в темнице, раз это подарок Фобосу"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:66 #-#-# translate crowdin check_alchemy_in_dungeon_1409d8c0:
+msgid "[_cedrick_] Это были временные меры"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:70 #-#-# translate crowdin check_alchemy_in_dungeon_55995c88:
+msgid "[_raythor_] Ох, правда? Ладно, это не мое дело"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:74 #-#-# translate crowdin check_alchemy_in_dungeon_5bff7de1:
+msgid "[_cedrick_] (Отлично, он поверил. Правда, теперь придется вести ее к Фобосу. А вести переговоры с ним будет совсем не так легко, как с дубиной Рейтером..)"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:79 #-#-# translate crowdin check_alchemy_in_dungeon_43601186:
+msgid "[_cedrick_] Просто отдай мне девчонку и мы пойдем"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:87 #-#-# translate crowdin check_alchemy_in_dungeon_87cc9c97:
+msgid "[_alchemy_] Н-нет, не надо. Я не хочу никуда идти!"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:95 #-#-# translate crowdin check_alchemy_in_dungeon_66ef5dca:
+msgid "[_raythor_] Кхм.. Кстати, Седрик, что с тобой? Не важно выглядишь, сказывается отсутствие половины магических сил?"
+msgstr ""
+
+# game/scripts/quests/preparingAlchemyForPrincePhobos/check_alchemy_in_dungeon.rpy:99 #-#-# translate crowdin check_alchemy_in_dungeon_9898dc61:
+msgid "[_raythor_] Смотрю после понижения по службе дела у тебя совсем плохи. Может, я сам отведу девушку? Не волнуйся, я передам Лорду Фобосу, что она от тебя"
+msgstr ""
+

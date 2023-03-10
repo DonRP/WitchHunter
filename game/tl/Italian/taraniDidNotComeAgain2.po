@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/tarani/taraniDidNotComeAgain2.po\n"
+"X-Crowdin-File-ID: 5501\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:29\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/tarani/taraniDidNotComeAgain2.rpy:8 #-#-# translate crowdin taraniDidNotComeAgain2_865c156a:
+msgid "[_cedrick_] Приветствую всех! Сегодня мы приступим к изучению новой темы!"
+msgstr "[_cedrick_] Un saluto a tutti! Oggi studieremo un nuovo argomento!"
+
+# game/scripts/quests/tarani/taraniDidNotComeAgain2.rpy:11 #-#-# translate crowdin taraniDidNotComeAgain2_d7e5b68f:
+msgid "[_cedrick_] (Тарани опять не пришла в школу… Надо бы ее навестить..)"
+msgstr "[_cedrick_] (Tarani non è più venuta a scuola… Dovremmo farle visita...)"
+

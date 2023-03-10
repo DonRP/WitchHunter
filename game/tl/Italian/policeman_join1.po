@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: witch-hunter\n"
+"X-Crowdin-Project-ID: 557133\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /[DonRP.WitchHunter] main/game/tl/crowdin/scripts/quests/joiningsAfterMissingBryan/policeman_join1.po\n"
+"X-Crowdin-File-ID: 5325\n"
+"Project-Id-Version: witch-hunter\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-01-16 21:26\n"
+
+# TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:10 #-#-# translate crowdin policeman_join1_baeae049:
+msgid "[_tomlair_] Добрый вечер."
+msgstr "[_tomlair_] Buona sera."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:11 #-#-# translate crowdin policeman_join1_cf91d5f2:
+msgid "[_cedrick_sprite_] Добрый, что вы здесь делаете в столь позднее время? Я собираюсь закрываться.."
+msgstr "[_cedrick_sprite_] Gentilmente, cosa ci fa qui a quest'ora tarda? Sto per chiudere..."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:12 #-#-# translate crowdin policeman_join1_a607838e:
+msgid "[_tomlair_] Прошу прощения за столь поздний визит... Меня зовут Том Лэир, я офицер полиции.."
+msgstr "[_tomlair_] Mi scuso per questa visita tardiva... Mi chiamo Tom Lair, sono un agente di polizia..."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:13 #-#-# translate crowdin policeman_join1_f1a42b5e:
+msgid "[_tomlair_] Недавно в городе пропал мальчик, его зовут Брайан Макнайт, вы знаете что-нибудь об этом?"
+msgstr "[_tomlair_] Di recente è scomparso un ragazzo in città, il suo nome è Brian McKnight, ne sa qualcosa?"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:14 #-#-# translate crowdin policeman_join1_978ece22:
+msgid "[_cedrick_sprite_] Впервые слышу.."
+msgstr "[_cedrick_sprite_] Questa è la prima volta che sento..."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:15 #-#-# translate crowdin policeman_join1_3e38f4e1:
+msgid "[_tomlair_] Один из граждан сообщил, что незадолго до своей пропажи, мальчик посещал этот магазин."
+msgstr "[_tomlair_] Un cittadino ha raccontato che poco prima della sua scomparsa, il ragazzo aveva visitato il negozio."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:16 #-#-# translate crowdin policeman_join1_645b7301:
+msgid "[_tomlair_] Рыжеволосый мальчик, рост примерно 165, зеленая толстовка..."
+msgstr "[_tomlair_] Ragazzo con i capelli rossi, alto circa 165, felpa verde..."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:17 #-#-# translate crowdin policeman_join1_98306e7f:
+msgid "[_cedrick_sprite_] Здесь довольно много посетителей, я не могу всех запомнить"
+msgstr "[_cedrick_sprite_] Ci sono molti visitatori qui, non riesco a ricordarli tutti."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:23 #-#-# translate crowdin policeman_join1_cdf3d846:
+msgid "[_tomlair_] Вы уверены?"
+msgstr "[_tomlair_] Sei sicuro?"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:24 #-#-# translate crowdin policeman_join1_763bbcad:
+msgid "[_cedrick_sprite_] Абсолютно."
+msgstr "[_cedrick_sprite_] Assolutamente sì."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:30 #-#-# translate crowdin policeman_join1_55602bc8:
+msgid "[_tomlair_] Кстати, а где Бернард?"
+msgstr "[_tomlair_] A proposito, dov'è Bernard?"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:31 #-#-# translate crowdin policeman_join1_23689386:
+msgid "[_cedrick_sprite_] Бернард?"
+msgstr "[_cedrick_sprite_] Bernard?"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:37 #-#-# translate crowdin policeman_join1_efe32efe:
+msgid "[_tomlair_] Бернард Блэк, владелец магазина..."
+msgstr "[_tomlair_] Bernard Black, proprietario del negozio..."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:38 #-#-# translate crowdin policeman_join1_5a2ec326:
+msgid "[_cedrick_sprite_] Ах да, дело в том, что недавно я купил этот магазин, теперь я новый владелец"
+msgstr "[_cedrick_sprite_] Oh sì, il fatto è che ho comprato questo negozio da poco, ora sono il nuovo proprietario"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:39 #-#-# translate crowdin policeman_join1_15c49f2c:
+msgid "[_tomlair_] Странно... Он не говорил о том, что собирается его продавать"
+msgstr "[_tomlair_] Strano... Non ha detto che l'avrebbe venduta..."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:40 #-#-# translate crowdin policeman_join1_4d10713b:
+msgid "[_cedrick_sprite_] Да, но у него внезапно подкосило здоровье, знаете как это бывает, старость не радость"
+msgstr "[_cedrick_sprite_] Sì, ma la sua salute è stata improvvisamente colpita, sapete com'è, la vecchiaia non è divertente."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:41 #-#-# translate crowdin policeman_join1_497bba12:
+msgid "[_tomlair_]  И где сейчас находится предыдущий владелец?"
+msgstr "[_tomlair_]  E dov'è ora il precedente proprietario?"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:42 #-#-# translate crowdin policeman_join1_0918c250:
+msgid "[_cedrick_sprite_] Не имею ни малейшего понятия"
+msgstr "[_cedrick_sprite_] Non ho la più pallida idea"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:43 #-#-# translate crowdin policeman_join1_95ee157f:
+msgid "[_tomlair_] Хм.. Я могу посмотреть на документы владением магазина?"
+msgstr "[_tomlair_] Ehm... Posso vedere i documenti di proprietà del negozio?"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:44 #-#-# translate crowdin policeman_join1_528ef165:
+msgid "[_cedrick_sprite_] Эм знаете, они еще не готовы.. И думаю, что я не обязан показывать их вам. У вас нету ордера или чего-то там еще... "
+msgstr "[_cedrick_sprite_] Non sono ancora pronti. E non credo di doverveli mostrare. Non hai un mandato o altro... "
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:45 #-#-# translate crowdin policeman_join1_6f089daf:
+msgid "[_tomlair_] Не обязаны.. Но эта ситуация с продажей магазина выглядит довольно подозрительно, мы могли бы избежать недопонимания..."
+msgstr "[_tomlair_] Non dobbiamo... Ma questa situazione con la vendita del negozio sembra piuttosto sospetta, avremmo potuto evitare un malinteso..."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:46 #-#-# translate crowdin policeman_join1_8a6bce07:
+msgid "[_cedrick_sprite_] Тем не менее.. Я не собираюсь показывать вам документы, пока в этом не возникнет необходимость.."
+msgstr "[_cedrick_sprite_] Tuttavia... Non vi mostrerò i documenti fino a quando non dovrò..."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:47 #-#-# translate crowdin policeman_join1_addbd8ea:
+msgid "[_tomlair_] Ну раз так.. я вас понял. Если у вас появятся какие-либо сведения о пропавшем мальчике, прошу, незамедлительно сообщите в департамент полиции."
+msgstr "[_tomlair_] Quindi... ti capisco. Se avete informazioni sul ragazzo scomparso, siete pregati di informare immediatamente il dipartimento di polizia."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:48 #-#-# translate crowdin policeman_join1_5becdc2e:
+msgid "[_cedrick_sprite_] Как скажете, офицер"
+msgstr "[_cedrick_sprite_] Come vuole lei, agente"
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:49 #-#-# translate crowdin policeman_join1_50594c16:
+msgid "[_tomlair_] До свидания."
+msgstr "[_tomlair_] Addio."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:50 #-#-# translate crowdin policeman_join1_85f4b3da:
+msgid "[_cedrick_sprite_] И вам всего хорошего."
+msgstr "[_cedrick_sprite_] Auguri anche a voi."
+
+# game/scripts/quests/joiningsAfterMissingBryan/policeman_join1.rpy:54 #-#-# translate crowdin policeman_join1_99534c08:
+msgid "[_cedrick_sprite_] (Кажется, что он меня подозревает.. Нужно быть осторожнее.. Если он снова начнет выяснять о пропаже владельца возможно придется от него избавится...)"
+msgstr "[_cedrick_sprite_] (Sembra che sia sospettoso nei miei confronti... Dobbiamo stare attenti... Se ricomincia a scoprire il proprietario scomparso, forse dovrò sbarazzarmi di lui...)."
+
