@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-02-26 19:23\n"
+"PO-Revision-Date: 2023-03-10 10:06\n"
 
 # TODO: Translation updated at 2022-12-22 01:40 #|#|# # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:6 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_77013e39:
 msgid "[_johnlin_] Рик! Привет! Снова пришел поработать?"
@@ -22,23 +22,23 @@ msgstr "[_cedrick_] Non, je ne peux pas vous aider aujourd'hui, je suis désolé
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:11 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_4c5684aa:
 msgid "[_johnlin_] Оу, понятно... Ну, проходи! Она у себя в комнате..."
-msgstr ""
+msgstr "[_johnlin_] Oh, je vois... Eh bien, voyons ! Elle est dans sa chambre..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:17 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_25b8426d:
 msgid "[_haylin_] Ты принес лекарство? Моей бабушке опять становится хуже..."
-msgstr ""
+msgstr "[_haylin_] Avez-vous apporté les médicaments ? L'état de ma grand-mère empire à nouveau..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:21 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_00cba5f4:
 msgid "[_cedrick_] Ага, принес... Чего это ты сегодня так нарядилась? Специально для меня?"
-msgstr ""
+msgstr "[_cedrick_] Oui, je l'ai fait... Pourquoi es-tu habillé aujourd'hui ? Spécialement pour moi ?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:25 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_c4c85296:
 msgid "[_haylin_] Сегодня 'Цинмин' — это народный праздник, который отмечается на 108 день после зимнего солнцестояния..."
-msgstr ""
+msgstr "[_haylin_] Aujourd'hui, 'Qingming' - est une fête folklorique célébrée le 108e jour après le solstice d'hiver..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:29 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_ba1614a0:
 msgid "[_cedrick_] Понятно... У меня сегодня тоже кое-что стоит, хе-хе..."
-msgstr ""
+msgstr "[_cedrick_] Je vois... J'ai aussi quelque chose à faire aujourd'hui, hehe..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:30 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_a20cefa7:
 msgid "..."
@@ -46,35 +46,35 @@ msgstr "..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:31 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_e4f9c089:
 msgid "[_cedrick_] Ну что ж... Приступим..."
-msgstr ""
+msgstr "[_cedrick_] Eh bien... Nous y voilà..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:32 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_4c312d8c:
 msgid "[_cedrick_] Снимай юбку и повернись..."
-msgstr ""
+msgstr "[_cedrick_] Enlève ta jupe et tourne-toi..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:36 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_e667b45f:
 msgid "[_haylin_] Подожди! Сперва отдай мне зелье!"
-msgstr ""
+msgstr "[_haylin_] Attendez ! Donnez-moi d'abord la potion !"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:37 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_f1878e9a:
 msgid "[_cedrick_] Ну уж нет..."
-msgstr ""
+msgstr "[_cedrick_] Pas question..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:41 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_a4caf49e:
 msgid "[_haylin_] Ну так не честно! Дай мне сначала зелье..."
-msgstr ""
+msgstr "[_haylin_] Ce n'est pas juste ! Donnez-moi d'abord la potion..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:45 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_6149be40:
 msgid "[_cedrick_] Здесь я ставлю условия! Сперва я тебя трахну и только потом ты получишь лекарство... Если ты, конечно, хочешь, чтобы твоя бабушка осталась жива... А ведь я могу все вылить, смотри..."
-msgstr ""
+msgstr "[_cedrick_] C'est ici que je fixe les conditions ! Je vais d'abord te baiser et ensuite tu auras tes médicaments... Sauf si vous souhaitez que votre grand-mère reste en vie... Et je peux tout déverser, regarder..."
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:49 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_39f682ad:
 msgid "[_haylin_] Стой, подожди! Я согласна!"
-msgstr ""
+msgstr "[_haylin_] Attendez, attendez ! Je suis d'accord !"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:53 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_fefa6166:
 msgid "[_haylin_] Но почему ты это делаешь? Зачем я тебе?"
-msgstr ""
+msgstr "[_haylin_] Mais pourquoi faites-vous cela ? Pourquoi avez-vous besoin de moi ?"
 
 # game/scripts/quests/haylin/ql_hayLin_give_potion_to_yan_lin_1.rpy:57 #-#-# translate crowdin ql_hayLin_give_potion_to_yan_lin_1_9e046424:
 msgid "[_cedrick_] Это не так важно... Можешь считать, что это мои инстинкты... Тем более сегодня праздник, так?"
